@@ -21,3 +21,4 @@ The file name of the RAR files is composed as follows:
 - WW_			=	Worldwide
 - SMALL_		=	all other Countries
 - 202004100912	=	Creation date (YYYYMMDDhhnn)
+
