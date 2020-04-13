@@ -2,6 +2,8 @@
 
 The file name of the CSV files is composed as follows:
 
+Example: RT90_DACH_alternate_202004100912.rar
+
 - RT90_			=	Device
 - DACH_			=	Country
 - alternate		=	Version

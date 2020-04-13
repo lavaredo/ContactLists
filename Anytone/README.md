@@ -2,6 +2,8 @@
 
 The file name of the CSV files is composed as follows:
 
+Example: 578_8x8_DACH_alternate_202004100912.rar
+
 - 578_8x8_		=	Device
 - DACH_			=	Country
 - alternate		=	Version
