@@ -2,7 +2,7 @@
 
 The file name of the CSV files is composed as follows:
 
-Example: 578_8x8_DACH_alternate_202004100912.rar
+Example: 578_8x8_DACH_alternate.csv
 
 - 578_8x8_		=	Device
 - DACH_			=	Country
@@ -11,7 +11,6 @@ Example: 578_8x8_DACH_alternate_202004100912.rar
 There are also a number of pictures in this path.
 The images show the differences between the individual versions of the lists, whereby the differences relate exclusively to the display. 
 The dataset is identical!
-
 
 The countries are:
 
@@ -22,8 +21,9 @@ The countries are:
 - IT-HB..		=	only Italy, Switzerland, San Marino and Malta
 - WW			=	worldwide
 
-
 The file name of the RAR files is composed as follows:
+
+Example: 578_8x8_DACH_alternate_202004100912.rar
 
 - 578_8x8_		=	Device
 - WW_			=	Worldwide
