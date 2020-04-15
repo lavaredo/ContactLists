@@ -9,6 +9,8 @@ Public group for publishing DMR user lists for various radios such as
 - Tytera MD380/MD390
 - and more ...
 
+*Please read the README.MD in the directories!*
+
 
 Suggestions/bug reports please to 
 - Telegram: @dc9al
