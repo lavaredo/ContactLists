@@ -60,6 +60,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2020059,SY3DEM,no_name,no_name,no_city,.,GRC
 2020060,SV8JNW,Dimitrios Vosnakis,Dimitrios,Lesvos Island,.,GRC
 2020061,SV2BLF,Fotis,Fotis,Veria,.,GRC
+2020062,SV2CLU,no_name,no_name,no_city,.,GRC
+2020063,SY1DGC,no_name,no_name,no_city,.,GRC
 2021001,SV1BYK,Babis Kappatos,Babis,Athens,Attica,GRC
 2021002,SV1PDW,Ioannis Barbat-Soskos,Ioannis,Athens,Attica,GRC
 2021003,SV1IW,Emmanouel Darkadakis,Emmanouel,Athens,Attica,GRC
@@ -5456,6 +5458,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080416,F1LVT,no_name,no_name,no_city,.,FRA
 2080417,F1IUS,Didier,Didier,no_city,.,FRA
 2080418,F4IMI,no_name,no_name,no_city,.,FRA
+2080419,F0GFM,no_name,no_name,no_city,.,FRA
 2081001,F1UOT,Olivier Guerin,Olivier,Suresnes,Ile-de-France,FRA
 2081002,F4ACD,Romain Hulot,Romain,Poitiers,Vienne,FRA
 2081003,F1TDI,Daniel Trillaud,Daniel,Suresnes,Paris,FRA
@@ -7317,7 +7320,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140143,EA5IZQ,no_name,no_name,no_city,.,ESP
 2140144,EA7IRF,no_name,no_name,no_city,.,ESP
 2140145,EA8ATE,Sergio,Sergio,Telde,.,ESP
-2140146,ED1YBW,Urevigo,Urevigo,Vigo,.,ESP
+2140146,EA7ZU,no_name,no_name,no_city,.,ESP
 2140147,EA5HXG,German,German,Callosa Segura,.,ESP
 2140148,EA6MW,Joan,Joan,Soller,.,ESP
 2140149,EA8CPE,Josejuan,Josejuan,San Sebastian,la Gomera,ESP
@@ -7327,6 +7330,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140153,EA2DZV,Adolfo,Adolfo,Tolosa,.,ESP
 2140154,EB3CJR,Ramon,Ramon,Barcelona,Cataluna,ESP
 2140155,EA1RKV,Club De Radioaficionados De Vigo -,Club,Vigo,UREVIGOEA1RKV,ESP
+2140156,ED1ZAT,no_name,no_name,no_city,.,ESP
 2140157,EA4FAF,Jose Lozoya,Jose,Colmenarejo,Madrid,ESP
 2140158,EA7GMC,Jose Luis,Jose,Jaen,Andalucia,ESP
 2140159,EB7HKW,Jose Lopez,Jose,Ubeda (JAEN),Andalucia,ESP
@@ -13647,6 +13651,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2180203,E70AB,no_name,no_name,no_city,.,BIH
 2180204,E76BV,Vladimir Boltar,Vladimir,Mostar,.,BIH
 2180205,E74MMA,Pero,Pero,Foca,.,BIH
+2180206,E78ACO,Alex,Alex,Banja Luka,.,BIH
 2190001,9A5PH,Richard Harbauer,Richard,Murter,,HRV
 2190002,9A5DW,Johann Schmidt,Johann,Zadar,,HRV
 2190003,9A0W,Ivan Vlasic,Ivan,Oroslevje,,HRV
@@ -13930,6 +13935,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2190281,9A7PPM,no_name,no_name,no_city,.,HRV
 2190282,9A1RDX,no_name,no_name,no_city,.,HRV
 2190283,9A6OY,Mate Caljkusic,Mate,Makarska,.,HRV
+2190284,9A1CUA,no_name,no_name,Ozalj,.,HRV
 2200001,YT2CQ,Miloslav Miskar,Miloslav,Novi Sad,,SRB
 2200002,YU1VI,Slobodan Nikolic,Slobodan,Belgrade,Slobodan,SRB
 2200003,YU5JZI,Igor Joncic,Igor,Beograd,,SRB
@@ -19991,6 +19997,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225791,IU3NST,Giovanni,Giovanni,No_city,,ITA
 2225792,IW2DJA,Massimo Mondellini,Massimo,Milano (MI),Lombardia,ITA
 2225793,IW1CFL,Michele Debandi,Michele,Givoletto (TO),Piemonte,ITA
+2225795,IW2LSA,No_name ,No_name,Bergamo (BG),Lombardia,ITA
+2225796,IT9STG,Alex Antico,Alex,Trabia (PA),Sicilia,ITA
 2226001,IZ6FGP,Mario Ranni,Mario,Ortona (CH),Abruzzo,ITA
 2226002,IK6TTE,Plinio Codastefano,Plinio,Casalbordino (CH),Abruzzo,ITA
 2226003,IZ6FGP,Mario Ranni,Mario,Ortona (CH),Abruzzo,ITA
@@ -24237,6 +24245,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2300008,OK9SLI,no_name,no_name,no_city,.,CZE
 2300009,OK1ZJV,no_name,no_name,no_city,.,CZE
 2300010,OK1ME,no_name,no_name,no_city,.,CZE
+2300011,OK1CSM,Michal,Michal,Ostrov,.,CZE
+2300012,OK1SAM,Bohous,Bohous,Sokolov,.,CZE
 2301001,OK9DTZ,David,David,Prague,Hlavni mesto Praha,CZE
 2301002,OK3ZB,Zdenek Brichacek,Zdenek,Praha,Hlavni mesto Praha,CZE
 2301003,OK1MX,Milan Barvir,Milan,Praha,Hlavni mesto Praha,CZE
@@ -24735,6 +24745,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2310001,OM7BJ,Jano,Jano,no_city,.,SVK
 2310002,OM6ZB,no_name,no_name,no_city,.,SVK
 2310003,OM6AFY,Martin Burica,Martin,Ruzomberok,.,SVK
+2310004,OM7FX,no_name,no_name,no_city,.,SVK
 2311001,OM1ATS,Daniel,Daniel,Bratislava,Bratislavsky,SVK
 2311002,OM1AEG,Anton Srnka,Anton,Bratislava,Bratislavsky,SVK
 2311003,OM1EI,Marian Nagy,Marian,Bratislava,Bratislavsky,SVK
@@ -33540,6 +33551,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348080,M6HXL,Lee Scholey,Lee,Manchester,England,GBR
 2348081,MB6ICP,Andysutton,Andysutton,Cupar,England,GBR
 2348082,G8BKD,P Scotney,P,Northants Nn Hy,England,GBR
+2348083,M7GTD,Richard,Richard,Garswood,England,GBR
 2348084,M0NAZ,Andrew,Andrew,Hailsham,England,GBR
 2348085,2E0NEY,Steve,Steve,Cheshire,England,GBR
 2348086,2E0EVY,Gonzalo,Gonzalo,Manchester,England,GBR
@@ -33678,6 +33690,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348224,G4APO,R Hirst,R,Rotherham,Rowland,GBR
 2348225,G1OAX,Ljp64,Ljp64,Swadlincote,.,GBR
 2348226,G0WCF,no_name,no_name,no_city,.,GBR
+2348227,G0RVT,Davehesketh,Davehesketh,Hoo,.,GBR
+2348228,G4XNS,Michel,Michel,Lizant,.,GBR
+2348229,G4FJR,Dave,Dave,Bristol,.,GBR
+2348230,2E0YMI,no_name,no_name,no_city,.,GBR
+2348231,M7YOB,Mark,Mark,no_city,England,GBR
 2349999,GM0RDI,Iain Iain,Iain,Lincoln,England,GBR
 2351001,G0PRF,John Goodwin,John,Huddersfield,West Yorkshire,GBR
 2351002,G0PRF,John Goodwin,John,Huddersfield,West Yorkshire,GBR
@@ -37519,6 +37536,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2355521,MI0TBD,Tony Kelly,Tony,Coleraine,Northern Ireland,GBR
 2355524,2I0IDJ,no_name,no_name,no_city,.,GBR
 2355525,GI7VGR,no_name,no_name,no_city,.,GBR
+2355526,MI7GLM,Gary,Gary,Antrim,.,GBR
+2355527,MI7ATM,Anoushka,Anoushka,Antrim,.,GBR
 2356001,GD6XHG,Ed Rixon,Ed,Douglas,Isle of Man,GBR
 2356002,GD6XHG,Ed Rixon,Ed,Douglas,Isle of Man,GBR
 2356003,GD0NFN,John Butler,John,Isle of Man,Isle of Man,GBR
@@ -47466,6 +47485,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620542,DO1DGX,Andreas Lock,Andreas,Dorsten,NW,DEU
 2620543,DG6ABI,Torsten Scheller,Torsten,Gifhorn,NI,DEU
 2620544,DD1AH,Sebastian Klein,Sebastian,Mannheim,BW,DEU
+2620545,DG0OGM,Heiko Foerster,Heiko,Tiefenort,TH,DEU
+2620546,DJ8FR,Juergen Friedrich,Juergen,Westensee,SH,DEU
+2620547,DO2HH,Hans-Guenther Kauke,Hans-Guenther,Wennigsen,.,DEU
 2621001,DL7AJ,Wolfgang Meier,Wolfgang,Berlin,BE,DEU
 2621002,DG4FEY,Thomas Kocher,Thomas,Berlin,BE,DEU
 2621003,DL7ATA,Frank Kochanski,Frank,Berlin,BE,DEU
