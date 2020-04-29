@@ -232,6 +232,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281229,HB3YEG,JeanLuc,JeanLuc,Vuisternens-Devant-Romont,Westschweiz-Sud,CHE,DMR
 2281230,HB9HER,Dede,Dede,Bullet,,CHE,DMR
 2281231,HB9HBP,Christian,Christian,Ravoire,.,CHE,DMR
+2281232,HB9GXO,Alain,Alain,Missy,.,CHE,DMR
 2282001,HB9OOI,Stephan Hofstetter,Stephan,Grenchen,Solothurn,CHE,DMR
 2282002,HB9BEI,Bruno Knuchel,Bruno,Taeuffelen,Bern,CHE,DMR
 2282003,HB9EZV,Michel Perrenoud,Michel,La Neuveville,Westschweiz-Nord,CHE,DMR
@@ -709,6 +710,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284232,HB9BLA,Andreas Spiess,Andreas,Lausen,AndreasSpiess,CHE,DMR
 2284233,HB9EAJ,Stephan,Stephan,Basel,,CHE,DMR
 2284234,HB9TPQ,Dieter,Dieter,Solothurn,.,CHE,DMR
+2284235,HB9PFA,Albert,Albert,Muenchenstein,.,CHE,DMR
 2285001,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE,DMR
 2285002,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE,DMR
 2285003,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE,DMR
@@ -2395,7 +2397,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2325172,OE5GEM,Karl Griesmaier ,Karl,Eberschwang,OOE,AUT,DMR
 2325173,OE5DAO,Daniel Schatz ,Daniel,Asten,OOE,AUT,DMR
 2325174,OE5AKM,Alfred Mateja ,Alfred,Linz,OOE,AUT,DMR
-2325175,OE50RGB,Gangl Rainer,Gangl,Heidenreichstein,NOE,AUT,DMR
+2325175,OE5CNN,Christian Bumberger,Christian,Traun,OOE,AUT,DMR
 2325181,OE5PON,Andreas Pointner ,Andreas,Alberndorf In der Riedmark,OOE,AUT,DMR
 2325251,OE5DRP,Peter Albrecht ,Peter,Schlaegl,OOE,AUT,DMR
 2326001,OE6HEF,Harald Enko ,Harald,St. Peter Ob Judenburg,STMK,AUT,DMR
@@ -2599,6 +2601,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2326199,OE6SSB,Schmid Hans,Schmid,Wien,WIEN,AUT,DMR
 2326200,OE6TXG,Helmut Meitz ,Helmut,Graz-Liebenau,STMK,AUT,DMR
 2326201,OE6OLD,Heimo Muehler ,Heimo,Weinburg am Sassbach,STMK,AUT,DMR
+2326202,OE6LUI,Peter Luidlt,Peter,Graz,STMK,AUT,DMR
 2326221,OE6KWD,Wolfgang Kremsner ,Wolfgang,Kapfenberg,STMK,AUT,DMR
 2326222,OE6JFG,Franz Scherr ,Franz,Bruck An der Mur,STMK,AUT,DMR
 2326223,OE6MKD,Rene Mayrhold ,Rene,Kapfenberg,STMK,AUT,DMR
@@ -3056,6 +3059,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2329119,OE9MNR,no_name,no_name,no_city,VBG,AUT,DMR
 2329120,OE9PHV,Heinz Petnig ,Heinz,Lustenau,VBG,AUT,DMR
 2329121,OE9TAV,Tamer Yekdes ,Tamer,Lustenau,VBG,AUT,DMR
+2329122,OE9RFV,Ramona Fetz,Ramona,No_city,VBG,AUT,DMR
 2620001,DD8OA,Jan Oppermann,Jan,Thale,ST,DEU,DMR
 2620002,DB1JBA,Jens Bontemps,Jens,Wismar,MV,DEU,DMR
 2620003,DG0CCO,Joerg Saalfeld,Joerg,Tangermuende,ST,DEU,DMR
@@ -3625,6 +3629,17 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620567,DG5CAN,Wolfgang Biessenberger,Wolfgang,Puchheim,BY,DEU,DMR
 2620568,DG2YKH,Horst Kraemer,Horst,Bad Oeynhausen,NW,DEU,DMR
 2620569,DO7UP,Marc Putzolu,Marc,Reutlingen,BW,DEU,DMR
+2620570,DH3AAJ,Andreas Eichner,Andreas,Goettingen,NI,DEU,DMR
+2620571,DL3YDJ,Werner Wieand,Werner,Haltern am See,NW,DEU,DMR
+2620572,DA0PE,Lk-Peine Notfunk-Katastrophenschutz,Lk-Peine,Peine,NI,DEU,DMR
+2620573,DO8LJR,Johannes Roehrs,Johannes,Moelln,SH,DEU,DMR
+2620574,DF6NL,Torsten Bischoff,Torsten,Schwabach,BY,DEU,DMR
+2620575,DL0PH,A12-Pforzheim Clubstation,A12-Pforzheim,Pforzheim,BW,DEU,DMR
+2620576,DR0P,A12-Pforzheim Conteststation,A12-Pforzheim,Pforzheim,BW,DEU,DMR
+2620577,DF6WZ,Heinrich Storr,Heinrich,Bingen,BW,DEU,DMR
+2620578,DB1DE,Heinz Figge,Heinz,Dortmund,NW,DEU,DMR
+2620579,DH1KF,Karlheinz Fleder,Karlheinz,Muenchen,BY,DEU,DMR
+2620584,DG5MEK,Regina Hilbig,Regina,Unterhaching,BY,DEU,DMR
 2621001,DL7AJ,Wolfgang Meier,Wolfgang,Berlin,BE,DEU,DMR
 2621002,DG4FEY,Thomas Kocher,Thomas,Berlin,BE,DEU,DMR
 2621003,DL7ATA,Frank Kochanski,Frank,Berlin,BE,DEU,DMR
