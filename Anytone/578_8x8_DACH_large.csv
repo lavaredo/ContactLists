@@ -2143,8 +2143,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2323312,OE3YSC,Marion,Marion Stouy ,Bad Grosspertholz,NOE - AUT,,Private Call,None
 ,2323313,OE3JAL,no_name,no_name,Brunn am Gebirge,NOE - AUT,,Private Call,None
 ,2323314,OE3GKQ,no_name,no_name,Seifritz,NOE - AUT,,Private Call,None
-,2323315,OE3BRW,Bernhard,Bernhard Wild,Sankt Poelten,NOE - AUT,,Private Call,None
-,2323316,OE3TDF,David,David Fuchs,Oberwaltersdorf,NOE - AUT,,Private Call,None
+,2323315,OE3BRW,Bernhard,Bernhard Wild ,Sankt Poelten,NOE - AUT,,Private Call,None
+,2323316,OE3TDF,no_name,no_name,Oberwaltersdorf,NOE - AUT,,Private Call,None
+,2323317,OE3MWB,Manfred,Manfred Weis,Amstetten,NOE - AUT,,Private Call,None
+,2323318,OE3HLU,Hannes,Hannes Kellner,Mank,NOE - AUT,,Private Call,None
+,2323319,OE3PEA,Peter,Peter Elster,Gaubitsch,NOE - AUT,,Private Call,None
 ,2323333,OE3TRB,Thomas,Thomas,Berndorf,NOE - AUT,,Private Call,None
 ,2323353,OE3MJA,Josef,Josef Mathae ,Seitenstetten,NOE - AUT,,Private Call,None
 ,2323354,OE3DNA,Andreas,Andreas Neubauer ,Amstetten,NOE - AUT,,Private Call,None
@@ -2403,8 +2406,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2325173,OE5DAO,Daniel,Daniel Schatz ,Asten,OOE - AUT,,Private Call,None
 ,2325174,OE5AKM,Alfred,Alfred Mateja ,Linz,OOE - AUT,,Private Call,None
 ,2325175,OE5CNN,Christian,Christian Bumberger ,Traun,OOE - AUT,,Private Call,None
-,2325176,OE5AGM,Andreas,Andreas Gallistl,Wels,KTN - AUT,,Private Call,None
-,2325177,OE5XXF,Ffw,Ffw Ried-Im-Innkreis,Ried im Innkreis,OOE - AUT,,Private Call,None
+,2325176,OE5AGM,Andreas,Andreas Gallistl ,Wels,OOE - AUT,,Private Call,None
+,2325177,OE5XXF,no_name,no_name,no_city,OOE - AUT,,Private Call,None
 ,2325181,OE5PON,Andreas,Andreas Pointner ,Alberndorf In der Riedmark,OOE - AUT,,Private Call,None
 ,2325251,OE5DRP,Peter,Peter Albrecht ,Schlaegl,OOE - AUT,,Private Call,None
 ,2326001,OE6HEF,Harald,Harald Enko ,St. Peter Ob Judenburg,STMK - AUT,,Private Call,None
@@ -2916,7 +2919,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2328096,OE8BSK,Albert,Albert Sitar ,Miklauzhof,KTN - AUT,,Private Call,None
 ,2328097,OE8KYK,Unterkoefler,Unterkoefler Henryk,Ueberfeld,KTN - AUT,,Private Call,None
 ,2328098,OE8OGI,Wolfram,Wolfram Ogris ,Feistritz im Rosental,KTN - AUT,,Private Call,None
-,2328099,OE8SFK,Franz,Franz Schenk,Klagenfurt,KTN - AUT,,Private Call,None
+,2328099,OE8SFK,Franz,Franz Schenk ,Klagenfurt,KTN - AUT,,Private Call,None
 ,2328212,OE8LBK,Helmut,Helmut,Villach,KTN - AUT,,Private Call,None
 ,2328502,OE8WLK,Wolf,Wolf Spielvogel ,Villach,KTN - AUT,,Private Call,None
 ,2328503,OE8BCK,Christof,Christof Bodner ,Gmuend,KTN - AUT,,Private Call,None
@@ -3032,13 +3035,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2329084,OE9HIJ,Helmut,Helmut Squinobal ,Muntlix,VBG - AUT,,Private Call,None
 ,2329085,OE9LGH,Gerhard,Gerhard Lauterer ,Lustenau,VBG - AUT,,Private Call,None
 ,2329086,OE9TBI,Thomas,Thomas Bencik ,Dornbirn,VBG - AUT,,Private Call,None
-,2329087,OE9BZT,Karl,Karl Schantl,Ausserbraz,VBG - AUT,,Private Call,None
+,2329087,OE9BZT,A.,A. Schantl Karl ,Ausserbraz,VBG - AUT,,Private Call,None
 ,2329088,OE9LTH,Thomas,Thomas Lippautz ,Muntlix,VBG - AUT,,Private Call,None
 ,2329089,OE9BSJ,Stefan,Stefan Boehler ,Meiningen,VBG - AUT,,Private Call,None
 ,2329090,OE9FKV,Florian,Florian Knoll ,Bregenz,VBG - AUT,,Private Call,None
 ,2329091,OE9RSJ,Roman,Roman Szokol ,Dornbirn,VBG - AUT,,Private Call,None
 ,2329092,OE9AWI,Walter,Walter Allgaeuer ,Feldkirch,VBG - AUT,,Private Call,None
-,2329093,OE9GNH,Gunnar,Gunnar Nadolny,Lech,VBG - AUT,,Private Call,None
+,2329093,OE9GNH,Hartfried,Hartfried Nadolny Gunnar ,Lech,VBG - AUT,,Private Call,None
 ,2329094,OE9BRH,Rainer,Rainer Bonelli ,Buers,VBG - AUT,,Private Call,None
 ,2329095,OE9SVJ,Sven,Sven Juette ,Goetzis,VBG - AUT,,Private Call,None
 ,2329096,OE9ERC,Erich,Erich Rupprechter ,Wolfurt,VBG - AUT,,Private Call,None
@@ -3647,7 +3650,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2620577,DF6WZ,Heinrich,Heinrich Storr,Bingen,BW - DEU,,Private Call,None
 ,2620578,DB1DE,Heinz,Heinz Figge,Dortmund,NW - DEU,,Private Call,None
 ,2620579,DH1KF,Karlheinz,Karlheinz Fleder,Muenchen,BY - DEU,,Private Call,None
-,2620580,DL8BG,Gunther,Gunther Hagemann,Muenster,NW - DEU,,Private Call,None
+,2620580,DL8BG,Guenther,Guenther Hagemann,no_city, - DEU,,Private Call,None
 ,2620581,DO3KMS,Michael,Michael Simons,Uebach-Palenberg,NW - DEU,,Private Call,None
 ,2620582,DG1FD,Joachim,Joachim Niemoeckl,Gross-Zimmern,HE - DEU,,Private Call,None
 ,2620583,DB5UX,Reiner,Reiner Helm,Lauf,BW - DEU,,Private Call,None
@@ -3670,6 +3673,28 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2620600,DL3CC,Hans,Hans Hasenkamp,Neu-Isenburg,HE - DEU,,Private Call,None
 ,2620601,DC9FN,Fred,Fred Nerger,Voelklingen,SL - DEU,,Private Call,None
 ,2620602,DD5AT,Christiaan,Christiaan Verwaaijen,Lohmar,NW - DEU,,Private Call,None
+,2620603,DG6ING,Norbert,Norbert Grunschel,Neupetershain,BB - DEU,,Private Call,None
+,2620604,DH7CW,Markus,Markus Huettinger,Berlin,BE - DEU,,Private Call,None
+,2620605,DO6CDA,Christa,Christa Dullinger,Aukrug,SH - DEU,,Private Call,None
+,2620606,DM2UDA,Uwe,Uwe Dullinger,Aukrug,SH - DEU,,Private Call,None
+,2620607,DJ1AKD,Juergen,Juergen Krause,Dresden,SN - DEU,,Private Call,None
+,2620608,DL4FBR,Helmut,Helmut Isenberg,Korbach,HE - DEU,,Private Call,None
+,2620609,DL5RW,Ralfwindeck,Ralfwindeck Gross,Windeck-Kohlberg,NW - DEU,,Private Call,None
+,2620610,DG4DDE,Peter,Peter Pfeifer,Selm,NW - DEU,,Private Call,None
+,2620611,DM1MA,Karl-Frieder,Karl-Frieder Saadi Hus-Hus,Mannheim,BW - DEU,,Private Call,None
+,2620612,DK8FF,Hans-Juergen,Hans-Juergen Huven,Meinerzhagen,NW - DEU,,Private Call,None
+,2620613,DO1OIB,Ingo,Ingo Bloedorn,Bueddenstedt,. - DEU,,Private Call,None
+,2620614,DL1MP,Martin,Martin Pfeiffer,Waldbroel,NW - DEU,,Private Call,None
+,2620615,DK3LM,Mathias,Mathias Schellack,Hohenbucko,BB - DEU,,Private Call,None
+,2620616,DO1MSE,Michael,Michael Seuffert,Grossmehring,BY - DEU,,Private Call,None
+,2620617,DO1NSF,Nebojsa,Nebojsa Simic,Frankfurt,HE - DEU,,Private Call,None
+,2620618,DO9BES,Bernd,Bernd Esters,Neustadt,HE - DEU,,Private Call,None
+,2620619,DL9STX,Rouven,Rouven Radtke,Stuttgart,BW - DEU,,Private Call,None
+,2620620,DL2YEJ,Friedhelm,Friedhelm Macke,Marl,NI - DEU,,Private Call,None
+,2620621,DO8HB,Herbert,Herbert Birth,Hueckelhoven,NW - DEU,,Private Call,None
+,2620622,DO3HKF,Markus,Markus Moehring,Bad Driburg,NW - DEU,,Private Call,None
+,2620623,DO1HE,Henning,Henning Schoo,Guetersloh,NW - DEU,,Private Call,None
+,2620624,DK6DR,Jan,Jan Stroemann,Dortmund,NW - DEU,,Private Call,None
 ,2621001,DL7AJ,Wolfgang,Wolfgang Meier,Berlin,BE - DEU,,Private Call,None
 ,2621002,DG4FEY,Thomas,Thomas Kocher,Berlin,BE - DEU,,Private Call,None
 ,2621003,DL7ATA,Frank,Frank Kochanski,Berlin,BE - DEU,,Private Call,None

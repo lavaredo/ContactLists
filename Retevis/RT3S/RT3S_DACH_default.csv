@@ -2143,8 +2143,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323312,OE3YSC,Marion Stouy ,Marion,Bad Grosspertholz,NOE,AUT
 2323313,OE3JAL,no_name,no_name,Brunn am Gebirge,NOE,AUT
 2323314,OE3GKQ,no_name,no_name,Seifritz,NOE,AUT
-2323315,OE3BRW,Bernhard Wild,Bernhard,Sankt Poelten,NOE,AUT
-2323316,OE3TDF,David Fuchs,David,Oberwaltersdorf,NOE,AUT
+2323315,OE3BRW,Bernhard Wild ,Bernhard,Sankt Poelten,NOE,AUT
+2323316,OE3TDF,no_name,no_name,Oberwaltersdorf,NOE,AUT
+2323317,OE3MWB,Manfred Weis,Manfred,Amstetten,NOE,AUT
+2323318,OE3HLU,Hannes Kellner,Hannes,Mank,NOE,AUT
+2323319,OE3PEA,Peter Elster,Peter,Gaubitsch,NOE,AUT
 2323333,OE3TRB,Thomas,Thomas,Berndorf,NOE,AUT
 2323353,OE3MJA,Josef Mathae ,Josef,Seitenstetten,NOE,AUT
 2323354,OE3DNA,Andreas Neubauer ,Andreas,Amstetten,NOE,AUT
@@ -2403,8 +2406,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2325173,OE5DAO,Daniel Schatz ,Daniel,Asten,OOE,AUT
 2325174,OE5AKM,Alfred Mateja ,Alfred,Linz,OOE,AUT
 2325175,OE5CNN,Christian Bumberger ,Christian,Traun,OOE,AUT
-2325176,OE5AGM,Andreas Gallistl,Andreas,Wels,KTN,AUT
-2325177,OE5XXF,Ffw Ried-Im-Innkreis,Ffw,Ried im Innkreis,OOE,AUT
+2325176,OE5AGM,Andreas Gallistl ,Andreas,Wels,OOE,AUT
+2325177,OE5XXF,no_name,no_name,no_city,OOE,AUT
 2325181,OE5PON,Andreas Pointner ,Andreas,Alberndorf In der Riedmark,OOE,AUT
 2325251,OE5DRP,Peter Albrecht ,Peter,Schlaegl,OOE,AUT
 2326001,OE6HEF,Harald Enko ,Harald,St. Peter Ob Judenburg,STMK,AUT
@@ -2916,7 +2919,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2328096,OE8BSK,Albert Sitar ,Albert,Miklauzhof,KTN,AUT
 2328097,OE8KYK,Unterkoefler Henryk,Unterkoefler,Ueberfeld,KTN,AUT
 2328098,OE8OGI,Wolfram Ogris ,Wolfram,Feistritz im Rosental,KTN,AUT
-2328099,OE8SFK,Franz Schenk,Franz,Klagenfurt,KTN,AUT
+2328099,OE8SFK,Franz Schenk ,Franz,Klagenfurt,KTN,AUT
 2328212,OE8LBK,Helmut,Helmut,Villach,KTN,AUT
 2328502,OE8WLK,Wolf Spielvogel ,Wolf,Villach,KTN,AUT
 2328503,OE8BCK,Christof Bodner ,Christof,Gmuend,KTN,AUT
@@ -3032,13 +3035,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2329084,OE9HIJ,Helmut Squinobal ,Helmut,Muntlix,VBG,AUT
 2329085,OE9LGH,Gerhard Lauterer ,Gerhard,Lustenau,VBG,AUT
 2329086,OE9TBI,Thomas Bencik ,Thomas,Dornbirn,VBG,AUT
-2329087,OE9BZT,Karl Schantl,Karl,Ausserbraz,VBG,AUT
+2329087,OE9BZT,A. Schantl Karl ,A.,Ausserbraz,VBG,AUT
 2329088,OE9LTH,Thomas Lippautz ,Thomas,Muntlix,VBG,AUT
 2329089,OE9BSJ,Stefan Boehler ,Stefan,Meiningen,VBG,AUT
 2329090,OE9FKV,Florian Knoll ,Florian,Bregenz,VBG,AUT
 2329091,OE9RSJ,Roman Szokol ,Roman,Dornbirn,VBG,AUT
 2329092,OE9AWI,Walter Allgaeuer ,Walter,Feldkirch,VBG,AUT
-2329093,OE9GNH,Gunnar Nadolny,Gunnar,Lech,VBG,AUT
+2329093,OE9GNH,Hartfried Nadolny Gunnar ,Hartfried,Lech,VBG,AUT
 2329094,OE9BRH,Rainer Bonelli ,Rainer,Buers,VBG,AUT
 2329095,OE9SVJ,Sven Juette ,Sven,Goetzis,VBG,AUT
 2329096,OE9ERC,Erich Rupprechter ,Erich,Wolfurt,VBG,AUT
@@ -3647,7 +3650,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620577,DF6WZ,Heinrich Storr,Heinrich,Bingen,BW,DEU
 2620578,DB1DE,Heinz Figge,Heinz,Dortmund,NW,DEU
 2620579,DH1KF,Karlheinz Fleder,Karlheinz,Muenchen,BY,DEU
-2620580,DL8BG,Gunther Hagemann,Gunther,Muenster,NW,DEU
+2620580,DL8BG,Guenther Hagemann,Guenther,no_city,,DEU
 2620581,DO3KMS,Michael Simons,Michael,Uebach-Palenberg,NW,DEU
 2620582,DG1FD,Joachim Niemoeckl,Joachim,Gross-Zimmern,HE,DEU
 2620583,DB5UX,Reiner Helm,Reiner,Lauf,BW,DEU
@@ -3670,6 +3673,28 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620600,DL3CC,Hans Hasenkamp,Hans,Neu-Isenburg,HE,DEU
 2620601,DC9FN,Fred Nerger,Fred,Voelklingen,SL,DEU
 2620602,DD5AT,Christiaan Verwaaijen,Christiaan,Lohmar,NW,DEU
+2620603,DG6ING,Norbert Grunschel,Norbert,Neupetershain,BB,DEU
+2620604,DH7CW,Markus Huettinger,Markus,Berlin,BE,DEU
+2620605,DO6CDA,Christa Dullinger,Christa,Aukrug,SH,DEU
+2620606,DM2UDA,Uwe Dullinger,Uwe,Aukrug,SH,DEU
+2620607,DJ1AKD,Juergen Krause,Juergen,Dresden,SN,DEU
+2620608,DL4FBR,Helmut Isenberg,Helmut,Korbach,HE,DEU
+2620609,DL5RW,Ralfwindeck Gross,Ralfwindeck,Windeck-Kohlberg,NW,DEU
+2620610,DG4DDE,Peter Pfeifer,Peter,Selm,NW,DEU
+2620611,DM1MA,Karl-Frieder Saadi Hus-Hus,Karl-Frieder,Mannheim,BW,DEU
+2620612,DK8FF,Hans-Juergen Huven,Hans-Juergen,Meinerzhagen,NW,DEU
+2620613,DO1OIB,Ingo Bloedorn,Ingo,Bueddenstedt,.,DEU
+2620614,DL1MP,Martin Pfeiffer,Martin,Waldbroel,NW,DEU
+2620615,DK3LM,Mathias Schellack,Mathias,Hohenbucko,BB,DEU
+2620616,DO1MSE,Michael Seuffert,Michael,Grossmehring,BY,DEU
+2620617,DO1NSF,Nebojsa Simic,Nebojsa,Frankfurt,HE,DEU
+2620618,DO9BES,Bernd Esters,Bernd,Neustadt,HE,DEU
+2620619,DL9STX,Rouven Radtke,Rouven,Stuttgart,BW,DEU
+2620620,DL2YEJ,Friedhelm Macke,Friedhelm,Marl,NI,DEU
+2620621,DO8HB,Herbert Birth,Herbert,Hueckelhoven,NW,DEU
+2620622,DO3HKF,Markus Moehring,Markus,Bad Driburg,NW,DEU
+2620623,DO1HE,Henning Schoo,Henning,Guetersloh,NW,DEU
+2620624,DK6DR,Jan Stroemann,Jan,Dortmund,NW,DEU
 2621001,DL7AJ,Wolfgang Meier,Wolfgang,Berlin,BE,DEU
 2621002,DG4FEY,Thomas Kocher,Thomas,Berlin,BE,DEU
 2621003,DL7ATA,Frank Kochanski,Frank,Berlin,BE,DEU

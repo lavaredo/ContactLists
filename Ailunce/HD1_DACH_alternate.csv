@@ -2143,8 +2143,11 @@ Private Call,OE3EMC Martin,Engel ,Bad Grosspertholz,NOE - AUT,2323311
 Private Call,OE3YSC Marion,Stouy ,Bad Grosspertholz,NOE - AUT,2323312
 Private Call,OE3JAL no_name,,Brunn am Gebirge,NOE - AUT,2323313
 Private Call,OE3GKQ no_name,,Seifritz,NOE - AUT,2323314
-Private Call,OE3BRW Bernhard,Wild,Sankt Poelten,NOE - AUT,2323315
-Private Call,OE3TDF David,Fuchs,Oberwaltersdorf,NOE - AUT,2323316
+Private Call,OE3BRW Bernhard,Wild ,Sankt Poelten,NOE - AUT,2323315
+Private Call,OE3TDF no_name,,Oberwaltersdorf,NOE - AUT,2323316
+Private Call,OE3MWB Manfred,Weis,Amstetten,NOE - AUT,2323317
+Private Call,OE3HLU Hannes,Kellner,Mank,NOE - AUT,2323318
+Private Call,OE3PEA Peter,Elster,Gaubitsch,NOE - AUT,2323319
 Private Call,OE3TRB Thomas,,Berndorf,NOE - AUT,2323333
 Private Call,OE3MJA Josef,Mathae ,Seitenstetten,NOE - AUT,2323353
 Private Call,OE3DNA Andreas,Neubauer ,Amstetten,NOE - AUT,2323354
@@ -2403,8 +2406,8 @@ Private Call,OE5GEM Karl,Griesmaier ,Eberschwang,OOE - AUT,2325172
 Private Call,OE5DAO Daniel,Schatz ,Asten,OOE - AUT,2325173
 Private Call,OE5AKM Alfred,Mateja ,Linz,OOE - AUT,2325174
 Private Call,OE5CNN Christian,Bumberger ,Traun,OOE - AUT,2325175
-Private Call,OE5AGM Andreas,Gallistl,Wels,KTN - AUT,2325176
-Private Call,OE5XXF Ffw,Ried-Im-Innkreis,Ried im Innkreis,OOE - AUT,2325177
+Private Call,OE5AGM Andreas,Gallistl ,Wels,OOE - AUT,2325176
+Private Call,OE5XXF no_name,,no_city,OOE - AUT,2325177
 Private Call,OE5PON Andreas,Pointner ,Alberndorf In der Riedmark,OOE - AUT,2325181
 Private Call,OE5DRP Peter,Albrecht ,Schlaegl,OOE - AUT,2325251
 Private Call,OE6HEF Harald,Enko ,St. Peter Ob Judenburg,STMK - AUT,2326001
@@ -2916,7 +2919,7 @@ Private Call,OE8ASK Angelika,Scherzer ,Sankt Veit An der Glan,KTN - AUT,2328095
 Private Call,OE8BSK Albert,Sitar ,Miklauzhof,KTN - AUT,2328096
 Private Call,OE8KYK Unterkoefler,Henryk,Ueberfeld,KTN - AUT,2328097
 Private Call,OE8OGI Wolfram,Ogris ,Feistritz im Rosental,KTN - AUT,2328098
-Private Call,OE8SFK Franz,Schenk,Klagenfurt,KTN - AUT,2328099
+Private Call,OE8SFK Franz,Schenk ,Klagenfurt,KTN - AUT,2328099
 Private Call,OE8LBK Helmut,,Villach,KTN - AUT,2328212
 Private Call,OE8WLK Wolf,Spielvogel ,Villach,KTN - AUT,2328502
 Private Call,OE8BCK Christof,Bodner ,Gmuend,KTN - AUT,2328503
@@ -3032,13 +3035,13 @@ Private Call,OE9MMV Martin,Mayr ,Bludenz,VBG - AUT,2329083
 Private Call,OE9HIJ Helmut,Squinobal ,Muntlix,VBG - AUT,2329084
 Private Call,OE9LGH Gerhard,Lauterer ,Lustenau,VBG - AUT,2329085
 Private Call,OE9TBI Thomas,Bencik ,Dornbirn,VBG - AUT,2329086
-Private Call,OE9BZT Karl,Schantl,Ausserbraz,VBG - AUT,2329087
+Private Call,OE9BZT A.,Schantl Karl ,Ausserbraz,VBG - AUT,2329087
 Private Call,OE9LTH Thomas,Lippautz ,Muntlix,VBG - AUT,2329088
 Private Call,OE9BSJ Stefan,Boehler ,Meiningen,VBG - AUT,2329089
 Private Call,OE9FKV Florian,Knoll ,Bregenz,VBG - AUT,2329090
 Private Call,OE9RSJ Roman,Szokol ,Dornbirn,VBG - AUT,2329091
 Private Call,OE9AWI Walter,Allgaeuer ,Feldkirch,VBG - AUT,2329092
-Private Call,OE9GNH Gunnar,Nadolny,Lech,VBG - AUT,2329093
+Private Call,OE9GNH Hartfried,Nadolny Gunnar ,Lech,VBG - AUT,2329093
 Private Call,OE9BRH Rainer,Bonelli ,Buers,VBG - AUT,2329094
 Private Call,OE9SVJ Sven,Juette ,Goetzis,VBG - AUT,2329095
 Private Call,OE9ERC Erich,Rupprechter ,Wolfurt,VBG - AUT,2329096
@@ -3647,7 +3650,7 @@ Private Call,DR0P A12-Pforzheim,Conteststation,Pforzheim,BW - DEU,2620576
 Private Call,DF6WZ Heinrich,Storr,Bingen,BW - DEU,2620577
 Private Call,DB1DE Heinz,Figge,Dortmund,NW - DEU,2620578
 Private Call,DH1KF Karlheinz,Fleder,Muenchen,BY - DEU,2620579
-Private Call,DL8BG Gunther,Hagemann,Muenster,NW - DEU,2620580
+Private Call,DL8BG Guenther,Hagemann,no_city, - DEU,2620580
 Private Call,DO3KMS Michael,Simons,Uebach-Palenberg,NW - DEU,2620581
 Private Call,DG1FD Joachim,Niemoeckl,Gross-Zimmern,HE - DEU,2620582
 Private Call,DB5UX Reiner,Helm,Lauf,BW - DEU,2620583
@@ -3670,6 +3673,28 @@ Private Call,DD9KWA Walter,Kalweit,Frankfurt,HE - DEU,2620599
 Private Call,DL3CC Hans,Hasenkamp,Neu-Isenburg,HE - DEU,2620600
 Private Call,DC9FN Fred,Nerger,Voelklingen,SL - DEU,2620601
 Private Call,DD5AT Christiaan,Verwaaijen,Lohmar,NW - DEU,2620602
+Private Call,DG6ING Norbert,Grunschel,Neupetershain,BB - DEU,2620603
+Private Call,DH7CW Markus,Huettinger,Berlin,BE - DEU,2620604
+Private Call,DO6CDA Christa,Dullinger,Aukrug,SH - DEU,2620605
+Private Call,DM2UDA Uwe,Dullinger,Aukrug,SH - DEU,2620606
+Private Call,DJ1AKD Juergen,Krause,Dresden,SN - DEU,2620607
+Private Call,DL4FBR Helmut,Isenberg,Korbach,HE - DEU,2620608
+Private Call,DL5RW Ralfwindeck,Gross,Windeck-Kohlberg,NW - DEU,2620609
+Private Call,DG4DDE Peter,Pfeifer,Selm,NW - DEU,2620610
+Private Call,DM1MA Karl-Frieder,Saadi Hus-Hus,Mannheim,BW - DEU,2620611
+Private Call,DK8FF Hans-Juergen,Huven,Meinerzhagen,NW - DEU,2620612
+Private Call,DO1OIB Ingo,Bloedorn,Bueddenstedt,. - DEU,2620613
+Private Call,DL1MP Martin,Pfeiffer,Waldbroel,NW - DEU,2620614
+Private Call,DK3LM Mathias,Schellack,Hohenbucko,BB - DEU,2620615
+Private Call,DO1MSE Michael,Seuffert,Grossmehring,BY - DEU,2620616
+Private Call,DO1NSF Nebojsa,Simic,Frankfurt,HE - DEU,2620617
+Private Call,DO9BES Bernd,Esters,Neustadt,HE - DEU,2620618
+Private Call,DL9STX Rouven,Radtke,Stuttgart,BW - DEU,2620619
+Private Call,DL2YEJ Friedhelm,Macke,Marl,NI - DEU,2620620
+Private Call,DO8HB Herbert,Birth,Hueckelhoven,NW - DEU,2620621
+Private Call,DO3HKF Markus,Moehring,Bad Driburg,NW - DEU,2620622
+Private Call,DO1HE Henning,Schoo,Guetersloh,NW - DEU,2620623
+Private Call,DK6DR Jan,Stroemann,Dortmund,NW - DEU,2620624
 Private Call,DL7AJ Wolfgang,Meier,Berlin,BE - DEU,2621001
 Private Call,DG4FEY Thomas,Kocher,Berlin,BE - DEU,2621002
 Private Call,DL7ATA Frank,Kochanski,Berlin,BE - DEU,2621003

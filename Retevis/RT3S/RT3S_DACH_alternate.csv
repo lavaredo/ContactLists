@@ -2143,7 +2143,10 @@
 2323313,OE3JAL no_name ,no_name                  Brunn am Gebirge        NOE                     AUT
 2323314,OE3GKQ no_name ,no_name                  Seifritz                NOE                     AUT
 2323315,OE3BRW Bernhard,Bernhard Wild            Sankt Poelten           NOE                     AUT
-2323316,OE3TDF David   ,David Fuchs              Oberwaltersdorf         NOE                     AUT
+2323316,OE3TDF no_name ,no_name                  Oberwaltersdorf         NOE                     AUT
+2323317,OE3MWB Manfred ,Manfred Weis             Amstetten               NOE                     AUT
+2323318,OE3HLU Hannes  ,Hannes Kellner           Mank                    NOE                     AUT
+2323319,OE3PEA Peter   ,Peter Elster             Gaubitsch               NOE                     AUT
 2323333,OE3TRB Thomas  ,Thomas                   Berndorf                NOE                     AUT
 2323353,OE3MJA Josef   ,Josef Mathae             Seitenstetten           NOE                     AUT
 2323354,OE3DNA Andreas ,Andreas Neubauer         Amstetten               NOE                     AUT
@@ -2402,8 +2405,8 @@
 2325173,OE5DAO Daniel  ,Daniel Schatz            Asten                   OOE                     AUT
 2325174,OE5AKM Alfred  ,Alfred Mateja            Linz                    OOE                     AUT
 2325175,OE5CNN Christia,Christian Bumberger      Traun                   OOE                     AUT
-2325176,OE5AGM Andreas ,Andreas Gallistl         Wels                    KTN                     AUT
-2325177,OE5XXF Ffw     ,Ffw Ried-Im-Innkreis     Ried im Innkreis        OOE                     AUT
+2325176,OE5AGM Andreas ,Andreas Gallistl         Wels                    OOE                     AUT
+2325177,OE5XXF no_name ,no_name                  no_city                 OOE                     AUT
 2325181,OE5PON Andreas ,Andreas Pointner         Alberndorf In der RiedmaOOE                     AUT
 2325251,OE5DRP Peter   ,Peter Albrecht           Schlaegl                OOE                     AUT
 2326001,OE6HEF Harald  ,Harald Enko              St. Peter Ob Judenburg  STMK                    AUT
@@ -3031,13 +3034,13 @@
 2329084,OE9HIJ Helmut  ,Helmut Squinobal         Muntlix                 VBG                     AUT
 2329085,OE9LGH Gerhard ,Gerhard Lauterer         Lustenau                VBG                     AUT
 2329086,OE9TBI Thomas  ,Thomas Bencik            Dornbirn                VBG                     AUT
-2329087,OE9BZT Karl    ,Karl Schantl             Ausserbraz              VBG                     AUT
+2329087,OE9BZT A.      ,A. Schantl Karl          Ausserbraz              VBG                     AUT
 2329088,OE9LTH Thomas  ,Thomas Lippautz          Muntlix                 VBG                     AUT
 2329089,OE9BSJ Stefan  ,Stefan Boehler           Meiningen               VBG                     AUT
 2329090,OE9FKV Florian ,Florian Knoll            Bregenz                 VBG                     AUT
 2329091,OE9RSJ Roman   ,Roman Szokol             Dornbirn                VBG                     AUT
 2329092,OE9AWI Walter  ,Walter Allgaeuer         Feldkirch               VBG                     AUT
-2329093,OE9GNH Gunnar  ,Gunnar Nadolny           Lech                    VBG                     AUT
+2329093,OE9GNH Hartfrie,Hartfried Nadolny Gunnar Lech                    VBG                     AUT
 2329094,OE9BRH Rainer  ,Rainer Bonelli           Buers                   VBG                     AUT
 2329095,OE9SVJ Sven    ,Sven Juette              Goetzis                 VBG                     AUT
 2329096,OE9ERC Erich   ,Erich Rupprechter        Wolfurt                 VBG                     AUT
@@ -3646,7 +3649,7 @@
 2620577,DF6WZ Heinrich ,Heinrich Storr           Bingen                  BW                      DEU
 2620578,DB1DE Heinz    ,Heinz Figge              Dortmund                NW                      DEU
 2620579,DH1KF Karlheinz,Karlheinz Fleder         Muenchen                BY                      DEU
-2620580,DL8BG Gunther  ,Gunther Hagemann         Muenster                NW                      DEU
+2620580,DL8BG Guenther ,Guenther Hagemann        no_city                 DEU
 2620581,DO3KMS Michael ,Michael Simons           Uebach-Palenberg        NW                      DEU
 2620582,DG1FD Joachim  ,Joachim Niemoeckl        Gross-Zimmern           HE                      DEU
 2620583,DB5UX Reiner   ,Reiner Helm              Lauf                    BW                      DEU
@@ -3669,6 +3672,28 @@
 2620600,DL3CC Hans     ,Hans Hasenkamp           Neu-Isenburg            HE                      DEU
 2620601,DC9FN Fred     ,Fred Nerger              Voelklingen             SL                      DEU
 2620602,DD5AT Christiaa,Christiaan Verwaaijen    Lohmar                  NW                      DEU
+2620603,DG6ING Norbert ,Norbert Grunschel        Neupetershain           BB                      DEU
+2620604,DH7CW Markus   ,Markus Huettinger        Berlin                  BE                      DEU
+2620605,DO6CDA Christa ,Christa Dullinger        Aukrug                  SH                      DEU
+2620606,DM2UDA Uwe     ,Uwe Dullinger            Aukrug                  SH                      DEU
+2620607,DJ1AKD Juergen ,Juergen Krause           Dresden                 SN                      DEU
+2620608,DL4FBR Helmut  ,Helmut Isenberg          Korbach                 HE                      DEU
+2620609,DL5RW Ralfwinde,Ralfwindeck Gross        Windeck-Kohlberg        NW                      DEU
+2620610,DG4DDE Peter   ,Peter Pfeifer            Selm                    NW                      DEU
+2620611,DM1MA Karl-Frie,Karl-Frieder Saadi Hus-HuMannheim                BW                      DEU
+2620612,DK8FF Hans-Juer,Hans-Juergen Huven       Meinerzhagen            NW                      DEU
+2620613,DO1OIB Ingo    ,Ingo Bloedorn            Bueddenstedt            .                       DEU
+2620614,DL1MP Martin   ,Martin Pfeiffer          Waldbroel               NW                      DEU
+2620615,DK3LM Mathias  ,Mathias Schellack        Hohenbucko              BB                      DEU
+2620616,DO1MSE Michael ,Michael Seuffert         Grossmehring            BY                      DEU
+2620617,DO1NSF Nebojsa ,Nebojsa Simic            Frankfurt               HE                      DEU
+2620618,DO9BES Bernd   ,Bernd Esters             Neustadt                HE                      DEU
+2620619,DL9STX Rouven  ,Rouven Radtke            Stuttgart               BW                      DEU
+2620620,DL2YEJ Friedhel,Friedhelm Macke          Marl                    NI                      DEU
+2620621,DO8HB Herbert  ,Herbert Birth            Hueckelhoven            NW                      DEU
+2620622,DO3HKF Markus  ,Markus Moehring          Bad Driburg             NW                      DEU
+2620623,DO1HE Henning  ,Henning Schoo            Guetersloh              NW                      DEU
+2620624,DK6DR Jan      ,Jan Stroemann            Dortmund                NW                      DEU
 2621001,DL7AJ Wolfgang ,Wolfgang Meier           Berlin                  BE                      DEU
 2621002,DG4FEY Thomas  ,Thomas Kocher            Berlin                  BE                      DEU
 2621003,DL7ATA Frank   ,Frank Kochanski          Berlin                  BE                      DEU
