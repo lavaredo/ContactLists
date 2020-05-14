@@ -1762,7 +1762,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2321249,OE1NBS,Nicolas,Nicolas Bachschwell ,Wien,WIEN - AUT,,Private Call,None
 ,2321250,OE1HNA,Heribert,Heribert Naber ,Wien,WIEN - AUT,,Private Call,None
 ,2321251,OE1HNA,Heribert,Heribert Naber ,Wien,WIEN - AUT,,Private Call,None
-,2321252,OE1ITA,Irene,Irene Tritta,Wien,WIEN - AUT,,Private Call,None
+,2321252,OE1ITA,no_name,no_name,no_city,WIEN - AUT,,Private Call,None
+,2321253,OE1THT,Thomas,Thomas Tiefenbacher,Wien,WIEN - AUT,,Private Call,None
+,2321254,OE1JTC,Jan,Jan Thomasberger,Wien,WIEN - AUT,,Private Call,None
 ,2321301,OE1BAD,Andreas,Andreas Boeck ,Wien,WIEN - AUT,,Private Call,None
 ,2321302,OE1PNS,Peter,Peter,Wien,WIEN - AUT,,Private Call,None
 ,2321303,OE1MCU,Michael,Michael Kastelic ,Wien,WIEN - AUT,,Private Call,None
@@ -2409,7 +2411,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2325175,OE5CNN,Christian,Christian Bumberger ,Traun,OOE - AUT,,Private Call,None
 ,2325176,OE5AGM,Andreas,Andreas Gallistl ,Wels,OOE - AUT,,Private Call,None
 ,2325177,OE5XXF,no_name,no_name,no_city,OOE - AUT,,Private Call,None
-,2325178,OE5TJO,Tim,Tim Justus,Sankt Pantaleon,OOE - AUT,,Private Call,None
+,2325178,OE5TJO,Tim,Tim Justus ,Sankt Pantaleon,OOE - AUT,,Private Call,None
 ,2325181,OE5PON,Andreas,Andreas Pointner ,Alberndorf In der Riedmark,OOE - AUT,,Private Call,None
 ,2325251,OE5DRP,Peter,Peter Albrecht ,Schlaegl,OOE - AUT,,Private Call,None
 ,2326001,OE6HEF,Harald,Harald Enko ,St. Peter Ob Judenburg,STMK - AUT,,Private Call,None
@@ -2822,6 +2824,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2327186,OE7GMH,Manfred,Manfred Gardener ,Sillian,TIROL - AUT,,Private Call,None
 ,2327187,OE7WPJ,Werner,Werner Pesserer ,Jenbach,TIROL - AUT,,Private Call,None
 ,2327188,OE7MOF,no_name,no_name,Eben am Achensee,TIROL - AUT,,Private Call,None
+,2327189,OE7NCT,Nikolaus,Nikolaus Coluccini,Angerberg,TIROL - AUT,,Private Call,None
 ,2327232,OE7OST,Thomas,Thomas Ostermann ,Innsbruck,TIROL - AUT,,Private Call,None
 ,2328001,OE8AGK,Alfred,Alfred Grascher ,Eberndorf,KTN - AUT,,Private Call,None
 ,2328002,OE8DDK,no_name,no_name,no_city,KTN - AUT,,Private Call,None
@@ -2922,7 +2925,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2328097,OE8KYK,Unterkoefler,Unterkoefler Henryk,Ueberfeld,KTN - AUT,,Private Call,None
 ,2328098,OE8OGI,Wolfram,Wolfram Ogris ,Feistritz im Rosental,KTN - AUT,,Private Call,None
 ,2328099,OE8SFK,Franz,Franz Schenk ,Klagenfurt,KTN - AUT,,Private Call,None
-,2328100,OE8ELO,Erich,Erich Londer,Feldkirchen,KTN - AUT,,Private Call,None
+,2328100,OE8ELO,no_name,no_name,Feldkirchen In Kaernten,KTN - AUT,,Private Call,None
 ,2328101,OE8TEK,Elmar,Elmar Tusch,Bodensdorf,KTN - AUT,,Private Call,None
 ,2328212,OE8LBK,Helmut,Helmut,Villach,KTN - AUT,,Private Call,None
 ,2328502,OE8WLK,Wolf,Wolf Spielvogel ,Villach,KTN - AUT,,Private Call,None
@@ -3712,6 +3715,17 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2620635,DG6DDF,Stefan,Stefan Herwig,Hattingen,NW - DEU,,Private Call,None
 ,2620636,DG5BKA,Christian,Christian Schroeder,Dieblich,RP - DEU,,Private Call,None
 ,2620637,DF7JF,Hans-Joachim,Hans-Joachim Steinsiek,Essen,NW - DEU,,Private Call,None
+,2620638,DC4KP,Peter,Peter Pischalka,Koeln,NW - DEU,,Private Call,None
+,2620639,DF1KW,Johannes,Johannes Koering,Bedburg-Hau,NW - DEU,,Private Call,None
+,2620640,DO4NGN,Conny,Conny Weigand,Nuernberg,BY - DEU,,Private Call,None
+,2620641,DF0THK,Juergen,Juergen Storch,Zellingen,BY - DEU,,Private Call,None
+,2620642,DG8SAD,Adolf,Adolf Borzer,Muehlacker,BW - DEU,,Private Call,None
+,2620643,DM6KG,Gunnar,Gunnar Kuhnert,Brachttal,HE - DEU,,Private Call,None
+,2620644,DG4CG,Christian,Christian Gifhorn,Hebertsfelden,BY - DEU,,Private Call,None
+,2620645,DK3LU,Joerg,Joerg Buechler,Waibstadt,BW - DEU,,Private Call,None
+,2620646,DL1RCD,Bernhard,Bernhard Brandl,Fensterbach,BY - DEU,,Private Call,None
+,2620647,DB5UX,Reiner,Reiner Helm,Lauf,BW - DEU,,Private Call,None
+,2620648,DO7WC,Christian,Christian Wolff,Altenburg,NI - DEU,,Private Call,None
 ,2621001,DL7AJ,Wolfgang,Wolfgang Meier,Berlin,BE - DEU,,Private Call,None
 ,2621002,DG4FEY,Thomas,Thomas Kocher,Berlin,BE - DEU,,Private Call,None
 ,2621003,DL7ATA,Frank,Frank Kochanski,Berlin,BE - DEU,,Private Call,None

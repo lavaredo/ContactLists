@@ -1369,6 +1369,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040054,PE1IAA,Hndp,,Hoofddorp,.,NLD
 2040055,PD2MSU,Mike Van Rooijen,,Utrecht,.,NLD
 2040057,PA4INO,no_name,,no_city,.,NLD
+2040058,PD1CS,Huib,,Deventer,.,NLD
+2040059,PD8RK,Robert,,Bergen Nh,.,NLD
 2041001,PD2ML,Mark Loggen,,Bussum,Noord-Holland,NLD
 2041002,PD2ML,Mark Loggen,,Bussum,Noord-Holland,NLD
 2041003,PA2JM,Joop Mihaly,,Amsterdam,Noord-Holland,NLD
@@ -5516,6 +5518,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080437,F5MHI,no_name,,no_city,.,FRA
 2080438,F4IKN,no_name,,no_city,.,FRA
 2080439,F4IHU,Seyer Pascal,,Angerville La Martel,Seine-Maritime,FRA
+2080440,F4GVV,Julien,,Palaiseau,.,FRA
 2081001,F1UOT,Olivier Guerin,,Suresnes,Ile-de-France,FRA
 2081002,F4ACD,Romain Hulot,,Poitiers,Vienne,FRA
 2081003,F1TDI,Daniel Trillaud,,Suresnes,Paris,FRA
@@ -7421,6 +7424,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140187,EA2ESD,Andoni,,Laudio,.,ESP
 2140188,EA8EU,Santiago,,Santa Cruz De Tenerife,.,ESP
 2140189,EA8BTH,Eloy,,Guia De Isora,.,ESP
+2140190,EA8DCS,Miguel,,Arrecife Lanzarote,.,ESP
 2140191,EA4DOJ,Cesarbarroso,,Madrid,.,ESP
 2140192,EA3FUU,Jose,,Sabadell,.,ESP
 2140193,EA1ADO,Julian,,Vimianzo,.,ESP
@@ -7467,11 +7471,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140234,EC3DEL,Nacho,,Les,.,ESP
 2140235,EA1FDT,Paco,,La Alamedilla,Castilla y Leon,ESP
 2140236,EA6ANC,Llpalliser,,Alaior,.,ESP
-2140237,EA2DDC,Jorge A.,,Zaragoza,Aragon,ESP
+2140237,EA5IMZ,Pedro,,Alguena,.,ESP
 2140238,EA1DPD,Silver,,Gijon,.,ESP
 2140239,EA4HHN,Francisco La Morena Agraz,,Colmenar Viejo (MADRID),Madrid,ESP
 2140240,EA6AJW,Carlos Puig,,Mallorca,Islas Baleares,ESP
-2140241,EA2DDC,Jorge A.,,Zaragoza,Aragon,ESP
+2140241,EA7KKH,Antonio,,Almera,.,ESP
 2140242,EA1GWZ,Ricardo Gorin,,Malpica. La Coruna,.,ESP
 2140243,EB1APK,Jose Comonte,,Mieres  Asturias,.,ESP
 2140244,EA3AY,Eliseo Ayan,,-Puigcerda (GIRONA),.,ESP
@@ -7515,6 +7519,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140286,EA8UE,Damian Orihuela,,Granadilla Tenerife,.,ESP
 2140287,EA1FHC,Carlos,,no_city,.,ESP
 2140288,EA7JPZ,no_name,,no_city,.,ESP
+2140290,EA8CIF,Juan,,Tenerife,.,ESP
+2140291,EA5HPO,David,,Valencia,.,ESP
 2141001,EB1CU,Andoni,,Castro Urdiales,Cantabria,ESP
 2141002,EA1DBB,Adolfo Vila,,Ourense,Galicia,ESP
 2141003,EB1CU,Axpe Andoni,,Castro Urdiales,Cantabria,ESP
@@ -14089,6 +14095,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2190291,9A3AFP,Ivana,,Kapela,.,HRV
 2190292,9A3AFE,Ivancica,,Kapela,.,HRV
 2190293,9A3AFI,Velimir,,Cakovec,.,HRV
+2190294,9A6NND,no_name,,no_city,.,HRV
 2200001,YT2CQ,Miloslav Miskar,,Novi Sad,,SRB
 2200002,YU1VI,Slobodan Nikolic,,Belgrade,Slobodan,SRB
 2200003,YU5JZI,Igor Joncic,,Beograd,,SRB
@@ -14356,6 +14363,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2200265,YU9YAA,Sandra,,Subotica,.,SRB
 2200266,YT1KIB,no_name,,no_city,.,SRB
 2200267,YT5PLB,Ljuba,,Beograd,.,SRB
+2200268,YU4VVM,no_name,,no_city,.,SRB
 2210001,Z63CIA,Aurora,,Prishtina,,XKX
 2210002,Z63CIA,Aurora Useini,,Z-Prishtina/oe-Linz/z-Gostivar,Pristina,XKX
 2220001,IK0YYY,Luca Ferrara,,Roma (RM),Lazio,ITA
@@ -20225,6 +20233,20 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225867,IW9GFD,Salvatore Fichera,,Catania (CT),Sicilia,ITA
 2225868,IK7XIX,Pietro Faienza,,Bari (BA),Puglia,ITA
 2225869,IW2FHE,Franco Arienti,,Desio (MB),Lombardia,ITA
+2225870,IK4ZHN,Stefano Lazzari,,Bologna (BO),Emilia-Rom.,ITA
+2225871,IW2DQE,Giancarlo Mangani,,Siziano (PV),Lombardia,ITA
+2225872,IW2ERH,Sergio Begnozzi,,Poggio Rusco (MN),Lombardia,ITA
+2225873,IT9YBG,Giuseppe Grasso,,Messina (ME),Sicilia,ITA
+2225874,IU8LIM,Pugliese Giuseppe,,Simeri Crichi (CZ),Calabria,ITA
+2225875,IW6BPB,Remo Mogliani,,Montelupone (MC),Marche,ITA
+2225876,IN3YCV,Gabriele Defant,,Martignano (TN),Trentino AA,ITA
+2225877,IK1MYV,Edoantonio Viano,,Caraglio (CN),Piemonte,ITA
+2225878,IW1BAS,Pierluigi Busatta,,Alessandria (AL),Piemonte,ITA
+2225879,IT9CUD,Renato Cusimano,,Partinico (PA),Sicilia,ITA
+2225880,I1IME,Emilio Martinelli,,Gamalero (AL),Piemonte,ITA
+2225881,IZ8FGO,Domenico Mesce,,Aquilonia (AV),Campania,ITA
+2225882,IW6DHQ,Giorgio Castriotta,,Ancona (AN),Marche,ITA
+2225883,IU2ILF,Simone D'Autilio,,Arcore (MB),Lombardia,ITA
 2226001,IZ6FGP,Mario Ranni,,Ortona (CH),Abruzzo,ITA
 2226002,IK6TTE,Plinio Codastefano,,Casalbordino (CH),Abruzzo,ITA
 2226003,IZ6FGP,Mario Ranni,,Ortona (CH),Abruzzo,ITA
@@ -25422,7 +25444,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321249,OE1NBS,Nicolas Bachschwell ,,Wien,WIEN,AUT
 2321250,OE1HNA,Heribert Naber ,,Wien,WIEN,AUT
 2321251,OE1HNA,Heribert Naber ,,Wien,WIEN,AUT
-2321252,OE1ITA,Irene Tritta,,Wien,WIEN,AUT
+2321252,OE1ITA,no_name,,no_city,WIEN,AUT
+2321253,OE1THT,Thomas Tiefenbacher,,Wien,WIEN,AUT
+2321254,OE1JTC,Jan Thomasberger,,Wien,WIEN,AUT
 2321301,OE1BAD,Andreas Boeck ,,Wien,WIEN,AUT
 2321302,OE1PNS,Peter,,Wien,WIEN,AUT
 2321303,OE1MCU,Michael Kastelic ,,Wien,WIEN,AUT
@@ -26069,7 +26093,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2325175,OE5CNN,Christian Bumberger ,,Traun,OOE,AUT
 2325176,OE5AGM,Andreas Gallistl ,,Wels,OOE,AUT
 2325177,OE5XXF,no_name,,no_city,OOE,AUT
-2325178,OE5TJO,Tim Justus,,Sankt Pantaleon,OOE,AUT
+2325178,OE5TJO,Tim Justus ,,Sankt Pantaleon,OOE,AUT
 2325181,OE5PON,Andreas Pointner ,,Alberndorf In der Riedmark,OOE,AUT
 2325251,OE5DRP,Peter Albrecht ,,Schlaegl,OOE,AUT
 2326001,OE6HEF,Harald Enko ,,St. Peter Ob Judenburg,STMK,AUT
@@ -26482,6 +26506,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2327186,OE7GMH,Manfred Gardener ,,Sillian,TIROL,AUT
 2327187,OE7WPJ,Werner Pesserer ,,Jenbach,TIROL,AUT
 2327188,OE7MOF,no_name,,Eben am Achensee,TIROL,AUT
+2327189,OE7NCT,Nikolaus Coluccini,,Angerberg,TIROL,AUT
 2327232,OE7OST,Thomas Ostermann ,,Innsbruck,TIROL,AUT
 2328001,OE8AGK,Alfred Grascher ,,Eberndorf,KTN,AUT
 2328002,OE8DDK,no_name,,no_city,KTN,AUT
@@ -26582,7 +26607,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2328097,OE8KYK,Unterkoefler Henryk,,Ueberfeld,KTN,AUT
 2328098,OE8OGI,Wolfram Ogris ,,Feistritz im Rosental,KTN,AUT
 2328099,OE8SFK,Franz Schenk ,,Klagenfurt,KTN,AUT
-2328100,OE8ELO,Erich Londer,,Feldkirchen,KTN,AUT
+2328100,OE8ELO,no_name,,Feldkirchen In Kaernten,KTN,AUT
 2328101,OE8TEK,Elmar Tusch,,Bodensdorf,KTN,AUT
 2328212,OE8LBK,Helmut,,Villach,KTN,AUT
 2328502,OE8WLK,Wolf Spielvogel ,,Villach,KTN,AUT
@@ -34000,10 +34025,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348263,G4AQZ,Geoff,,Clacton-On-Sea,.,GBR
 2348264,M7ROC,Chris,,Newcastle Under Lyme,.,GBR
 2348265,M0IHY,Bryan,,Hemel Hempstead,.,GBR
+2348266,M0MKL,Mmeckel,,Preston,.,GBR
 2348267,M1AMY,Wayne,,Wadhurst,.,GBR
 2348268,M0SRS,Sid,,St Neots  Cambs,.,GBR
+2348269,M0TTY,Daz,,Mansfield,.,GBR
 2348270,G0CFB,Richard,,Huntingfield,.,GBR
 2348271,G0BDE,Barry,,Wigston,.,GBR
+2348272,M0SVL,Rupert,,Rugby,.,GBR
 2348273,2E0SKD,no_name,,no_city,.,GBR
 2348274,G7ULW,no_name,,no_city,.,GBR
 2348275,M7AOZ,Duncan,,Bradford,.,GBR
@@ -34068,6 +34096,16 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348348,G0TKZ,Morris Hamblin,,Edenbridge Kent,England,GBR
 2348349,G3DBJ,David Buggs,,Leiston Suffolk,.,GBR
 2348350,M3ZSL,no_name,,no_city,.,GBR
+2348351,G1KWF,Steve,,Huntingdon,.,GBR
+2348352,M7XXT,Philwright,,Mansfield,.,GBR
+2348354,2E0FSJ,David,,Mansfield,.,GBR
+2348355,G4JKM,Den,,Malmesbury,.,GBR
+2348356,G7RGR,Roger,,Burnham On Crouch,.,GBR
+2348357,G8CIX,Martin,,Southport,.,GBR
+2348358,G7AAI,Mike,,Irby,.,GBR
+2348359,M7WTJ,Tj,,Manchester,.,GBR
+2348360,M0UNC,no_name,,no_city,.,GBR
+2348361,M7DUB,no_name,,no_city,.,GBR
 2349999,GM0RDI,Iain Iain,,Lincoln,England,GBR
 2351001,G0PRF,John Goodwin,,Huddersfield,West Yorkshire,GBR
 2351002,G0PRF,John Goodwin,,Huddersfield,West Yorkshire,GBR
@@ -36653,6 +36691,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2353585,GW1MTH,Huw,,Merthyr Tydfil,.,GBR
 2353586,GW7KNF,no_name,,no_city,.,GBR
 2353587,MW6JYU,no_name,,Y Felinheli,.,GBR
+2353588,MW7MJL,Mikeladd,,Llanelli,.,GBR
+2353589,MW7APX,Craig,,Llanelli,.,GBR
 2354001,MM0MBK,Mark Bradshaw,,Cairneyhill,Scotland,GBR
 2354002,MM0MBK,Mark Bradshaw,,Cairneyhill,Scotland,GBR
 2354003,MM0MBK,Mark Bradshaw,,Cairneyhill,Scotland,GBR
@@ -37399,6 +37439,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2354744,MM7UPP,Bryan,,Orkney,.,GBR
 2354745,MM0YAB,Christopher Phillips,,Newtongrange.,.,GBR
 2354746,GM8KCS,Mike,,Edinburgh,.,GBR
+2354747,MM7XPP,no_name,,no_city,.,GBR
 2354749,MM0KGB,Julian Waddell,,North Ayrshire,.,GBR
 2354750,MM7IOD,Jamie Jarvis,,Irvine,.,GBR
 2354751,MM6LDS,Mrstephen,,Scotland,.,GBR
@@ -37934,6 +37975,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2355525,GI7VGR,no_name,,no_city,.,GBR
 2355526,MI7GLM,Gary,,Antrim,.,GBR
 2355527,MI7ATM,Anoushka,,Antrim,.,GBR
+2355528,MI7ELJ,Andrewe,,Belfast,.,GBR
 2355529,MI7UNI,Conor,,Armagh,.,GBR
 2355530,MI7JNJ,Jordan,,Craigavon,.,GBR
 2355531,MI6PIR,no_name,,no_city,.,GBR
@@ -38443,7 +38485,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2383017,OZ7JG,Jan,,Varde,Syddanmark,DNK
 2383018,OZ5TO,Keld,,Middelfart,Syddanmark,DNK
 2383019,5P3LH,Leif,,Vojens,Syddanmark,DNK
-2383020,OV6A,Jorgen Jensen,,Rudkoebing,Syddanmark,DNK
+2383020,OZ8ZY,Jorgen,,Rudkoebing,Syddanmark,DNK
 2383021,OZ1SQT,Michael,,Vejle,Syddanmark,DNK
 2383022,OZ5HSP,Kay Andersen,,Nyborg,Syddanmark,DNK
 2383023,OV7V,Henrik Nedergaard,,Nyborg,Syddanmark,DNK
@@ -41345,6 +41387,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2420139,LA2TNA,Syversen,,Dal,.,NOR
 2420140,LB8OI,Hanspeter,,Stjrdal,Trundelag,NOR
 2420141,LA8BTA,no_name,,Varhaug,.,NOR
+2420142,LB9HI,no_name,,no_city,.,NOR
 2421001,LA6VMA,Tommy,,Dal,Akershus,NOR
 2421002,LA7ZKA,Arve Moller,,Trollasen,Akershus,NOR
 2421003,LA2YUA,Robin Holm,,Strmmen,Akershus,NOR
@@ -42292,6 +42335,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2441104,OH9NB,Benny Aumala,,Rovaniemi,.,FIN
 2441105,OH3GFX,Janneantila,,Vilppula,.,FIN
 2441106,OH1GRL,no_name,,no_city,.,FIN
+2441107,OH5BZR,Joni-Pekka,,Lappeenranta,Etela-Karjala,FIN
+2441108,OH6HRX,Simo,,Kaelviae,.,FIN
 2442001,OH2LAK,Erik Finskas,,Espoo,Uusimaa,FIN
 2442002,OH2LAK,Erik Finskas,,Espoo,Uusimaa,FIN
 2442003,OH2LAK,Erik Finskas,,Espoo,Uusimaa,FIN
@@ -45143,6 +45188,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600161,SP5CIB,Janusz Leszczynski,,Jozefow,.,POL
 2600162,SQ8SBS,Stanislaw,,Jaslo,.,POL
 2600163,SP2VSP,Mariusz,,Zielonka,.,POL
+2600164,SP3UKK,Piotr,,Poznan,.,POL
+2600165,SP7JD,Zygmunt,,Zofiowka,.,POL
 2601001,SP1XNE,Maciek,,Szczecin,Zachodniopomorskie,POL
 2601002,SQ1TAO,Krzysztof,,Szczecin,Zachodniopomorskie,POL
 2601003,SQ1GZG,Bogdan Gwodziaski,,Stargard,Zachodniopomorskie,POL
@@ -48063,6 +48110,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620635,DG6DDF,Stefan Herwig,,Hattingen,NW,DEU
 2620636,DG5BKA,Christian Schroeder,,Dieblich,RP,DEU
 2620637,DF7JF,Hans-Joachim Steinsiek,,Essen,NW,DEU
+2620638,DC4KP,Peter Pischalka,,Koeln,NW,DEU
+2620639,DF1KW,Johannes Koering,,Bedburg-Hau,NW,DEU
+2620640,DO4NGN,Conny Weigand,,Nuernberg,BY,DEU
+2620641,DF0THK,Juergen Storch,,Zellingen,BY,DEU
+2620642,DG8SAD,Adolf Borzer,,Muehlacker,BW,DEU
+2620643,DM6KG,Gunnar Kuhnert,,Brachttal,HE,DEU
+2620644,DG4CG,Christian Gifhorn,,Hebertsfelden,BY,DEU
+2620645,DK3LU,Joerg Buechler,,Waibstadt,BW,DEU
+2620646,DL1RCD,Bernhard Brandl,,Fensterbach,BY,DEU
+2620647,DB5UX,Reiner Helm,,Lauf,BW,DEU
+2620648,DO7WC,Christian Wolff,,Altenburg,NI,DEU
 2621001,DL7AJ,Wolfgang Meier,,Berlin,BE,DEU
 2621002,DG4FEY,Thomas Kocher,,Berlin,BE,DEU
 2621003,DL7ATA,Frank Kochanski,,Berlin,BE,DEU
@@ -63624,6 +63682,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2861924,TA2NMT,Murat Sahin,,Istanbul,Stanbul,TUR
 2861925,TB2GJK,Kurtkapan,,Eskisehir,.,TUR
 2861926,TA5MCB,Cuneyt,,Nevsehir,Nevsehir,TUR
+2861927,TA5AW,no_name,,no_city,.,TUR
+2861928,TB9BZG,no_name,,no_city,.,TUR
+2861929,TA2O,no_name,,no_city,.,TUR
+2861930,TB9BNG,no_name,,no_city,.,TUR
+2861931,TA2MJK,no_name,,no_city,.,TUR
 2862001,TA2OI,Nejmettin Ozel,,Sulakyurt,Kirikkale,TUR
 2880001,OY8W,Steffen Solberg,,Kollafjorour,,FRO
 2880002,OY1DZ,Karstin,,Hoyvik,,FRO
