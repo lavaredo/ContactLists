@@ -235,6 +235,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2281232,HB9GXO,Alain ,Alain,Missy,,CHE
 2281233,HB9GUP,Cedric ,Cedric,Euseigne,,CHE
 2281234,HB9GFV,Greg ,Greg,Villarimboud,.,CHE
+2281235,HB9EVJ,Vincent Jeanrenaud,Vincent,Paudex,Westschweiz-Sud,CHE
 2282001,HB9OOI,Stephan Hofstetter,Stephan,Grenchen,Solothurn,CHE
 2282002,HB9BEI,Bruno Knuchel,Bruno,Taeuffelen,Bern,CHE
 2282003,HB9EZV,Michel Perrenoud,Michel,La Neuveville,Westschweiz-Nord,CHE
@@ -1771,6 +1772,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2321254,OE1JTC,no_name ,no_name,Wien,WIEN,AUT
 2321255,OE1AQL,no_name ,no_name,Wien,NOE,AUT
 2321256,OE1XA,no_name ,no_name,Wien,WIEN,AUT
+2321257,OE1LAB,Andreas Linhart,Andreas,Wien,WIEN,AUT
+2321258,OE1SPD,Sebastian Pfeifer,Sebastian,Wien,WIEN,AUT
+2321259,OE1EGU,Erwin Gamerith,Erwin,Wien,WIEN,AUT
 2321301,OE1BAD,no_name ,no_name,Wien,WIEN,AUT
 2321302,OE1PNS,Peter ,Peter,Wien,WIEN,AUT
 2321303,OE1MCU,no_name ,no_name,Wien,WIEN,AUT
@@ -2158,6 +2162,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2323318,OE3HLU,no_name ,no_name,Mank,NOE,AUT
 2323319,OE3PEA,no_name ,no_name,Gaubitsch,NOE,AUT
 2323320,OE3JSH,no_name ,no_name,Stockerau,NOE,AUT
+2323321,OE3RNW,Rudolf Nutz,Rudolf,Gloggnitz,NOE,AUT
+2323322,OE3HUS,Hans Haumer,Hans,Himberg,NOE,AUT
 2323333,OE3TRB,Thomas ,Thomas,Berndorf,NOE,AUT
 2323353,OE3MJA,no_name ,no_name,Seitenstetten,NOE,AUT
 2323354,OE3DNA,no_name ,no_name,Amstetten,NOE,AUT
@@ -3659,7 +3665,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620569,DO7UP,Marc Putzolu,Marc,Reutlingen,BW,DEU
 2620570,DH3AAJ,Andreas Eichner,Andreas,Goettingen,NI,DEU
 2620571,DL3YDJ,Werner Wieand,Werner,Haltern am See,NW,DEU
-2620572,DA0PE,Till Burkhardt,Till,Vechelde,NI,DEU
+2620572,DA0PE,Notfunk LK Peine,Notfunk,Peine,NI,DEU
 2620573,DO8LJR,Johannes Roehrs,Johannes,Moelln,SH,DEU
 2620574,DF6NL,Torsten Bischoff,Torsten,Schwabach,BY,DEU
 2620575,DL0PH,Christian Steinwand,Christian,Pforzheim,BW,DEU
@@ -3781,6 +3787,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620691,DD4IT,Frank Rohde,Frank,Marktoberdorf,BY,DEU
 2620692,DK4ZP,Willi Lang,Willi,Hainburg,HE,DEU
 2620693,DL7BN,Nihat Becerik,Nihat,No_city,,DEU
+2620694,DH1SBG,Bernhard Sept,Bernhard,Horb,BW,DEU
+2620695,DL1OY,Erhard Liebich,Erhard,Moenchengladbach,Nw,DEU
+2620696,DL6NEW,Norbert Liebl,Norbert,Lauf An der Pegnitz,BY,DEU
+2620697,DL1XY,Arne Woerheide,Arne,Hennigsdorf,BB,DEU
+2620698,DL3OBH,Thomas Altmann,Thomas,Springe,NI,DEU
+2620699,DM4XI,Maximilian Huettner,Maximilian,Schwarzenbach A.D. Saale,BY,DEU
+2620700,DB5UI,Karl-Heinz Gruner,Karl-Heinz,Erlangen,BY,DEU
+2620701,DG6SBZ,Christoph Hipp,Christoph,Stuttgart,BW,DEU
+2620702,DG8OP,Guenter Oestreich,Guenter,Haste,NI,DEU
 2621001,DL7AJ,Wolfgang Meier,Wolfgang,Berlin,BE,DEU
 2621002,DG4FEY,Thomas Kocher,Thomas,Berlin,BE,DEU
 2621003,DL7ATA,Frank Kochanski,Frank,Berlin,BE,DEU
@@ -15520,18 +15535,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2644849,DO7KY,Andreas Respondek,Andreas,Koeln,NW,DEU
 2644850,DL5JA,Peter Rommerskirchen,Peter,Schwalmtal,NW,DEU
 2644851,DO3THP,Thorben Potthast,Thorben,Bochum,NW,DEU
-2281235,HB9EVJ,Vincent Jeanrenaud,Vincent,Paudex,Westschweiz-Sud,CHE
-2620694,DH1SBG,Bernhard Sept,Bernhard,Horb,BW,DEU
-2620695,DL1OY,Erhard Liebich,Erhard,Moenchengladbach,Nw,DEU
-2620696,DL6NEW,Norbert Liebl,Norbert,Lauf An der Pegnitz,BY,DEU
-2620697,DL1XY,Arne Woerheide,Arne,Hennigsdorf,BB,DEU
-2620698,DL3OBH,Thomas Altmann,Thomas,Springe,NI,DEU
-2620699,DM4XI,Maximilian Huettner,Maximilian,Schwarzenbach A.D. Saale,BY,DEU
-2620700,DB5UI,Karl-Heinz Gruner,Karl-Heinz,Erlangen,BY,DEU
-2620701,DG6SBZ,Christoph Hipp,Christoph,Stuttgart,BW,DEU
-2321257,OE1LAB,Andreas Linhart,Andreas,Wien,WIEN,AUT
-2321258,OE1SPD,Sebastian Pfeifer,Sebastian,Wien,WIEN,AUT
-2321259,OE1EGU,Erwin Gamerith,Erwin,Wien,WIEN,AUT
-2323321,OE3RNW,Rudolf Nutz,Rudolf,Gloggnitz,NOE,AUT
-2323322,OE3HUS,Hans Haumer,Hans,Himberg,STMK,AUT
-2620702,DG8OP,Guenter Oestreich,Guenter,Haste,NI,DEU
+2284237,HB3XVF,Andrea Bertoneri,Andrea,Basel,.,CHE
+2620703,DO1RTM,Thomas Miller,Thomas,Neuhausen-Filder,BW,DEU
+2620704,DL2EP,Ulrich Fenner,Ulrich,Hamburg,HH,DEU
+2620705,DG7SBL,Peter Rieg,Peter,Bueckeburg,NI,DEU
+2620706,DL9GAS,Stefan Gollwitzer,Stefan,Schwarzenfeld,BY,DEU
+2620707,DO7WDG,Markus Gillhoff,Markus,Fischbach,RP,DEU
+2620708,DK5CH,Christian Hoeffken,Christian,Uedem,NW,DEU
+2620709,DJ3PX,Reinhold Schneider,Reinhold,Neustadt,RP,DEU
+2620710,DO1EL,Karlheinz Seifert,Karlheinz,Duisburg,NW,DEU
+2620711,DH0GME,Elmar Meiss,Elmar,Villingen-Schwenningen,BW,DEU
+2620712,DC8OH,Christian Fricke,Christian,Wunstorf,NI,DEU
+2620713,DG6DXG,Grzegorz Miodek,Grzegorz,Muenchen,BY,DEU
