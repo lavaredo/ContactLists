@@ -5671,7 +5671,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225670,IU8CDS,Raffaele Di Marco,Raffaele,Pontecagnano (SA),Campania,ITA,DMR
 2225671,IZ1MMM,Sergio Re,Sergio,Cuneo (CN),Piemonte,ITA,DMR
 2225672,IW2LPC,Alessandro Boldrini,Alessandro,Botticino (BS),Lombardia,ITA,DMR
-2225673,IU0DSZ,no_name ,no_name,no_city,,ITA,DMR
+2225673,IU0DSZ,no_name ,no_name,no_city,.,ITA,DMR
 2225674,IW6PIC,Ivo Pizzola,Ivo,Pratola Peligna (AQ),Abruzzo,ITA,DMR
 2225675,IU3MAQ,Ivan Berton,Ivan,Fosso' (VE),Veneto,ITA,DMR
 2225676,IK8WTK,Salvatore Ruggiero,Salvatore,Nocera Inferiore (SA),Campania,ITA,DMR
@@ -5925,6 +5925,15 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225924,IZ8GUA,Andrea Liparoti,Andrea,Cosenza (CS),Calabria,ITA,DMR
 2225925,IU8KDD,Raffaele ,Raffaele,San Nicola La Strada (CE),Campania,ITA,DMR
 2225926,IU2NWH,No_name ,No_name,Porto Mantovano (MN),Lombardia,ITA,DMR
+2225927,IW8EST,Luigi ,Luigi,No_city,,ITA,DMR
+2225928,IW0ROX,Alessandro ,Alessandro,Terni (TR),Umbria,ITA,DMR
+2225929,IS0MNR,Valente Leoni,Valente,Elmas (CA),Sardegna,ITA,DMR
+2225930,IT9BTI,Orazio Sorbello,Orazio,Riposto (CT),Sicilia,ITA,DMR
+2225931,IU2NRF,Massimo Esposito,Massimo,Gorno (BG),Lombardia,ITA,DMR
+2225932,IZ5YEJ,Antonio Sasso,Antonio,Santa Maria A Monte (PI),Toscana,ITA,DMR
+2225933,IZ2TEU,Daniele Poli,Daniele,Gardone Val Trompia (BS),Lombardia,ITA,DMR
+2225934,IN3IVV,Massimo ,Massimo,Sella Giudicarie (TN),Trentino AA,ITA,DMR
+2225935,IW0EQG,Sandro De Francesco,Sandro,Roma (RM),Lazio,ITA,DMR
 2226001,IZ6FGP,Mario Ranni,Mario,Ortona (CH),Abruzzo,ITA,DMR
 2226002,IK6TTE,Plinio Codastefano,Plinio,Casalbordino (CH),Abruzzo,ITA,DMR
 2226003,IZ6FGP,Mario Ranni,Mario,Ortona (CH),Abruzzo,ITA,DMR
@@ -8589,7 +8598,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2283199,HB3XTM,Mario ,Mario,Muehlethurnen,Bern und Oberwallis,CHE,DMR
 2283200,HB9RWR,Urs Fluekiger,Urs,Ersigen,,CHE,DMR
 2283201,HB9SHB,Marc ,Marc,Zollikofen,,CHE,DMR
-2283202,HB9RVH,no_name ,no_name,no_city,,CHE,DMR
+2283202,HB9RVH,no_name ,no_name,no_city,.,CHE,DMR
 2283203,HB9RVG,Roli ,Roli,Graechen,,CHE,DMR
 2283204,HB9TBI,Francesco ,Francesco,Bern,,CHE,DMR
 2283205,HB9EVN,Remo ,Remo,Bern,,CHE,DMR
@@ -8829,6 +8838,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284234,HB9TPQ,Dieter ,Dieter,Solothurn,,CHE,DMR
 2284235,HB9PFA,Albert ,Albert,Muenchenstein,,CHE,DMR
 2284236,HB9GVA,Romeo Kienzler,Romeo,Basel,,CHE,DMR
+2284237,HB3XVF,Andrea Bertoneri,Andrea,Basel,.,CHE,DMR
 2285001,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE,DMR
 2285002,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE,DMR
 2285003,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE,DMR
@@ -9154,7 +9164,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286254,HB9HEC,Gabri ,Gabri,Astano,Gabri,CHE,DMR
 2286255,HB3YTC,Roberto ,Roberto,Lumino,,CHE,DMR
 2286256,HB9TTY,Fred ,Fred,Buttisholz,,CHE,DMR
-2286257,HB9ERA,no_name ,no_name,no_city,,CHE,DMR
+2286257,HB9ERA,no_name ,no_name,no_city,.,CHE,DMR
 2286258,HB9GHD,Davide Paganoni,Davide,Piedmont,Zentralschweiz und T,CHE,DMR
 2287001,HB9FPO,Stefano ,Stefano,Poschiavo,Graubuenden,CHE,DMR
 2287002,HB9HAN,Roland Peter,Roland,Sargans,Graubuenden,CHE,DMR
@@ -9685,13 +9695,3 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2920019,T77TF,Tullio Fabbri,Tullio,San Marino,San Marino,SMR,DMR
 2920020,T77IC,Roberto Boroncelli,Roberto,San Marino,San Marino,SMR,DMR
 2920021,T77WL,Massimo Lusardi,Massimo,San Marino,San Marino,SMR,DMR
-2225928,IW0ROX,Alessandro ,Alessandro,Terni (TR),Umbria,ITA,DMR
-2225929,IS0MNR,Valente Leoni,Valente,Elmas (CA),Sardegna,ITA,DMR
-2225930,IT9BTI,Orazio Sorbello,Orazio,Riposto (CT),Sicilia,ITA,DMR
-2225931,IU2NRF,Massimo Esposito,Massimo,Gorno (BG),Lombardia,ITA,DMR
-2225932,IZ5YEJ,Antonio Sasso,Antonio,Santa Maria A Monte (PI),Toscana,ITA,DMR
-2225933,IZ2TEU,Daniele Poli,Daniele,Gardone Val Trompia (BS),Lombardia,ITA,DMR
-2225935,IW0EQG,Sandro De Francesco,Sandro,Roma (RM),Lazio,ITA,DMR
-2284237,HB3XVF,Andrea Bertoneri,Andrea,Basel,.,CHE,DMR
-2225927,IW8EST,Luigi ,Luigi,No_city,,ITA,DMR
-2225934,IN3IVV,Massimo ,Massimo,Sella Giudicarie (TN),Trentino AA,ITA,DMR

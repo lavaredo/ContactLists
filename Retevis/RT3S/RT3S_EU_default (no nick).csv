@@ -30,7 +30,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2020029,SY2DFT,Sotiris,,Thessaloniki,Sotiris,GRC
 2020030,SV1EJN,Panagiotis,,no_city,,GRC
 2020031,SV6NOJ,no_name,,Ioannina,SV6NOJ,GRC
-2020032,SV7HZG,no_name,,no_city,,GRC
+2020032,SV7HZG,Stavros,,Thrakia,Makedonia,GRC
 2020033,SY3ANS,Aris,,Korinthos,,GRC
 2020034,SV8PMU,Nikos,,Aigina,,GRC
 2020035,SY2BKW,no_name,,no_city,,GRC
@@ -47,41 +47,44 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2020046,SY3DAA,Angelos,,Ahaia,,GRC
 2020047,SV8AQY,Fivos,,Kefalonia Island,,GRC
 2020048,SW1QJO,Manolis,,Kamatero,,GRC
-2020049,SV7EUI,no_name,,Drama,,GRC
+2020049,SV7EUI,no_name,,Drama,.,GRC
 2020050,SV2QQZ,Iordanis,,Kalamaria,,GRC
 2020051,SV2MII,Vasileios,,Chalastra,Makedonia,GRC
 2020052,SV9ANC,Georgios,,Agios Nikolaos,GIORGOS,GRC
-2020053,SV2CUP,no_name,,no_city,,GRC
-2020054,SV1ELX,no_name,,no_city,,GRC
+2020053,SV2CUP,no_name,,no_city,.,GRC
+2020054,SV1ELX,no_name,,no_city,.,GRC
 2020055,SV2QHQ,Nio,,Thessaloniki,,GRC
 2020056,SV1LF,Alexandros,,Athens,Attica,GRC
 2020057,SV6KVG,Tolisescape,,Ioannina,,GRC
 2020058,SV2QQZ,Iordanis,,Kalamaria. Thessaloniki,Makedonia,GRC
-2020059,SY3DEM,no_name,,no_city,,GRC
+2020059,SY3DEM,no_name,,no_city,.,GRC
 2020060,SV8JNW,Dimitrios,,Lesvos Island,,GRC
 2020061,SV2BLF,Fotis,,Veria,,GRC
-2020062,SV2CLU,no_name,,no_city,,GRC
-2020063,SY1DGC,no_name,,no_city,,GRC
+2020062,SV2CLU,no_name,,no_city,.,GRC
+2020063,SY1DGC,no_name,,no_city,.,GRC
 2020064,SV1MNW,Gavriil,,no_city,,GRC
 2020065,SV2SEM,Ioannis,,Polygyros,,GRC
 2020066,SV2HXM,Mike,,Hortiatis,,GRC
 2020067,SV1MLS,Nik,,Athens,,GRC
 2020068,SY1DGI,Sot,,Athens,,GRC
-2020069,SV1IYW,no_name,,Athens,,GRC
+2020069,SV1IYW,no_name,,Athens,.,GRC
 2020070,SV1MNV,Giorgos,,Pangrati,,GRC
 2020071,SV1SDU,Michaella,,Penteli,,GRC
 2020072,SV1QZT,Konstantin,,no_city,Konstantin,GRC
 2020073,SV8JNM,Nikolaos,,Mytilene,,GRC
-2020074,SV3AWG,no_name,,no_city,,GRC
+2020074,SV3AWG,no_name,,no_city,.,GRC
 2020075,SV2LUX,Foteini,,Rhodes,,GRC
 2020076,SV1QA,Nikolaos,,Voula,Attiki,GRC
 2020077,SV2HNE,Theodorthessaloniki,,Thessaloniki,,GRC
-2020078,SV9GPE,no_name,,no_city,,GRC
-2020079,SV6RDY,no_name,,no_city,,GRC
-2020080,SV8KUH,no_name,,no_city,,GRC
+2020078,SV9GPE,no_name,,no_city,.,GRC
+2020079,SV6RDY,no_name,,no_city,.,GRC
+2020080,SV8KUH,no_name,,no_city,.,GRC
 2020081,SV2SDP,Lorenzo,,Thessaloniki,.,GRC
 2020082,SV2NRZ,Panos,,Kastoria,.,GRC
 2020083,SV7DHO,Kostas,,no_city,.,GRC
+2020084,SV1SMB,Georgios,,Athens,.,GRC
+2020085,SV2HTY,Iosif,,Thessaloniki,Anatoliki Makedonia Kai Thraki,GRC
+2020086,SW8LES,no_name,,no_city,.,GRC
 2021001,SV1BYK,Babis,,Athens,Attica,GRC
 2021002,SV1PDW,Ioannis,,Athens,Attica,GRC
 2021003,SV1IW,Emmanouel,,Athens,Attica,GRC
@@ -1358,7 +1361,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040037,PE1OFO,Lucien,,Raalte,,NLD
 2040038,PA0FXX,Martijn,,Zwolle,,NLD
 2040039,PA2HEN,Hennie,,Vlaardingen,,NLD
-2040040,PA0JMV,no_name,,Amersfoort,,NLD
+2040040,PA0JMV,no_name,,Amersfoort,.,NLD
 2040041,PA3FZU,Frank,,Tegelen,,NLD
 2040042,PE7N,Harm,,Hoofddorp,,NLD
 2040043,PA0KKV,Arne,,Geldrop,,NLD
@@ -1375,11 +1378,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040054,PE1IAA,Hndp,,Hoofddorp,,NLD
 2040055,PD2MSU,Mike,,Utrecht,,NLD
 2040056,PA3CPF,Albert,,Cadier En Keer,.,NLD
-2040057,PA4INO,no_name,,no_city,,NLD
+2040057,PA4INO,no_name,,no_city,.,NLD
 2040058,PD1CS,Huib,,Deventer,,NLD
 2040059,PD8RK,Robert,,Bergen Nh,,NLD
 2040060,PA3HEV,Perry,,Dordrecht,,NLD
-2040061,PD0LIB,no_name,,no_city,,NLD
+2040061,PD0LIB,no_name,,no_city,.,NLD
 2040062,PD2ACW,Arjen,,Groningen,.,NLD
 2040063,PD1BR,Bno_name,,Zh Harderwijk,.,NLD
 2040064,PD9MM,Mike,,Den Haag (THE HAGUE),.,NLD
@@ -1388,6 +1391,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040067,PA4WE,Wim,,Best,.,NLD
 2040068,PA3GWP,J,,Ng Santpoort Noord,.,NLD
 2040069,PD1MZ,Maarten,,Den Helder,.,NLD
+2040070,PD1JHH,Jan,,Hoogerheide,.,NLD
 2041001,PD2ML,Mark,,Bussum,Noord-Holland,NLD
 2041002,PD2ML,Mark,,Bussum,Noord-Holland,NLD
 2041003,PA2JM,Joop,,Amsterdam,Noord-Holland,NLD
@@ -3976,18 +3980,18 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060269,ON3EEE,Rien,,Diksmuide,,BEL
 2060270,ON5HH,Hugues,,Sauveniere,,BEL
 2060271,ON3RBN,Ruben,,Blankenberge,,BEL
-2060272,ON4OK,no_name,,no_city,,BEL
+2060272,ON4OK,no_name,,no_city,.,BEL
 2060273,ON7QR,Don,,Harelbeke,,BEL
-2060274,ON3CHT,no_name,,no_city,,BEL
-2060275,ON3ADK,no_name,,no_city,,BEL
-2060276,ON8IZ,no_name,,no_city,,BEL
-2060277,ON3TRI,no_name,,no_city,,BEL
+2060274,ON3CHT,no_name,,no_city,.,BEL
+2060275,ON3ADK,no_name,,no_city,.,BEL
+2060276,ON8IZ,no_name,,no_city,.,BEL
+2060277,ON3TRI,no_name,,no_city,.,BEL
 2060278,ON3ETH,Eric,,Marche En Famenne,Luxembourg,BEL
 2060280,ON3NIC,Nic,,Namur,,BEL
 2060281,ON4AGP,Peterderidder,,Kortenberg,,BEL
-2060282,ON3CG,no_name,,no_city,,BEL
+2060282,ON3CG,no_name,,no_city,.,BEL
 2060283,ON4VDM,Wildcath1,,Hasselt,,BEL
-2060284,ON6OP,no_name,,no_city,,BEL
+2060284,ON6OP,no_name,,no_city,.,BEL
 2060285,ON4CN,Claude,,Warquignies (COLFONTAINE),HAI,BEL
 2060286,ON4TA,Filip,,Geetbets,Flemish Brabant,BEL
 2060287,ON7TH,Wilfried,,Bpoperinge,,BEL
@@ -4607,7 +4611,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2063110,ON8GL,Glenn,,St.Joris-Winge,Flemish Brabant,BEL
 2063111,ON3DDL,Luc,,Tienen,Vlaams Brabant,BEL
 2063112,ON3DMT,Tommy,,Keerbergen,Vlaams Brabant,BEL
-2063113,ON8RF,no_name,,no_city,,BEL
+2063113,ON8RF,Stephane,,Montigny-Le-Bretonneux,FR,BEL
 2063114,ON7DAN,DanielDeGreef,,Halle,Vlaams Brabant,BEL
 2063115,ON6IS,Rob,,Linden,Vlaams Brabant,BEL
 2063116,ON8AT,Christian,,Scherpenheuvel-Zichem,Vlaams Brabant,BEL
@@ -5463,21 +5467,21 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080356,F5SJJ,Dominique,,Saint Sorlin En Bugey,,FRA
 2080357,F4INN,Pierreyves,,Vetraz-Monthoux,,FRA
 2080358,F4FGK,Marc,,Saint-Aubin-Sur-Mer,,FRA
-2080359,F4INY,no_name,,no_city,,FRA
+2080359,F4INY,no_name,,no_city,.,FRA
 2080360,F0DEI,Toufik,,Moirans En Montagne,,FRA
-2080361,F0EOC,no_name,,no_city,,FRA
+2080361,F0EOC,no_name,,no_city,.,FRA
 2080362,F0GOC,Jean-Jacques,,Marseille,JeanJacques,FRA
 2080363,F1IUS,Charles,,no_city,,FRA
 2080364,F0FQL,Fernando,,Saint Martin De Sescas,Fernando,FRA
-2080365,F1UBL,no_name,,no_city,,FRA
+2080365,F1UBL,no_name,,no_city,.,FRA
 2080366,F0FUO,Alberto,,Sainte Maxime,,FRA
 2080367,F0GFI,Daniel,,La Sentinelle,,FRA
 2080368,F0GVD,Serge,,Les Angles,,FRA
 2080369,F5HLQ,Jeanclaude,,Loray,,FRA
 2080370,F0DVI,Christophe,,Saint Avertin,,FRA
 2080371,F0DXQ,Halim,,Vernon,,FRA
-2080372,F0GTK,no_name,,no_city,,FRA
-2080373,F0GVN,no_name,,no_city,,FRA
+2080372,F0GTK,no_name,,no_city,.,FRA
+2080373,F0GVN,no_name,,no_city,.,FRA
 2080374,F0FPZ,Jeanlouis,,Ottersthal,,FRA
 2080375,F5TFI,Rene,,Guebwiller,,FRA
 2080376,F0GCL,Farid,,Suippes,,FRA
@@ -5492,48 +5496,48 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080385,F0EGV,Thierry,,Pierrefonds,,FRA
 2080386,F0EOS,Andre,,Noisy Le Grand,,FRA
 2080387,F5JQF,Yves,,Amberieu,,FRA
-2080388,F1TVH,no_name,,no_city,,FRA
-2080389,F4IGU,no_name,,no_city,,FRA
+2080388,F1TVH,no_name,,no_city,.,FRA
+2080389,F4IGU,no_name,,no_city,.,FRA
 2080390,F6DXE,Didier,,Scaer,Piemonte,FRA
 2080391,F4WAT,Johan,,Boissey Le Chatel,All Others,FRA
 2080392,F5LMI,Pierre,,Labege,Occitanie,FRA
 2080393,F6BLP,Francis,,La Teste De Buch,,FRA
 2080394,F1AVR,Alain,,Pact,,FRA
-2080395,F0DTV,no_name,,no_city,,FRA
-2080396,F4ELU,no_name,,no_city,,FRA
-2080397,F0FVJ,no_name,,no_city,,FRA
-2080398,F4FPP,no_name,,no_city,,FRA
+2080395,F0DTV,no_name,,no_city,.,FRA
+2080396,F4ELU,no_name,,no_city,.,FRA
+2080397,F0FVJ,no_name,,no_city,.,FRA
+2080398,F4FPP,no_name,,no_city,.,FRA
 2080399,F0CYQ,David,,Saint Vincent De Tyrosse,,FRA
 2080400,F1ADT,Patrick,,Thionville,,FRA
 2080401,F4BPO,Greg,,La Destrousse,,FRA
-2080402,F4FMQ,no_name,,no_city,,FRA
-2080403,F1TYV,no_name,,no_city,,FRA
+2080402,F4FMQ,no_name,,no_city,.,FRA
+2080403,F1TYV,no_name,,no_city,.,FRA
 2080404,F6JFE,Christian,,Griesheim Sur Souffel,,FRA
 2080405,F4GMA,Michel,,Sermerieu,,FRA
-2080406,F4GNB,no_name,,no_city,,FRA
-2080407,F4AAI,no_name,,no_city,,FRA
+2080406,F4GNB,no_name,,no_city,.,FRA
+2080407,F4AAI,no_name,,no_city,.,FRA
 2080408,F5NMO,Patrick,,St Pierre Des Bois,Pays de la Loire,FRA
 2080409,F5LIW,Alain,,At  Kilometers (ABOUT  MILES),,FRA
 2080410,F5VFO,Michel,,Lizant,,FRA
 2080411,F8AST,David,,La Turbie,,FRA
 2080412,F0HBA,Luc,,no_city,,FRA
-2080413,F4CGB,no_name,,no_city,,FRA
+2080413,F4CGB,no_name,,no_city,.,FRA
 2080414,F1JBX,Ametller,,Morsbach,,FRA
 2080415,F8PMO,Christophe,,St Georges De Didonne,Nouvelle-Aquitaine,FRA
-2080416,F1LVT,no_name,,no_city,,FRA
+2080416,F1LVT,no_name,,no_city,.,FRA
 2080417,F1IUS,Didier,,no_city,,FRA
-2080418,F4IMI,no_name,,no_city,,FRA
-2080419,F0GFM,no_name,,no_city,,FRA
+2080418,F4IMI,no_name,,no_city,.,FRA
+2080419,F0GFM,no_name,,no_city,.,FRA
 2080420,F1AGU,Charles-Henri,,Aillon Le Vieux,RhÃƒÂƒÃ‚ne-Alpes,FRA
-2080421,F5NLG,no_name,,no_city,,FRA
-2080422,F4IJH,no_name,,no_city,,FRA
-2080423,F5VLO,no_name,,no_city,,FRA
-2080424,F4CMU,no_name,,no_city,,FRA
+2080421,F5NLG,no_name,,no_city,.,FRA
+2080422,F4IJH,no_name,,no_city,.,FRA
+2080423,F5VLO,no_name,,no_city,.,FRA
+2080424,F4CMU,no_name,,no_city,.,FRA
 2080425,F0GUC,Ray,,Pressac,,FRA
 2080426,F4ICM,Francois,,Montrouge,Ile-de-France,FRA
-2080427,F5TGR,no_name,,no_city,,FRA
-2080428,F4ICE,no_name,,no_city,,FRA
-2080429,F0HAK,no_name,,no_city,,FRA
+2080427,F5TGR,no_name,,no_city,.,FRA
+2080428,F4ICE,no_name,,no_city,.,FRA
+2080429,F0HAK,no_name,,no_city,.,FRA
 2080430,F1DOA,Marc,,Magnanville,Ile-de-France,FRA
 2080431,F4HUX,Porto49,,Soulaire Et Bourg,Pays de la Loire,FRA
 2080432,F4OKC,Herve,,Vitrolles,ProVenetoce-Alpes-Cte dAzur,FRA
@@ -5541,18 +5545,19 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080434,F4DJC,Joseph,,Vic Fezensac,,FRA
 2080435,F4FXW,Yannick,,Dijon,.,FRA
 2080436,F0DTE,Bernard,,Muret,,FRA
-2080437,F5MHI,no_name,,no_city,,FRA
-2080438,F4IKN,no_name,,no_city,,FRA
+2080437,F5MHI,no_name,,no_city,.,FRA
+2080438,F4IKN,no_name,,no_city,.,FRA
 2080439,F4IHU,Seyer,,Angerville La Martel,Seine-Maritime,FRA
 2080440,F4GVV,Julien,,Palaiseau,,FRA
-2080441,F0GBY,no_name,,no_city,,FRA
-2080442,F5AAJ,no_name,,no_city,,FRA
+2080441,F0GBY,no_name,,no_city,.,FRA
+2080442,F5AAJ,no_name,,no_city,.,FRA
 2080443,F5TTB,Liste,,no_city,.,FRA
 2080444,F0GAG,Herve,,Thulay,Doubs,FRA
 2080445,F5IOR,Gilbert,,La Motte Saintjean,.,FRA
 2080446,F1SVR,no_name,,no_city,.,FRA
 2080447,F5OLC,Yves,,Nueil-Les-Aubiers,.,FRA
 2080448,F6CRB,Jean,,no_city,.,FRA
+2080449,F5LRG,Bruno,,Saint Orens De Gameville,.,FRA
 2081001,F1UOT,Olivier,,Suresnes,Ile-de-France,FRA
 2081002,F4ACD,Romain,,Poitiers,Vienne,FRA
 2081003,F1TDI,Daniel,,Suresnes,Paris,FRA
@@ -6009,7 +6014,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2082247,F1HBA,Gilbert,,Aubonne,Doubs,FRA
 2082248,F1RYY,Gilles,,Saint-Etienne,Auvergne-Rhone-Alpes,FRA
 2082249,F4HWY,Gilbert,,Sainte-Sigolene,Rhne-Alpes,FRA
-2082250,F1RYY,no_name,,no_city,,FRA
+2082250,F1RYY,Gilles,,Saint-Etienne,Auvergne-Rhone-Alpes,FRA
 2082251,F4ATT,Bernard,,Lyon,Rhne-Alpes,FRA
 2082252,F1MJM,Pierre,,no_city,,FRA
 2082253,F6IJC,Gilbert,,Chamblay          France,Rhne-Alpes,FRA
@@ -6532,7 +6537,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2086167,F4IER,Jacques,,Liste Orange,Aquitaine,FRA
 2086168,F4IIK,Renaud,,La Bussiere,Aquitaine,FRA
 2086169,F6FZQ,Maxime,,Blanquefort,Nouvelle-Aquitaine,FRA
-2086170,F1TFV,no_name,,no_city,,FRA
+2086170,F1TFV,Jeanphilippe,,Martillac,JeanPhilippe,FRA
 2086171,F8PMO,no_name,,no_city,,FRA
 2086172,F5ODW,Claude,,Blanquefort,Nouvelle-Aquitaine,FRA
 2087001,F6HTJ,Michel,,Perpignan,Languedoc-Roussillon,FRA
@@ -7388,33 +7393,33 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140117,EA5IYQ,Jose,,Murcia,JOSE,ESP
 2140118,EA7DOC,no_name,,no_city,,ESP
 2140119,EA1HLP,Andresarias,,Avila,,ESP
-2140120,EA5GZS,no_name,,no_city,,ESP
+2140120,EA5GZS,no_name,,no_city,.,ESP
 2140121,EB7FPX,Ins,,Malaga,,ESP
 2140122,EB5JJI,Juan314,,Alcoy,,ESP
 2140123,EA7JTS,Rafael,,Espaa,,ESP
 2140124,EA2BS,Jose,,Bilbao,,ESP
 2140125,EA7JNX,Anastasio,,Orcera-Jaen,,ESP
-2140126,EA2CYF,no_name,,no_city,,ESP
-2140127,EA7XZ,no_name,,Cordoba,,ESP
+2140126,EA2CYF,no_name,,no_city,.,ESP
+2140127,EA7XZ,no_name,,Cordoba,.,ESP
 2140128,EA3IGG,Jorge,,Olot,,ESP
 2140129,EA4LT,Jociles,,San Vicente De Alcintara,,ESP
 2140130,EA2DDC,Xavi,,no_city,,ESP
 2140131,EA3HET,Puerma,,Bossost,,ESP
 2140132,EA4DGW,Ridguay,,Call Sing Cxaj Uruguay,,ESP
-2140133,EA1FFW,no_name,,no_city,,ESP
+2140133,EA1FFW,no_name,,no_city,.,ESP
 2140134,EA5AQP,Jose,,Ibi,,ESP
-2140135,EA3EXE,no_name,,Vilamos,,ESP
+2140135,EA3EXE,no_name,,Vilamos,.,ESP
 2140136,EA4FKZ,Pepe,,Ribera Del Fresno,,ESP
 2140137,EB3ETX,Marc,,Llia Docamunt,,ESP
 2140138,EA1GDU,Toito,,Camarias,,ESP
 2140139,EA7JZD,Santos,,Marbella,Andalucia,ESP
-2140140,EA1GGC,no_name,,no_city,,ESP
-2140141,EA6ADO,no_name,,no_city,,ESP
-2140142,EA1HOO,no_name,,no_city,,ESP
-2140143,EA5IZQ,no_name,,no_city,,ESP
-2140144,EA7IRF,no_name,,no_city,,ESP
+2140140,EA1GGC,no_name,,no_city,.,ESP
+2140141,EA6ADO,no_name,,no_city,.,ESP
+2140142,EA1HOO,no_name,,no_city,.,ESP
+2140143,EA5IZQ,no_name,,no_city,.,ESP
+2140144,EA7IRF,no_name,,no_city,.,ESP
 2140145,EA8ATE,Sergio,,Telde,,ESP
-2140146,EA7ZU,no_name,,no_city,,ESP
+2140146,EA7ZU,no_name,,no_city,.,ESP
 2140147,EA5HXG,German,,Callosa Segura,,ESP
 2140148,EA6MW,Joan,,Soller,,ESP
 2140149,EA8CPE,Josejuan,,San Sebastian,la Gomera,ESP
@@ -7432,27 +7437,27 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140161,EB7NO,Francisco,,Benalmidena Costa,Andalucia,ESP
 2140162,EA7UA,Manuel,,Sevilla,Andalucia,ESP
 2140163,EA1IBS,Juan,,Santiago De Compostela,Galicia,ESP
-2140164,EA1FGP,no_name,,Valdelosa,,ESP
+2140164,EA1FGP,no_name,,Valdelosa,.,ESP
 2140165,EA5IOD,Calle,,Valencia,,ESP
-2140166,EA1EBJ,no_name,,no_city,,ESP
-2140167,EA4HHM,no_name,,no_city,,ESP
-2140168,EB7CTU,no_name,,no_city,,ESP
-2140169,EA5HCG,no_name,,no_city,,ESP
+2140166,EA1EBJ,no_name,,no_city,.,ESP
+2140167,EA4HHM,no_name,,no_city,.,ESP
+2140168,EB7CTU,no_name,,no_city,.,ESP
+2140169,EA5HCG,no_name,,no_city,.,ESP
 2140170,EB1HZX,Pedro,,Ponferrada,,ESP
 2140171,EA8CAZ,Carmelo,,Los Realejos,Islas Canarias,ESP
-2140172,EA7GYC,no_name,,no_city,,ESP
+2140172,EA7GYC,no_name,,no_city,.,ESP
 2140173,EA4LT,Juan,,San Vicente De Alcantara Badajoz,JOCILES,ESP
-2140174,EA1CCG,no_name,,no_city,,ESP
-2140175,EA1BC,no_name,,no_city,,ESP
+2140174,EA1CCG,no_name,,no_city,.,ESP
+2140175,EA1BC,no_name,,no_city,.,ESP
 2140176,EA5EJG,Manuel,,Ibi (ALICANTE),,ESP
 2140177,EA3IHQ,Luis,,Santa Coloma De Gramanet,,ESP
-2140178,EA6AMW,no_name,,no_city,,ESP
+2140178,EA6AMW,no_name,,no_city,.,ESP
 2140179,EA3EWF,Cesc,,Sabadell,,ESP
-2140180,EA3BVU,no_name,,no_city,,ESP
-2140181,EA3IGL,no_name,,no_city,,ESP
+2140180,EA3BVU,no_name,,no_city,.,ESP
+2140181,EA3IGL,no_name,,no_city,.,ESP
 2140182,EA2DZE,Gorkaalvarado,,Errenteria,,ESP
-2140183,EA3HPV,no_name,,no_city,,ESP
-2140184,EA3HCK,no_name,,no_city,,ESP
+2140183,EA3HPV,no_name,,no_city,.,ESP
+2140184,EA3HCK,no_name,,no_city,.,ESP
 2140185,EA8CJN,Tomasrodolfo,,San Isidro Abona Tenerife,,ESP
 2140186,EA1EWC,Luis,,Asturias. Oviedo.,Asturias,ESP
 2140187,EA2ESD,Andoni,,Laudio,,ESP
@@ -7463,24 +7468,24 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140192,EA3FUU,Jose,,Sabadell,,ESP
 2140193,EA1ADO,Julian,,Vimianzo,,ESP
 2140194,EA5IMG,Joseantonio,,Alcantarilla,,ESP
-2140195,EA8BZL,no_name,,Chio,,ESP
+2140195,EA8BZL,no_name,,Chio,.,ESP
 2140196,EB1JAJ,Dani,,Oviedo,,ESP
-2140197,EB4DPM,no_name,,no_city,,ESP
-2140198,EA6T,no_name,,no_city,,ESP
-2140199,EA4BZV,no_name,,no_city,,ESP
+2140197,EB4DPM,no_name,,no_city,.,ESP
+2140198,EA6T,no_name,,no_city,.,ESP
+2140199,EA4BZV,no_name,,no_city,.,ESP
 2140200,EA2EAP,Ivanr,,San Sebastiin,,ESP
-2140201,EA1GMA,no_name,,no_city,,ESP
-2140202,EA6ADK,no_name,,no_city,,ESP
-2140203,EB1GGD,no_name,,no_city,,ESP
-2140204,EB4FLH,no_name,,no_city,,ESP
+2140201,EA1GMA,no_name,,no_city,.,ESP
+2140202,EA6ADK,no_name,,no_city,.,ESP
+2140203,EB1GGD,no_name,,no_city,.,ESP
+2140204,EB4FLH,no_name,,no_city,.,ESP
 2140205,EA7IFV,David,,no_city,,ESP
-2140206,EA3DNL,no_name,,no_city,,ESP
-2140207,EA8CWY,no_name,,no_city,,ESP
+2140206,EA3DNL,no_name,,no_city,.,ESP
+2140207,EA8CWY,no_name,,no_city,.,ESP
 2140208,EA5JP,Ramon,,Orihuela Alicante,Alicante,ESP
 2140209,EA3HHF,Axel,,Navarcles,,ESP
 2140210,EA2EPQ,Iaki,,Loiu,,ESP
 2140211,EA5HYZ,Sergio,,Valencia,,ESP
-2140212,EA5IXV,no_name,,no_city,,ESP
+2140212,EA5IXV,no_name,,no_city,.,ESP
 2140213,EA3HCR,Jcebria,,no_city,,ESP
 2140214,EA6SK,Miquel,,Alcudia,,ESP
 2140215,EA1FFK,Constan,,no_city,,ESP
@@ -7488,17 +7493,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140217,EA5IZU,Aladroke,,no_city,,ESP
 2140218,EA3ERE,Joan,,Les Masies De Voltrega,,ESP
 2140219,EA2DOB,David,,Zaragoza,Aragon,ESP
-2140220,EA5IZL,no_name,,no_city,,ESP
+2140220,EA5IZL,no_name,,no_city,.,ESP
 2140221,EA1CNA,Carlosjavier,,Len,,ESP
 2140222,EA8VL,Jaime,,Santa Cruz De Tenerife,,ESP
 2140223,EA1ANM,Feliciano,,Madrid,,ESP
 2140224,EB2AMO,Jesus,,Zaragoza,,ESP
 2140225,EA5CC,Francisco,,Cp:  Cieza (MURCIA),,ESP
-2140226,EA4GOU,no_name,,no_city,,ESP
+2140226,EA4GOU,no_name,,no_city,.,ESP
 2140227,EA7IPN,Willy,,San Pablode Buceite,,ESP
-2140228,EA3IHS,no_name,,no_city,,ESP
-2140229,EA4HFG,no_name,,no_city,,ESP
-2140230,EA5IZM,no_name,,no_city,,ESP
+2140228,EA3IHS,no_name,,no_city,.,ESP
+2140229,EA4HFG,no_name,,no_city,.,ESP
+2140230,EA5IZM,no_name,,no_city,.,ESP
 2140231,EA3ATS,Ridguay,,Call Sing Cxaj Uruguay,,ESP
 2140232,EA7IJX,Jose,,Sevilla,,ESP
 2140233,EA1EGO,Juan,,no_city,,ESP
@@ -7536,7 +7541,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140265,EA1C,Juancarlos,,Logroo,,ESP
 2140266,EB3CAM,Xavi,,Barcelona,Cataluna,ESP
 2140267,EA2EPA,Unai,,no_city,.,ESP
-2140268,EA1BYZ,no_name,,no_city,,ESP
+2140268,EA1BYZ,no_name,,no_city,.,ESP
 2140269,EB4HAU,Calambre_cr,,Pozuelo De Calatrava,,ESP
 2140270,EA4EEW,Jesus,,Boadilla Del Monte (MADRID),.,ESP
 2140271,EB2VP,Pablo,,Rasal,,ESP
@@ -7546,27 +7551,28 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140275,EA1FGO,Juliin,,no_city,,ESP
 2140276,EA3HVZ,Ea,,no_city,,ESP
 2140277,EA4BZF,David,,Esplasencia,,ESP
-2140278,EA3HYR,no_name,,no_city,,ESP
+2140278,EA3HYR,no_name,,no_city,.,ESP
 2140279,EA9DX,Juan,,Melilla,.,ESP
-2140280,EA8DJC,no_name,,no_city,,ESP
-2140281,EA8YG,no_name,,no_city,,ESP
+2140280,EA8DJC,no_name,,no_city,.,ESP
+2140281,EA8YG,no_name,,no_city,.,ESP
 2140282,EC7AMY,Juan,,Sevilla,.,ESP
 2140283,EA3IGU,Sergio,,Badalona Cat Jnck,,ESP
 2140284,EB5R,Alfredo,,Torrent (VALENCIA),,ESP
 2140285,EB5IBZ,Antonio,,Elche,,ESP
 2140286,EA8UE,Damian,,Granadilla Tenerife,,ESP
 2140287,EA1FHC,Carlos,,no_city,,ESP
-2140288,EA7JPZ,no_name,,no_city,,ESP
+2140288,EA7JPZ,no_name,,no_city,.,ESP
+2140289,EA1JAB,Norberto,,Leon Spain,.,ESP
 2140290,EA8CIF,Juan,,Tenerife,,ESP
 2140291,EA5HPO,David,,Valencia,,ESP
 2140292,EA4HHW,Antonio,,Guadarrama,.,ESP
 2140293,EA4BNS,Domingo,,Villafranca De Los Caball,,ESP
 2140294,EA1ETV,Santiago,,Sada (LA CORUNA),,ESP
 2140295,EA4FNJ,Nacho,,Hervas,,ESP
-2140296,EA8CMT,no_name,,no_city,,ESP
+2140296,EA8CMT,no_name,,no_city,.,ESP
 2140297,EA7HMJ,Claudio,,Dos Hermanas ( SEVILLA ),Andalucia,ESP
-2140298,EA3HYD,no_name,,no_city,,ESP
-2140299,EA7KBG,no_name,,no_city,,ESP
+2140298,EA3HYD,no_name,,no_city,.,ESP
+2140299,EA7KBG,no_name,,no_city,.,ESP
 2140300,EC5AA,no_name,,no_city,.,ESP
 2140301,EA5GJT,no_name,,no_city,.,ESP
 2140302,EA4FSE,Ismael,,Merida (BADAJOZ),.,ESP
@@ -7581,6 +7587,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140312,EA2BTN,Jokin,,Amurrio,.,ESP
 2140313,EA2EGY,Begoat,,Amurrio,.,ESP
 2140314,EA5IXF,no_name,,no_city,.,ESP
+2140315,EB4EDV,Basilio,,Madrid,.,ESP
+2140316,EA5HQ,Marcus,,La Murta,.,ESP
+2140317,EA2CLE,Ren,,Bilbao,.,ESP
+2140318,EA7KJL,Juan,,Jerez De La Frontera,.,ESP
+2140319,EA5IZS,Ea5izs,,no_city,.,ESP
 2141001,EB1CU,Andoni,,Castro Urdiales,Cantabria,ESP
 2141002,EA1DBB,Adolfo,,Ourense,Galicia,ESP
 2141003,EB1CU,Axpe,,Castro Urdiales,Cantabria,ESP
@@ -8532,7 +8543,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2141949,EA1FBW,Salvador,,Salamanca,CPiemontella y Leon,ESP
 2141950,EB1ACH,Fernando,,La Robla ( LEON ),CPiemontella y Leon,ESP
 2141951,EA1AQK,Jose,,Sotrondio,Asturias,ESP
-2141952,EA1FDK,no_name,,Ponferrada,CPiemontella y Leon,ESP
+2141952,EA1FDK,Javier,,Ponferrada,Castilla y Leon,ESP
 2141953,EA1EWS,Josemiguel,,Laguna De Duero,CPiemontella y Leon,ESP
 2141954,EA1FDT,Paco,,La Alamedilla,CPiemontella y Leon,ESP
 2141955,EA1JBL,Jose,,Ujo Mieres. Asturias,Asturias,ESP
@@ -9274,7 +9285,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2142692,EA2DOB,David,,no_city,,ESP
 2142693,EA1FEJ,no_name,,no_city,,ESP
 2142694,EA1FFA,Alberto,,Gijon,Asturias,ESP
-2142695,EA1G,no_name,,no_city,,ESP
+2142695,EA1G,Fernando,,Nava. Asturias,Fernando,ESP
 2142696,EA1FGA,no_name,,no_city,,ESP
 2142697,EA1GGN,Francisco,,Salamanca,,ESP
 2143001,EA3DKP,Ricardo,,Roses,Girona,ESP
@@ -10132,14 +10143,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2143853,EA3HSP,Albert,,Lhospitalet De Llobrega,Cataluna,ESP
 2143854,EA3UM,Magin,,Castelldefels,Cataluna,ESP
 2143855,EA3FLS,Esteve,,Rubi,EA3FLSEsteve,ESP
-2143856,EA3HWE,no_name,,no_city,,ESP
+2143856,EA3HWE,Eric,,Barcelona,Cataluna,ESP
 2143857,EA3IIA,JLU,,Barcelona,Cataluna,ESP
 2143858,EA3HDD,no_name,,no_city,,ESP
 2143859,EA3ZK,Manel,,Reus (TARRAGONA),Cataluna,ESP
 2143860,EA3EED,Antoni,,Barcelona,Cataluna,ESP
 2143861,EA3URE,UREEMPORDA,,Figueres,Cataluna,ESP
 2143862,EA3IBV,NELSON,,Figueres,Cataluna,ESP
-2143864,EA3GMT,no_name,,no_city,,ESP
+2143864,EA3GMT,Antoni,,no_city,,ESP
 2143865,EA3HJJ,no_name,,no_city,,ESP
 2143866,EA3GMT,Antoni,,no_city,,ESP
 2144001,EA4FVK,Humphrey,,Albacete,Castile-La Mancha,ESP
@@ -13133,6 +13144,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2160017,HA5FLY,Laszlo,,Bukkszenterzsebet,,HUN
 2160018,HG5CXR,Harmincz,,Budapest,,HUN
 2160019,HA8HA,Adam,,Mako,Csongrad,HUN
+2160020,HA9NI,Istvan,,Hajduszoboszlo,.,HUN
 2161001,HA2TO,Arpad,,Papa,Veszprum,HUN
 2161002,HA4XA,Istvan,,Szekesfehervar,Fejur,HUN
 2161003,HA9MDP,Peter,,Babolna,Komurom-Esztergom,HUN
@@ -13842,9 +13854,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2180198,E75EHK,Eldin,,Krasevo,,BIH
 2180199,E71AZ,no_name,,Tuzla,,BIH
 2180200,E77TT,Kurusic,,Blagoja Parovica,Ljubisa,BIH
-2180201,E77BAG,no_name,,no_city,,BIH
+2180201,E77BAG,no_name,,no_city,.,BIH
 2180202,E73SSG,Bojan,,no_city,Bosnia-Herzegovina,BIH
-2180203,E70AB,no_name,,no_city,,BIH
+2180203,E70AB,no_name,,no_city,.,BIH
 2180204,E76BV,Vladimir,,Mostar,,BIH
 2180205,E74MMA,Pero,,Foca,,BIH
 2180206,E78ACO,Alex,,Banja Luka,,BIH
@@ -14096,7 +14108,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2190228,9A3GIB,Igor,,Vojnic,,HRV
 2190229,9A3ADF,Fera,,Petrinja,,HRV
 2190230,9A5CB,Zvonimir,,Hrrakov Potok,,HRV
-2190231,9A3DZL,no_name,,Kostrena,,HRV
+2190231,9A3DZL,Nebojsa,,Kostrena,,HRV
 2190232,9A5C,Kruno,,Zagreb,,HRV
 2190233,9A7BBP,Miro,,Karlovac,,HRV
 2190234,9A1ZRS,no_name,,no_city,,HRV
@@ -14143,15 +14155,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2190275,9A1PET,Radio,,Sisak-Moslavina,,HRV
 2190276,9A0PT,Radio,,Sisak-Moslavina,,HRV
 2190277,9A5JU,Jura,,Sesvete,Zagreb,HRV
-2190278,9A3IB,no_name,,no_city,,HRV
-2190279,9A3CHE,no_name,,no_city,,HRV
-2190280,9A1CEU,no_name,,no_city,,HRV
-2190281,9A7PPM,no_name,,no_city,,HRV
-2190282,9A1RDX,no_name,,no_city,,HRV
+2190278,9A3IB,no_name,,no_city,.,HRV
+2190279,9A3CHE,no_name,,no_city,.,HRV
+2190280,9A1CEU,no_name,,no_city,.,HRV
+2190281,9A7PPM,no_name,,no_city,.,HRV
+2190282,9A1RDX,no_name,,no_city,.,HRV
 2190283,9A6OY,Mate,,Makarska,,HRV
-2190284,9A1CUA,no_name,,Ozalj,,HRV
-2190285,9A2U,no_name,,no_city,,HRV
-2190286,9A6PSK,no_name,,no_city,,HRV
+2190284,9A1CUA,no_name,,Ozalj,.,HRV
+2190285,9A2U,no_name,,no_city,.,HRV
+2190286,9A6PSK,no_name,,no_city,.,HRV
 2190287,9A3BSE,Sinisa,,Rijeka,Primorsko-goranska zupanija,HRV
 2190288,9A5ADS,Danijel,,Zagreb,,HRV
 2190289,9A3AAY,Franck,,Kapela,,HRV
@@ -14159,8 +14171,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2190291,9A3AFP,Ivana,,Kapela,,HRV
 2190292,9A3AFE,Ivancica,,Kapela,,HRV
 2190293,9A3AFI,Velimir,,Cakovec,,HRV
-2190294,9A6NND,no_name,,no_city,,HRV
-2190295,9A4VS,no_name,,no_city,,HRV
+2190294,9A6NND,no_name,,no_city,.,HRV
+2190295,9A4VS,no_name,,no_city,.,HRV
 2190296,9A5R,Zeljko,,Vinkovci,.,HRV
 2190297,9A3EMS,Mihael,,Bjelovar,.,HRV
 2190298,9A3UCA,Andelko,,Ozalj,.,HRV
@@ -14426,12 +14438,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2200260,YT5JLA,MilanYT5JLA,,Sabac,,SRB
 2200261,YT5DLT,Dragol,,Mionica,,SRB
 2200262,YT1ODB,Branko,,Beograd,Branko,SRB
-2200263,YT5EMR,no_name,,no_city,,SRB
+2200263,YT5EMR,no_name,,no_city,.,SRB
 2200264,YT1NSB,Bojan,,no_city,Nisava,SRB
 2200265,YU9YAA,Sandra,,Subotica,,SRB
-2200266,YT1KIB,no_name,,no_city,,SRB
+2200266,YT1KIB,no_name,,no_city,.,SRB
 2200267,YT5PLB,Ljuba,,Beograd,,SRB
-2200268,YU4VVM,no_name,,no_city,,SRB
+2200268,YU4VVM,no_name,,no_city,.,SRB
 2210001,Z63CIA,Aurora,,Prishtina,,XKX
 2210002,Z63CIA,Aurora,,Z-Prishtina/oe-Linz/z-Gostivar,Pristina,XKX
 2220001,IK0YYY,Luca,,Roma (RM),Lazio,ITA
@@ -20106,7 +20118,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225670,IU8CDS,Raffaele,,Pontecagnano (SA),Campania,ITA
 2225671,IZ1MMM,Sergio,,Cuneo (CN),Piemonte,ITA
 2225672,IW2LPC,Alessandro,,Botticino (BS),Lombardia,ITA
-2225673,IU0DSZ,no_name,,no_city,,ITA
+2225673,IU0DSZ,no_name,,no_city,.,ITA
 2225674,IW6PIC,Ivo,,Pratola Peligna (AQ),Abruzzo,ITA
 2225675,IU3MAQ,Ivan,,Fosso' (VE),Veneto,ITA
 2225676,IK8WTK,Salvatore,,Nocera Inferiore (SA),Campania,ITA
@@ -20360,6 +20372,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225924,IZ8GUA,Andrea,,Cosenza (CS),Calabria,ITA
 2225925,IU8KDD,Raffaele,,San Nicola La Strada (CE),Campania,ITA
 2225926,IU2NWH,No_name,,Porto Mantovano (MN),Lombardia,ITA
+2225927,IW8EST,Luigi,,No_city,,ITA
+2225928,IW0ROX,Alessandro,,Terni (TR),Umbria,ITA
+2225929,IS0MNR,Valente,,Elmas (CA),Sardegna,ITA
+2225930,IT9BTI,Orazio,,Riposto (CT),Sicilia,ITA
+2225931,IU2NRF,Massimo,,Gorno (BG),Lombardia,ITA
+2225932,IZ5YEJ,Antonio,,Santa Maria A Monte (PI),Toscana,ITA
+2225933,IZ2TEU,Daniele,,Gardone Val Trompia (BS),Lombardia,ITA
+2225934,IN3IVV,Massimo,,Sella Giudicarie (TN),Trentino AA,ITA
+2225935,IW0EQG,Sandro,,Roma (RM),Lazio,ITA
 2226001,IZ6FGP,Mario,,Ortona (CH),Abruzzo,ITA
 2226002,IK6TTE,Plinio,,Casalbordino (CH),Abruzzo,ITA
 2226003,IZ6FGP,Mario,,Ortona (CH),Abruzzo,ITA
@@ -22571,7 +22592,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2260022,YO6ZO,Mutulescu,,Sibiu,Lucian,ROU
 2260023,YO5PUX,Andrei,,Cluj Napoca,,ROU
 2260024,YO9IYE,Mihai,,Bucharest,Bucharest,ROU
-2260025,YO7ZRO,no_name,,no_city,,ROU
+2260025,YO7ZRO,no_name,,no_city,.,ROU
 2260026,YO6FYY,Viorel,,Petelea    Mures,,ROU
 2260027,YO4XAX,Nick,,Braila,,ROU
 2260028,YO6BOY,Laszloairboy,,Toplita,.,ROU
@@ -23579,7 +23600,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2283199,HB3XTM,Mario,,Muehlethurnen,Bern und Oberwallis,CHE
 2283200,HB9RWR,Urs,,Ersigen,,CHE
 2283201,HB9SHB,Marc,,Zollikofen,,CHE
-2283202,HB9RVH,no_name,,no_city,,CHE
+2283202,HB9RVH,no_name,,no_city,.,CHE
 2283203,HB9RVG,Roli,,Graechen,,CHE
 2283204,HB9TBI,Francesco,,Bern,,CHE
 2283205,HB9EVN,Remo,,Bern,,CHE
@@ -23819,6 +23840,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2284234,HB9TPQ,Dieter,,Solothurn,,CHE
 2284235,HB9PFA,Albert,,Muenchenstein,,CHE
 2284236,HB9GVA,Romeo,,Basel,,CHE
+2284237,HB3XVF,Andrea,,Basel,.,CHE
 2285001,HB9CNT,Paul,,Untersiggenthal,Baden,CHE
 2285002,HB9CNT,Paul,,Untersiggenthal,Baden,CHE
 2285003,HB9CNT,Paul,,Untersiggenthal,Baden,CHE
@@ -24144,7 +24166,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286254,HB9HEC,Gabri,,Astano,Gabri,CHE
 2286255,HB3YTC,Roberto,,Lumino,,CHE
 2286256,HB9TTY,Fred,,Buttisholz,,CHE
-2286257,HB9ERA,no_name,,no_city,,CHE
+2286257,HB9ERA,no_name,,no_city,.,CHE
 2286258,HB9GHD,Davide,,Piedmont,Zentralschweiz und T,CHE
 2287001,HB9FPO,Stefano,,Poschiavo,Graubuenden,CHE
 2287002,HB9HAN,Roland,,Sargans,Graubuenden,CHE
@@ -24623,20 +24645,20 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2300004,OK1JM,Jiri,,Drevcice,Central Bohemian Reg,CZE
 2300005,OK9VEH,no_name,,no_city,,CZE
 2300006,OK1STV,no_name,,no_city,,CZE
-2300007,OK2GPS,no_name,,no_city,,CZE
-2300008,OK9SLI,no_name,,no_city,,CZE
-2300009,OK1ZJV,no_name,,no_city,,CZE
-2300010,OK1ME,no_name,,no_city,,CZE
+2300007,OK2GPS,no_name,,no_city,.,CZE
+2300008,OK9SLI,no_name,,no_city,.,CZE
+2300009,OK1ZJV,no_name,,no_city,.,CZE
+2300010,OK1ME,no_name,,no_city,.,CZE
 2300011,OK1CSM,Michal,,Ostrov,,CZE
 2300012,OK1SAM,Bohous,,Sokolov,,CZE
 2300013,OK9DAT,Melisek,,Svat Mikulas 24 Vraclav,Pardubicky,CZE
 2300014,OK1ZVP,Petr,,Karlovy Vary,Karlovy Vary,CZE
-2300015,OK1MJG,no_name,,no_city,,CZE
+2300015,OK1MJG,no_name,,no_city,.,CZE
 2300016,OK2DDS,David,,Brno,,CZE
 2300017,OK2ZCB,Martin,,Sumperk,,CZE
 2300018,OK2AE,Marty,,Brno,,CZE
 2300019,OK1AI,Venda,,Litvinov,,CZE
-2300020,OK1BKO,no_name,,no_city,,CZE
+2300020,OK1BKO,no_name,,no_city,.,CZE
 2300021,OK1FMH,Frantiiek,,Humpolec,.,CZE
 2300022,OK1ZXS,no_name,,no_city,.,CZE
 2300023,OK7JP,Josef,,Vysovice 80,.,CZE
@@ -24644,6 +24666,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2300025,OK8RA,Jil,,Praha 515,.,CZE
 2300026,OK1VAO,Jan,,Praha,.,CZE
 2300027,OK2KFL,Kofola,,Brno,.,CZE
+2300028,OK5LR,Csoka,,Smirice,.,CZE
+2300029,OK7FW,Fanda,,Lesov,.,CZE
 2301001,OK9DTZ,David,,Prague,Hlavni mesto Praha,CZE
 2301002,OK3ZB,Zdenek,,Praha,Hlavni mesto Praha,CZE
 2301003,OK1MX,Milan,,Praha,Hlavni mesto Praha,CZE
@@ -25140,15 +25164,16 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2307060,OK9PAT,Stanislav,,Ostrava Stary Zabeh,Moravskoslezsky,CZE
 2307061,OK2RL,Richard,,Ostrava - Poruba,Moravskoslezsky,CZE
 2310001,OM7BJ,Jano,,no_city,,SVK
-2310002,OM6ZB,no_name,,no_city,,SVK
+2310002,OM6ZB,no_name,,no_city,.,SVK
 2310003,OM6AFY,Martin,,Ruzomberok,,SVK
 2310004,OM7AFX,Pavel,,Banska Bystrica,Banskobystricky,SVK
 2310005,OM0ATR,Rudolf,,Stropkov,Presovsky,SVK
 2310006,OM7FX,Pavel,,Banska Bystrica,,SVK
-2310007,OM6PV,no_name,,Martin,,SVK
+2310007,OM6PV,no_name,,Martin,.,SVK
 2310008,OM2AGC,Ericek111,,Trnava,,SVK
 2310009,OM3KWW,Emcomm,,no_city,,SVK
 2310010,OM4ALK,no_name,,no_city,.,SVK
+2310011,OM7AHJ,Jozef,,Velky Krtis,.,SVK
 2311001,OM1ATS,Daniel,,Bratislava,Bratislavsky,SVK
 2311002,OM1AEG,Anton,,Bratislava,Bratislavsky,SVK
 2311003,OM1EI,Marian,,Bratislava,Bratislavsky,SVK
@@ -25321,1584 +25346,1584 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2314049,OM0AAJ,Jan,,Sunava,Presovsky,SVK
 2314050,OM0ATR,Rudolf,,Stropkov,Presovsky,SVK
 2314112,OM3KLL,Emcomm,,Kosice,,SVK
-2320010,OE1XAR,no_name,,Wien,WIEN,AUT
-2321001,OE1KBC,no_name,,Wien,WIEN,AUT
-2321002,OE1KBC,no_name,,Wien,WIEN,AUT
-2321003,OE1KBC,no_name,,Wien,WIEN,AUT
+2320010,OE1XAR,Oevsv,,Wien,WIEN,AUT
+2321001,OE1KBC,Kurt,,Wien,WIEN,AUT
+2321002,OE1KBC,Kurt,,Wien,WIEN,AUT
+2321003,OE1KBC,Kurt,,Wien,WIEN,AUT
 2321004,OE1TKT,Tom,,Wien,WIEN,AUT
-2321005,OE1RBC,no_name,,Wien,WIEN,AUT
-2321006,OE1NKC,no_name,,Wien,WIEN,AUT
-2321007,OE1RPW,no_name,,Wien,WIEN,AUT
-2321008,OE1AZS,no_name,,Wien,NOE,AUT
+2321005,OE1RBC,Roman,,Wien,WIEN,AUT
+2321006,OE1NKC,Nail,,Wien,WIEN,AUT
+2321007,OE1RPW,Peter,,Wien,WIEN,AUT
+2321008,OE1AZS,Andreas,,Wien,WIEN,AUT
 2321009,OE1RXW,no_name,,no_city,WIEN,AUT
 2321010,OE1ODS,no_name,,no_city,WIEN,AUT
 2321011,OE1OCB,no_name,,no_city,WIEN,AUT
-2321012,OE1WLA,no_name,,Wien,WIEN,AUT
-2321013,OE1RGU,no_name,,Wien,WIEN,AUT
-2321014,OE1RFC,no_name,,Wien,WIEN,AUT
-2321015,OE1ACM,no_name,,Wien,WIEN,AUT
-2321016,OE1RPW,no_name,,Wien,WIEN,AUT
-2321017,OE1TKS,no_name,,Wien,NOE,AUT
-2321018,OE1AFU,no_name,,Wien,WIEN,AUT
-2321019,OE1UPS,no_name,,Wien,WIEN,AUT
+2321012,OE1WLA,Werner,,Wien,WIEN,AUT
+2321013,OE1RGU,Robert,,Wien,WIEN,AUT
+2321014,OE1RFC,Clemens,,Wien,WIEN,AUT
+2321015,OE1ACM,Bernhard,,Wien,WIEN,AUT
+2321016,OE1RPW,Peter,,Wien,WIEN,AUT
+2321017,OE1TKS,Thomas,,Wien,WIEN,AUT
+2321018,OE1AFU,Alexander,,Wien,WIEN,AUT
+2321019,OE1UPS,Peter,,Wien,WIEN,AUT
 2321020,OE1AMA,no_name,,no_city,WIEN,AUT
 2321021,OE1NHC,Norbert,,Wien,WIEN,AUT
-2321022,OE1GPA,no_name,,Wien,WIEN,AUT
-2321023,OE1WBC,no_name,,Wien,WIEN,AUT
-2321024,OE1LBS,no_name,,Wien,WIEN,AUT
-2321025,OE1KDA,no_name,,Wien,WIEN,AUT
-2321026,OE1WBS,no_name,,Wien,,AUT
-2321027,OE1HXA,no_name,,Wien,WIEN,AUT
+2321022,OE1GPA,Gerald,,Wien,WIEN,AUT
+2321023,OE1WBC,Walter,,Wien,WIEN,AUT
+2321024,OE1LBS,Lukas,,Wien,WIEN,AUT
+2321025,OE1KDA,Krzysztof,,Wien,WIEN,AUT
+2321026,OE1WBS,Wolfgang,,Wien,WIEN,AUT
+2321027,OE1HXA,Peter,,Wien,WIEN,AUT
 2321028,OE1DZS,no_name,,no_city,WIEN,AUT
-2321029,OE1UMS,no_name,,Wien,WIEN,AUT
-2321030,OE1CMW,no_name,,Wien,WIEN,AUT
-2321031,OE1HWS,no_name,,Wien,WIEN,AUT
-2321032,OE1AMM,no_name,,Wien,WIEN,AUT
+2321029,OE1UMS,Martin,,Wien,WIEN,AUT
+2321030,OE1CMW,Michael,,Wien,WIEN,AUT
+2321031,OE1HWS,Herbert,,Wien,WIEN,AUT
+2321032,OE1AMM,Michael,,Wien,WIEN,AUT
 2321033,OE1LFB,no_name,,no_city,WIEN,AUT
-2321034,OE1JXS,no_name,,Wien,WIEN,AUT
-2321035,OE1XMB,no_name,,Wien,WIEN,AUT
-2321036,OE1CUC,no_name,,Wien,WIEN,AUT
-2321037,OE1VZ,no_name,,Wien,WIEN,AUT
+2321034,OE1JXS,Jan,,Wien,WIEN,AUT
+2321035,OE1XMB,Club,,Wien,WIEN,AUT
+2321036,OE1CUC,Christian,,Wien,WIEN,AUT
+2321037,OE1VZ,Werner,,Wien,WIEN,AUT
 2321038,OE1SRC,Hans,,Wien,WIEN,AUT
-2321039,OE1SGW,no_name,,Wien,WIEN,AUT
-2321040,OE1PHS,no_name,,Wien,WIEN,AUT
-2321041,OE1PZC,no_name,,Wien,WIEN,AUT
-2321042,OE1RIC,no_name,,Wien,NOE,AUT
-2321043,OE1WKL,no_name,,Wien,WIEN,AUT
+2321039,OE1SGW,Gregor,,Wien,WIEN,AUT
+2321040,OE1PHS,Heribert,,Wien,WIEN,AUT
+2321041,OE1PZC,Peter,,Wien,WIEN,AUT
+2321042,OE1RIC,Richard,,Wien,WIEN,AUT
+2321043,OE1WKL,Willibald,,Wien,WIEN,AUT
 2321044,OE1FRA,no_name,,no_city,WIEN,AUT
-2321045,OE1OWA,no_name,,Wien,WIEN,AUT
+2321045,OE1OWA,D,,Wien,WIEN,AUT
 2321046,OE1IKW,no_name,,no_city,WIEN,AUT
 2321047,OE1MIA,no_name,,no_city,WIEN,AUT
-2321048,OE1XNC,no_name,,Wien,WIEN,AUT
-2321049,OE1XTK,no_name,,Wien,NOE,AUT
-2321050,OE1SSU,no_name,,Wien,WIEN,AUT
-2321051,OE1MIW,no_name,,Wien,WIEN,AUT
-2321052,OE1PMC,no_name,,Wien,WIEN,AUT
-2321053,OE1WSS,no_name,,Wien,WIEN,AUT
-2321054,OE1LRC,no_name,,Wien,WIEN,AUT
-2321055,OE1AMS,no_name,,Wien,WIEN,AUT
-2321056,OE1HWS,no_name,,Wien,WIEN,AUT
+2321048,OE1XNC,Oevsv,,Wien,WIEN,AUT
+2321049,OE1XTK,Club,,Wien,WIEN,AUT
+2321050,OE1SSU,Stefan,,Wien,WIEN,AUT
+2321051,OE1MIW,Michael,,Wien,WIEN,AUT
+2321052,OE1PMC,Peter,,Wien,WIEN,AUT
+2321053,OE1WSS,Wolfgang,,Wien,WIEN,AUT
+2321054,OE1LRC,Ludwig,,Wien,WIEN,AUT
+2321055,OE1AMS,Alexander,,Wien,WIEN,AUT
+2321056,OE1HWS,Herbert,,Wien,WIEN,AUT
 2321057,OE1VNA,Arne,,Wien,WIEN,AUT
-2321058,OE1GYA,no_name,,Wien,,AUT
+2321058,OE1GYA,Gustav,,Wien,WIEN,AUT
 2321059,OE1DLA,no_name,,no_city,WIEN,AUT
 2321060,OE1KLM,Herwig,,Wien,WIEN,AUT
-2321061,OE1ROB,no_name,,Wien,WIEN,AUT
-2321062,OE1JXS,no_name,,Wien,WIEN,AUT
-2321063,OE1JTB,no_name,,Wien,WIEN,AUT
+2321061,OE1ROB,Rupert,,Wien,WIEN,AUT
+2321062,OE1JXS,Jan,,Wien,WIEN,AUT
+2321063,OE1JTB,Josef,,Wien,WIEN,AUT
 2321064,OE1VHS,no_name,,no_city,WIEN,AUT
-2321065,OE1OEA,no_name,,Wien,WIEN,AUT
-2321066,OE1VGC,no_name,,Wien,WIEN,AUT
-2321067,OE1OWA,no_name,,Wien,WIEN,AUT
+2321065,OE1OEA,Andreas,,Wien,WIEN,AUT
+2321066,OE1VGC,Gregor,,Wien,WIEN,AUT
+2321067,OE1OWA,D,,Wien,WIEN,AUT
 2321068,OE1DLA,no_name,,no_city,WIEN,AUT
 2321069,OE1FEA,no_name,,no_city,WIEN,AUT
-2321070,OE1VRB,no_name,,Wien,WIEN,AUT
-2321071,OE1AKA,no_name,,Wien,WIEN,AUT
-2321072,OE1PYA,no_name,,Wien,WIEN,AUT
-2321073,OE1SPS,no_name,,Wien,WIEN,AUT
-2321074,OE1LHU,no_name,,Wien,WIEN,AUT
-2321075,OE1KHU,no_name,,Wien,WIEN,AUT
+2321070,OE1VRB,Roland,,Wien,WIEN,AUT
+2321071,OE1AKA,Markus,,Wien,WIEN,AUT
+2321072,OE1PYA,Peter,,Wien,WIEN,AUT
+2321073,OE1SPS,Peter,,Wien,WIEN,AUT
+2321074,OE1LHU,Lukas,,Wien,WIEN,AUT
+2321075,OE1KHU,Karl,,Wien,WIEN,AUT
 2321076,OE1ZEB,Robert,,Wien,WIEN,AUT
-2321077,OE1MPB,no_name,,Wien,WIEN,AUT
+2321077,OE1MPB,Peter,,Wien,WIEN,AUT
 2321078,OE1WFS,Werner,,Wien,WIEN,AUT
 2321079,OE1TMC,Thomas,,Wien,WIEN,AUT
-2321080,OE1XIC,no_name,,Wien,WIEN,AUT
+2321080,OE1XIC,Club,,Wien,WIEN,AUT
 2321081,OE1SJS,no_name,,no_city,WIEN,AUT
-2321082,OE1SWS,no_name,,Wien,WIEN,AUT
-2321083,OE1EBC,no_name,,Wien,WIEN,AUT
-2321084,OE1CGS,no_name,,Wien,NOE,AUT
-2321085,OE1PHB,no_name,,Wien,WIEN,AUT
-2321086,OE1FFS,no_name,,Wien,NOE,AUT
+2321082,OE1SWS,Wolfgang,,Wien,WIEN,AUT
+2321083,OE1EBC,Ernst,,Wien,WIEN,AUT
+2321084,OE1CGS,Christoph,,Wien,WIEN,AUT
+2321085,OE1PHB,Paul,,Wien,WIEN,AUT
+2321086,OE1FFS,Friedrich,,Wien,WIEN,AUT
 2321087,OE1MAB,no_name,,no_city,WIEN,AUT
 2321088,OE1RNQ,no_name,,no_city,WIEN,AUT
-2321089,OE1OMK,no_name,,Wien,WIEN,AUT
-2321090,OE1OEB,no_name,,Wien,WIEN,AUT
-2321091,OE1BAK,no_name,,Wien,WIEN,AUT
-2321092,OE1KMQ,no_name,,Wien,WIEN,AUT
-2321093,OE1ENS,no_name,,Wien,WIEN,AUT
-2321094,OE1HAW,no_name,,Wien,WIEN,AUT
-2321095,OE1ABS,no_name,,Wien,WIEN,AUT
-2321096,OE1YXS,no_name,,Wien,,AUT
+2321089,OE1OMK,Michael,,Wien,WIEN,AUT
+2321090,OE1OEB,Thomas,,Wien,WIEN,AUT
+2321091,OE1BAK,Benjamin,,Wien,WIEN,AUT
+2321092,OE1KMQ,Ma,,Wien,WIEN,AUT
+2321093,OE1ENS,Ernst,,Wien,WIEN,AUT
+2321094,OE1HAW,Georg,,Wien,WIEN,AUT
+2321095,OE1ABS,Arno,,Wien,WIEN,AUT
+2321096,OE1YXS,Sylvia,,Wien,WIEN,AUT
 2321097,OE1DEA,Denny,,Wien,WIEN,AUT
 2321098,OE1PSW,no_name,,no_city,WIEN,AUT
 2321099,OE1AMA,no_name,,no_city,WIEN,AUT
-2321100,OE1ROC,no_name,,Wien,WIEN,AUT
-2321101,OE1WDS,no_name,,Wien,WIEN,AUT
+2321100,OE1ROC,Werner,,Wien,WIEN,AUT
+2321101,OE1WDS,Wolfgang,,Wien,WIEN,AUT
 2321102,OE1BHS,Heinz,,Wien,WIEN,AUT
 2321103,OE1XMW,MetaFunk,,Wien,WIEN,AUT
-2321104,OE1GTU,no_name,,Wien,WIEN,AUT
+2321104,OE1GTU,Gerhard,,Wien,WIEN,AUT
 2321105,OE1PSW,no_name,,no_city,WIEN,AUT
 2321106,OE1MSA,Manfred,,Wien,WIEN,AUT
 2321107,OE1MSA,Manfred,,Wien,WIEN,AUT
-2321108,OE1YHA,no_name,,Wien,WIEN,AUT
-2321109,OE1GKS,no_name,,Wien,WIEN,AUT
-2321110,OE1PYW,no_name,,Wien,WIEN,AUT
-2321111,OE1PYW,no_name,,Wien,WIEN,AUT
+2321108,OE1YHA,Herta,,Wien,WIEN,AUT
+2321109,OE1GKS,Guenter,,Wien,WIEN,AUT
+2321110,OE1PYW,Peter,,Wien,WIEN,AUT
+2321111,OE1PYW,Peter,,Wien,WIEN,AUT
 2321112,OE1MHA,Hans,,Wien,WIEN,AUT
-2321113,OE1BSA,no_name,,Wien,WIEN,AUT
-2321114,OE1MBW,no_name,,Wien,WIEN,AUT
-2321115,OE1AOA,no_name,,Wien,WIEN,AUT
+2321113,OE1BSA,Heinz,,Wien,WIEN,AUT
+2321114,OE1MBW,Martin,,Wien,WIEN,AUT
+2321115,OE1AOA,Franz,,Wien,WIEN,AUT
 2321116,OE1GNU,no_name,,no_city,WIEN,AUT
 2321117,OE1MMU,no_name,,no_city,WIEN,AUT
-2321118,OE1RSA,no_name,,Wien,WIEN,AUT
+2321118,OE1RSA,Roland,,Wien,WIEN,AUT
 2321119,OE1SSS,no_name,,no_city,WIEN,AUT
 2321120,OE1SSS,no_name,,no_city,WIEN,AUT
-2321121,OE1RCS,no_name,,Wien,WIEN,AUT
+2321121,OE1RCS,Robert,,Wien,WIEN,AUT
 2321122,OE1FCQ,Christoph,,Wien,WIEN,AUT
 2321123,OE1MHA,Hans,,Wien,WIEN,AUT
 2321124,OE1MHA,Hans,,Wien,WIEN,AUT
-2321125,OE1CKW,no_name,,Wien,WIEN,AUT
-2321126,OE1PHS,no_name,,Wien,WIEN,AUT
-2321127,OE1RGU,no_name,,Wien,WIEN,AUT
+2321125,OE1CKW,Friedrich,,Wien,WIEN,AUT
+2321126,OE1PHS,Heribert,,Wien,WIEN,AUT
+2321127,OE1RGU,Robert,,Wien,WIEN,AUT
 2321128,OE1ULA,Martin,,Wien,WIEN,AUT
-2321129,OE1BAW,no_name,,Wien,WIEN,AUT
-2321130,OE1ILW,no_name,,Wien,WIEN,AUT
-2321131,OE1XBH,no_name,,Wien,WIEN,AUT
-2321132,OE1MPR,no_name,,Wien,WIEN,AUT
-2321133,OE1BSA,no_name,,Wien,WIEN,AUT
-2321134,OE1MBW,no_name,,Wien,WIEN,AUT
-2321135,OE1WRS,no_name,,Wien,WIEN,AUT
-2321136,OE1MRC,no_name,,Wien,WIEN,AUT
-2321137,OE1KZB,no_name,,Wien,WIEN,AUT
-2321138,OE1KZB,no_name,,Wien,WIEN,AUT
-2321139,OE1GKS,no_name,,Wien,WIEN,AUT
-2321140,OE1AQL,no_name,,Wien,NOE,AUT
-2321141,OE1MMA,no_name,,Wien,WIEN,AUT
-2321142,OE1MWW,no_name,,Wien,WIEN,AUT
+2321129,OE1BAW,Wilfried,,Wien,WIEN,AUT
+2321130,OE1ILW,Martin,,Wien,WIEN,AUT
+2321131,OE1XBH,Am,,Wien,WIEN,AUT
+2321132,OE1MPR,Matthias,,Wien,WIEN,AUT
+2321133,OE1BSA,Heinz,,Wien,WIEN,AUT
+2321134,OE1MBW,Martin,,Wien,WIEN,AUT
+2321135,OE1WRS,Werner,,Wien,WIEN,AUT
+2321136,OE1MRC,Manfred,,Wien,WIEN,AUT
+2321137,OE1KZB,Kurt,,Wien,WIEN,AUT
+2321138,OE1KZB,Kurt,,Wien,WIEN,AUT
+2321139,OE1GKS,Guenter,,Wien,WIEN,AUT
+2321140,OE1AQL,Alexander,,Wien,WIEN,AUT
+2321141,OE1MMA,Markus,,Wien,WIEN,AUT
+2321142,OE1MWW,Wolfgang,,Wien,WIEN,AUT
 2321143,OE1RSW,Rudolf,,Wien,WIEN,AUT
-2321144,OE1DGW,no_name,,Wien,WIEN,AUT
-2321145,OE1WUA,no_name,,Wien,WIEN,AUT
-2321146,OE1WLW,no_name,,Wien,WIEN,AUT
-2321147,OE1EPU,no_name,,Wien,WIEN,AUT
-2321148,OE1AGF,no_name,,Wien,WIEN,AUT
-2321149,OE1AGF,no_name,,Wien,WIEN,AUT
+2321144,OE1DGW,Gerhard,,Wien,WIEN,AUT
+2321145,OE1WUA,Walter,,Wien,WIEN,AUT
+2321146,OE1WLW,Wolfgang,,Wien,WIEN,AUT
+2321147,OE1EPU,Erwin,,Wien,WIEN,AUT
+2321148,OE1AGF,Joerg,,Wien,WIEN,AUT
+2321149,OE1AGF,Joerg,,Wien,WIEN,AUT
 2321150,OE1CRW,Christian,,Wien,WIEN,AUT
 2321151,OE1CRW,Christian,,Wien,WIEN,AUT
-2321152,OE1DOA,no_name,,Wien,WIEN,AUT
-2321153,OE1GQA,no_name,,Wien,WIEN,AUT
-2321154,OE1NHU,no_name,,Wien,WIEN,AUT
-2321155,OE1AZS,no_name,,Wien,NOE,AUT
-2321156,OE1DFS,no_name,,Wien,WIEN,AUT
-2321157,OE1CBC,no_name,,Wien,WIEN,AUT
-2321158,OE1HXS,no_name,,Wien,WIEN,AUT
+2321152,OE1DOA,Volker,,Wien,WIEN,AUT
+2321153,OE1GQA,Guenter,,Wien,WIEN,AUT
+2321154,OE1NHU,Stefan,,Wien,WIEN,AUT
+2321155,OE1AZS,Andreas,,Wien,WIEN,AUT
+2321156,OE1DFS,Willibald,,Wien,WIEN,AUT
+2321157,OE1CBC,Cyrill,,Wien,WIEN,AUT
+2321158,OE1HXS,Siegfried,,Wien,WIEN,AUT
 2321159,OE1LHP,no_name,,no_city,WIEN,AUT
-2321160,OE1WUW,no_name,,Wien,WIEN,AUT
+2321160,OE1WUW,Christian,,Wien,WIEN,AUT
 2321161,OE1SQA,no_name,,no_city,WIEN,AUT
-2321162,OE1UVA,no_name,,Wien,WIEN,AUT
-2321163,OE1FUC,no_name,,Wien,WIEN,AUT
+2321162,OE1UVA,Heinz,,Wien,WIEN,AUT
+2321163,OE1FUC,Dominik,,Wien,WIEN,AUT
 2321164,OE1CWJ,Christian,,Wien,WIEN,AUT
 2321165,OE1NCH,no_name,,no_city,WIEN,AUT
-2321166,OE1YHL,no_name,,Wien,WIEN,AUT
+2321166,OE1YHL,Christa,,Wien,WIEN,AUT
 2321167,OE1DHU,David,,Wien,WIEN,AUT
-2321168,OE1ROF,no_name,,Wien,WIEN,AUT
-2321169,OE1DHK,no_name,,Wien,WIEN,AUT
-2321170,OE1FFA,no_name,,Wien,WIEN,AUT
-2321171,OE1INA,no_name,,Wien,WIEN,AUT
-2321172,OE1WBC,no_name,,Wien,WIEN,AUT
-2321173,OE1XKW,no_name,,Wien,WIEN,AUT
+2321168,OE1ROF,Roland,,Wien,WIEN,AUT
+2321169,OE1DHK,Alfred,,Wien,WIEN,AUT
+2321170,OE1FFA,Franz,,Wien,WIEN,AUT
+2321171,OE1INA,Ivaylo,,Wien,WIEN,AUT
+2321172,OE1WBC,Walter,,Wien,WIEN,AUT
+2321173,OE1XKW,Austria,,Wien,WIEN,AUT
 2321174,OE1LHP,no_name,,no_city,WIEN,AUT
-2321175,OE1DOA,no_name,,Wien,WIEN,AUT
-2321176,OE1LWA,no_name,,Wien,WIEN,AUT
+2321175,OE1DOA,Volker,,Wien,WIEN,AUT
+2321176,OE1LWA,Leopold,,Wien,WIEN,AUT
 2321177,OE1MMU,no_name,,no_city,WIEN,AUT
-2321178,OE1LKU,no_name,,Wien,WIEN,AUT
-2321179,OE1SCU,no_name,,Wien,WIEN,AUT
+2321178,OE1LKU,Ludwig,,Wien,WIEN,AUT
+2321179,OE1SCU,Claus,,Wien,WIEN,AUT
 2321180,OE1DMB,Andy,,Wien,WIEN,AUT
-2321181,OE1NMA,no_name,,Wien,WIEN,AUT
-2321182,OE1MKA,no_name,,Wien,WIEN,AUT
-2321183,OE1HLB,no_name,,Wien,WIEN,AUT
-2321184,OE1JAH,no_name,,Wien,WIEN,AUT
-2321185,OE1RFU,no_name,,Wien,WIEN,AUT
-2321186,OE1GXK,no_name,,Wien,NOE,AUT
-2321187,OE1ARX,no_name,,Wien,WIEN,AUT
-2321188,OE1RQH,no_name,,Wien,WIEN,AUT
-2321189,OE1MCA,no_name,,Wien,WIEN,AUT
-2321190,OE1LON,no_name,,Wien,WIEN,AUT
-2321191,OE1WKC,no_name,,Wien,WIEN,AUT
-2321192,OE1MOO,no_name,,Wien,WIEN,AUT
+2321181,OE1NMA,Markus,,Wien,WIEN,AUT
+2321182,OE1MKA,Manfred,,Wien,WIEN,AUT
+2321183,OE1HLB,Hans-Joachim,,Wien,WIEN,AUT
+2321184,OE1JAH,Herbert,,Wien,WIEN,AUT
+2321185,OE1RFU,Friedrich,,Wien,WIEN,AUT
+2321186,OE1GXK,Gerhard,,Wien,WIEN,AUT
+2321187,OE1ARX,Alexander,,Wien,WIEN,AUT
+2321188,OE1RQH,Markus,,Wien,WIEN,AUT
+2321189,OE1MCA,Martin,,Wien,WIEN,AUT
+2321190,OE1LON,Roland,,Wien,WIEN,AUT
+2321191,OE1WKC,Wolfgang,,Wien,WIEN,AUT
+2321192,OE1MOO,Oliver,,Wien,WIEN,AUT
 2321193,OE1HLT,no_name,,no_city,WIEN,AUT
 2321194,OE1ABV,no_name,,no_city,WIEN,AUT
-2321195,OE1UKB,no_name,,Wien,WIEN,AUT
-2321196,OE1KDW,no_name,,Wien,WIEN,AUT
-2321197,OE1GLB,no_name,,Wien,WIEN,AUT
-2321198,OE1MQT,no_name,,Wien,WIEN,AUT
-2321199,OE1HGA,no_name,,Wien,WIEN,AUT
-2321200,OE1XVC,no_name,,Wien,WIEN,AUT
-2321201,OE1NDB,no_name,,Wien,WIEN,AUT
-2321202,OE1AKA,no_name,,Wien,WIEN,AUT
+2321195,OE1UKB,Kurt,,Wien,WIEN,AUT
+2321196,OE1KDW,Karl,,Wien,WIEN,AUT
+2321197,OE1GLB,Gottfried,,Wien,WIEN,AUT
+2321198,OE1MQT,Mba,,Wien,WIEN,AUT
+2321199,OE1HGA,Gerald,,Wien,WIEN,AUT
+2321200,OE1XVC,Der,,Wien,WIEN,AUT
+2321201,OE1NDB,Norbert,,Wien,WIEN,AUT
+2321202,OE1AKA,Markus,,Wien,WIEN,AUT
 2321203,OE1PFC,no_name,,no_city,WIEN,AUT
-2321204,OE1CLC,no_name,,Wien,WIEN,AUT
-2321205,OE1NDB,no_name,,Wien,WIEN,AUT
-2321206,OE1CSR,no_name,,Wien,WIEN,AUT
-2321207,OE1IAH,no_name,,Wien,WIEN,AUT
-2321208,OE1EQW,no_name,,Wien,WIEN,AUT
-2321209,OE1NHK,no_name,,Wien,WIEN,AUT
-2321210,OE1IAH,no_name,,Wien,WIEN,AUT
-2321211,OE1KEB,no_name,,Wien,WIEN,AUT
+2321204,OE1CLC,Richard,,Wien,WIEN,AUT
+2321205,OE1NDB,Norbert,,Wien,WIEN,AUT
+2321206,OE1CSR,Christopher,,Wien,WIEN,AUT
+2321207,OE1IAH,Arnold,,Wien,WIEN,AUT
+2321208,OE1EQW,Enrico,,Wien,WIEN,AUT
+2321209,OE1NHK,Rainer,,Wien,WIEN,AUT
+2321210,OE1IAH,Arnold,,Wien,WIEN,AUT
+2321211,OE1KEB,Karl,,Wien,WIEN,AUT
 2321212,OE1TOA,no_name,,no_city,WIEN,AUT
-2321213,OE1GOA,no_name,,Wien,WIEN,AUT
-2321214,OE1LYA,no_name,,Wien,WIEN,AUT
+2321213,OE1GOA,Gregor,,Wien,WIEN,AUT
+2321214,OE1LYA,Martin,,Wien,WIEN,AUT
 2321215,OE1KCR,no_name,,no_city,WIEN,AUT
 2321216,OE1DZW,Dietmar,,Wien,WIEN,AUT
-2321217,OE1EWA,no_name,,Wien,WIEN,AUT
-2321218,OE1EAX,no_name,,Wien,WIEN,AUT
-2321219,OE1PIM,no_name,,Wien,WIEN,AUT
-2321220,OE1GXK,no_name,,Wien,NOE,AUT
+2321217,OE1EWA,Wolfgang,,Wien,WIEN,AUT
+2321218,OE1EAX,Andreas,,Wien,WIEN,AUT
+2321219,OE1PIM,Markus,,Wien,WIEN,AUT
+2321220,OE1GXK,Gerhard,,Wien,WIEN,AUT
 2321221,OE1MSX,no_name,,no_city,WIEN,AUT
 2321222,OE1TWW,Thorsten,,Wien,WIEN,AUT
 2321223,OE1LYK,Schabasser,,Wien,WIEN,AUT
-2321224,OE1TKW,no_name,,Wien,WIEN,AUT
-2321225,OE1SSB,no_name,,Wien,WIEN,AUT
+2321224,OE1TKW,Helmut,,Wien,WIEN,AUT
+2321225,OE1SSB,Hans,,Wien,WIEN,AUT
 2321226,OE1DZW,Dietmar,,Wien,WIEN,AUT
-2321227,OE1SCS,no_name,,Wien,WIEN,AUT
-2321228,OE1OIW,no_name,,Wien,,AUT
-2321229,OE1LON,no_name,,Wien,WIEN,AUT
-2321230,OE1WWW,no_name,,Wien,WIEN,AUT
-2321231,OE1WCA,no_name,,Wien,WIEN,AUT
-2321232,OE1SKV,no_name,,Wien,WIEN,AUT
-2321233,OE1EAX,no_name,,Wien,WIEN,AUT
+2321227,OE1SCS,Stefan,,Wien,WIEN,AUT
+2321228,OE1OIW,Wolfgang,,Wien,WIEN,AUT
+2321229,OE1LON,Roland,,Wien,WIEN,AUT
+2321230,OE1WWW,Walter,,Wien,WIEN,AUT
+2321231,OE1WCA,Werner,,Wien,WIEN,AUT
+2321232,OE1SKV,Stephan,,Wien,WIEN,AUT
+2321233,OE1EAX,Andreas,,Wien,WIEN,AUT
 2321234,OE1VZG,no_name,,no_city,WIEN,AUT
 2321235,OE1MEW,Hausermaier,,Wien,WIEN,AUT
 2321236,OE1WEH,Weber,,Wien,WIEN,AUT
-2321237,OE1SCS,no_name,,Wien,WIEN,AUT
-2321238,OE1NPC,no_name,,Wien,WIEN,AUT
-2321239,OE1MUL,no_name,,Wien,WIEN,AUT
+2321237,OE1SCS,Stefan,,Wien,WIEN,AUT
+2321238,OE1NPC,Franz,,Wien,WIEN,AUT
+2321239,OE1MUL,Laszlo,,Wien,WIEN,AUT
 2321240,OE1ZEB,Robert,,Wien,WIEN,AUT
 2321241,OE1TKB,no_name,,no_city,WIEN,AUT
-2321242,OE1LPC,no_name,,Wien,WIEN,AUT
-2321243,OE1BAS,no_name,,Wien,WIEN,AUT
-2321244,OE1CGC,no_name,,Wien,WIEN,AUT
-2321245,OE1MVA,no_name,,Wien,WIEN,AUT
-2321246,OE1ATV,no_name,,Wien,WIEN,AUT
-2321247,OE1DMW,no_name,,Wien,WIEN,AUT
-2321248,OE1FQA,no_name,,Wien,WIEN,AUT
-2321249,OE1NBS,no_name,,Wien,WIEN,AUT
-2321250,OE1HNA,no_name,,Wien,WIEN,AUT
-2321251,OE1HNA,no_name,,Wien,WIEN,AUT
+2321242,OE1LPC,Ludwig,,Wien,WIEN,AUT
+2321243,OE1BAS,Axel,,Wien,WIEN,AUT
+2321244,OE1CGC,Christioph,,Wien,WIEN,AUT
+2321245,OE1MVA,Martin,,Wien,WIEN,AUT
+2321246,OE1ATV,Fikret,,Wien,WIEN,AUT
+2321247,OE1DMW,Erhard,,Wien,WIEN,AUT
+2321248,OE1FQA,Franz,,Wien,WIEN,AUT
+2321249,OE1NBS,Nicolas,,Wien,WIEN,AUT
+2321250,OE1HNA,Heribert,,Wien,WIEN,AUT
+2321251,OE1HNA,Heribert,,Wien,WIEN,AUT
 2321252,OE1ITA,no_name,,no_city,WIEN,AUT
-2321253,OE1THT,no_name,,Wien,WIEN,AUT
-2321254,OE1JTC,no_name,,Wien,WIEN,AUT
-2321255,OE1AQL,no_name,,Wien,NOE,AUT
+2321253,OE1THT,Thomas,,Wien,WIEN,AUT
+2321254,OE1JTC,Jan,,Wien,WIEN,AUT
+2321255,OE1AQL,Alexander,,Wien,WIEN,AUT
 2321256,OE1XA,no_name,,Wien,WIEN,AUT
 2321257,OE1LAB,Andreas,,Wien,WIEN,AUT
 2321258,OE1SPD,Sebastian,,Wien,WIEN,AUT
 2321259,OE1EGU,Erwin,,Wien,WIEN,AUT
-2321301,OE1BAD,no_name,,Wien,WIEN,AUT
+2321301,OE1BAD,Andreas,,Wien,WIEN,AUT
 2321302,OE1PNS,Peter,,Wien,WIEN,AUT
-2321303,OE1MCU,no_name,,Wien,WIEN,AUT
-2321304,OE1CSC,no_name,,Wien,WIEN,AUT
-2321305,OE1IFM,no_name,,Wien,NOE,AUT
-2321306,OE1VRA,no_name,,Wien,WIEN,AUT
-2321333,OE1TRB,no_name,,Wien,WIEN,AUT
-2322001,OE2AIP,no_name,,Salzburg,,AUT
-2322002,OE2WAO,no_name,,Obertrum Am See,SBG,AUT
-2322003,OE2KLM,no_name,,Saalfelden Am Steinernen Meer,SBG,AUT
-2322004,OE2IKN,no_name,,St.Gilgen,SBG,AUT
+2321303,OE1MCU,Michael,,Wien,WIEN,AUT
+2321304,OE1CSC,Clemens,,Wien,WIEN,AUT
+2321305,OE1IFM,Gernot,,Wien,WIEN,AUT
+2321306,OE1VRA,Patrick,,Wien,WIEN,AUT
+2321333,OE1TRB,Thomas,,Wien,WIEN,AUT
+2322001,OE2AIP,Philipp,,Salzburg,SBG,AUT
+2322002,OE2WAO,Alexander,,Obertrum am See,SBG,AUT
+2322003,OE2KLM,Herwig,,Saalfelden am Steinernen Meer,SBG,AUT
+2322004,OE2IKN,Ingo,,St.Gilgen,SBG,AUT
 2322005,OE2XIL,Ingo,,St. Gilgen,SBG,AUT
 2322006,OE2XXM,Ingo,,St. Gilgen,SBG,AUT
-2322007,OE2WIO,no_name,,Werfen,SBG,AUT
-2322008,OE2CER,no_name,,Lungötz,SBG,AUT
-2322009,OE2RPL,no_name,,Salzburg,,AUT
+2322007,OE2WIO,Franz,,Werfen,SBG,AUT
+2322008,OE2CER,Antonius,,Lungoetz,SBG,AUT
+2322009,OE2RPL,Peter,,Salzburg,SBG,AUT
 2322010,OE2CEN,Claus,,Obertrum am See,SBG,AUT
-2322011,OE2JHN,no_name,,Salzburg,,AUT
-2322012,OE2FKM,no_name,,Maishofen,SBG,AUT
-2322013,OE2HPO,no_name,,Bad Gastein,,AUT
-2322014,OE2HPO,no_name,,Bad Gastein,,AUT
+2322011,OE2JHN,Johann,,Salzburg,SBG,AUT
+2322012,OE2FKM,Manfred,,Maishofen,SBG,AUT
+2322013,OE2HPO,Hubert,,Bad Gastein,SBG,AUT
+2322014,OE2HPO,Hubert,,Bad Gastein,SBG,AUT
 2322015,OE2WPX,no_name,,no_city,SBG,AUT
-2322016,OE2MLP,no_name,,Salzburg,,AUT
-2322017,OE2MKR,no_name,,Sankt Johann Im Pongau,SBG,AUT
-2322018,OE2TRM,no_name,,St.Michael/Lg.,,AUT
-2322019,OE2HRO,no_name,,Salzburg,,AUT
-2322020,OE2WAM,no_name,,Salzburg,,AUT
-2322021,OE2ANP,no_name,,Saalfelden Am Steinernen Meer,SBG,AUT
-2322022,OE2IGL,no_name,,Salzburg,,AUT
-2322023,OE2TXN,no_name,,Salzburg,,AUT
-2322024,OE2MAL,no_name,,Seeham,SBG,AUT
+2322016,OE2MLP,Michael,,Salzburg,SBG,AUT
+2322017,OE2MKR,Mario,,Sankt Johann im Pongau,SBG,AUT
+2322018,OE2TRM,A.H.,,St.Michael/lg.,SBG,AUT
+2322019,OE2HRO,Harald,,Salzburg,SBG,AUT
+2322020,OE2WAM,Achaz,,Salzburg,SBG,AUT
+2322021,OE2ANP,Andreas,,Saalfelden am Steinernen Meer,SBG,AUT
+2322022,OE2IGL,Gerald,,Salzburg,SBG,AUT
+2322023,OE2TXN,Nikolaus,,Salzburg,SBG,AUT
+2322024,OE2MAL,Andreas,,Seeham,SBG,AUT
 2322025,OE2TXO,no_name,,no_city,SBG,AUT
-2322026,OE2XAL,no_name,,Wals,SBG,AUT
-2322027,OE2ANP,no_name,,Saalfelden Am Steinernen Meer,SBG,AUT
-2322028,OE2KTO,no_name,,Muhr,SBG,AUT
-2322029,OE2KTO,no_name,,Muhr,SBG,AUT
-2322030,OE2GXL,no_name,,Thalgau,SBG,AUT
-2322031,OE2AYM,no_name,,St.Martin,,AUT
-2322032,OE2XOD,no_name,,Sankt Michael Im Lungau,SBG,AUT
-2322033,OE2ROL,no_name,,Hallein,SBG,AUT
-2322034,OE2KGO,no_name,,Salzburg,,AUT
-2322035,OE2EZM,no_name,,Salzburg,,AUT
-2322036,OE2TST,no_name,,Salzburg,,AUT
-2322037,OE2JKN,no_name,,Bischofshofen,SBG,AUT
-2322038,OE2RXN,no_name,,Wagrain,SBG,AUT
+2322026,OE2XAL,Lv,,Wals,SBG,AUT
+2322027,OE2ANP,Andreas,,Saalfelden am Steinernen Meer,SBG,AUT
+2322028,OE2KTO,Tadej,,Muhr,SBG,AUT
+2322029,OE2KTO,Tadej,,Muhr,SBG,AUT
+2322030,OE2GXL,Gilbert,,Thalgau,SBG,AUT
+2322031,OE2AYM,Alois,,St.Martin,SBG,AUT
+2322032,OE2XOD,Lv,,Sankt Michael im Lungau,SBG,AUT
+2322033,OE2ROL,Roland,,Hallein,SBG,AUT
+2322034,OE2KGO,Gerhard,,Salzburg,SBG,AUT
+2322035,OE2EZM,Robert,,Salzburg,SBG,AUT
+2322036,OE2TST,Torsten,,Salzburg,SBG,AUT
+2322037,OE2JKN,Johannes,,Bischofshofen,SBG,AUT
+2322038,OE2RXN,Wilfried,,Wagrain,SBG,AUT
 2322039,OE2FGP,Florian,,Salzburg,SBG,AUT
 2322040,OE2HIT,no_name,,no_city,SBG,AUT
 2322041,OE2TXO,no_name,,no_city,SBG,AUT
-2322042,OE2YYL,no_name,,Hallein,SBG,AUT
+2322042,OE2YYL,Mandy,,Hallein,SBG,AUT
 2322043,OE2CRP,no_name,,no_city,SBG,AUT
-2322044,OE2FEP,no_name,,Wals,SBG,AUT
-2322045,OE2FAO,no_name,,Salzburg,,AUT
-2322046,OE2CRT,no_name,,Bsichofshofen,SBG,AUT
-2322047,OE2HEM,no_name,,Kuchl,SBG,AUT
-2322048,OE2IJL,no_name,,Hallein,SBG,AUT
-2322049,OE2RNM,no_name,,Salzburg,,AUT
-2322050,OE2KNN,no_name,,Uttendorf,SBG,AUT
+2322044,OE2FEP,Fridolin,,Wals,SBG,AUT
+2322045,OE2FAO,Arno,,Salzburg,SBG,AUT
+2322046,OE2CRT,Archibald,,Bsichofshofen,SBG,AUT
+2322047,OE2HEM,Hermann,,Kuchl,SBG,AUT
+2322048,OE2IJL,Eberhard,,Hallein,SBG,AUT
+2322049,OE2RNM,Gerhard,,Salzburg,SBG,AUT
+2322050,OE2KNN,Karl,,Uttendorf,SBG,AUT
 2322051,OE2ADE,Domani,,Schwarzach,SBG,AUT
-2322052,OE2AKO,no_name,,Salzburg,SBG,AUT
+2322052,OE2AKO,Alexander,,Salzburg,SBG,AUT
 2322053,OE2PAX,no_name,,no_city,SBG,AUT
-2322054,OE2SCJ,no_name,,Golling An Der Salzach,SBG,AUT
-2322055,OE2TVL,no_name,,Altenmarkt/Pg,,AUT
+2322054,OE2SCJ,Rupert,,Golling An der Salzach,SBG,AUT
+2322055,OE2TVL,Alois,,Altenmarkt/pg,SBG,AUT
 2322056,OE2LAT,Klima,,Saalfelden am Steinernen Meer,SBG,AUT
-2322057,OE2RDO,no_name,,Wals-Siezenheim,SBG,AUT
+2322057,OE2RDO,Reinhard,,Wals-Siezenheim,SBG,AUT
 2322058,OE2PFN,Poehr,,Pfarrwerfen,SBG,AUT
-2322059,OE2VPK,no_name,,Zederhaus,SBG,AUT
-2322060,OE2FGI,no_name,,Saalfelden Am Steinernen Meer,SBG,AUT
-2323001,OE3OLU,no_name,,Klosterneuburg,NOE,AUT
-2323002,OE3OLU,no_name,,Klosterneuburg,NOE,AUT
-2323003,OE3RGB,no_name,,Heidenreichstein,NOE,AUT
-2323004,OE3MFC,no_name,,Heidenreichstein,NOE,AUT
-2323005,OE3OLU,no_name,,Klosterneuburg,NOE,AUT
-2323006,OE3OLU,no_name,,Klosterneuburg,NOE,AUT
-2323007,OE3XHA,no_name,,Heidenreichstein,NOE,AUT
-2323008,OE3BUB,no_name,,Gerasdorf,NOE,AUT
-2323009,OE3DAS,no_name,,Deutsch-Wagram,NOE,AUT
-2323010,OE3LKW,no_name,,Krems An Der Donau,NOE,AUT
-2323011,OE3BLS,no_name,,Bruck An Der Leitha,BGLD,AUT
-2323012,OE3ANW,no_name,,Waidhofen An Der Ybbs,NOE,AUT
-2323013,OE3MNS,no_name,,Kreuth,NOE,AUT
-2323014,OE3VPA,no_name,,Gmünd,NOE,AUT
-2323015,OE3AKB,no_name,,Oberwölbling,NOE,AUT
-2323016,OE3WGU,no_name,,Schloss Rosenau,NOE,AUT
-2323017,OE3CVS,no_name,,Korneuburg,NOE,AUT
-2323018,OE3MAS,no_name,,Sankt Pölten,NOE,AUT
+2322059,OE2VPK,Viktor,,Zederhaus,SBG,AUT
+2322060,OE2FGI,Gerhard,,Saalfelden am Steinernen Meer,SBG,AUT
+2323001,OE3OLU,Robert,,Klosterneuburg,NOE,AUT
+2323002,OE3OLU,Robert,,Klosterneuburg,NOE,AUT
+2323003,OE3RGB,Rainer,,Heidenreichstein,NOE,AUT
+2323004,OE3MFC,Maria,,Heidenreichstein,NOE,AUT
+2323005,OE3OLU,Robert,,Klosterneuburg,NOE,AUT
+2323006,OE3OLU,Robert,,Klosterneuburg,NOE,AUT
+2323007,OE3XHA,(afch),,Heidenreichstein,NOE,AUT
+2323008,OE3BUB,Bernhard,,Gerasdorf,NOE,AUT
+2323009,OE3DAS,David,,Deutsch-Wagram,NOE,AUT
+2323010,OE3LKW,Karl-Otto,,Krems An der Donau,NOE,AUT
+2323011,OE3BLS,Sven-Erik,,Bruck An der Leitha,NOE,AUT
+2323012,OE3ANW,Andreas,,Waidhofen An der Ybbs,NOE,AUT
+2323013,OE3MNS,Michael,,Kreuth,NOE,AUT
+2323014,OE3VPA,Mario,,Gmuend,NOE,AUT
+2323015,OE3AKB,Andreas,,Oberwoelbling,NOE,AUT
+2323016,OE3WGU,Gerald,,Schloss Rosenau,NOE,AUT
+2323017,OE3CVS,Christian,,Korneuburg,NOE,AUT
+2323018,OE3MAS,Alfred,,Sankt Poelten,NOE,AUT
 2323019,OE3RVU,no_name,,no_city,NOE,AUT
-2323020,OE3ANU,no_name,,Mödling,NOE,AUT
-2323021,OE3NEC,no_name,,Gedersdorf,NOE,AUT
+2323020,OE3ANU,Andreas,,Moedling,NOE,AUT
+2323021,OE3NEC,Christoph-Emanuel,,Gedersdorf,NOE,AUT
 2323022,OE3NAU,Norbert,,Perchtoldsdorf,NOE,AUT
-2323023,OE3CDW,no_name,,Sankt Pölten,NOE,AUT
-2323024,OE3FHU,no_name,,Ulmerfeld-Hausmening-Neufurth,NOE,AUT
-2323025,OE3CHC,no_name,,Klosterneuburg,NOE,AUT
-2323026,OE3JOA,no_name,,Sankt Pölten,NOE,AUT
-2323027,OE3SUW,no_name,,Rotheau,NOE,AUT
-2323028,OE3MHU,no_name,,Klosterneuburg,NOE,AUT
-2323029,OE3KNC,no_name,,Gedersdorf,NOE,AUT
+2323023,OE3CDW,Christian,,Sankt Poelten,NOE,AUT
+2323024,OE3FHU,Franz,,Ulmerfeld-Hausmening-Neufurth,NOE,AUT
+2323025,OE3CHC,Christian,,Klosterneuburg,NOE,AUT
+2323026,OE3JOA,Johann,,Sankt Poelten,NOE,AUT
+2323027,OE3SUW,Gerd,,Rotheau,NOE,AUT
+2323028,OE3MHU,Maximilian,,Klosterneuburg,NOE,AUT
+2323029,OE3KNC,Claudia,,Gedersdorf,NOE,AUT
 2323030,OE3ZK,Gerhard,,Klosterneuburg,NOE,AUT
-2323031,OE3OSB,no_name,,Obersiebenbrunn,NOE,AUT
+2323031,OE3OSB,Erich,,Obersiebenbrunn,NOE,AUT
 2323032,OE3SBU,no_name,,no_city,NOE,AUT
-2323033,OE3FPA,no_name,,Heidenreichstein,NOE,AUT
-2323034,OE3IGW,no_name,,Litschau,NOE,AUT
+2323033,OE3FPA,Franz,,Heidenreichstein,NOE,AUT
+2323034,OE3IGW,Alois,,Litschau,NOE,AUT
 2323035,OE3AAG,Gertrude,,Heidenreichstein,NOE,AUT
-2323036,OE3DJB,no_name,,Zwettl,,AUT
-2323037,OE3SCC,no_name,,Korneuburg,NOE,AUT
-2323038,OE3SCC,no_name,,Korneuburg,NOE,AUT
-2323039,OE3WFC,no_name,,Stockerau,NOE,AUT
+2323036,OE3DJB,Friedmann,,Zwettl,NOE,AUT
+2323037,OE3SCC,Stefan,,Korneuburg,NOE,AUT
+2323038,OE3SCC,Stefan,,Korneuburg,NOE,AUT
+2323039,OE3WFC,Werner,,Stockerau,NOE,AUT
 2323040,OE3XMB,Werner,,Stockerau,NOE,AUT
-2323041,OE3AAS,no_name,,Korneuburg,NOE,AUT
-2323042,OE3PVC,no_name,,Schwechat,NOE,AUT
-2323043,OE3AKB,no_name,,Oberwölbling,NOE,AUT
-2323044,OE3KNU,no_name,,Allentsteig,NOE,AUT
-2323045,OE3MUC,no_name,,Krems-Egelsee,NOE,AUT
-2323046,OE3JOA,no_name,,Sankt Pölten,NOE,AUT
-2323047,OE3BHC,no_name,,Herzogenburg,NOE,AUT
-2323048,OE3JBS,no_name,,Pölten-Har,,AUT
-2323049,OE3RPU,no_name,,Mönichkirchen,STMK,AUT
-2323050,OE3JBS,no_name,,Pölten-Har,,AUT
-2323051,OE3ERR,no_name,,Leopoldsdorf Im Marchfelde,NOE,AUT
-2323052,OE3FPA,no_name,,Heidenreichstein,NOE,AUT
-2323053,OE3KDS,no_name,,Enzersfeld,NOE,AUT
-2323054,OE3BSU,no_name,,Kritzendorf,,AUT
-2323055,OE3NOB,no_name,,Sankt Pölten,NOE,AUT
-2323056,OE3FRU,no_name,,Nagelberg,,AUT
+2323041,OE3AAS,Rudolf,,Korneuburg,NOE,AUT
+2323042,OE3PVC,Mitts,,Schwechat,NOE,AUT
+2323043,OE3AKB,Andreas,,Oberwoelbling,NOE,AUT
+2323044,OE3KNU,Karl,,Allentsteig,NOE,AUT
+2323045,OE3MUC,Matthias,,Krems-Egelsee,NOE,AUT
+2323046,OE3JOA,Johann,,Sankt Poelten,NOE,AUT
+2323047,OE3BHC,Robert,,Herzogenburg,NOE,AUT
+2323048,OE3JBS,Josef,,St Poelten-Har,NOE,AUT
+2323049,OE3RPU,Rudolf,,Moenichkirchen,NOE,AUT
+2323050,OE3JBS,Josef,,St Poelten-Har,NOE,AUT
+2323051,OE3ERR,Roman,,Leopoldsdorf im Marchfelde,NOE,AUT
+2323052,OE3FPA,Franz,,Heidenreichstein,NOE,AUT
+2323053,OE3KDS,Martin,,Enzersfeld,NOE,AUT
+2323054,OE3BSU,Bernd,,Kritzendorf,NOE,AUT
+2323055,OE3NOB,Richard,,Sankt Poelten,NOE,AUT
+2323056,OE3FRU,Franz,,Nagelberg,NOE,AUT
 2323057,OE3CMW,Michael,,Grosebersdorf,NOE,AUT
-2323058,OE3PKB,no_name,,Kleinhadersdorf,NOE,AUT
-2323059,OE3PGU,no_name,,Gerasdorf,NOE,AUT
-2323060,OE3REC,no_name,,Probstdorf,NOE,AUT
-2323061,OE3CTS,no_name,,Krems An Der Donau,NOE,AUT
-2323062,OE3GWU,no_name,,Karlstift,NOE,AUT
-2323063,OE3PQA,no_name,,Klein-Pöchlarn,NOE,AUT
-2323064,OE3GWU,no_name,,Karlstift,NOE,AUT
-2323065,OE3WLC,no_name,,Perchtoldsdorf,,AUT
-2323066,OE3KSS,no_name,,Kirchberg An Der Pielach,NOE,AUT
-2323067,OE3MUC,no_name,,Krems-Egelsee,NOE,AUT
-2323068,OE3XOB,no_name,,Bad Vöslau,NOE,AUT
-2323069,OE3HPU,no_name,,Streifing,NOE,AUT
-2323070,OE3WGW,no_name,,Stockerau,,AUT
-2323071,OE3MUS,no_name,,Sankt Pölten,NOE,AUT
-2323072,OE3RSW,no_name,,Mödling,NOE,AUT
-2323073,OE3CJB,no_name,,Sankt Pölten,NOE,AUT
-2323074,OE3CGG,no_name,,Brunn Am Gebirge,NOE,AUT
-2323075,OE3LCR,no_name,,Wiener Neustadt,NOE,AUT
-2323076,OE3OKS,no_name,,Ternitz,,AUT
-2323077,OE3YCB,no_name,,Neulengbach,NOE,AUT
-2323078,OE3CQB,no_name,,Gars Am Kamp,NOE,AUT
-2323079,OE3THU,no_name,,Pfaffstätten,NOE,AUT
-2323080,OE3KAS,no_name,,Traiskirchen,NOE,AUT
-2323081,OE3XNR,no_name,,Sankt Martin,NOE,AUT
-2323082,OE3SEU,no_name,,Altlengbach,NOE,AUT
-2323083,OE3VVU,no_name,,Altlengbach,NOE,AUT
-2323084,OE3GXW,no_name,,Breitenfurt,NOE,AUT
-2323085,OE3CDW,no_name,,Sankt Pölten,NOE,AUT
-2323086,OE3FMU,no_name,,Mödling,NOE,AUT
-2323087,OE3OMF,no_name,,Warth,NOE,AUT
-2323088,OE3TDW,no_name,,Enzersdorf An Der Fischa,NOE,AUT
-2323089,OE3FVU,no_name,,Kirchstetten,NOE,AUT
-2323090,OE3JSU,no_name,,Stockerau,NOE,AUT
-2323091,OE3FQU,no_name,,Sankt Georgen Am Ybbsfelde,NOE,AUT
-2323092,OE3MTB,no_name,,Sankt Pölten,NOE,AUT
-2323093,OE3RNA,no_name,,Gaming,NOE,AUT
-2323094,OE3JJS,no_name,,Böheimkirchen,NOE,AUT
-2323095,OE3LOA,no_name,,Berndorf,NOE,AUT
-2323096,OE3MBU,no_name,,Pitten,NOE,AUT
-2323097,OE3VSW,no_name,,Wiener Neustadt,NOE,AUT
-2323098,OE3CFC,no_name,,Brunn Am Gebirge,NOE,AUT
-2323099,OE3EBS,no_name,,Waidhofen An Der Ybbs,NOE,AUT
-2323100,OE3NQA,no_name,,Stockerau,NOE,AUT
-2323101,OE3GRU,no_name,,Günselsdorf,NOE,AUT
-2323102,OE3BOB,no_name,,Baden,NOE,AUT
-2323103,OE3EHS,no_name,,Enzesfeld,NOE,AUT
-2323104,OE3GKB,no_name,,Landegg,NOE,AUT
-2323105,OE3MSU,no_name,,Perchtoldsdorf,,AUT
-2323106,OE3LFC,no_name,,Weigelsdorf,,AUT
-2323107,OE3PAS,no_name,,Traiskirchen,NOE,AUT
-2323108,OE3MKU,no_name,,Wiener Neustadt,NOE,AUT
-2323109,OE3RDW,no_name,,Bad Vöslau,NOE,AUT
+2323058,OE3PKB,Peter,,Kleinhadersdorf,NOE,AUT
+2323059,OE3PGU,Georg,,Gerasdorf,NOE,AUT
+2323060,OE3REC,Rainer,,Probstdorf,NOE,AUT
+2323061,OE3CTS,Kurt,,Krems An der Donau,NOE,AUT
+2323062,OE3GWU,Rainer,,Karlstift,NOE,AUT
+2323063,OE3PQA,Marc,,Klein-Poechlarn,NOE,AUT
+2323064,OE3GWU,Rainer,,Karlstift,NOE,AUT
+2323065,OE3WLC,Wolfgang,,Perchtoldsdorf,NOE,AUT
+2323066,OE3KSS,Konstantin,,Kirchberg An der Pielach,NOE,AUT
+2323067,OE3MUC,Matthias,,Krems-Egelsee,NOE,AUT
+2323068,OE3XOB,Oevsv,,Bad Voeslau,NOE,AUT
+2323069,OE3HPU,Hans,,Streifing,NOE,AUT
+2323070,OE3WGW,Wolfgang,,Stockerau,NOE,AUT
+2323071,OE3MUS,Ulrike,,Sankt Poelten,NOE,AUT
+2323072,OE3RSW,Rudolf,,Moedling,NOE,AUT
+2323073,OE3CJB,Christian,,Sankt Poelten,NOE,AUT
+2323074,OE3CGG,Gerold,,Brunn am Gebirge,NOE,AUT
+2323075,OE3LCR,Bed.,,Wiener Neustadt,NOE,AUT
+2323076,OE3OKS,Wolfgang,,Ternitz,NOE,AUT
+2323077,OE3YCB,Barbara,,Neulengbach,NOE,AUT
+2323078,OE3CQB,Christian,,Gars am Kamp,NOE,AUT
+2323079,OE3THU,Peter,,Pfaffstaetten,NOE,AUT
+2323080,OE3KAS,Karlheinz,,Traiskirchen,NOE,AUT
+2323081,OE3XNR,Oevsv,,Sankt Martin,NOE,AUT
+2323082,OE3SEU,Eduard,,Altlengbach,NOE,AUT
+2323083,OE3VVU,Monty,,Altlengbach,NOE,AUT
+2323084,OE3GXW,Wolfgang,,Breitenfurt,NOE,AUT
+2323085,OE3CDW,Christian,,Sankt Poelten,NOE,AUT
+2323086,OE3FMU,Martin,,Moedling,NOE,AUT
+2323087,OE3OMF,Oliver,,Warth,NOE,AUT
+2323088,OE3TDW,Thomas,,Enzersdorf An der Fischa,NOE,AUT
+2323089,OE3FVU,Hendrik,,Kirchstetten,NOE,AUT
+2323090,OE3JSU,Johannes,,Stockerau,NOE,AUT
+2323091,OE3FQU,Franz,,Sankt Georgen am Ybbsfelde,NOE,AUT
+2323092,OE3MTB,Manuel,,Sankt Poelten,NOE,AUT
+2323093,OE3RNA,Rene,,Gaming,NOE,AUT
+2323094,OE3JJS,Josef,,Boeheimkirchen,NOE,AUT
+2323095,OE3LOA,Andreas,,Berndorf,NOE,AUT
+2323096,OE3MBU,Marcus,,Pitten,NOE,AUT
+2323097,OE3VSW,Wolfgang,,Wiener Neustadt,NOE,AUT
+2323098,OE3CFC,Christian,,Brunn am Gebirge,NOE,AUT
+2323099,OE3EBS,Ernst,,Waidhofen An der Ybbs,NOE,AUT
+2323100,OE3NQA,Nanak,,Stockerau,NOE,AUT
+2323101,OE3GRU,Gerhard,,Guenselsdorf,NOE,AUT
+2323102,OE3BOB,Robert,,Baden,NOE,AUT
+2323103,OE3EHS,Ernst,,Enzesfeld,NOE,AUT
+2323104,OE3GKB,Klaus,,Landegg,NOE,AUT
+2323105,OE3MSU,Max,,Perchtoldsdorf,NOE,AUT
+2323106,OE3LFC,Leopold,,Weigelsdorf,NOE,AUT
+2323107,OE3PAS,Peter,,Traiskirchen,NOE,AUT
+2323108,OE3MKU,Manfred,,Wiener Neustadt,NOE,AUT
+2323109,OE3RDW,Reinhard,,Bad Voeslau,NOE,AUT
 2323110,OE3NSU,Hermann,,Perchtoldsdorf,NOE,AUT
-2323111,OE3RHS,no_name,,Sollenau,NOE,AUT
-2323112,OE3ORW,no_name,,Eibesbrunn,NOE,AUT
-2323113,OE3VBC,no_name,,Sollenau,NOE,AUT
-2323114,OE3ARB,no_name,,Mödling,NOE,AUT
-2323115,OE3VBA,no_name,,Gansbach,NOE,AUT
-2323116,OE3VBA,no_name,,Gansbach,NOE,AUT
-2323117,OE3FGB,no_name,,Sollenau,NOE,AUT
+2323111,OE3RHS,Rudolf,,Sollenau,NOE,AUT
+2323112,OE3ORW,Otto,,Eibesbrunn,NOE,AUT
+2323113,OE3VBC,Martin,,Sollenau,NOE,AUT
+2323114,OE3ARB,Andreas,,Moedling,NOE,AUT
+2323115,OE3VBA,Wolfgang,,Gansbach,NOE,AUT
+2323116,OE3VBA,Wolfgang,,Gansbach,NOE,AUT
+2323117,OE3FGB,Franz,,Sollenau,NOE,AUT
 2323118,OE3GJB,Gerhard,,Gainfarn,NOE,AUT
-2323119,OE3BMA,no_name,,Leopoldsdorf,,AUT
+2323119,OE3BMA,Manfred,,Leopoldsdorf,NOE,AUT
 2323120,OE3VGC,Gregor,,Leopoldsdorf,NOE,AUT
-2323121,OE3MKU,no_name,,Wiener Neustadt,NOE,AUT
-2323122,OE3FEC,no_name,,Mollram,NOE,AUT
-2323123,OE3KLU,no_name,,Schwechat,NOE,AUT
-2323124,OE3KLU,no_name,,Schwechat,NOE,AUT
-2323125,OE3KLU,no_name,,Schwechat,NOE,AUT
-2323126,OE3ARB,no_name,,Mödling,NOE,AUT
-2323127,OE3PAS,no_name,,Traiskirchen,NOE,AUT
+2323121,OE3MKU,Manfred,,Wiener Neustadt,NOE,AUT
+2323122,OE3FEC,Erwin,,Mollram,NOE,AUT
+2323123,OE3KLU,Karl,,Schwechat,NOE,AUT
+2323124,OE3KLU,Karl,,Schwechat,NOE,AUT
+2323125,OE3KLU,Karl,,Schwechat,NOE,AUT
+2323126,OE3ARB,Andreas,,Moedling,NOE,AUT
+2323127,OE3PAS,Peter,,Traiskirchen,NOE,AUT
 2323128,OE3LSC,no_name,,no_city,NOE,AUT
-2323129,OE3CDS,no_name,,Harmannsdorf-Rückersdorf,NOE,AUT
+2323129,OE3CDS,Christian,,Harmannsdorf-Rueckersdorf,NOE,AUT
 2323130,OE3NSU,Hermann,,Perchtoldsdorf,NOE,AUT
-2323131,OE3CRD,no_name,,Ebreichsdorf,NOE,AUT
-2323132,OE3CRD,no_name,,Ebreichsdorf,NOE,AUT
-2323133,OE3DMB,no_name,,Münchendorf,NOE,AUT
-2323134,OE3MTC,no_name,,Sankt Andrä-Wördern,NOE,AUT
-2323135,OE3VAW,no_name,,Leopoldsdorf,NOE,AUT
-2323136,OE3TWA,no_name,,Korneuburg,NOE,AUT
-2323137,OE3PDB,no_name,,Purkersdorf,NOE,AUT
-2323138,OE3CDL,no_name,,Lanzendorf,,AUT
+2323131,OE3CRD,Christian,,Ebreichsdorf,NOE,AUT
+2323132,OE3CRD,Christian,,Ebreichsdorf,NOE,AUT
+2323133,OE3DMB,Andreas,,Muenchendorf,NOE,AUT
+2323134,OE3MTC,Christoph,,Sankt Andrae-Woerdern,NOE,AUT
+2323135,OE3VAW,Martin,,Leopoldsdorf,NOE,AUT
+2323136,OE3TWA,Thomas,,Korneuburg,NOE,AUT
+2323137,OE3PDB,Peter,,Purkersdorf,NOE,AUT
+2323138,OE3CDL,Hubert,,Ma Lanzendorf,NOE,AUT
 2323139,OE3TKT,no_name,,no_city,NOE,AUT
-2323140,OE3MBZ,no_name,,Absdorf,NOE,AUT
-2323141,OE3WWE,no_name,,Großweikersdorf,NOE,AUT
-2323142,OE3JDW,no_name,,Kaltenleutgeben,,AUT
-2323143,OE3AFA,no_name,,Krumau Am Kamp,NOE,AUT
-2323144,OE3JKS,no_name,,Sulz/Wienerwd,,AUT
-2323145,OE3DXW,no_name,,Sierndorf,NOE,AUT
-2323146,OE3HRE,no_name,,Wiener Neudorf,NOE,AUT
-2323147,OE3BPC,no_name,,Klosterneuburg,NOE,AUT
-2323148,OE3DSU,no_name,,Perschling,NOE,AUT
-2323149,OE3MWJ,no_name,,Tulln An Der Donau,NOE,AUT
-2323150,OE3VGW,no_name,,Neustift-Innermanzing,NOE,AUT
-2323151,OE3RPU,no_name,,Mönichkirchen,STMK,AUT
-2323152,OE3AWU,no_name,,Markersdorf-Haindorf,NOE,AUT
-2323153,OE3ASA,no_name,,Grünbach Am Schneeberg,NOE,AUT
+2323140,OE3MBZ,Michael,,Absdorf,NOE,AUT
+2323141,OE3WWE,Werner,,Grossweikersdorf,NOE,AUT
+2323142,OE3JDW,Josef,,Kaltenleutgeben,NOE,AUT
+2323143,OE3AFA,Franz,,Krumau am Kamp,NOE,AUT
+2323144,OE3JKS,Klecanjohann,,Sulz/wienerwd,NOE,AUT
+2323145,OE3DXW,Daniel,,Sierndorf,NOE,AUT
+2323146,OE3HRE,Msc,,Wiener Neudorf,NOE,AUT
+2323147,OE3BPC,Charles,,Klosterneuburg,NOE,AUT
+2323148,OE3DSU,Manfred,,Perschling,NOE,AUT
+2323149,OE3MWJ,Martin,,Tulln An der Donau,NOE,AUT
+2323150,OE3VGW,Gerald,,Neustift-Innermanzing,NOE,AUT
+2323151,OE3RPU,Rudolf,,Moenichkirchen,NOE,AUT
+2323152,OE3AWU,Andreas,,Markersdorf-Haindorf,NOE,AUT
+2323153,OE3ASA,Gerhard,,Gruenbach am Schneeberg,NOE,AUT
 2323154,OE3JFW,Hans,,Herzogenburg,NOE,AUT
-2323155,OE3RFW,no_name,,Brunn Am Gebirge,NOE,AUT
-2323156,OE3BLS,no_name,,Bruck An Der Leitha,BGLD,AUT
-2323157,OE3MTC,no_name,,Sankt Andrä-Wördern,NOE,AUT
-2323158,OE3HOI,no_name,,Laxenburg,NOE,AUT
+2323155,OE3RFW,Roman,,Brunn am Gebirge,NOE,AUT
+2323156,OE3BLS,Sven-Erik,,Bruck An der Leitha,NOE,AUT
+2323157,OE3MTC,Christoph,,Sankt Andrae-Woerdern,NOE,AUT
+2323158,OE3HOI,Harald,,Laxenburg,NOE,AUT
 2323159,OE3FKR,Friedrich,,Moellersdorf,NOE,AUT
-2323160,OE3NIM,no_name,,Frauendorf An Der Schmida,NOE,AUT
-2323161,OE3EIW,no_name,,Puchberg Am Schneeberg,NOE,AUT
-2323162,OE3FZB,no_name,,Wiener Neudorf,NOE,AUT
-2323163,OE3STU,no_name,,Wieselburg,NOE,AUT
-2323164,OE3HCW,no_name,,Sankt Pölten,NOE,AUT
-2323165,OE3LMA,no_name,,Neunkirchen,NOE,AUT
-2323166,OE3BHB,no_name,,Heidenreichstn,,AUT
-2323167,OE3FQR,no_name,,Waidhofen An Der Thaya,NOE,AUT
-2323168,OE3FOA,no_name,,Ferschnitz,NOE,AUT
+2323160,OE3NIM,Norbert,,Frauendorf An der Schmida,NOE,AUT
+2323161,OE3EIW,Herbert,,Puchberg am Schneeberg,NOE,AUT
+2323162,OE3FZB,Friedrich,,Wiener Neudorf,NOE,AUT
+2323163,OE3STU,Josef,,Wieselburg,NOE,AUT
+2323164,OE3HCW,Helmuth,,Sankt Poelten,NOE,AUT
+2323165,OE3LMA,Michael,,Neunkirchen,NOE,AUT
+2323166,OE3BHB,Heinz,,Heidenreichstn,NOE,AUT
+2323167,OE3FQR,Franz,,Waidhofen An der Thaya,NOE,AUT
+2323168,OE3FOA,Friedrich,,Ferschnitz,NOE,AUT
 2323169,OE3ULA,no_name,,no_city,NOE,AUT
 2323170,OE3VNA,Arne,,Trumau,NOE,AUT
-2323171,OE3VSS,no_name,,Sankt Peter In Der Au,NOE,AUT
-2323172,OE3TWH,no_name,,Vösendorf,NOE,AUT
-2323173,OE3LWC,no_name,,Königsbrunn Am Wagram,NOE,AUT
-2323174,OE3KAU,no_name,,Ferschnitz,NOE,AUT
+2323171,OE3VSS,Stefan,,Sankt Peter In der Au,NOE,AUT
+2323172,OE3TWH,Wolfgang,,Voesendorf,NOE,AUT
+2323173,OE3LWC,Werner,,Koenigsbrunn am Wagram,NOE,AUT
+2323174,OE3KAU,Andreas,,Ferschnitz,NOE,AUT
 2323175,OE3MQK,no_name,,no_city,NOE,AUT
-2323176,OE3RLQ,no_name,,Blindenmarkt,NOE,AUT
-2323177,OE3MRA,no_name,,Oberwaltersdorf,NOE,AUT
-2323178,OE3RAS,no_name,,Trautmannsdorf An Der Leitha,NOE,AUT
-2323179,OE3IPU,no_name,,Bockfließ,,AUT
-2323180,OE3EZU,no_name,,Rosenau,,AUT
-2323181,OE3JOT,no_name,,Enzersdorf An Der Fischa,NOE,AUT
-2323182,OE3AHU,no_name,,Eggendorf Im Thale,NOE,AUT
-2323183,OE3GBB,no_name,,Wartmannstetten,NOE,AUT
-2323184,OE3PMS,no_name,,Wiener Neustadt,NOE,AUT
-2323185,OE3MEN,no_name,,Herzogenburg,NOE,AUT
-2323186,OE3HGB,no_name,,Mautern An Der Donau,NOE,AUT
+2323176,OE3RLQ,Roland,,Blindenmarkt,NOE,AUT
+2323177,OE3MRA,Martin,,Oberwaltersdorf,NOE,AUT
+2323178,OE3RAS,Walter,,Trautmannsdorf An der Leitha,NOE,AUT
+2323179,OE3IPU,Gottfried,,Bockfliess,NOE,AUT
+2323180,OE3EZU,Erich,,Rosenau,NOE,AUT
+2323181,OE3JOT,Josef,,Enzersdorf An der Fischa,NOE,AUT
+2323182,OE3AHU,Walter,,Eggendorf im Thale,NOE,AUT
+2323183,OE3GBB,Gerhard,,Wartmannstetten,NOE,AUT
+2323184,OE3PMS,Peter,,Wiener Neustadt,NOE,AUT
+2323185,OE3MEN,Werner,,Herzogenburg,NOE,AUT
+2323186,OE3HGB,Heinz,,Mautern An der Donau,NOE,AUT
 2323187,OE3ZJC,Jose,,Strasshof An der Nordbahn,NOE,AUT
 2323188,OE3JTB,Josef,,Gfoehl,NOE,AUT
-2323189,OE3OZA,no_name,,Gaming,NOE,AUT
+2323189,OE3OZA,Werner,,Gaming,NOE,AUT
 2323190,OE3DZW,no_name,,no_city,NOE,AUT
-2323191,OE3RFA,no_name,,St Pölten,,AUT
+2323191,OE3RFA,Rudolf,,Pyhra St Poelten,NOE,AUT
 2323192,OE3DMW,Erhard,,Wien,NOE,AUT
-2323193,OE3EHU,no_name,,Pölten-Spr,,AUT
-2323194,OE3BWW,no_name,,Waidhofen/Ybbs,,AUT
-2323195,OE3ELJ,no_name,,Schönau An Der Triesting,NOE,AUT
-2323196,OE3TWB,no_name,,Oedt An Der Wild,NOE,AUT
-2323197,OE3DWA,no_name,,Dürnrohr,NOE,AUT
-2323198,OE3HCH,no_name,,Leopoldsdorf,NOE,AUT
-2323199,OE3IGW,no_name,,Litschau,NOE,AUT
-2323200,OE3AEU,no_name,,Laa/Thaya,,AUT
+2323193,OE3EHU,Erwin,,St Poelten-Spr,NOE,AUT
+2323194,OE3BWW,Walter,,Waidhofen/ybbs,NOE,AUT
+2323195,OE3ELJ,Mba,,Schoenau An der Triesting,NOE,AUT
+2323196,OE3TWB,Thomas,,Oedt An der Wild,NOE,AUT
+2323197,OE3DWA,Walter,,Duernrohr,NOE,AUT
+2323198,OE3HCH,Christian,,Leopoldsdorf,NOE,AUT
+2323199,OE3IGW,Alois,,Litschau,NOE,AUT
+2323200,OE3AEU,Adolf,,Laa/thaya,NOE,AUT
 2323201,OE3JIU,Johann,,Ulrichskirchen,NOE,AUT
-2323202,OE3FLU,no_name,,Baden,NOE,AUT
-2323203,OE3FLU,no_name,,Baden,NOE,AUT
-2323204,OE3GAU,no_name,,Deutsch/Wagram,,AUT
-2323205,OE3HZW,no_name,,Hainfeld,NOE,AUT
-2323206,OE3SJA,no_name,,Deutsch-Wagram,NOE,AUT
-2323207,OE3LTB,no_name,,Klosterneuburg,NOE,AUT
-2323208,OE3UKW,no_name,,Groß-Schweinbarth,NOE,AUT
-2323209,OE3HZW,no_name,,Hainfeld,NOE,AUT
+2323202,OE3FLU,Franz,,Baden,NOE,AUT
+2323203,OE3FLU,Franz,,Baden,NOE,AUT
+2323204,OE3GAU,Rudolf,,Deutsch/wagram,NOE,AUT
+2323205,OE3HZW,Helmut,,Hainfeld,NOE,AUT
+2323206,OE3SJA,Johann,,Deutsch-Wagram,NOE,AUT
+2323207,OE3LTB,Leo,,Klosterneuburg,NOE,AUT
+2323208,OE3UKW,Christian,,Gross-Schweinbarth,NOE,AUT
+2323209,OE3HZW,Helmut,,Hainfeld,NOE,AUT
 2323210,OE3OMC,Michael,,Klosterneuburg,NOE,AUT
-2323211,OE3HCH,no_name,,Leopoldsdorf,NOE,AUT
-2323212,OE3NRC,no_name,,Dietmanns,NOE,AUT
-2323213,OE3NJA,no_name,,Hadersdorf Am Kamp,NOE,AUT
-2323214,OE3JOP,no_name,,Baden,NOE,AUT
-2323215,OE3KYS,no_name,,Obergrafendorf,,AUT
-2323216,OE3CRW,no_name,,Brunn Am Gebirge,NOE,AUT
-2323217,OE3DHS,no_name,,Stockerau,,AUT
-2323218,OE3FRE,no_name,,Wiener Neudorf,NOE,AUT
-2323219,OE3YTA,no_name,,Brunn Am Gebirge,NOE,AUT
-2323220,OE3HNJ,no_name,,Steinabrückl,NOE,AUT
-2323221,OE3FRE,no_name,,Wiener Neudorf,NOE,AUT
-2323222,OE3MUS,no_name,,Sankt Pölten,NOE,AUT
-2323223,OE3HWU,no_name,,Langenlois,NOE,AUT
-2323224,OE3ORA,no_name,,Hohe Wand-Stollhof,NOE,AUT
-2323225,OE3UEA,no_name,,Stockerau,NOE,AUT
-2323226,OE3WLS,no_name,,Stockerau,,AUT
-2323227,OE3MAS,no_name,,Sankt Pölten,NOE,AUT
-2323228,OE3JOK,no_name,,Traismauer,NOE,AUT
-2323229,OE3HVH,no_name,,Engabrunn,NOE,AUT
-2323230,OE3MWS,no_name,,Krems An Der Donau,NOE,AUT
-2323231,OE3GJS,no_name,,Großriedenthal,NOE,AUT
-2323232,OE3ESA,no_name,,Mautern,,AUT
-2323233,OE3RRW,no_name,,Pfaffstätten,NOE,AUT
-2323234,OE3TVJ,no_name,,Neidling,NOE,AUT
-2323235,OE3FIB,no_name,,Aggsbach Markt,NOE,AUT
+2323211,OE3HCH,Christian,,Leopoldsdorf,NOE,AUT
+2323212,OE3NRC,Rudolf,,Dietmanns,NOE,AUT
+2323213,OE3NJA,Natascha,,Hadersdorf am Kamp,NOE,AUT
+2323214,OE3JOP,Johannes,,Baden,NOE,AUT
+2323215,OE3KYS,Karl,,Obergrafendorf,NOE,AUT
+2323216,OE3CRW,Peter,,Brunn am Gebirge,NOE,AUT
+2323217,OE3DHS,Hellmuth,,Stockerau,NOE,AUT
+2323218,OE3FRE,Reinhard,,Wiener Neudorf,NOE,AUT
+2323219,OE3YTA,Martina,,Brunn am Gebirge,NOE,AUT
+2323220,OE3HNJ,Harald,,Steinabrueckl,NOE,AUT
+2323221,OE3FRE,Reinhard,,Wiener Neudorf,NOE,AUT
+2323222,OE3MUS,Ulrike,,Sankt Poelten,NOE,AUT
+2323223,OE3HWU,Werner,,Langenlois,NOE,AUT
+2323224,OE3ORA,Rudolf,,Hohe Wand-Stollhof,NOE,AUT
+2323225,OE3UEA,Ulrich,,Stockerau,NOE,AUT
+2323226,OE3WLS,Wolfgang,,Stockerau,NOE,AUT
+2323227,OE3MAS,Alfred,,Sankt Poelten,NOE,AUT
+2323228,OE3JOK,Johannes,,Traismauer,NOE,AUT
+2323229,OE3HVH,Heinrich,,Engabrunn,NOE,AUT
+2323230,OE3MWS,Manfred,,Krems An der Donau,NOE,AUT
+2323231,OE3GJS,Josef,,Grossriedenthal,NOE,AUT
+2323232,OE3ESA,Ewald,,Mautern,NOE,AUT
+2323233,OE3RRW,Rudolf,,Pfaffstaetten,NOE,AUT
+2323234,OE3TVJ,Thomas,,Neidling,NOE,AUT
+2323235,OE3FIB,Franz,,Aggsbach Markt,NOE,AUT
 2323236,OE3HYC,Kirsti,,Langenlois,NOE,AUT
-2323237,OE3FIB,no_name,,Aggsbach Markt,NOE,AUT
-2323238,OE3YUR,no_name,,Sankt Valentin,NOE,AUT
-2323239,OE3GBC,no_name,,Pellendorf,NOE,AUT
-2323240,OE3DPA,no_name,,Alt-Nagelberg,NOE,AUT
-2323241,OE3TPB,no_name,,Purkersdorf,NOE,AUT
-2323242,OE3WXW,no_name,,Schwechat,NOE,AUT
-2323243,OE3GBC,no_name,,Pellendorf,NOE,AUT
-2323244,OE3IFB,no_name,,Sankt Valentin,NOE,AUT
-2323245,OE3OPA,no_name,,Vösendorf,NOE,AUT
-2323246,OE3CQB,no_name,,Gars Am Kamp,NOE,AUT
-2323247,OE3AGH,no_name,,Sankt Pölten,NOE,AUT
-2323248,OE3CVR,no_name,,Gablitz,,AUT
-2323249,OE3CQS,no_name,,Sankt Pölten,NOE,AUT
-2323250,OE3YJM,no_name,,Heidenreichstein,NOE,AUT
-2323251,OE3VPA,no_name,,Gmünd,NOE,AUT
-2323252,OE3YHC,no_name,,Gmünd,NOE,AUT
+2323237,OE3FIB,Franz,,Aggsbach Markt,NOE,AUT
+2323238,OE3YUR,Yuri,,Sankt Valentin,NOE,AUT
+2323239,OE3GBC,Guido,,Pellendorf,NOE,AUT
+2323240,OE3DPA,Dieter,,Alt-Nagelberg,NOE,AUT
+2323241,OE3TPB,Thomas,,Purkersdorf,NOE,AUT
+2323242,OE3WXW,Wolfgang,,Schwechat,NOE,AUT
+2323243,OE3GBC,Guido,,Pellendorf,NOE,AUT
+2323244,OE3IFB,Florian,,Sankt Valentin,NOE,AUT
+2323245,OE3OPA,Peter,,Voesendorf,NOE,AUT
+2323246,OE3CQB,Christian,,Gars am Kamp,NOE,AUT
+2323247,OE3AGH,Andreas,,Sankt Poelten,NOE,AUT
+2323248,OE3CVR,Cornelius,,Gablitz,NOE,AUT
+2323249,OE3CQS,Christian,,Sankt Poelten,NOE,AUT
+2323250,OE3YJM,Julia,,Heidenreichstein,NOE,AUT
+2323251,OE3VPA,Mario,,Gmuend,NOE,AUT
+2323252,OE3YHC,Nadine,,Gmuend,NOE,AUT
 2323253,OE3MVW,no_name,,no_city,NOE,AUT
-2323254,OE3WYC,no_name,,Klosterneuburg,NOE,AUT
+2323254,OE3WYC,Wilhelm,,Klosterneuburg,NOE,AUT
 2323255,OE3CQJ,no_name,,no_city,NOE,AUT
-2323256,OE3APM,no_name,,Heidenreichstein,NOE,AUT
-2323257,OE3KPC,no_name,,Haringsee,NOE,AUT
-2323258,OE3GWW,no_name,,Neu-Purkersdorf,NOE,AUT
-2323259,OE3TFL,no_name,,Bergern,NOE,AUT
-2323260,OE3JKA,no_name,,Schrems,NOE,AUT
-2323261,OE3KAI,no_name,,Leobersdorf,NOE,AUT
+2323256,OE3APM,Andreas,,Heidenreichstein,NOE,AUT
+2323257,OE3KPC,Christian,,Haringsee,NOE,AUT
+2323258,OE3GWW,Guenter,,Neu-Purkersdorf,NOE,AUT
+2323259,OE3TFL,Thomas,,Bergern,NOE,AUT
+2323260,OE3JKA,Johann,,Schrems,NOE,AUT
+2323261,OE3KAI,Erwin,,Leobersdorf,NOE,AUT
 2323262,OE3RPR,no_name,,no_city,NOE,AUT
-2323263,OE3BCB,no_name,,Neulengbach,NOE,AUT
-2323264,OE3LKB,no_name,,Neu-Mitterndorf,NOE,AUT
-2323265,OE3ABA,no_name,,Nagelberg,,AUT
-2323266,OE3PCB,no_name,,Enzersdorf An Der Fischa,NOE,AUT
+2323263,OE3BCB,Christoph,,Neulengbach,NOE,AUT
+2323264,OE3LKB,Helmut,,Neu-Mitterndorf,NOE,AUT
+2323265,OE3ABA,Alfred,,Nagelberg,NOE,AUT
+2323266,OE3PCB,Christian,,Enzersdorf An der Fischa,NOE,AUT
 2323267,OE3DOS,no_name,,no_city,NOE,AUT
-2323268,OE3GWC,no_name,,Wöllersdorf,,AUT
-2323269,OE3AGH,no_name,,Sankt Pölten,NOE,AUT
-2323270,OE3WRB,no_name,,Sankt Pölten,NOE,AUT
-2323271,OE3AJA,no_name,,Haugsdorf,NOE,AUT
-2323272,OE3YMB,no_name,,Ravelsbach,NOE,AUT
+2323268,OE3GWC,Gerhard,,Woellersdorf,NOE,AUT
+2323269,OE3AGH,Andreas,,Sankt Poelten,NOE,AUT
+2323270,OE3WRB,Wolfgang,,Sankt Poelten,NOE,AUT
+2323271,OE3AJA,Josef,,Haugsdorf,NOE,AUT
+2323272,OE3YMB,Jutta,,Ravelsbach,NOE,AUT
 2323273,OE3DOS,no_name,,no_city,NOE,AUT
-2323274,OE3MES,no_name,,Klosterneuburg,NOE,AUT
-2323275,OE3MLC,no_name,,Limberg,,AUT
-2323276,OE3BRU,no_name,,Großweikersdorf,NOE,AUT
-2323277,OE3DES,no_name,,Hagenbrunn,NOE,AUT
-2323278,OE3SAD,no_name,,Wiener Neustadt,NOE,AUT
-2323279,OE3CHA,no_name,,Puchberg Am Schneeberg,NOE,AUT
-2323280,OE3ODF,no_name,,Bad Deutsch-Altenburg,NOE,AUT
-2323281,OE3HAU,no_name,,Tulln,,AUT
-2323282,OE3GEW,no_name,,Gerasdorf,NOE,AUT
-2323283,OE3KNS,no_name,,Tulln,,AUT
-2323284,OE3CDA,no_name,,Grund,NOE,AUT
-2323285,OE3JSI,no_name,,Sieghartskirchen,NOE,AUT
-2323286,OE3HCA,no_name,,Grund,NOE,AUT
-2323287,OE3WWC,no_name,,Wullersdorf,NOE,AUT
-2323288,OE3RZT,no_name,,Ollersbach,NOE,AUT
-2323289,OE3URW,no_name,,Gerasdorf,NOE,AUT
-2323290,OE3MYR,no_name,,Horn,NOE,AUT
-2323291,OE3NHW,no_name,,Sankt Andrä/Wördern,NOE,AUT
-2323292,OE3AEA,no_name,,Großmugl,NOE,AUT
+2323274,OE3MES,Martin,,Klosterneuburg,NOE,AUT
+2323275,OE3MLC,Ludwig,,Limberg,NOE,AUT
+2323276,OE3BRU,Rupert,,Grossweikersdorf,NOE,AUT
+2323277,OE3DES,Stefan,,Hagenbrunn,NOE,AUT
+2323278,OE3SAD,Daniel,,Wiener Neustadt,NOE,AUT
+2323279,OE3CHA,Harald,,Puchberg am Schneeberg,NOE,AUT
+2323280,OE3ODF,Patrik,,Bad Deutsch-Altenburg,NOE,AUT
+2323281,OE3HAU,Herwig,,Tulln,NOE,AUT
+2323282,OE3GEW,Ewald,,Gerasdorf,NOE,AUT
+2323283,OE3KNS,Klaus,,Tulln,NOE,AUT
+2323284,OE3CDA,Christian,,Grund,NOE,AUT
+2323285,OE3JSI,Johann,,Sieghartskirchen,NOE,AUT
+2323286,OE3HCA,Wolfgang,,Grund,NOE,AUT
+2323287,OE3WWC,Werner,,Wullersdorf,NOE,AUT
+2323288,OE3RZT,Robert,,Ollersbach,NOE,AUT
+2323289,OE3URW,Helmut,,Gerasdorf,NOE,AUT
+2323290,OE3MYR,Markus,,Horn,NOE,AUT
+2323291,OE3NHW,Georg,,Sankt Andrae/woerdern,NOE,AUT
+2323292,OE3AEA,Johann,,Grossmugl,NOE,AUT
 2323293,OE3RQF,no_name,,no_city,NOE,AUT
 2323294,OE3XRC,Waldviertel,,Allentsteig,Niederoesterreich,AUT
-2323295,OE3KDC,no_name,,Göstling/Ybbs,,AUT
-2323296,OE3UZA,no_name,,Schrick,NOE,AUT
-2323297,OE3CBS,no_name,,Zwölfaxing,NOE,AUT
-2323298,OE3BHW,no_name,,Felixdorf,NOE,AUT
-2323299,OE3FAP,no_name,,Sankt Pölten,NOE,AUT
-2323300,OE3DNA,no_name,,Amstetten,NOE,AUT
-2323301,OE3WFA,no_name,,Eichgraben,NOE,AUT
+2323295,OE3KDC,Bernhard,,Goestling/ybbs,NOE,AUT
+2323296,OE3UZA,Rausch,,Schrick,NOE,AUT
+2323297,OE3CBS,Christoph,,Zwoelfaxing,NOE,AUT
+2323298,OE3BHW,Herbert,,Felixdorf,NOE,AUT
+2323299,OE3FAP,Peter,,Sankt Poelten,NOE,AUT
+2323300,OE3DNA,Andreas,,Amstetten,NOE,AUT
+2323301,OE3WFA,Wolfgang,,Eichgraben,NOE,AUT
 2323302,OE3MVM,Schnepf,,Stockerau,NOE,AUT
-2323303,OE3BGB,no_name,,Blindenmarkt,,AUT
-2323304,OE3GHB,no_name,,Gaweinstal,NOE,AUT
+2323303,OE3BGB,Gerhard,,Blindenmarkt,NOE,AUT
+2323304,OE3GHB,Gerhard,,Gaweinstal,NOE,AUT
 2323305,OE3PLF,no_name,,no_city,NOE,AUT
 2323306,OE3CKS,no_name,,no_city,NOE,AUT
-2323307,OE3PCS,no_name,,Hadersdorf Am Kamp,NOE,AUT
-2323308,OE3YOS,no_name,,Bruck An Der Leitha,BGLD,AUT
+2323307,OE3PCS,Christian,,Hadersdorf am Kamp,NOE,AUT
+2323308,OE3YOS,Susanne,,Bruck An der Leitha,NOE,AUT
 2323309,OE3PWT,no_name,,no_city,NOE,AUT
 2323310,OE3MVM,Schnepf,,Stockerau,NOE,AUT
-2323311,OE3EMC,no_name,,Bad Großpertholz,NOE,AUT
-2323312,OE3YSC,no_name,,Bad Großpertholz,NOE,AUT
+2323311,OE3EMC,Martin,,Bad Grosspertholz,NOE,AUT
+2323312,OE3YSC,Marion,,Bad Grosspertholz,NOE,AUT
 2323313,OE3JAL,no_name,,Brunn am Gebirge,NOE,AUT
 2323314,OE3GKQ,no_name,,Seifritz,NOE,AUT
-2323315,OE3BRW,no_name,,Sankt Pölten,NOE,AUT
+2323315,OE3BRW,Bernhard,,Sankt Poelten,NOE,AUT
 2323316,OE3TDF,no_name,,Oberwaltersdorf,NOE,AUT
-2323317,OE3MWB,no_name,,Amstetten,NOE,AUT
-2323318,OE3HLU,no_name,,Mank,NOE,AUT
-2323319,OE3PEA,no_name,,Gaubitsch,NOE,AUT
-2323320,OE3JSH,no_name,,Stockerau,NOE,AUT
+2323317,OE3MWB,Manfred,,Amstetten,NOE,AUT
+2323318,OE3HLU,Hannes,,Mank,NOE,AUT
+2323319,OE3PEA,Peter,,Gaubitsch,NOE,AUT
+2323320,OE3JSH,Josef,,Stockerau,NOE,AUT
 2323321,OE3RNW,Rudolf,,Gloggnitz,NOE,AUT
 2323322,OE3HUS,Hans,,Himberg,NOE,AUT
 2323333,OE3TRB,Thomas,,Berndorf,NOE,AUT
-2323353,OE3MJA,no_name,,Seitenstetten,NOE,AUT
-2323354,OE3DNA,no_name,,Amstetten,NOE,AUT
-2323355,OE3YZC,no_name,,Wolfsbach,NOE,AUT
-2323401,OE3MZC,no_name,,Neulengbach,NOE,AUT
-2323402,OE3MZC,no_name,,Neulengbach,NOE,AUT
-2323403,OE3FTA,no_name,,Neulengbach,NOE,AUT
-2323405,OE3KSS,no_name,,Kirchberg An Der Pielach,NOE,AUT
-2323410,OE3NRS,no_name,,Mauer-Öhling,,AUT
-2323411,OE3ICU,no_name,,Kirchberg An Der Pielach,NOE,AUT
-2323412,OE3OCC,no_name,,Sankt Valentin,NOE,AUT
-2323413,OE3SZA,no_name,,Amstetten,NOE,AUT
-2323414,OE3JWC,no_name,,Neuhofen/Ybbs,,AUT
-2323415,OE3JDA,no_name,,Mauer-Öhling,,AUT
-2323416,OE3GNB,no_name,,Neumarkt An Der Ybbs,NOE,AUT
+2323353,OE3MJA,Josef,,Seitenstetten,NOE,AUT
+2323354,OE3DNA,Andreas,,Amstetten,NOE,AUT
+2323355,OE3YZC,Marlene,,Wolfsbach,NOE,AUT
+2323401,OE3MZC,Michael,,Neulengbach,NOE,AUT
+2323402,OE3MZC,Michael,,Neulengbach,NOE,AUT
+2323403,OE3FTA,Florian,,Neulengbach,NOE,AUT
+2323405,OE3KSS,Konstantin,,Kirchberg An der Pielach,NOE,AUT
+2323410,OE3NRS,Roland,,Mauer-Oehling,NOE,AUT
+2323411,OE3ICU,Christoph,,Kirchberg An der Pielach,NOE,AUT
+2323412,OE3OCC,Johannes,,Sankt Valentin,NOE,AUT
+2323413,OE3SZA,Sebastian,,Amstetten,NOE,AUT
+2323414,OE3JWC,Josef,,Neuhofen/ybbs,NOE,AUT
+2323415,OE3JDA,J.,,Mauer-Oehling,NOE,AUT
+2323416,OE3GNB,Franz,,Neumarkt An der Ybbs,NOE,AUT
 2323417,OE3OHS,SK,,Waidhofen Ybbs,NOE,AUT
-2323418,OE3VWU,no_name,,Öhling,,AUT
-2323419,OE3LEB,no_name,,Oed,NOE,AUT
-2323420,OE3NRU,no_name,,Mauer-Öhling,,AUT
-2323421,OE3VGU,no_name,,Ruprechtshofen,NOE,AUT
-2323425,OE3JDA,no_name,,Mauer-Öhling,,AUT
-2323430,OE3NRS,no_name,,Mauer-Öhling,,AUT
-2323431,OE3JPA,no_name,,Amstetten,NOE,AUT
-2323432,OE3VWW,no_name,,Neuhofen An Der Ybbs,NOE,AUT
-2323433,OE3VMW,no_name,,Neuhofen An Der Ybbs,NOE,AUT
-2323434,OE3TAN,no_name,,Ardagger,NOE,AUT
-2323435,OE3VKA,no_name,,Ybbs An Der Donau,NOE,AUT
-2323436,OE3ATC,no_name,,Ardagger Markt,NOE,AUT
-2323500,OE3XHQ,no_name,,Wiener Neudorf,NOE,AUT
+2323418,OE3VWU,Christian,,Oehling,NOE,AUT
+2323419,OE3LEB,Leopold,,Oed,NOE,AUT
+2323420,OE3NRU,Regina,,Mauer-Oehling,NOE,AUT
+2323421,OE3VGU,Herbert,,Ruprechtshofen,NOE,AUT
+2323425,OE3JDA,J.,,Mauer-Oehling,NOE,AUT
+2323430,OE3NRS,Roland,,Mauer-Oehling,NOE,AUT
+2323431,OE3JPA,Peter,,Amstetten,NOE,AUT
+2323432,OE3VWW,Christian,,Neuhofen An der Ybbs,NOE,AUT
+2323433,OE3VMW,Martin,,Neuhofen An der Ybbs,NOE,AUT
+2323434,OE3TAN,Anton,,Ardagger,NOE,AUT
+2323435,OE3VKA,Markus,,Ybbs An der Donau,NOE,AUT
+2323436,OE3ATC,Alois,,Ardagger Markt,NOE,AUT
+2323500,OE3XHQ,(oevsv),,Wiener Neudorf,NOE,AUT
 2323701,OE3DNW,Gerhard,,Ebreichsdorf,NOE,AUT
 2323702,OE3DNW,Gerhard,,Ebreichsdorf,NOE,AUT
 2323710,OE3DNW,Gerhard,,Ebreichsdorf,NOE,AUT
-2324001,OE4KMU,no_name,,Markt Allhau,BGLD,AUT
-2324002,OE4KMU,no_name,,Markt Allhau,BGLD,AUT
-2324003,OE4NAU,no_name,,Weiden Am See,,AUT
-2324004,OE4NKB,no_name,,Bruck/L,,AUT
-2324005,OE4ENU,no_name,,Klingenbach,BGLD,AUT
-2324006,OE4GBZ,no_name,,Parndorf,,AUT
-2324007,OE4RGD,no_name,,Neudörfl,BGLD,AUT
-2324008,OE4SLC,no_name,,Klingenbach,BGLD,AUT
-2324009,OE4TEA,no_name,,Weiden Am See,,AUT
-2324010,OE4ATS,no_name,,Podersdorf Am See,BGLD,AUT
-2324011,OE4CQF,no_name,,Mörbisch Am See,BGLD,AUT
-2324012,OE4OJB,no_name,,Bad Sauerbrunn,BGLD,AUT
-2324013,OE4FHS,no_name,,Kukmirn,BGLD,AUT
-2324014,OE4GMU,no_name,,Oberpullendorf,BGLD,AUT
-2324015,OE4AMW,no_name,,Güttenbach,BGLD,AUT
-2324016,OE4CEN,no_name,,Deutsch Kaltenbrunn,BGLD,AUT
-2324017,OE4EUA,no_name,,Andau,BGLD,AUT
-2324018,OE4HZB,no_name,,Güssing,BGLD,AUT
-2324019,OE4BAQ,no_name,,Wimpassing An Der Leitha,NOE,AUT
+2324001,OE4KMU,Klaus-Michael,,Markt Allhau,BGLD,AUT
+2324002,OE4KMU,Klaus-Michael,,Markt Allhau,BGLD,AUT
+2324003,OE4NAU,Norbert,,Weiden am See,BGLD,AUT
+2324004,OE4NKB,Wolfgang,,Bruck/l,BGLD,AUT
+2324005,OE4ENU,Ewald,,Klingenbach,BGLD,AUT
+2324006,OE4GBZ,Guenther,,Parndorf,BGLD,AUT
+2324007,OE4RGD,Ronald,,Neudoerfl,BGLD,AUT
+2324008,OE4SLC,Sandra,,Klingenbach,BGLD,AUT
+2324009,OE4TEA,Walter,,Weiden am See,BGLD,AUT
+2324010,OE4ATS,Anton,,Podersdorf am See,BGLD,AUT
+2324011,OE4CQF,Christian,,Moerbisch am See,BGLD,AUT
+2324012,OE4OJB,Otto,,Bad Sauerbrunn,BGLD,AUT
+2324013,OE4FHS,Fredy,,Kukmirn,BGLD,AUT
+2324014,OE4GMU,Guenther,,Oberpullendorf,BGLD,AUT
+2324015,OE4AMW,Michael,,Guettenbach,BGLD,AUT
+2324016,OE4CEN,Claus,,Deutsch Kaltenbrunn,BGLD,AUT
+2324017,OE4EUA,Erwin,,Andau,BGLD,AUT
+2324018,OE4HZB,Bernd,,Guessing,BGLD,AUT
+2324019,OE4BAQ,Andreas,,Wimpassing An der Leitha,BGLD,AUT
 2324020,OE4GUB,no_name,,no_city,BGLD,AUT
-2324021,OE4LQK,no_name,,Purbach Am Neusiedler See,BGLD,AUT
-2324022,OE4RWD,no_name,,Hornstein,BGLD,AUT
-2324023,OE4HDS,no_name,,Stöttera,BGLD,AUT
+2324021,OE4LQK,Wolfgang,,Purbach am Neusiedler See,BGLD,AUT
+2324022,OE4RWD,Walter,,Hornstein,BGLD,AUT
+2324023,OE4HDS,Helmut,,Stoettera,BGLD,AUT
 2324024,OE4GZC,Goran,,Stinatz,BGLD,AUT
-2324025,OE4RUK,no_name,,Frauenkirchen,BGLD,AUT
-2324026,OE4AFW,no_name,,Deutsch Kaltenbrunn,BGLD,AUT
-2324027,OE4SZS,no_name,,Güttenbach,BGLD,AUT
+2324025,OE4RUK,Rudolf,,Frauenkirchen,BGLD,AUT
+2324026,OE4AFW,Fritz,,Deutsch Kaltenbrunn,BGLD,AUT
+2324027,OE4SZS,Stefan,,Guettenbach,BGLD,AUT
 2324028,OE4VIE,no_name,,no_city,BGLD,AUT
 2324029,OE4GZZ,Goran,,Stinatz,BGLD,AUT
-2324030,OE4KZU,no_name,,Ritzing,,AUT
-2324031,OE4CHZ,no_name,,Großhöflein,BGLD,AUT
-2324032,OE4ENU,no_name,,Klingenbach,BGLD,AUT
+2324030,OE4KZU,Karl,,Ritzing,BGLD,AUT
+2324031,OE4CHZ,Christian,,Grosshoeflein,BGLD,AUT
+2324032,OE4ENU,Ewald,,Klingenbach,BGLD,AUT
 2324033,OE4GTU,Gerhard,,Steinbach,BGLD,AUT
-2324034,OE4RUM,no_name,,Bernstein,BGLD,AUT
-2324035,OE4VNA,no_name,,Schandorf,BGLD,AUT
-2324036,OE4AZU,no_name,,Parndorf,,AUT
+2324034,OE4RUM,Philipp,,Bernstein,BGLD,AUT
+2324035,OE4VNA,Arne,,Schandorf,BGLD,AUT
+2324036,OE4AZU,Petr,,Parndorf,BGLD,AUT
 2324037,OE4EIE,no_name,,no_city,BGLD,AUT
-2324038,OE4SMS,no_name,,Pinkafeld,BGLD,AUT
+2324038,OE4SMS,H,,Pinkafeld,BGLD,AUT
 2324039,OE4UFB,no_name,,no_city,BGLD,AUT
 2324040,OE4WUA,Walter,,Gattendorf,BGLD,AUT
 2324041,OE4AHG,Anton,,Oberwart,BGLD,AUT
-2324101,OE4KMU,no_name,,Markt Allhau,BGLD,AUT
-2324102,OE4RLC,no_name,,Markt Allhau,BGLD,AUT
-2324103,OE4MUB,no_name,,Buchschachen,BGLD,AUT
-2324104,OE4VMB,no_name,,Wörterberg,BGLD,AUT
-2324111,OE4CRC,no_name,,Jois,BGLD,AUT
-2324112,OE4CRC,no_name,,Jois,BGLD,AUT
+2324101,OE4KMU,Klaus-Michael,,Markt Allhau,BGLD,AUT
+2324102,OE4RLC,Rainer,,Markt Allhau,BGLD,AUT
+2324103,OE4MUB,Martin,,Buchschachen,BGLD,AUT
+2324104,OE4VMB,Stefan,,Woerterberg,BGLD,AUT
+2324111,OE4CRC,Christian,,Jois,BGLD,AUT
+2324112,OE4CRC,Christian,,Jois,BGLD,AUT
 2324115,OE4KNA,Karl,,Grosshoeflein,BGLD,AUT
 2324121,OE4SSE,Stefan,,Stegersbach,BGLD,AUT
-2324127,OE4MXB,no_name,,Neufeld/L,,AUT
-2324321,OE4JHW,no_name,,Neufeld An Der Leitha,BGLD,AUT
-2324759,OE4KOB,no_name,,Oggau,,AUT
-2325001,OE5KBO,no_name,,Steinerkirchen,,AUT
-2325002,OE5RCO,no_name,,Rohrbach,OOE,AUT
-2325003,OE5XXL,no_name,,Linz,,AUT
-2325004,OE5SZL,no_name,,Linz,,AUT
-2325005,OE5SFN,no_name,,Linz,,AUT
-2325006,OE5TDO,no_name,,Linz,OOE,AUT
-2325007,OE5EUL,no_name,,Gmunden,OOE,AUT
-2325008,OE5RDL,no_name,,Ebensee,OOE,AUT
-2325009,OE5KVM,no_name,,Gampern,OOE,AUT
-2325010,OE5DSP,no_name,,Leonding,OOE,AUT
-2325011,OE5ROM,no_name,,Kirchschlag Bei Linz,OOE,AUT
-2325012,OE5SFN,no_name,,Linz,,AUT
-2325013,OE5VFM,no_name,,Bad Ischl,OOE,AUT
-2325014,OE5MCM,no_name,,Ried/Innkreis,,AUT
-2325015,OE5UAL,no_name,,Mauerkirchen,OOE,AUT
-2325016,OE5VCO,no_name,,Uttendorf,OOE,AUT
-2325017,OE5VIP,no_name,,Alkoven,OOE,AUT
-2325018,OE5KPN,no_name,,Freistadt,OOE,AUT
-2325019,OE5MIL,no_name,,Hallstatt,OOE,AUT
-2325020,OE5MCM,no_name,,Ried/Innkreis,,AUT
-2325021,OE5MIL,no_name,,Hallstatt,OOE,AUT
-2325022,OE5RCO,no_name,,Rohrbach,OOE,AUT
+2324127,OE4MXB,Michael,,Neufeld/l,BGLD,AUT
+2324321,OE4JHW,Juergen,,Neufeld An der Leitha,BGLD,AUT
+2324759,OE4KOB,Roman,,Oggau,BGLD,AUT
+2325001,OE5KBO,Karl,,Steinerkirchen,OOE,AUT
+2325002,OE5RCO,Gustav,,Rohrbach,OOE,AUT
+2325003,OE5XXL,Linz,,Linz,OOE,AUT
+2325004,OE5SZL,Adolf,,Linz,OOE,AUT
+2325005,OE5SFN,Alfred,,Linz,OOE,AUT
+2325006,OE5TDO,Herbert,,Linz,OOE,AUT
+2325007,OE5EUL,Norbert,,Gmunden,OOE,AUT
+2325008,OE5RDL,Johann,,Ebensee,OOE,AUT
+2325009,OE5KVM,Johann,,Gampern,OOE,AUT
+2325010,OE5DSP,Josef,,Leonding,OOE,AUT
+2325011,OE5ROM,Robert,,Kirchschlag Bei Linz,OOE,AUT
+2325012,OE5SFN,Alfred,,Linz,OOE,AUT
+2325013,OE5VFM,Franz,,Bad Ischl,OOE,AUT
+2325014,OE5MCM,Maximilian,,Ried/innkreis,OOE,AUT
+2325015,OE5UAL,Anton,,Mauerkirchen,OOE,AUT
+2325016,OE5VCO,Dominik,,Uttendorf,OOE,AUT
+2325017,OE5VIP,Manuel,,Alkoven,OOE,AUT
+2325018,OE5KPN,Peter-Ernst,,Freistadt,OOE,AUT
+2325019,OE5MIL,Michael,,Hallstatt,OOE,AUT
+2325020,OE5MCM,Maximilian,,Ried/innkreis,OOE,AUT
+2325021,OE5MIL,Michael,,Hallstatt,OOE,AUT
+2325022,OE5RCO,Gustav,,Rohrbach,OOE,AUT
 2325023,OE5KNT,no_name,,no_city,OOE,AUT
-2325024,OE5FKL,no_name,,Wippenham,OOE,AUT
-2325025,OE5WHN,no_name,,Bad Ischl,OOE,AUT
-2325026,OE5GOL,no_name,,Linz,,AUT
-2325027,OE5EUL,no_name,,Gmunden,OOE,AUT
-2325028,OE5DEI,no_name,,Vöcklabruck,OOE,AUT
-2325029,OE5OMP,no_name,,Berg Bei Rohrbach,OOE,AUT
-2325030,OE5MMM,no_name,,Linz,OOE,AUT
-2325031,OE5SFM,no_name,,Eberschwang,OOE,AUT
-2325032,OE5KKP,no_name,,Weilbach,OOE,AUT
-2325033,OE5AON,no_name,,Gusen,OOE,AUT
-2325034,OE5VVM,no_name,,Gmunden,OOE,AUT
-2325035,OE5VCM,no_name,,Gmunden,OOE,AUT
-2325036,OE5VCO,no_name,,Uttendorf,OOE,AUT
-2325037,OE5RSZ,no_name,,Traun,OOE,AUT
-2325038,OE5DRM,no_name,,Attersee,OOE,AUT
+2325024,OE5FKL,Karl,,Wippenham,OOE,AUT
+2325025,OE5WHN,Herbert,,Bad Ischl,OOE,AUT
+2325026,OE5GOL,Robert,,Linz,OOE,AUT
+2325027,OE5EUL,Norbert,,Gmunden,OOE,AUT
+2325028,OE5DEI,Eduard,,Voecklabruck,OOE,AUT
+2325029,OE5OMP,Peter,,Berg Bei Rohrbach,OOE,AUT
+2325030,OE5MMM,Martin,,Linz,OOE,AUT
+2325031,OE5SFM,Franz,,Eberschwang,OOE,AUT
+2325032,OE5KKP,Josef,,Weilbach,OOE,AUT
+2325033,OE5AON,Erich,,Gusen,OOE,AUT
+2325034,OE5VVM,Thomas,,Gmunden,OOE,AUT
+2325035,OE5VCM,Hartwin,,Gmunden,OOE,AUT
+2325036,OE5VCO,Dominik,,Uttendorf,OOE,AUT
+2325037,OE5RSZ,Raimund,,Traun,OOE,AUT
+2325038,OE5DRM,Wirtsch.-,,Attersee,OOE,AUT
 2325039,OE5MDD,no_name,,no_city,OOE,AUT
-2325040,OE5RCA,no_name,,Linz,OOE,AUT
-2325041,OE5TGM,no_name,,Sankt Marienkirchen An Der Pols,OOE,AUT
-2325042,OE5XSN,no_name,,Vorderweißenbach,OOE,AUT
+2325040,OE5RCA,Rudolf,,Linz,OOE,AUT
+2325041,OE5TGM,Georg,,Sankt Marienkirchen An der Pols,OOE,AUT
+2325042,OE5XSN,Oafv,,Vorderweissenbach,OOE,AUT
 2325043,OE5GNB,Franz,,Waldhausen im Strude,OOE,AUT
-2325044,OE5LBO,no_name,,Braunau Am Inn,OOE,AUT
-2325045,OE5GTN,no_name,,Sankt Marienkirchen An Der Pols,OOE,AUT
-2325046,OE5HEL,no_name,,St. Martin Im Innkreis,OOE,AUT
-2325047,OE5XOF,no_name,,Linz,,AUT
-2325048,OE5HDN,no_name,,Linz,,AUT
-2325049,OE5ACN,no_name,,Vöcklamarkt,OOE,AUT
-2325050,OE5RYM,no_name,,Pinsdorf,OOE,AUT
-2325051,OE5PFM,no_name,,Sipbachzell,OOE,AUT
-2325052,OE5AFP,no_name,,Leonding,OOE,AUT
-2325053,OE5TTL,no_name,,Linz,,AUT
-2325054,OE5EVM,no_name,,Gunskirchen,OOE,AUT
-2325055,OE5ROM,no_name,,Kirchschlag Bei Linz,OOE,AUT
-2325056,OE5OMP,no_name,,Berg Bei Rohrbach,OOE,AUT
-2325057,OE5TGM,no_name,,Sankt Marienkirchen An Der Pols,OOE,AUT
-2325058,OE5MXL,no_name,,Steyr,OOE,AUT
-2325059,OE5PSO,no_name,,Pettenbach,OOE,AUT
-2325060,OE5OEM,no_name,,Linz,OOE,AUT
-2325061,OE5KIL,no_name,,Schwertberg,OOE,AUT
+2325044,OE5LBO,Bogoljub,,Braunau am Inn,OOE,AUT
+2325045,OE5GTN,Thomas,,Sankt Marienkirchen An der Pols,OOE,AUT
+2325046,OE5HEL,Juergen,,St. Martin im Innkreis,OOE,AUT
+2325047,OE5XOF,Ooe,,Linz,OOE,AUT
+2325048,OE5HDN,Dieter,,Linz,OOE,AUT
+2325049,OE5ACN,Stefan,,Voecklamarkt,OOE,AUT
+2325050,OE5RYM,Werner,,Pinsdorf,OOE,AUT
+2325051,OE5PFM,Patrick,,Sipbachzell,OOE,AUT
+2325052,OE5AFP,Andreas,,Leonding,OOE,AUT
+2325053,OE5TTL,G.,,Linz,OOE,AUT
+2325054,OE5EVM,Erich,,Gunskirchen,OOE,AUT
+2325055,OE5ROM,Robert,,Kirchschlag Bei Linz,OOE,AUT
+2325056,OE5OMP,Peter,,Berg Bei Rohrbach,OOE,AUT
+2325057,OE5TGM,Georg,,Sankt Marienkirchen An der Pols,OOE,AUT
+2325058,OE5MXL,Karl,,Steyr,OOE,AUT
+2325059,OE5PSO,Peter,,Pettenbach,OOE,AUT
+2325060,OE5OEM,Andreas,,Linz,OOE,AUT
+2325061,OE5KIL,Karl,,Schwertberg,OOE,AUT
 2325062,OE5DLH,no_name,,no_city,OOE,AUT
-2325063,OE5WIK,no_name,,Linz,,AUT
-2325064,OE5DZL,no_name,,Mehrnbach,OOE,AUT
-2325065,OE5STM,no_name,,Vöcklabruck,OOE,AUT
-2325066,OE5MXL,no_name,,Steyr,OOE,AUT
-2325067,OE5TET,no_name,,Eidenberg,OOE,AUT
-2325068,OE5KZM,no_name,,St.Marien B.N.,OOE,AUT
+2325063,OE5WIK,Wieland,,Linz,OOE,AUT
+2325064,OE5DZL,Dieter,,Mehrnbach,OOE,AUT
+2325065,OE5STM,Michael,,Voecklabruck,OOE,AUT
+2325066,OE5MXL,Karl,,Steyr,OOE,AUT
+2325067,OE5TET,Gerald,,Eidenberg,OOE,AUT
+2325068,OE5KZM,Klaus,,St.Marien B.N.,OOE,AUT
 2325069,OE5YEE,Elen,,Linz,OOE,AUT
-2325070,OE5EIN,no_name,,Linz,OOE,AUT
-2325071,OE5ENL,no_name,,Frankenburg Am Hausruck,OOE,AUT
-2325072,OE5HHP,no_name,,Rutzenmoos,OOE,AUT
-2325073,OE5UAM,no_name,,Timelkam,OOE,AUT
-2325074,OE5FKO,no_name,,Waldhausen Im Strudengau,OOE,AUT
-2325075,OE5LAZ,no_name,,Thalheim Bei Wels,OOE,AUT
-2325076,OE5KLI,no_name,,Frankenburg Am Hausruck,OOE,AUT
-2325077,OE5XYZ,no_name,,Linz,OOE,AUT
-2325078,OE5USB,no_name,,Eberschwang,OOE,AUT
-2325079,OE5LAL,no_name,,Ebensee,OOE,AUT
-2325080,OE5SLN,no_name,,Mehrnbach,OOE,AUT
-2325081,OE5ONS,no_name,,Linz,,AUT
-2325082,OE5TUN,no_name,,Ottensheim,OOE,AUT
-2325083,OE5EGN,no_name,,Gmunden,OOE,AUT
-2325084,OE5FZO,no_name,,St.Willibald,,AUT
-2325085,OE5FPP,no_name,,Timelkam,OOE,AUT
-2325086,OE5WRO,no_name,,Linz,OOE,AUT
-2325087,OE5FHM,no_name,,Ampflwang,OOE,AUT
-2325088,OE5RI,no_name,,Steyr,OOE,AUT
-2325089,OE5OVL,no_name,,Arbing,OOE,AUT
-2325090,OE5KLI,no_name,,Frankenburg Am Hausruck,OOE,AUT
-2325091,OE5KRO,no_name,,Natternbach,OOE,AUT
-2325092,OE5PLM,no_name,,Linz,,AUT
-2325093,OE5SRG,no_name,,Linz,OOE,AUT
-2325094,OE5HAR,no_name,,Marchtrenk,OOE,AUT
-2325095,OE5FRL,no_name,,Rottenbach,OOE,AUT
-2325096,OE5MKL,no_name,,Wippenham,OOE,AUT
-2325097,OE5GJN,no_name,,Linz,OOE,AUT
-2325098,OE5MKE,no_name,,Ansfelden,OOE,AUT
+2325070,OE5EIN,Maximilian,,Linz,OOE,AUT
+2325071,OE5ENL,Norbert,,Frankenburg am Hausruck,OOE,AUT
+2325072,OE5HHP,Herbert,,Rutzenmoos,OOE,AUT
+2325073,OE5UAM,Johann,,Timelkam,OOE,AUT
+2325074,OE5FKO,Friedrich,,Waldhausen im Strudengau,OOE,AUT
+2325075,OE5LAZ,Andreas,,Thalheim Bei Wels,OOE,AUT
+2325076,OE5KLI,Maximilian,,Frankenburg am Hausruck,OOE,AUT
+2325077,OE5XYZ,/dev/radio,,Linz,OOE,AUT
+2325078,OE5USB,Bernhard,,Eberschwang,OOE,AUT
+2325079,OE5LAL,Alfred,,Ebensee,OOE,AUT
+2325080,OE5SLN,Stefan,,Mehrnbach,OOE,AUT
+2325081,OE5ONS,Alexander,,Linz,OOE,AUT
+2325082,OE5TUN,Michael,,Ottensheim,OOE,AUT
+2325083,OE5EGN,Karl,,Gmunden,OOE,AUT
+2325084,OE5FZO,Leopold,,St.Willibald,OOE,AUT
+2325085,OE5FPP,Franz,,Timelkam,OOE,AUT
+2325086,OE5WRO,Wolfgang,,Linz,OOE,AUT
+2325087,OE5FHM,Johann,,Ampflwang,OOE,AUT
+2325088,OE5RI,Karl,,Steyr,OOE,AUT
+2325089,OE5OVL,Herbert,,Arbing,OOE,AUT
+2325090,OE5KLI,Maximilian,,Frankenburg am Hausruck,OOE,AUT
+2325091,OE5KRO,Gerhard,,Natternbach,OOE,AUT
+2325092,OE5PLM,Ludwig,,Linz,OOE,AUT
+2325093,OE5SRG,Georg,,Linz,OOE,AUT
+2325094,OE5HAR,Hermann,,Marchtrenk,OOE,AUT
+2325095,OE5FRL,Raphael,,Rottenbach,OOE,AUT
+2325096,OE5MKL,Michael,,Wippenham,OOE,AUT
+2325097,OE5GJN,Gerald,,Linz,OOE,AUT
+2325098,OE5MKE,Mario,,Ansfelden,OOE,AUT
 2325099,OE5ASO,no_name,,no_city,OOE,AUT
-2325100,OE5CGL,no_name,,Perg,OOE,AUT
-2325101,OE5GOL,no_name,,Linz,,AUT
+2325100,OE5CGL,Hermann,,Perg,OOE,AUT
+2325101,OE5GOL,Robert,,Linz,OOE,AUT
 2325102,OE5ELL,Peter,,Trattnach,OOE,AUT
-2325103,OE5LOH,no_name,,no_city,,AUT
-2325104,OE5SLS,no_name,,Schärding,OOE,AUT
-2325105,OE5HNF,no_name,,Linz,OOE,AUT
-2325106,OE5AGM,no_name,,Wels,OOE,AUT
-2325107,OE5KNE,no_name,,Linz,OOE,AUT
-2325108,OE5ADO,no_name,,Steyr,OOE,AUT
-2325109,OE5JWO,no_name,,Marchtrenk,OOE,AUT
-2325110,OE5MUT,no_name,,Steyr,OOE,AUT
-2325111,OE5JSM,no_name,,Traun,,AUT
-2325112,OE5BAN,no_name,,Altmünster,OOE,AUT
-2325113,OE5DOM,no_name,,Linz,,AUT
-2325114,OE5SZN,no_name,,Bad Goisern Am Hallstättersee,OOE,AUT
-2325115,OE5KCO,no_name,,Linz,OOE,AUT
-2325116,OE5HRN,no_name,,Esternberg,OOE,AUT
-2325117,OE5HCE,no_name,,Eberstalzell,OOE,AUT
-2325118,OE5ESO,no_name,,Roitham,OOE,AUT
-2325119,OE5SZN,no_name,,Bad Goisern Am Hallstättersee,OOE,AUT
-2325120,OE5HAR,no_name,,Marchtrenk,OOE,AUT
-2325121,OE5VBM,no_name,,Waizenkirchen,OOE,AUT
-2325122,OE5MBP,no_name,,Leonding,OOE,AUT
-2325123,OE5ANN,no_name,,Tiefgraben,OOE,AUT
-2325124,OE5SLE,no_name,,Leonding,OOE,AUT
-2325125,OE5CSL,no_name,,Altmuenster,,AUT
-2325126,OE5RPP,no_name,,Sankt Georgen Im Attergau,OOE,AUT
-2325127,OE5OZL,no_name,,Frankenmarkt,OOE,AUT
-2325128,OE5JJC,no_name,,Linz,OOE,AUT
-2325129,OE5HRN,no_name,,Esternberg,OOE,AUT
-2325130,OE5ITH,no_name,,Wilhering,OOE,AUT
-2325131,OE5FME,no_name,,Engerwitzdorf,OOE,AUT
-2325132,OE5PWO,no_name,,Ansfelden,OOE,AUT
-2325133,OE5OOA,no_name,,Pettenbach,OOE,AUT
-2325134,OE5RSE,no_name,,Linz,OOE,AUT
-2325135,OE5NIP,no_name,,Kronstorf,OOE,AUT
-2325136,OE5AGP,no_name,,Kronstorf,OOE,AUT
-2325137,OE5AOO,no_name,,Pasching,OOE,AUT
-2325138,OE5IUM,no_name,,Atzbach,OOE,AUT
-2325139,OE5EIR,no_name,,Bad Leonfelden,OOE,AUT
-2325140,OE5BWN,no_name,,Linz,OOE,AUT
-2325141,OE5ERN,no_name,,Linz,,AUT
-2325142,OE5ANO,no_name,,Waldzell,OOE,AUT
-2325143,OE5FSQ,no_name,,Lochen,OOE,AUT
-2325144,OE5YAP,no_name,,Sauldorf 18,OOE,AUT
-2325145,OE5SKE,no_name,,Aspach,OOE,AUT
-2325146,OE5ANL,no_name,,Linz,OOE,AUT
-2325147,OE5HPM,no_name,,Burgkirchen,OOE,AUT
-2325148,OE5PJN,no_name,,Wels,OOE,AUT
-2325149,OE5LEP,no_name,,I.I.,,AUT
-2325150,OE5RLP,no_name,,Untergrünburg,OOE,AUT
-2325151,OE5UNO,no_name,,Neufelden,OOE,AUT
-2325152,OE5UNO,no_name,,Neufelden,OOE,AUT
-2325153,OE5DRO,no_name,,Traun,OOE,AUT
-2325154,OE5DRO,no_name,,Traun,OOE,AUT
-2325155,OE5AZG,no_name,,Haid/Ansfelden,,AUT
-2325156,OE5AMR,no_name,,Wels,OOE,AUT
+2325103,OE5LOH,Hansjoerg,,no_city,OOE,AUT
+2325104,OE5SLS,Herbert,,Schaerding,OOE,AUT
+2325105,OE5HNF,Florian,,Linz,OOE,AUT
+2325106,OE5AGM,Andreas,,Wels,OOE,AUT
+2325107,OE5KNE,Konrad,,Linz,OOE,AUT
+2325108,OE5ADO,Alexander,,Steyr,OOE,AUT
+2325109,OE5JWO,Josef,,Marchtrenk,OOE,AUT
+2325110,OE5MUT,Alois,,Steyr,OOE,AUT
+2325111,OE5JSM,Johann,,Traun,OOE,AUT
+2325112,OE5BAN,Andreas,,Altmuenster,OOE,AUT
+2325113,OE5DOM,Michael,,Linz,OOE,AUT
+2325114,OE5SZN,Manfred,,Bad Goisern am Hallstaettersee,OOE,AUT
+2325115,OE5KCO,Christian,,Linz,OOE,AUT
+2325116,OE5HRN,Walter,,Esternberg,OOE,AUT
+2325117,OE5HCE,Christian,,Eberstalzell,OOE,AUT
+2325118,OE5ESO,Siegfried,,Roitham,OOE,AUT
+2325119,OE5SZN,Manfred,,Bad Goisern am Hallstaettersee,OOE,AUT
+2325120,OE5HAR,Hermann,,Marchtrenk,OOE,AUT
+2325121,OE5VBM,Martin,,Waizenkirchen,OOE,AUT
+2325122,OE5MBP,Manfred,,Leonding,OOE,AUT
+2325123,OE5ANN,Martin,,Tiefgraben,OOE,AUT
+2325124,OE5SLE,Sabine,,Leonding,OOE,AUT
+2325125,OE5CSL,Norbert,,Altmuenster,OOE,AUT
+2325126,OE5RPP,Peter,,Sankt Georgen im Attergau,OOE,AUT
+2325127,OE5OZL,Otto,,Frankenmarkt,OOE,AUT
+2325128,OE5JJC,Joerg,,Linz,OOE,AUT
+2325129,OE5HRN,Walter,,Esternberg,OOE,AUT
+2325130,OE5ITH,Daniel,,Wilhering,OOE,AUT
+2325131,OE5FME,Herbert,,Engerwitzdorf,OOE,AUT
+2325132,OE5PWO,Wolfgang,,Ansfelden,OOE,AUT
+2325133,OE5OOA,Florian,,Pettenbach,OOE,AUT
+2325134,OE5RSE,Karl,,Linz,OOE,AUT
+2325135,OE5NIP,Gerald,,Kronstorf,OOE,AUT
+2325136,OE5AGP,Alexandra,,Kronstorf,OOE,AUT
+2325137,OE5AOO,Michael,,Pasching,OOE,AUT
+2325138,OE5IUM,Guenther,,Atzbach,OOE,AUT
+2325139,OE5EIR,Philipp,,Bad Leonfelden,OOE,AUT
+2325140,OE5BWN,Wolfgang,,Linz,OOE,AUT
+2325141,OE5ERN,Erwin,,Linz,OOE,AUT
+2325142,OE5ANO,Franz,,Waldzell,OOE,AUT
+2325143,OE5FSQ,Franz,,Lochen,OOE,AUT
+2325144,OE5YAP,Michaela,,Sauldorf 18,OOE,AUT
+2325145,OE5SKE,Stefan,,Aspach,OOE,AUT
+2325146,OE5ANL,Hans,,Linz,OOE,AUT
+2325147,OE5HPM,Johannes,,Burgkirchen,OOE,AUT
+2325148,OE5PJN,Philipp,,Wels,OOE,AUT
+2325149,OE5LEP,Heinz,,Schwand I.I.,OOE,AUT
+2325150,OE5RLP,Rainer,,Untergruenburg,OOE,AUT
+2325151,OE5UNO,Johannes,,Neufelden,OOE,AUT
+2325152,OE5UNO,Johannes,,Neufelden,OOE,AUT
+2325153,OE5DRO,Rene,,Traun,OOE,AUT
+2325154,OE5DRO,Rene,,Traun,OOE,AUT
+2325155,OE5AZG,August,,Haid/ansfelden,OOE,AUT
+2325156,OE5AMR,Marcel,,Wels,OOE,AUT
 2325157,OE5BPA,no_name,,Linz,OOE,AUT
-2325158,OE5GMO,no_name,,Sankt Martin Im Mühlkreis,OOE,AUT
+2325158,OE5GMO,Gerhard,,Sankt Martin im Muehlkreis,OOE,AUT
 2325159,OE5NEO,Jachs,,Roitham,OOE,AUT
-2325160,OE5EIR,no_name,,Bad Leonfelden,OOE,AUT
-2325161,OE5RNL,no_name,,Linz,OOE,AUT
+2325160,OE5EIR,Philipp,,Bad Leonfelden,OOE,AUT
+2325161,OE5RNL,Reinhold,,Linz,OOE,AUT
 2325162,OE5HKQ,Krammer,,Traun,OOE,AUT
 2325163,OE5LEC,no_name,,no_city,OOE,AUT
-2325164,OE5RLP,no_name,,Untergrünburg,OOE,AUT
+2325164,OE5RLP,Rainer,,Untergruenburg,OOE,AUT
 2325165,OE5WZM,no_name,,no_city,OOE,AUT
-2325166,OE5SLN,no_name,,Mehrnbach,OOE,AUT
+2325166,OE5SLN,Stefan,,Mehrnbach,OOE,AUT
 2325167,OE5JOH,Lang,,Bad Hall,OOE,AUT
-2325168,OE5UWL,no_name,,Ried Im Innkreis,OOE,AUT
-2325169,OE5STE,no_name,,Enns,OOE,AUT
-2325170,OE5GMP,no_name,,Mettmach,OOE,AUT
-2325171,OE5MAO,no_name,,Hofkirchen,OOE,AUT
-2325172,OE5GEM,no_name,,Eberschwang,OOE,AUT
-2325173,OE5DAO,no_name,,Asten,OOE,AUT
-2325174,OE5AKM,no_name,,Linz,OOE,AUT
-2325175,OE5CNN,no_name,,Traun,OOE,AUT
-2325176,OE5AGM,no_name,,Wels,OOE,AUT
+2325168,OE5UWL,Franz,,Ried im Innkreis,OOE,AUT
+2325169,OE5STE,Stefan,,Enns,OOE,AUT
+2325170,OE5GMP,Gerhard,,Mettmach,OOE,AUT
+2325171,OE5MAO,Manfred,,Hofkirchen,OOE,AUT
+2325172,OE5GEM,Karl,,Eberschwang,OOE,AUT
+2325173,OE5DAO,Daniel,,Asten,OOE,AUT
+2325174,OE5AKM,Alfred,,Linz,OOE,AUT
+2325175,OE5CNN,Christian,,Traun,OOE,AUT
+2325176,OE5AGM,Andreas,,Wels,OOE,AUT
 2325177,OE5XXF,no_name,,no_city,OOE,AUT
-2325178,OE5TJO,no_name,,Sankt Pantaleon,OOE,AUT
-2325181,OE5PON,no_name,,Alberndorf In Der Riedmark,OOE,AUT
-2325251,OE5DRP,no_name,,Schlägl,OOE,AUT
-2326001,OE6HEF,no_name,,St. Peter Ob Judenburg,STMK,AUT
-2326002,OE6HXF,no_name,,Graz,STMK,AUT
-2326003,OE6WKE,no_name,,Hart-Purgstall,STMK,AUT
-2326004,OE6SSG,no_name,,Fehring,STMK,AUT
-2326005,OE6WND,no_name,,Pirka,STMK,AUT
+2325178,OE5TJO,Tim,,Sankt Pantaleon,OOE,AUT
+2325181,OE5PON,Andreas,,Alberndorf In der Riedmark,OOE,AUT
+2325251,OE5DRP,Peter,,Schlaegl,OOE,AUT
+2326001,OE6HEF,Harald,,St. Peter Ob Judenburg,STMK,AUT
+2326002,OE6HXF,Michael,,Graz,STMK,AUT
+2326003,OE6WKE,Kerstin,,Hart-Purgstall,STMK,AUT
+2326004,OE6SSG,Anton,,Fehring,STMK,AUT
+2326005,OE6WND,Wolfgang,,Pirka,STMK,AUT
 2326006,OE6GJE,no_name,,no_city,STMK,AUT
-2326007,OE6WAD,no_name,,Feldbach,,AUT
-2326008,OE6SDG,no_name,,Deutschfeistritz,,AUT
-2326009,OE6VFG,no_name,,Weißenbach Bei Liezen,STMK,AUT
-2326010,OE6MRF,no_name,,Neutillmitsch,STMK,AUT
-2326011,OE6WEG,no_name,,Graz-Liebenau,,AUT
-2326012,OE6HXF,no_name,,Graz,STMK,AUT
-2326013,OE6HRF,no_name,,Gratkorn,STMK,AUT
-2326014,OE6MFG,no_name,,Rottenmann,STMK,AUT
-2326015,OE6KOD,no_name,,Weiz,STMK,AUT
-2326016,OE6UHF,no_name,,Leoben,STMK,AUT
-2326017,OE6DMD,no_name,,Bruck An Der Mur,STMK,AUT
-2326018,OE6MTF,no_name,,Leoben,STMK,AUT
-2326019,OE6YFE,no_name,,Bad Aussee,STMK,AUT
-2326020,OE6ASF,no_name,,Weißenbach Bei Liezen,STMK,AUT
-2326021,OE6EHG,no_name,,Kapfenberg,STMK,AUT
-2326022,OE6JAD,no_name,,Dechantskirch.,,AUT
-2326023,OE6CYG,no_name,,Pirching An Der Raab,STMK,AUT
-2326024,OE6PID,no_name,,Bruck An Der Mur,STMK,AUT
-2326025,OE6BID,no_name,,Bruck An Der Mur,STMK,AUT
-2326026,OE6FID,no_name,,Graz,STMK,AUT
-2326027,OE6DLG,no_name,,Sankt Michael In Obersteiermark,STMK,AUT
-2326028,OE6WWG,no_name,,Graz,STMK,AUT
+2326007,OE6WAD,Wolfgang,,Feldbach,STMK,AUT
+2326008,OE6SDG,Guido,,Deutschfeistritz,STMK,AUT
+2326009,OE6VFG,Wolfgang,,Weissenbach Bei Liezen,STMK,AUT
+2326010,OE6MRF,Manfred,,Neutillmitsch,STMK,AUT
+2326011,OE6WEG,Heinz,,Graz-Liebenau,STMK,AUT
+2326012,OE6HXF,Michael,,Graz,STMK,AUT
+2326013,OE6HRF,Robert,,Gratkorn,STMK,AUT
+2326014,OE6MFG,Gerhard,,Rottenmann,STMK,AUT
+2326015,OE6KOD,Karl,,Weiz,STMK,AUT
+2326016,OE6UHF,Herwig,,Leoben,STMK,AUT
+2326017,OE6DMD,Michaela,,Bruck An der Mur,STMK,AUT
+2326018,OE6MTF,Mario,,Leoben,STMK,AUT
+2326019,OE6YFE,Elfriede,,Bad Aussee,STMK,AUT
+2326020,OE6ASF,Alexander,,Weissenbach Bei Liezen,STMK,AUT
+2326021,OE6EHG,Herbert,,Kapfenberg,STMK,AUT
+2326022,OE6JAD,Johann,,Dechantskirch.,STMK,AUT
+2326023,OE6CYG,Helmut,,Pirching An der Raab,STMK,AUT
+2326024,OE6PID,Peter,,Bruck An der Mur,STMK,AUT
+2326025,OE6BID,Barbara,,Bruck An der Mur,STMK,AUT
+2326026,OE6FID,Michael,,Graz,STMK,AUT
+2326027,OE6DLG,Franz,,Sankt Michael In Obersteiermark,STMK,AUT
+2326028,OE6WWG,Siegfried,,Graz,STMK,AUT
 2326029,OE6HHG,Helmut,,Tobelbad,STMK,AUT
-2326030,OE6NHG,no_name,,Graz,,AUT
-2326031,OE6FID,no_name,,Graz,STMK,AUT
-2326032,OE6FTF,no_name,,Hönigsberg,STMK,AUT
-2326033,OE6FTF,no_name,,Hönigsberg,STMK,AUT
+2326030,OE6NHG,Herbert,,Graz,STMK,AUT
+2326031,OE6FID,Michael,,Graz,STMK,AUT
+2326032,OE6FTF,Markus,,Hoenigsberg,STMK,AUT
+2326033,OE6FTF,Markus,,Hoenigsberg,STMK,AUT
 2326034,OE6CGG,Gerold,,Schladming,STMK,AUT
-2326035,OE6WSE,no_name,,Pirching Am Traubenberg,STMK,AUT
-2326036,OE6PJF,no_name,,Stainz,STMK,AUT
-2326037,OE6DMD,no_name,,Bruck An Der Mur,STMK,AUT
-2326038,OE6PID,no_name,,Bruck An Der Mur,STMK,AUT
-2326039,OE6KYG,no_name,,Feldbach,,AUT
-2326040,OE6WWG,no_name,,Graz,STMK,AUT
-2326041,OE6EMF,no_name,,Hartberg,STMK,AUT
-2326042,OE6KSE,no_name,,Kalsdorf Bei Graz,STMK,AUT
-2326043,OE6MGG,no_name,,Graz,STMK,AUT
+2326035,OE6WSE,Sven,,Pirching am Traubenberg,STMK,AUT
+2326036,OE6PJF,Johann,,Stainz,STMK,AUT
+2326037,OE6DMD,Michaela,,Bruck An der Mur,STMK,AUT
+2326038,OE6PID,Peter,,Bruck An der Mur,STMK,AUT
+2326039,OE6KYG,Klaus,,Feldbach,STMK,AUT
+2326040,OE6WWG,Siegfried,,Graz,STMK,AUT
+2326041,OE6EMF,Thomas,,Hartberg,STMK,AUT
+2326042,OE6KSE,Kurt,,Kalsdorf Bei Graz,STMK,AUT
+2326043,OE6MGG,Gerald,,Graz,STMK,AUT
 2326044,OE6XMG,no_name,,no_city,STMK,AUT
-2326045,OE6OCG,no_name,,Nestelbach,STMK,AUT
-2326046,OE6KUD,no_name,,Ilz,STMK,AUT
-2326047,OE6SSF,no_name,,Wettmannstätten,STMK,AUT
-2326048,OE6WLE,no_name,,Schladming,STMK,AUT
-2326049,OE6LME,no_name,,Eibiswald,STMK,AUT
-2326050,OE6JVE,no_name,,Ehrenhausen,STMK,AUT
-2326051,OE6DJG,no_name,,Kainbach,,AUT
-2326052,OE6DJG,no_name,,Kainbach,,AUT
-2326053,OE6WTF,no_name,,Birkfeld,STMK,AUT
-2326054,OE6WTF,no_name,,Birkfeld,STMK,AUT
-2326055,OE6AWF,no_name,,Birkfeld,STMK,AUT
-2326056,OE6AWF,no_name,,Birkfeld,STMK,AUT
-2326057,OE6ALF,no_name,,St. Radegund Bei Graz,STMK,AUT
-2326058,OE6ABE,no_name,,Eggersdorf Bei Graz,STMK,AUT
-2326059,OE6WPG,no_name,,Sinabelkirchen,STMK,AUT
-2326060,OE6GBG,no_name,,Gamlitz,STMK,AUT
+2326045,OE6OCG,Richard,,Nestelbach,STMK,AUT
+2326046,OE6KUD,Klaus,,Ilz,STMK,AUT
+2326047,OE6SSF,Stefan,,Wettmannstaetten,STMK,AUT
+2326048,OE6WLE,Wilhelm,,Schladming,STMK,AUT
+2326049,OE6LME,Manfred,,Eibiswald,STMK,AUT
+2326050,OE6JVE,Juergen,,Ehrenhausen,STMK,AUT
+2326051,OE6DJG,Rolf-Dietrich,,Kainbach,STMK,AUT
+2326052,OE6DJG,Rolf-Dietrich,,Kainbach,STMK,AUT
+2326053,OE6WTF,Christian,,Birkfeld,STMK,AUT
+2326054,OE6WTF,Christian,,Birkfeld,STMK,AUT
+2326055,OE6AWF,Andreas,,Birkfeld,STMK,AUT
+2326056,OE6AWF,Andreas,,Birkfeld,STMK,AUT
+2326057,OE6ALF,Alfred,,St. Radegund Bei Graz,STMK,AUT
+2326058,OE6ABE,Alfred,,Eggersdorf Bei Graz,STMK,AUT
+2326059,OE6WPG,Wolfgang,,Sinabelkirchen,STMK,AUT
+2326060,OE6GBG,Gerald,,Gamlitz,STMK,AUT
 2326061,OE6FZE,Franz,,Hafning,STMK,AUT
-2326062,OE6IWG,no_name,,Kapfenberg,,AUT
-2326063,OE6SWD,no_name,,Bruck/Mur,,AUT
+2326062,OE6IWG,Walter,,Kapfenberg,STMK,AUT
+2326063,OE6SWD,Walter,,Bruck/mur,STMK,AUT
 2326064,OE6XBZ,no_name,,no_city,STMK,AUT
-2326065,OE6BZE,no_name,,Sulb,STMK,AUT
-2326066,OE6EWG,no_name,,Graz,STMK,AUT
-2326067,OE6RST,no_name,,Weiz,STMK,AUT
-2326068,OE6CPR,no_name,,Graz,STMK,AUT
+2326065,OE6BZE,Burghard,,Sulb,STMK,AUT
+2326066,OE6EWG,Klemens,,Graz,STMK,AUT
+2326067,OE6RST,Sebastian,,Weiz,STMK,AUT
+2326068,OE6CPR,Philipp,,Graz,STMK,AUT
 2326069,OE6XWG,no_name,,no_city,STMK,AUT
-2326070,OE6LGF,no_name,,Graz,STMK,AUT
-2326071,OE6POD,no_name,,Zeltweg,STMK,AUT
-2326072,OE6POD,no_name,,Zeltweg,STMK,AUT
-2326073,OE6EWH,no_name,,St. Peter Am Kammersberg,STMK,AUT
-2326074,OE6NZG,no_name,,Graz,,AUT
-2326075,OE6TPE,no_name,,Heiligenkreuz Am Waasen,STMK,AUT
-2326076,OE6CKG,no_name,,Oberaich,,AUT
-2326077,OE6FFF,no_name,,Frohnleiten,STMK,AUT
-2326078,OE6WOF,no_name,,Sankt Marein Im Mürztal,STMK,AUT
-2326079,OE6JUD,no_name,,Arnfels,STMK,AUT
-2326080,OE6NAD,no_name,,St. Lorenzen Im Mürztal,STMK,AUT
-2326081,OE6CKG,no_name,,Oberaich,,AUT
-2326082,OE6LUG,no_name,,Graz,,AUT
-2326083,OE6FTE,no_name,,Leoben,STMK,AUT
-2326084,OE6MBF,no_name,,Leoben,STMK,AUT
-2326085,OE6UCG,no_name,,Graz,STMK,AUT
-2326086,OE6AEG,no_name,,Leoben,,AUT
-2326087,OE6TLF,no_name,,Kaindorf,STMK,AUT
-2326088,OE6UVG,no_name,,Trofaiach,STMK,AUT
-2326089,OE6KCD,no_name,,Kapfenberg,STMK,AUT
-2326090,OE6AAW,no_name,,Laßnitzhöhe,STMK,AUT
-2326091,OE6HEE,no_name,,Graz,STMK,AUT
-2326092,OE6PWG,no_name,,Schladming,STMK,AUT
-2326093,OE6PTE,no_name,,Am Dachstein,,AUT
-2326094,OE6ANH,no_name,,Sankt Martin Am Wöllmißberg,STMK,AUT
-2326095,OE6AVD,no_name,,Preding,STMK,AUT
-2326096,OE6YJD,no_name,,Kainbach,,AUT
-2326097,OE6GHG,no_name,,Petzles,STMK,AUT
-2326098,OE6DKG,no_name,,St.Lorenzen/Mt,,AUT
-2326099,OE6KLG,no_name,,St. Marein Bei Graz,STMK,AUT
-2326100,OE6KPE,no_name,,Graz,STMK,AUT
-2326101,OE6UYG,no_name,,Fürstenfeld,STMK,AUT
-2326102,OE6GKG,no_name,,Leoben,,AUT
-2326103,OE6TFG,no_name,,Muerzzuschlag,,AUT
-2326104,OE6CFD,no_name,,Gleisdorf,STMK,AUT
-2326105,OE6TWD,no_name,,Graz,STMK,AUT
-2326106,OE6DXG,no_name,,Kapfenberg,,AUT
-2326107,OE6STD,no_name,,Graz-Liebenau,,AUT
-2326108,OE6YIE,no_name,,Kapfenberg,,AUT
-2326109,OE6HKD,no_name,,Voitsberg,STMK,AUT
-2326110,OE6IFD,no_name,,Graz,STMK,AUT
-2326111,OE6GUG,no_name,,Graz-St.Peter,,AUT
-2326112,OE6ARF,no_name,,Graz,,AUT
-2326113,OE6LSD,no_name,,Graz-St.Peter,,AUT
-2326114,OE6FJF,no_name,,Eggersdorf Bei Graz,STMK,AUT
+2326070,OE6LGF,Gerhard,,Graz,STMK,AUT
+2326071,OE6POD,Johann,,Zeltweg,STMK,AUT
+2326072,OE6POD,Johann,,Zeltweg,STMK,AUT
+2326073,OE6EWH,Erwin,,St. Peter am Kammersberg,STMK,AUT
+2326074,OE6NZG,Guntram,,Graz,STMK,AUT
+2326075,OE6TPE,Thomas,,Heiligenkreuz am Waasen,STMK,AUT
+2326076,OE6CKG,Karl,,Oberaich,STMK,AUT
+2326077,OE6FFF,Mario,,Frohnleiten,STMK,AUT
+2326078,OE6WOF,Wolfgang,,Sankt Marein im Muerztal,STMK,AUT
+2326079,OE6JUD,Johann,,Arnfels,STMK,AUT
+2326080,OE6NAD,Guenter,,St. Lorenzen im Muerztal,STMK,AUT
+2326081,OE6CKG,Karl,,Oberaich,STMK,AUT
+2326082,OE6LUG,Edgar,,Graz,STMK,AUT
+2326083,OE6FTE,Alexander,,Leoben,STMK,AUT
+2326084,OE6MBF,Michael,,Leoben,STMK,AUT
+2326085,OE6UCG,Hubert,,Graz,STMK,AUT
+2326086,OE6AEG,Gerhard,,Leoben,STMK,AUT
+2326087,OE6TLF,Thomas,,Kaindorf,STMK,AUT
+2326088,OE6UVG,Armin,,Trofaiach,STMK,AUT
+2326089,OE6KCD,Erich,,Kapfenberg,STMK,AUT
+2326090,OE6AAW,Walter,,Lassnitzhoehe,STMK,AUT
+2326091,OE6HEE,Hans,,Graz,STMK,AUT
+2326092,OE6PWG,Peter,,Schladming,STMK,AUT
+2326093,OE6PTE,Thomas,,Ramsau am Dachstein,STMK,AUT
+2326094,OE6ANH,Alois,,Sankt Martin am Woellmissberg,STMK,AUT
+2326095,OE6AVD,Bbe,,Preding,STMK,AUT
+2326096,OE6YJD,Martha,,Kainbach,STMK,AUT
+2326097,OE6GHG,Heimo,,Petzles,STMK,AUT
+2326098,OE6DKG,Manfred,,St.Lorenzen/mt,STMK,AUT
+2326099,OE6KLG,Wolfgang,,St. Marein Bei Graz,STMK,AUT
+2326100,OE6KPE,Johannes,,Graz,STMK,AUT
+2326101,OE6UYG,Manfred,,Fuerstenfeld,STMK,AUT
+2326102,OE6GKG,Klaus,,Leoben,STMK,AUT
+2326103,OE6TFG,Franz,,Muerzzuschlag,STMK,AUT
+2326104,OE6CFD,Karl,,Gleisdorf,STMK,AUT
+2326105,OE6TWD,Erwin,,Graz,STMK,AUT
+2326106,OE6DXG,Karl,,Kapfenberg,STMK,AUT
+2326107,OE6STD,Horst,,Graz-Liebenau,STMK,AUT
+2326108,OE6YIE,Ernestine,,Kapfenberg,STMK,AUT
+2326109,OE6HKD,Helmut,,Voitsberg,STMK,AUT
+2326110,OE6IFD,Heinz,,Graz,STMK,AUT
+2326111,OE6GUG,Guenter,,Graz-St.Peter,STMK,AUT
+2326112,OE6ARF,Alexander,,Graz,STMK,AUT
+2326113,OE6LSD,Helmut,,Graz-St.Peter,STMK,AUT
+2326114,OE6FJF,Franz,,Eggersdorf Bei Graz,STMK,AUT
 2326115,OE6UUE,no_name,,no_city,STMK,AUT
-2326116,OE6AXG,no_name,,St.Johann/Herb,,AUT
-2326117,OE6ATD,no_name,,Ehrenhausen,STMK,AUT
-2326118,OE6WID,no_name,,Kapfenberg,STMK,AUT
+2326116,OE6AXG,Otto,,St.Johann/herb,STMK,AUT
+2326117,OE6ATD,Alfred,,Ehrenhausen,STMK,AUT
+2326118,OE6WID,Wolfgang,,Kapfenberg,STMK,AUT
 2326119,OE6XFF,no_name,,no_city,STMK,AUT
-2326120,OE6LUG,no_name,,Graz,,AUT
-2326121,OE6HOF,no_name,,Bad Gams,STMK,AUT
-2326122,OE6HOF,no_name,,Bad Gams,STMK,AUT
-2326123,OE6PKF,no_name,,Werndorf,STMK,AUT
-2326124,OE6PKF,no_name,,Werndorf,STMK,AUT
+2326120,OE6LUG,Edgar,,Graz,STMK,AUT
+2326121,OE6HOF,Franz,,Bad Gams,STMK,AUT
+2326122,OE6HOF,Franz,,Bad Gams,STMK,AUT
+2326123,OE6PKF,Kersten,,Werndorf,STMK,AUT
+2326124,OE6PKF,Kersten,,Werndorf,STMK,AUT
 2326125,OE6MMA,Markus,,Wien,STMK,AUT
-2326126,OE6SHE,no_name,,Kapfenberg,STMK,AUT
-2326127,OE6ESD,no_name,,Leoben,,AUT
-2326128,OE6FBD,no_name,,Lang,STMK,AUT
-2326129,OE6RKE,no_name,,Deutschlandsberg,STMK,AUT
-2326130,OE6KAE,no_name,,Eichberg-Trautenburg,STMK,AUT
-2326131,OE6EWG,no_name,,Graz,STMK,AUT
-2326132,OE6WOF,no_name,,Sankt Marein Im Mürztal,STMK,AUT
-2326133,OE6UPD,no_name,,Graz,,AUT
-2326134,OE6LNG,no_name,,Poellau/Hartbg,,AUT
-2326135,OE6MDF,no_name,,Hartberg,STMK,AUT
-2326136,OE6ODD,no_name,,Kindberg,,AUT
-2326137,OE6CLD,no_name,,Judendorf,,AUT
-2326138,OE6GHH,no_name,,Dobl,STMK,AUT
-2326139,OE6UZF,no_name,,Trieben,STMK,AUT
-2326140,OE6MDF,no_name,,Hartberg,STMK,AUT
-2326141,OE6SSF,no_name,,Wettmannstätten,STMK,AUT
-2326142,OE6ATD,no_name,,Ehrenhausen,STMK,AUT
-2326143,OE6JVE,no_name,,Ehrenhausen,STMK,AUT
-2326144,OE6XRD,no_name,,Feldbach,STMK,AUT
-2326145,OE6ASF,no_name,,Weißenbach Bei Liezen,STMK,AUT
-2326146,OE6KCH,no_name,,Scheifling,STMK,AUT
+2326126,OE6SHE,Helmut,,Kapfenberg,STMK,AUT
+2326127,OE6ESD,Heinrich,,Leoben,STMK,AUT
+2326128,OE6FBD,Bertram,,Lang,STMK,AUT
+2326129,OE6RKE,Robert,,Deutschlandsberg,STMK,AUT
+2326130,OE6KAE,Albin,,Eichberg-Trautenburg,STMK,AUT
+2326131,OE6EWG,Klemens,,Graz,STMK,AUT
+2326132,OE6WOF,Wolfgang,,Sankt Marein im Muerztal,STMK,AUT
+2326133,OE6UPD,Uwe,,Graz,STMK,AUT
+2326134,OE6LNG,Johann,,Poellau/hartbg,STMK,AUT
+2326135,OE6MDF,Markus,,Hartberg,STMK,AUT
+2326136,OE6ODD,Heimo,,Kindberg,STMK,AUT
+2326137,OE6CLD,Claus,,Judendorf,STMK,AUT
+2326138,OE6GHH,Gerhard,,Dobl,STMK,AUT
+2326139,OE6UZF,Udo,,Trieben,STMK,AUT
+2326140,OE6MDF,Markus,,Hartberg,STMK,AUT
+2326141,OE6SSF,Stefan,,Wettmannstaetten,STMK,AUT
+2326142,OE6ATD,Alfred,,Ehrenhausen,STMK,AUT
+2326143,OE6JVE,Juergen,,Ehrenhausen,STMK,AUT
+2326144,OE6XRD,Be,,Feldbach,STMK,AUT
+2326145,OE6ASF,Alexander,,Weissenbach Bei Liezen,STMK,AUT
+2326146,OE6KCH,Christian,,Scheifling,STMK,AUT
 2326147,OE6DEF,no_name,,no_city,STMK,AUT
-2326148,OE6SSE,no_name,,Ludersdorf-Wilfersdorf,STMK,AUT
-2326149,OE6UIG,no_name,,Lassing/Selzt.,,AUT
-2326150,OE6BYD,no_name,,Ehrenhausen,STMK,AUT
-2326151,OE6HOE,no_name,,Trofaiach,STMK,AUT
-2326152,OE6RNT,no_name,,Langenwang-Schwöbing,STMK,AUT
+2326148,OE6SSE,Stefan,,Ludersdorf-Wilfersdorf,STMK,AUT
+2326149,OE6UIG,Martin,,Lassing/selzt.,STMK,AUT
+2326150,OE6BYD,Simone,,Ehrenhausen,STMK,AUT
+2326151,OE6HOE,Horst,,Trofaiach,STMK,AUT
+2326152,OE6RNT,Andreas,,Langenwang-Schwoebing,STMK,AUT
 2326153,OE6KGD,no_name,,no_city,STMK,AUT
-2326154,OE6WIG,no_name,,Mureck,STMK,AUT
-2326155,OE6ARD,no_name,,Hartberg,,AUT
-2326156,OE6RCD,no_name,,Leibnitz,STMK,AUT
-2326157,OE6JTD,no_name,,Obervogau,STMK,AUT
-2326158,OE6KVG,no_name,,Graz,,AUT
-2326159,OE6GBG,no_name,,Gamlitz,STMK,AUT
-2326160,OE6PJG,no_name,,Weinitzen,STMK,AUT
-2326161,OE6FEG,no_name,,Sankt Radegund Bei Graz,STMK,AUT
-2326162,OE6WMG,no_name,,Sankt Radegund Bei Graz,STMK,AUT
-2326163,OE6JGE,no_name,,Voitsberg,STMK,AUT
-2326164,OE6HHE,no_name,,Weiz,STMK,AUT
-2326165,OE6GUE,no_name,,Leoben,STMK,AUT
-2326166,OE6KUD,no_name,,Ilz,STMK,AUT
-2326167,OE6ARG,no_name,,Graz,STMK,AUT
-2326168,OE6WNG,no_name,,Unterrohr,STMK,AUT
-2326169,OE6BZD,no_name,,Graz,STMK,AUT
-2326170,OE6UPG,no_name,,Graz,STMK,AUT
-2326171,OE6BKG,no_name,,Graz,,AUT
-2326172,OE6MMD,no_name,,Sankt Oswald Bei Plankenwarth,STMK,AUT
-2326173,OE6TTF,no_name,,Bruck An Der Mur,STMK,AUT
-2326174,OE6JGE,no_name,,Voitsberg,STMK,AUT
-2326175,OE6CGD,no_name,,Stattegg,STMK,AUT
-2326176,OE6SPY,no_name,,Graz,STMK,AUT
-2326177,OE6RZE,no_name,,Hartberg,STMK,AUT
-2326178,OE6MDW,no_name,,Graz,STMK,AUT
-2326179,OE6MEH,no_name,,Hart Bei Graz,STMK,AUT
-2326180,OE6FEF,no_name,,Schäffern,STMK,AUT
-2326181,OE6DRG,no_name,,Spielberg Bei Knittelfeld,STMK,AUT
-2326182,OE6SLG,no_name,,Kammern Im Liesingtal,STMK,AUT
-2326183,OE6JDG,no_name,,Niklasdorf,STMK,AUT
-2326184,OE6UXS,no_name,,Graz,STMK,AUT
+2326154,OE6WIG,Franz,,Mureck,STMK,AUT
+2326155,OE6ARD,Alfred,,Hartberg,STMK,AUT
+2326156,OE6RCD,Roland,,Leibnitz,STMK,AUT
+2326157,OE6JTD,Josef,,Obervogau,STMK,AUT
+2326158,OE6KVG,Folker,,Graz,STMK,AUT
+2326159,OE6GBG,Gerald,,Gamlitz,STMK,AUT
+2326160,OE6PJG,Paul,,Weinitzen,STMK,AUT
+2326161,OE6FEG,Neil,,Sankt Radegund Bei Graz,STMK,AUT
+2326162,OE6WMG,Manfred,,Sankt Radegund Bei Graz,STMK,AUT
+2326163,OE6JGE,Joerg,,Voitsberg,STMK,AUT
+2326164,OE6HHE,Helmut,,Weiz,STMK,AUT
+2326165,OE6GUE,Guenther,,Leoben,STMK,AUT
+2326166,OE6KUD,Klaus,,Ilz,STMK,AUT
+2326167,OE6ARG,Arnulf,,Graz,STMK,AUT
+2326168,OE6WNG,Werner,,Unterrohr,STMK,AUT
+2326169,OE6BZD,Nicolai,,Graz,STMK,AUT
+2326170,OE6UPG,Johann,,Graz,STMK,AUT
+2326171,OE6BKG,Klaus,,Graz,STMK,AUT
+2326172,OE6MMD,Reinhard,,Sankt Oswald Bei Plankenwarth,STMK,AUT
+2326173,OE6TTF,Eric,,Bruck An der Mur,STMK,AUT
+2326174,OE6JGE,Joerg,,Voitsberg,STMK,AUT
+2326175,OE6CGD,Gerhard,,Stattegg,STMK,AUT
+2326176,OE6SPY,Andreas,,Graz,STMK,AUT
+2326177,OE6RZE,Richard,,Hartberg,STMK,AUT
+2326178,OE6MDW,Manfred,,Graz,STMK,AUT
+2326179,OE6MEH,Markus,,Hart Bei Graz,STMK,AUT
+2326180,OE6FEF,Florian,,Schaeffern,STMK,AUT
+2326181,OE6DRG,Gerhard,,Spielberg Bei Knittelfeld,STMK,AUT
+2326182,OE6SLG,Lothar,,Kammern im Liesingtal,STMK,AUT
+2326183,OE6JDG,Josef,,Niklasdorf,STMK,AUT
+2326184,OE6UXS,Clemens,,Graz,STMK,AUT
 2326185,OE6XRX,no_name,,no_city,STMK,AUT
 2326186,OE6BKQ,Koch,,Graz,STMK,AUT
-2326187,OE6JMF,no_name,,Birkfeld,STMK,AUT
+2326187,OE6JMF,Joerg,,Birkfeld,STMK,AUT
 2326188,OE6AGD,no_name,,no_city,STMK,AUT
-2326189,OE6ADE,no_name,,Köflach,STMK,AUT
-2326190,OE6HFG,no_name,,Murau,,AUT
+2326189,OE6ADE,Andreas,,Koeflach,STMK,AUT
+2326190,OE6HFG,Franz,,Murau,STMK,AUT
 2326191,OE6HFF,no_name,,no_city,STMK,AUT
 2326192,OE6FBI,Neumeister,,Graz,STMK,AUT
-2326193,OE6ETF,no_name,,Eisenerz,STMK,AUT
-2326194,OE6BOT,no_name,,Zlatten,STMK,AUT
+2326193,OE6ETF,Engelbert,,Eisenerz,STMK,AUT
+2326194,OE6BOT,Florian,,Zlatten,STMK,AUT
 2326195,OE6KLF,no_name,,no_city,STMK,AUT
-2326196,OE6PSF,no_name,,Lemberg,STMK,AUT
-2326197,OE6RAD,no_name,,Bärnbach,STMK,AUT
+2326196,OE6PSF,Patrick,,Lemberg,STMK,AUT
+2326197,OE6RAD,Roland,,Baernbach,STMK,AUT
 2326198,OE6MMR,no_name,,no_city,STMK,AUT
 2326199,OE6SSB,Schmid,,Wien,WIEN,AUT
-2326200,OE6TXG,no_name,,Graz-Liebenau,,AUT
-2326201,OE6OLD,no_name,,Weinburg Am Saßbach,STMK,AUT
+2326200,OE6TXG,Helmut,,Graz-Liebenau,STMK,AUT
+2326201,OE6OLD,Heimo,,Weinburg am Sassbach,STMK,AUT
 2326202,OE6LUI,no_name,,Graz,STMK,AUT
 2326203,OE6JUE,Juergen,,Windorf,STMK,AUT
-2326221,OE6KWD,no_name,,Kapfenberg,STMK,AUT
-2326222,OE6JFG,no_name,,Bruck An Der Mur,STMK,AUT
-2326223,OE6MKD,no_name,,Kapfenberg,STMK,AUT
-2326224,OE6JFG,no_name,,Bruck An Der Mur,STMK,AUT
-2326225,OE6SWD,no_name,,Bruck/Mur,,AUT
-2326226,OE6SQD,no_name,,Oberaich,STMK,AUT
-2326231,OE6AUD,no_name,,Eggersdorf,,AUT
-2326232,OE6JWD,no_name,,Hart-Purgstall,STMK,AUT
-2326233,OE6JWD,no_name,,Hart-Purgstall,STMK,AUT
+2326221,OE6KWD,Wolfgang,,Kapfenberg,STMK,AUT
+2326222,OE6JFG,Franz,,Bruck An der Mur,STMK,AUT
+2326223,OE6MKD,Rene,,Kapfenberg,STMK,AUT
+2326224,OE6JFG,Franz,,Bruck An der Mur,STMK,AUT
+2326225,OE6SWD,Walter,,Bruck/mur,STMK,AUT
+2326226,OE6SQD,Andreas,,Oberaich,STMK,AUT
+2326231,OE6AUD,Anton,,Eggersdorf,STMK,AUT
+2326232,OE6JWD,Klaus-Dieter,,Hart-Purgstall,STMK,AUT
+2326233,OE6JWD,Klaus-Dieter,,Hart-Purgstall,STMK,AUT
 2326234,OE6CLR,Christoph,,Graz,STMK,AUT
-2326235,OE6VHF,no_name,,Sankt Oswald Bei Plankenwarth,STMK,AUT
-2326236,OE6RSD,no_name,,Gleisdorf,STMK,AUT
-2326237,OE6TSG,no_name,,Graz,STMK,AUT
-2326238,OE6CUD,no_name,,Graz-Strassgng,,AUT
-2326239,OE6PBD,no_name,,Hausmannstätten,STMK,AUT
+2326235,OE6VHF,Joerg,,Sankt Oswald Bei Plankenwarth,STMK,AUT
+2326236,OE6RSD,Reinhard,,Gleisdorf,STMK,AUT
+2326237,OE6TSG,Dieter,,Graz,STMK,AUT
+2326238,OE6CUD,Christian,,Graz-Strassgng,STMK,AUT
+2326239,OE6PBD,Peter,,Hausmannstaetten,STMK,AUT
 2326261,OE6KLU,Karl,,Stuhleck,STMK,AUT
-2326351,OE6DJG,no_name,,Kainbach,,AUT
-2326532,OE6JWD,no_name,,Hart-Purgstall,STMK,AUT
-2326533,OE6HWD,no_name,,Unterlamm,,AUT
-2327000,OE7BKH,no_name,,Mayrhofen,,AUT
+2326351,OE6DJG,Rolf-Dietrich,,Kainbach,STMK,AUT
+2326532,OE6JWD,Klaus-Dieter,,Hart-Purgstall,STMK,AUT
+2326533,OE6HWD,Herbert,,Unterlamm,STMK,AUT
+2327000,OE7BKH,Bernhard,,Mayrhofen,TIROL,AUT
 2327001,OE7CAH,no_name,,no_city,TIROL,AUT
-2327002,OE7SRI,no_name,,Kramsach,TIROL,AUT
-2327003,OE7BSH,no_name,,Wattens,TIROL,AUT
-2327004,OE7FMI,no_name,,Finkenberg,TIROL,AUT
-2327005,OE7FMI,no_name,,Finkenberg,TIROL,AUT
-2327006,OE7MKT,no_name,,Mayrhofen,,AUT
-2327007,OE7BKH,no_name,,Mayrhofen,,AUT
-2327008,OE7EMH,no_name,,Jenbach,TIROL,AUT
-2327009,OE7UPI,no_name,,Innsbruck,TIROL,AUT
-2327010,OE7GUT,no_name,,Oberperfuss,TIROL,AUT
-2327011,OE7WSH,no_name,,Innsbruck,TIROL,AUT
-2327012,OE7WSH,no_name,,Innsbruck,TIROL,AUT
-2327013,OE7PGJ,no_name,,Landeck,TIROL,AUT
-2327014,OE7JGH,no_name,,Landeck,TIROL,AUT
-2327015,OE7DWT,no_name,,Hainzenberg,TIROL,AUT
-2327016,OE7CKI,no_name,,Langkampfen,TIROL,AUT
-2327017,OE7WAT,no_name,,Hainzenberg,TIROL,AUT
-2327018,OE7MFI,no_name,,Sankt Ulrich Am Pillersee,TIROL,AUT
-2327019,OE7AGT,no_name,,Ehrwald,TIROL,AUT
-2327020,OE7AHJ,no_name,,Fließ,,AUT
-2327021,OE7KSH,no_name,,Telfes Im Stubai,TIROL,AUT
-2327022,OE7HNT,no_name,,Arzl Im Pitztal,TIROL,AUT
-2327023,OE7FTJ,no_name,,Innsbruck,TIROL,AUT
-2327024,OE7EET,no_name,,Finkenberg,,AUT
-2327025,OE7LTI,no_name,,Ainet,TIROL,AUT
-2327026,OE7YMI,no_name,,Lienz/Osttirol,TIROL,AUT
-2327027,OE7WFT,no_name,,Rietz,TIROL,AUT
-2327028,OE7FMH,no_name,,Reith Bei Seefeld,TIROL,AUT
-2327029,OE7FMH,no_name,,Reith Bei Seefeld,TIROL,AUT
-2327030,OE7WFT,no_name,,Rietz,TIROL,AUT
-2327031,OE7AGT,no_name,,Ehrwald,TIROL,AUT
-2327032,OE7BAI,no_name,,Polling In Tirol,TIROL,AUT
-2327033,OE7AAI,no_name,,Hall In Tirol,TIROL,AUT
-2327034,OE7AJJ,no_name,,Thal-Assling,,AUT
-2327035,OE7MBT,no_name,,Schwoich,TIROL,AUT
-2327036,OE7KT,no_name,,Imst,TIROL,AUT
-2327037,OE7RHH,no_name,,Landeck,TIROL,AUT
-2327038,OE7TMJ,no_name,,Zams,TIROL,AUT
-2327039,OE7MMT,no_name,,Kaunerberg,TIROL,AUT
-2327040,OE7GHJ,no_name,,Schwoich,TIROL,AUT
+2327002,OE7SRI,Richard,,Kramsach,TIROL,AUT
+2327003,OE7BSH,H.,,Wattens,TIROL,AUT
+2327004,OE7FMI,Markus,,Finkenberg,TIROL,AUT
+2327005,OE7FMI,Markus,,Finkenberg,TIROL,AUT
+2327006,OE7MKT,Michael,,Mayrhofen,TIROL,AUT
+2327007,OE7BKH,Bernhard,,Mayrhofen,TIROL,AUT
+2327008,OE7EMH,Ernst,,Jenbach,TIROL,AUT
+2327009,OE7UPI,Udo,,Innsbruck,TIROL,AUT
+2327010,OE7GUT,Florian,,Oberperfuss,TIROL,AUT
+2327011,OE7WSH,Wolfgang,,Innsbruck,TIROL,AUT
+2327012,OE7WSH,Wolfgang,,Innsbruck,TIROL,AUT
+2327013,OE7PGJ,Gerhard,,Landeck,TIROL,AUT
+2327014,OE7JGH,Josef,,Landeck,TIROL,AUT
+2327015,OE7DWT,Dietmar,,Hainzenberg,TIROL,AUT
+2327016,OE7CKI,Christian,,Langkampfen,TIROL,AUT
+2327017,OE7WAT,Waltraud,,Hainzenberg,TIROL,AUT
+2327018,OE7MFI,Florian,,Sankt Ulrich am Pillersee,TIROL,AUT
+2327019,OE7AGT,Alois,,Ehrwald,TIROL,AUT
+2327020,OE7AHJ,Andreas,,Fliess,TIROL,AUT
+2327021,OE7KSH,Konrad,,Telfes im Stubai,TIROL,AUT
+2327022,OE7HNT,Georg,,Arzl im Pitztal,TIROL,AUT
+2327023,OE7FTJ,Dieter,,Innsbruck,TIROL,AUT
+2327024,OE7EET,Edi,,Finkenberg,TIROL,AUT
+2327025,OE7LTI,Anton,,Ainet,TIROL,AUT
+2327026,OE7YMI,Maria,,Lienz/osttirol,TIROL,AUT
+2327027,OE7WFT,Friedrich,,Rietz,TIROL,AUT
+2327028,OE7FMH,Franz,,Reith Bei Seefeld,TIROL,AUT
+2327029,OE7FMH,Franz,,Reith Bei Seefeld,TIROL,AUT
+2327030,OE7WFT,Friedrich,,Rietz,TIROL,AUT
+2327031,OE7AGT,Alois,,Ehrwald,TIROL,AUT
+2327032,OE7BAI,Anton,,Polling In Tirol,TIROL,AUT
+2327033,OE7AAI,Manfred,,Hall In Tirol,TIROL,AUT
+2327034,OE7AJJ,Johann,,Thal-Assling,TIROL,AUT
+2327035,OE7MBT,Marco,,Schwoich,TIROL,AUT
+2327036,OE7KT,Helmut,,Imst,TIROL,AUT
+2327037,OE7RHH,Robert,,Landeck,TIROL,AUT
+2327038,OE7TMJ,Martin,,Zams,TIROL,AUT
+2327039,OE7MMT,Martin,,Kaunerberg,TIROL,AUT
+2327040,OE7GHJ,Herbert,,Schwoich,TIROL,AUT
 2327041,OE7SBH,no_name,,no_city,TIROL,AUT
-2327042,OE7JRT,no_name,,Tux,,AUT
-2327043,OE7XWI,no_name,,Mayrhofen,,AUT
-2327044,OE7MWH,no_name,,A.Br.,,AUT
-2327045,OE7TTT,no_name,,Landeck,TIROL,AUT
-2327046,OE7XWI,no_name,,Mayrhofen,,AUT
-2327047,OE7YHI,no_name,,Mayrhofen,,AUT
-2327048,OE7BRT,no_name,,See,TIROL,AUT
-2327049,OE7REH,no_name,,Schlitters,,AUT
-2327050,OE7WOT,no_name,,Kramsach,TIROL,AUT
-2327051,OE7CWJ,no_name,,Innsbruck,TIROL,AUT
-2327052,OE7HSH,no_name,,Sillian,TIROL,AUT
-2327053,OE7CLI,no_name,,Inzing,TIROL,AUT
-2327054,OE7GMH,no_name,,Sillian,TIROL,AUT
-2327055,OE7MZH,no_name,,Rum,TIROL,AUT
-2327056,OE7YZH,no_name,,Rum,TIROL,AUT
-2327057,OE7HRI,no_name,,Langkampfen,,AUT
-2327058,OE7KUT,no_name,,Telfs,TIROL,AUT
-2327059,OE7TAH,no_name,,Vils,TIROL,AUT
-2327060,OE7FZI,no_name,,Innsbruck,TIROL,AUT
-2327061,OE7JVT,no_name,,Sistrans,TIROL,AUT
-2327062,OE7FFD,no_name,,Umhausen,TIROL,AUT
-2327063,OE7HFT,no_name,,Münster,TIROL,AUT
-2327064,OE7FFD,no_name,,Umhausen,TIROL,AUT
-2327065,OE7KMI,no_name,,Imst,TIROL,AUT
-2327066,OE7KGI,no_name,,Mayrhofen,,AUT
-2327067,OE7DPJ,no_name,,Aschau/,Zillertal,TIROL,AUT
-2327068,OE7RKI,no_name,,Lienz/Osttirol,,AUT
-2327069,OE7SAT,no_name,,Vomp,TIROL,AUT
-2327070,OE7CKH,no_name,,Wattens,TIROL,AUT
-2327071,OE7KJI,no_name,,Vomp,TIROL,AUT
-2327072,OE7USH,no_name,,Wattens,TIROL,AUT
-2327073,OE7MHJ,no_name,,Jenbach,TIROL,AUT
-2327074,OE7MPI,no_name,,Ebbs,TIROL,AUT
-2327075,OE7WWH,no_name,,Mayrhofen,TIROL,AUT
-2327076,OE7KUT,no_name,,Telfs,TIROL,AUT
-2327077,OE7BJT,no_name,,Oberndorf In Tirol,TIROL,AUT
-2327078,OE7MZH,no_name,,Rum,TIROL,AUT
-2327079,OE7YZH,no_name,,Rum,TIROL,AUT
-2327080,OE7GFT,no_name,,Innsbruck,TIROL,AUT
-2327081,OE7JTK,no_name,,Dölsach,TIROL,AUT
-2327082,OE7YQH,no_name,,Dölsach,TIROL,AUT
-2327083,OE7NGI,no_name,,Lienz,Osttirol,,AUT
-2327084,OE7DDI,no_name,,Lienz,TIROL,AUT
-2327085,OE7PGI,no_name,,Lienz,TIROL,AUT
-2327086,OE7OPJ,no_name,,Lienz,Osttirol,,AUT
-2327087,OE7OMT,no_name,,Lienz,TIROL,AUT
-2327088,OE7CWJ,no_name,,Innsbruck,TIROL,AUT
-2327089,OE7MWH,no_name,,A.Br.,,AUT
+2327042,OE7JRT,Josef,,Tux,TIROL,AUT
+2327043,OE7XWI,Zill,,Mayrhofen,TIROL,AUT
+2327044,OE7MWH,Michael,,Steinach A.Br.,TIROL,AUT
+2327045,OE7TTT,Michael,,Landeck,TIROL,AUT
+2327046,OE7XWI,Zill,,Mayrhofen,TIROL,AUT
+2327047,OE7YHI,Beate,,Mayrhofen,TIROL,AUT
+2327048,OE7BRT,Rainer,,See,TIROL,AUT
+2327049,OE7REH,Oliver,,Schlitters,TIROL,AUT
+2327050,OE7WOT,Walter,,Kramsach,TIROL,AUT
+2327051,OE7CWJ,Christian,,Innsbruck,TIROL,AUT
+2327052,OE7HSH,Josef,,Sillian,TIROL,AUT
+2327053,OE7CLI,Juergen,,Inzing,TIROL,AUT
+2327054,OE7GMH,Manfred,,Sillian,TIROL,AUT
+2327055,OE7MZH,Markus,,Rum,TIROL,AUT
+2327056,OE7YZH,Renate,,Rum,TIROL,AUT
+2327057,OE7HRI,Herbert,,Langkampfen,TIROL,AUT
+2327058,OE7KUT,Thomas,,Telfs,TIROL,AUT
+2327059,OE7TAH,Andreas,,Vils,TIROL,AUT
+2327060,OE7FZI,Artur,,Innsbruck,TIROL,AUT
+2327061,OE7JVT,Georg,,Sistrans,TIROL,AUT
+2327062,OE7FFD,Frank,,Umhausen,TIROL,AUT
+2327063,OE7HFT,Franz,,Muenster,TIROL,AUT
+2327064,OE7FFD,Frank,,Umhausen,TIROL,AUT
+2327065,OE7KMI,Markus,,Imst,TIROL,AUT
+2327066,OE7KGI,Georg,,Mayrhofen,TIROL,AUT
+2327067,OE7DPJ,Peter,,Aschau/zillertal,TIROL,AUT
+2327068,OE7RKI,Reinhold,,Lienz/osttirol,TIROL,AUT
+2327069,OE7SAT,Anton,,Vomp,TIROL,AUT
+2327070,OE7CKH,Christian,,Wattens,TIROL,AUT
+2327071,OE7KJI,Josef,,Vomp,TIROL,AUT
+2327072,OE7USH,Ulrike,,Wattens,TIROL,AUT
+2327073,OE7MHJ,Matthias,,Jenbach,TIROL,AUT
+2327074,OE7MPI,Michael,,Ebbs,TIROL,AUT
+2327075,OE7WWH,Herwig,,Mayrhofen,TIROL,AUT
+2327076,OE7KUT,Thomas,,Telfs,TIROL,AUT
+2327077,OE7BJT,Georg,,Oberndorf In Tirol,TIROL,AUT
+2327078,OE7MZH,Markus,,Rum,TIROL,AUT
+2327079,OE7YZH,Renate,,Rum,TIROL,AUT
+2327080,OE7GFT,Gerhard,,Innsbruck,TIROL,AUT
+2327081,OE7JTK,Josef,,Doelsach,TIROL,AUT
+2327082,OE7YQH,Renate,,Doelsach,TIROL,AUT
+2327083,OE7NGI,Norbert,,Lienzosttirol,TIROL,AUT
+2327084,OE7DDI,Daniel,,Lienz,TIROL,AUT
+2327085,OE7PGI,Philipp,,Lienz,TIROL,AUT
+2327086,OE7OPJ,Peter,,Lienzosttirol,TIROL,AUT
+2327087,OE7OMT,Meinhard,,Lienz,TIROL,AUT
+2327088,OE7CWJ,Christian,,Innsbruck,TIROL,AUT
+2327089,OE7MWH,Michael,,Steinach A.Br.,TIROL,AUT
 2327090,OE7GPI,no_name,,no_city,TIROL,AUT
-2327091,OE7DHT,no_name,,Fügen,TIROL,AUT
-2327092,OE7EAJ,no_name,,Schwaz,TIROL,AUT
-2327093,OE7XTR,no_name,,Zams,TIROL,AUT
-2327094,OE7LMT,no_name,,Hippach,,AUT
-2327095,OE7DXT,no_name,,Landeck,TIROL,AUT
-2327096,OE7HPJ,no_name,,Mayrhofen,TIROL,AUT
-2327097,OE7GFJ,no_name,,Finkenberg,TIROL,AUT
-2327098,OE7DJJ,no_name,,Mayrhofen,,AUT
-2327099,OE7WDJ,no_name,,Hippach,,AUT
-2327100,OE7KMJ,no_name,,Reutte,TIROL,AUT
-2327101,OE7RDH,no_name,,Innsbruck,TIROL,AUT
-2327102,OE7RCT,no_name,,Innsbruck,TIROL,AUT
-2327103,OE7JKT,no_name,,Wiesing,TIROL,AUT
-2327104,OE7TTI,no_name,,Lanersbach,,AUT
-2327105,OE7SFJ,no_name,,Finkenberg,,AUT
-2327106,OE7BRJ,no_name,,Jenbach,TIROL,AUT
-2327107,OE7MDJ,no_name,,Radfeld,TIROL,AUT
-2327108,OE7SUI,no_name,,Brandenberg,TIROL,AUT
-2327109,OE7AWT,no_name,,Pertisau,,AUT
-2327110,OE7NS,no_name,,Angerberg,TIROL,AUT
-2327111,OE7WKJ,no_name,,Kitzbühel,TIROL,AUT
-2327112,OE7HZI,no_name,,Brixlegg,TIROL,AUT
-2327113,OE7ABH,no_name,,Uderns,TIROL,AUT
-2327114,OE7AOT,no_name,,Hochfilzen,TIROL,AUT
-2327115,OE7AWT,no_name,,Pertisau,,AUT
-2327116,OE7AVI,no_name,,Ramsau Im Zillertal,TIROL,AUT
-2327117,OE7JKT,no_name,,Wiesing,TIROL,AUT
-2327118,OE7BIF,no_name,,Rinn,TIROL,AUT
-2327119,OE7CWT,no_name,,Bad Häring,TIROL,AUT
-2327120,OE7KRH,no_name,,Finkenberg,,AUT
-2327121,OE7MFI,no_name,,Sankt Ulrich Am Pillersee,TIROL,AUT
-2327122,OE7MFJ,no_name,,Vomp,TIROL,AUT
-2327123,OE7PJH,no_name,,Innsbruck,TIROL,AUT
-2327124,OE7WPA,no_name,,Innsbruck,TIROL,AUT
-2327125,OE7GFT,no_name,,Innsbruck,TIROL,AUT
-2327126,OE7PSH,no_name,,Scharnitz,TIROL,AUT
+2327091,OE7DHT,Hermann,,Fuegen,TIROL,AUT
+2327092,OE7EAJ,Reinhart,,Schwaz,TIROL,AUT
+2327093,OE7XTR,Z.Hd.,,Zams,TIROL,AUT
+2327094,OE7LMT,Hans,,Hippach,TIROL,AUT
+2327095,OE7DXT,Gernot,,Landeck,TIROL,AUT
+2327096,OE7HPJ,Stefan,,Mayrhofen,TIROL,AUT
+2327097,OE7GFJ,Georg,,Finkenberg,TIROL,AUT
+2327098,OE7DJJ,Josef,,Mayrhofen,TIROL,AUT
+2327099,OE7WDJ,Wolfgang,,Hippach,TIROL,AUT
+2327100,OE7KMJ,Klaus,,Reutte,TIROL,AUT
+2327101,OE7RDH,Robert,,Innsbruck,TIROL,AUT
+2327102,OE7RCT,Christoph,,Innsbruck,TIROL,AUT
+2327103,OE7JKT,Josef,,Wiesing,TIROL,AUT
+2327104,OE7TTI,Werner,,Lanersbach,TIROL,AUT
+2327105,OE7SFJ,Konrad,,Finkenberg,TIROL,AUT
+2327106,OE7BRJ,Guenther,,Jenbach,TIROL,AUT
+2327107,OE7MDJ,Marco,,Radfeld,TIROL,AUT
+2327108,OE7SUI,Stefan,,Brandenberg,TIROL,AUT
+2327109,OE7AWT,Alexander,,Pertisau,TIROL,AUT
+2327110,OE7NS,Klaus,,Angerberg,TIROL,AUT
+2327111,OE7WKJ,Walter,,Kitzbuehel,TIROL,AUT
+2327112,OE7HZI,Heinz,,Brixlegg,TIROL,AUT
+2327113,OE7ABH,Alfred,,Uderns,TIROL,AUT
+2327114,OE7AOT,Alexander,,Hochfilzen,TIROL,AUT
+2327115,OE7AWT,Alexander,,Pertisau,TIROL,AUT
+2327116,OE7AVI,Werner,,Ramsau im Zillertal,TIROL,AUT
+2327117,OE7JKT,Josef,,Wiesing,TIROL,AUT
+2327118,OE7BIF,Friedrich,,Rinn,TIROL,AUT
+2327119,OE7CWT,Christian,,Bad Haering,TIROL,AUT
+2327120,OE7KRH,Reinhard,,Finkenberg,TIROL,AUT
+2327121,OE7MFI,Florian,,Sankt Ulrich am Pillersee,TIROL,AUT
+2327122,OE7MFJ,Florian,,Vomp,TIROL,AUT
+2327123,OE7PJH,Patrik,,Innsbruck,TIROL,AUT
+2327124,OE7WPA,Werner,,Innsbruck,TIROL,AUT
+2327125,OE7GFT,Gerhard,,Innsbruck,TIROL,AUT
+2327126,OE7PSH,Klaus-Peter,,Scharnitz,TIROL,AUT
 2327127,OE7RAJ,no_name,,no_city,TIROL,AUT
 2327128,OE7RAJ,no_name,,no_city,TIROL,AUT
-2327129,OE7JVJ,no_name,,Aschau,TIROL,AUT
-2327130,OE7NJI,no_name,,Wattens,TIROL,AUT
-2327131,OE7GDH,no_name,,Aschau,TIROL,AUT
-2327132,OE7AJT,no_name,,Fieberbrunn,TIROL,AUT
-2327133,OE7KNI,no_name,,Innsbruck,TIROL,AUT
-2327134,OE7BIH,no_name,,Absam,TIROL,AUT
-2327135,OE7NCI,no_name,,Innsbruck,TIROL,AUT
-2327136,OE7RMT,no_name,,Tarrenz,TIROL,AUT
-2327137,OE7TPH,no_name,,Götzens,TIROL,AUT
-2327138,OE7FMJ,no_name,,Reith Bei Seefeld,TIROL,AUT
-2327139,OE7PGH,no_name,,Schwaz,TIROL,AUT
-2327140,OE7JVT,no_name,,Sistrans,TIROL,AUT
-2327141,OE7ERJ,no_name,,Zams,TIROL,AUT
-2327142,OE7WLI,no_name,,Lienz,Osttirol,,AUT
-2327143,OE7LHT,no_name,,Oetz,TIROL,AUT
-2327144,OE7SFV,no_name,,Innsbruck,TIROL,AUT
-2327145,OE7IRI,no_name,,Hall In Tirol,TIROL,AUT
-2327146,OE7DMJ,no_name,,Scharnitz,TIROL,AUT
-2327147,OE7BZJ,no_name,,Kufstein,TIROL,AUT
-2327148,OE7GKV,no_name,,Tulfes,TIROL,AUT
-2327149,OE7CGT,no_name,,Lienz,Gaimberg,,AUT
-2327150,OE7WGT,no_name,,Matrei/Brenner,,AUT
-2327151,OE7MBH,no_name,,Landeck,TIROL,AUT
-2327152,OE7WTH,no_name,,Götzens,TIROL,AUT
-2327153,OE7BAT,no_name,,Innsbruck,TIROL,AUT
-2327154,OE7FRI,no_name,,Zirl,TIROL,AUT
-2327155,OE7XKJ,no_name,,Kufstein,TIROL,AUT
-2327156,OE7GMT,no_name,,Innsbruck,TIROL,AUT
-2327157,OE7NHT,no_name,,Innsbruck,TIROL,AUT
+2327129,OE7JVJ,Andreas,,Aschau,TIROL,AUT
+2327130,OE7NJI,Arnold,,Wattens,TIROL,AUT
+2327131,OE7GDH,Gerhard,,Aschau,TIROL,AUT
+2327132,OE7AJT,Andreas,,Fieberbrunn,TIROL,AUT
+2327133,OE7KNI,Klaus,,Innsbruck,TIROL,AUT
+2327134,OE7BIH,Konstantin,,Absam,TIROL,AUT
+2327135,OE7NCI,Norbert,,Innsbruck,TIROL,AUT
+2327136,OE7RMT,Johann,,Tarrenz,TIROL,AUT
+2327137,OE7TPH,Thomas,,Goetzens,TIROL,AUT
+2327138,OE7FMJ,Franz,,Reith Bei Seefeld,TIROL,AUT
+2327139,OE7PGH,Philip,,Schwaz,TIROL,AUT
+2327140,OE7JVT,Georg,,Sistrans,TIROL,AUT
+2327141,OE7ERJ,Erwin,,Zams,TIROL,AUT
+2327142,OE7WLI,Walter,,Lienzosttirol,TIROL,AUT
+2327143,OE7LHT,Lothar,,Oetz,TIROL,AUT
+2327144,OE7SFV,Alois,,Innsbruck,TIROL,AUT
+2327145,OE7IRI,Iris,,Hall In Tirol,TIROL,AUT
+2327146,OE7DMJ,Dragan,,Scharnitz,TIROL,AUT
+2327147,OE7BZJ,Bert,,Kufstein,TIROL,AUT
+2327148,OE7GKV,Gerald,,Tulfes,TIROL,AUT
+2327149,OE7CGT,Camillo,,Lienzgaimberg,TIROL,AUT
+2327150,OE7WGT,Karl,,Matrei/brenner,TIROL,AUT
+2327151,OE7MBH,Markus,,Landeck,TIROL,AUT
+2327152,OE7WTH,Wolfgang,,Goetzens,TIROL,AUT
+2327153,OE7BAT,Armin,,Innsbruck,TIROL,AUT
+2327154,OE7FRI,Friedrich,,Zirl,TIROL,AUT
+2327155,OE7XKJ,Versuc,,Kufstein,TIROL,AUT
+2327156,OE7GMT,Guenter,,Innsbruck,TIROL,AUT
+2327157,OE7NHT,Nikolaus,,Innsbruck,TIROL,AUT
 2327158,OE7ECH,no_name,,no_city,TIROL,AUT
 2327159,OE7AYH,no_name,,no_city,TIROL,AUT
 2327160,OE7BFT,no_name,,no_city,TIROL,AUT
-2327161,OE7UTI,no_name,,Vomp,TIROL,AUT
-2327162,OE7SPI,no_name,,Am Pillers,,AUT
+2327161,OE7UTI,Ulf,,Vomp,TIROL,AUT
+2327162,OE7SPI,Peter,,St.Ulrich am Pillers,TIROL,AUT
 2327163,OE7SBH,no_name,,no_city,TIROL,AUT
-2327164,OE7GWT,no_name,,Volders,TIROL,AUT
-2327165,OE7BOE,no_name,,Mieming,TIROL,AUT
-2327166,OE7CAI,no_name,,Niederndorf,TIROL,AUT
-2327167,OE7HKJ,no_name,,Mils,TIROL,AUT
-2327168,OE7AAT,no_name,,Hall In Tirol,TIROL,AUT
-2327169,OE7FWJ,no_name,,Innsbruck,TIROL,AUT
+2327164,OE7GWT,Guenther,,Volders,TIROL,AUT
+2327165,OE7BOE,Robert,,Mieming,TIROL,AUT
+2327166,OE7CAI,Christian,,Niederndorf,TIROL,AUT
+2327167,OE7HKJ,Heinz,,Mils,TIROL,AUT
+2327168,OE7AAT,Alfred,,Hall In Tirol,TIROL,AUT
+2327169,OE7FWJ,Franz,,Innsbruck,TIROL,AUT
 2327170,OE7KIR,Kihr,,Pfaffenhofen,TIROL,AUT
 2327171,OE7SAE,Seelos,,Seefeld In Tirol,TIROL,AUT
 2327172,OE7TSJ,Langmaier,,Telfs,TIROL,AUT
 2327173,OE7LKT,no_name,,no_city,TIROL,AUT
 2327174,OE7AZO,no_name,,no_city,TIROL,AUT
-2327175,OE7GKH,no_name,,Sankt Leonhard Im Pitztal,TIROL,AUT
+2327175,OE7GKH,Kathrin,,Sankt Leonhard im Pitztal,TIROL,AUT
 2327176,OE7CSM,Steinbacher,,Schwoich,TIROL,AUT
 2327177,OE7SZT,Zimmermann,,Innsbruck,TIROL,AUT
-2327178,OE7SLF,no_name,,Kufstein,TIROL,AUT
-2327179,OE7AUI,no_name,,Fliess,,AUT
+2327178,OE7SLF,Schaedl,,Kufstein,TIROL,AUT
+2327179,OE7AUI,Albin,,Fliess,TIROL,AUT
 2327180,OE7DRT,Reich,,Laengenfeld,TIROL,AUT
 2327181,OE7LPR,Preindl,,Zoeblen,TIROL,AUT
-2327182,OE7RSI,no_name,,Prutz,TIROL,AUT
+2327182,OE7RSI,Roland,,Prutz,TIROL,AUT
 2327183,OE7MOV,no_name,,no_city,TIROL,AUT
-2327184,OE7WDR,no_name,,Ebbs,TIROL,AUT
-2327185,OE7MPT,no_name,,Ebbs,TIROL,AUT
-2327186,OE7GMH,no_name,,Sillian,TIROL,AUT
-2327187,OE7WPJ,no_name,,Jenbach,TIROL,AUT
+2327184,OE7WDR,Markus,,Ebbs,TIROL,AUT
+2327185,OE7MPT,Martin,,Ebbs,TIROL,AUT
+2327186,OE7GMH,Manfred,,Sillian,TIROL,AUT
+2327187,OE7WPJ,Werner,,Jenbach,TIROL,AUT
 2327188,OE7MOF,no_name,,Eben am Achensee,TIROL,AUT
-2327189,OE7NCT,no_name,,Angerberg,TIROL,AUT
-2327232,OE7OST,no_name,,Innsbruck,TIROL,AUT
-2328001,OE8AGK,no_name,,Eberndorf,KTN,AUT
+2327189,OE7NCT,Nikolaus,,Angerberg,TIROL,AUT
+2327232,OE7OST,Thomas,,Innsbruck,TIROL,AUT
+2328001,OE8AGK,Alfred,,Eberndorf,KTN,AUT
 2328002,OE8DDK,no_name,,no_city,KTN,AUT
-2328003,OE8LCK,no_name,,Klagenfurt,KTN,AUT
+2328003,OE8LCK,Laszlo,,Klagenfurt,KTN,AUT
 2328004,OE8JFK,no_name,,no_city,KTN,AUT
-2328005,OE8MMK,no_name,,Spittal An Der Drau,KTN,AUT
-2328006,OE8DMR,no_name,,Hermagor,KTN,AUT
-2328007,OE8URQ,no_name,,Nötsch,KTN,AUT
-2328008,OE8KUR,no_name,,Gmünd,KTN,AUT
-2328009,OE8AEQ,no_name,,Unteraichwald,KTN,AUT
-2328010,OE8AMK,no_name,,Ferlach,KTN,AUT
-2328011,OE8PJK,no_name,,Villach,KTN,AUT
+2328005,OE8MMK,Hemma,,Spittal An der Drau,KTN,AUT
+2328006,OE8DMR,Antal,,Hermagor,KTN,AUT
+2328007,OE8URQ,Uwe,,Noetsch,KTN,AUT
+2328008,OE8KUR,Alexander,,Gmuend,KTN,AUT
+2328009,OE8AEQ,Alexander,,Unteraichwald,KTN,AUT
+2328010,OE8AMK,Anton,,Ferlach,KTN,AUT
+2328011,OE8PJK,Johannes,,Villach,KTN,AUT
 2328012,OE8KLK,no_name,,no_city,KTN,AUT
-2328013,OE8LCK,no_name,,Klagenfurt,KTN,AUT
-2328014,OE8AGK,no_name,,Eberndorf,KTN,AUT
+2328013,OE8LCK,Laszlo,,Klagenfurt,KTN,AUT
+2328014,OE8AGK,Alfred,,Eberndorf,KTN,AUT
 2328015,OE8JFK,no_name,,no_city,KTN,AUT
-2328016,OE8DMK,no_name,,Klagenfurt,KTN,AUT
-2328017,OE8AAK,no_name,,Villach,KTN,AUT
-2328018,OE8AIR,no_name,,Villach,KTN,AUT
-2328019,OE8WUR,no_name,,Villach,KTN,AUT
-2328020,OE8HSR,no_name,,Rangersdorf,KTN,AUT
-2328021,OE8JDK,no_name,,Villach,,AUT
-2328022,OE8JDK,no_name,,Villach,,AUT
+2328016,OE8DMK,Dieter,,Klagenfurt,KTN,AUT
+2328017,OE8AAK,Anton,,Villach,KTN,AUT
+2328018,OE8AIR,Joachim,,Villach,KTN,AUT
+2328019,OE8WUR,Michael,,Villach,KTN,AUT
+2328020,OE8HSR,Michael,,Rangersdorf,KTN,AUT
+2328021,OE8JDK,Josef,,Villach,KTN,AUT
+2328022,OE8JDK,Josef,,Villach,KTN,AUT
 2328023,OE8KBC,Kurt,,Saurachberg,KTN,AUT
-2328024,OE8PSQ,no_name,,Wernberg,KTN,AUT
-2328025,OE8XMK,no_name,,Magdalensberg,KTN,AUT
-2328026,OE8BGK,no_name,,Meiselding,KTN,AUT
-2328027,OE8KKK,no_name,,Ferlach,KTN,AUT
-2328028,OE8TWK,no_name,,Feistritz/Drau,,AUT
-2328029,OE8APR,no_name,,Seelach,KTN,AUT
-2328030,OE8KRK,no_name,,Sankt Veit An Der Glan,KTN,AUT
-2328031,OE8LGK,no_name,,Stockenboi,KTN,AUT
-2328032,OE8MTK,no_name,,Kappel Am Krappfeld,KTN,AUT
-2328033,OE8CKK,no_name,,Waidegg,KTN,AUT
-2328034,OE8KKM,no_name,,Sankt Veit An Der Glan,KTN,AUT
-2328035,OE8WOZ,no_name,,Villach,KTN,AUT
+2328024,OE8PSQ,Manfred,,Wernberg,KTN,AUT
+2328025,OE8XMK,Landes,,Magdalensberg,KTN,AUT
+2328026,OE8BGK,Heribert,,Meiselding,KTN,AUT
+2328027,OE8KKK,Martin,,Ferlach,KTN,AUT
+2328028,OE8TWK,Helmut,,Feistritz/drau,KTN,AUT
+2328029,OE8APR,Andreas,,Seelach,KTN,AUT
+2328030,OE8KRK,Verena,,Sankt Veit An der Glan,KTN,AUT
+2328031,OE8LGK,Lorenz,,Stockenboi,KTN,AUT
+2328032,OE8MTK,Martin,,Kappel am Krappfeld,KTN,AUT
+2328033,OE8CKK,Christopher,,Waidegg,KTN,AUT
+2328034,OE8KKM,Kevin,,Sankt Veit An der Glan,KTN,AUT
+2328035,OE8WOZ,Wolfgang,,Villach,KTN,AUT
 2328036,OE8VIK,no_name,,no_city,KTN,AUT
-2328037,OE8SCQ,no_name,,Feldkirchen In Kärnten,KTN,AUT
-2328038,OE8AEQ,no_name,,Unteraichwald,KTN,AUT
+2328037,OE8SCQ,Christian,,Feldkirchen In Kaernten,KTN,AUT
+2328038,OE8AEQ,Alexander,,Unteraichwald,KTN,AUT
 2328039,OE8VIK,no_name,,no_city,KTN,AUT
-2328040,OE8XGK,no_name,,Finkenstein Am Faakersee,KTN,AUT
+2328040,OE8XGK,Austria,,Finkenstein am Faakersee,KTN,AUT
 2328041,OE8DLG,Franz,,Ruden,KTN,AUT
-2328042,OE8DIV,no_name,,Klagenfurt,KTN,AUT
-2328043,OE8AIR,no_name,,Villach,KTN,AUT
+2328042,OE8DIV,Richard,,Klagenfurt,KTN,AUT
+2328043,OE8AIR,Joachim,,Villach,KTN,AUT
 2328044,OE8BJK,Joachim,,Klagenfurt,KTN,AUT
-2328045,OE8PAK,no_name,,Möllbrücke,KTN,AUT
-2328046,OE8PGQ,no_name,,Rosegg,KTN,AUT
-2328047,OE8CMQ,no_name,,Klagenfurt,KTN,AUT
-2328048,OE8RRR,no_name,,Feldkirchen In Kärnten,KTN,AUT
-2328049,OE8RZS,no_name,,Spittal An Der Drau,KTN,AUT
-2328050,OE8KLR,no_name,,Klagenfurt,KTN,AUT
-2328051,OE8DKK,no_name,,Villach,,AUT
-2328052,OE8AWO,no_name,,Klagenfurt,KTN,AUT
-2328053,OE8PZY,no_name,,Villach,KTN,AUT
-2328054,OE8EIK,no_name,,Klagenfurt,KTN,AUT
-2328055,OE8APK,no_name,,Maria Rain,KTN,AUT
-2328056,OE8XGK,no_name,,Finkenstein Am Faakersee,KTN,AUT
-2328057,OE8MDK,no_name,,Tainach,KTN,AUT
-2328058,OE8DAR,no_name,,Dellach,KTN,AUT
-2328059,OE8FNK,no_name,,Villach,KTN,AUT
-2328060,OE8XBB,no_name,,Villach,KTN,AUT
-2328061,OE8MPF,no_name,,Klagenfurt,KTN,AUT
-2328062,OE8HXK,no_name,,Ferlach,KTN,AUT
-2328063,OE8HSF,no_name,,Knappenberg,KTN,AUT
-2328064,OE8FSE,no_name,,Liebenfels,KTN,AUT
-2328065,OE8IBK,no_name,,Lölling Sonnseite,KTN,AUT
-2328066,OE8NDR,no_name,,Ruden,KTN,AUT
-2328067,OE8APO,no_name,,Krumpendorf,KTN,AUT
-2328068,OE8CKK,no_name,,Waidegg,KTN,AUT
-2328069,OE8MFQ,no_name,,Klagenfurt,KTN,AUT
-2328070,OE8ARK,no_name,,Steindorf/Osee,,AUT
-2328071,OE8ASR,no_name,,Arnoldstein,KTN,AUT
-2328072,OE8DUT,no_name,,Radenthein,KTN,AUT
-2328073,OE8NWQ,no_name,,Berg/Drau,,AUT
-2328074,OE8PJQ,no_name,,Baldramsdorf,KTN,AUT
-2328075,OE8WV,no_name,,Villach,KTN,AUT
+2328045,OE8PAK,Klaus,,Moellbruecke,KTN,AUT
+2328046,OE8PGQ,Guenther,,Rosegg,KTN,AUT
+2328047,OE8CMQ,Christoph,,Klagenfurt,KTN,AUT
+2328048,OE8RRR,Andreas,,Feldkirchen In Kaernten,KTN,AUT
+2328049,OE8RZS,Richard,,Spittal An der Drau,KTN,AUT
+2328050,OE8KLR,Franz,,Klagenfurt,KTN,AUT
+2328051,OE8DKK,Rudolf,,Villach,KTN,AUT
+2328052,OE8AWO,Wolfgang,,Klagenfurt,KTN,AUT
+2328053,OE8PZY,Petra,,Villach,KTN,AUT
+2328054,OE8EIK,Erich,,Klagenfurt,KTN,AUT
+2328055,OE8APK,Alfred,,Maria Rain,KTN,AUT
+2328056,OE8XGK,Austria,,Finkenstein am Faakersee,KTN,AUT
+2328057,OE8MDK,Michael,,Tainach,KTN,AUT
+2328058,OE8DAR,Oswald,,Dellach,KTN,AUT
+2328059,OE8FNK,Werfried,,Villach,KTN,AUT
+2328060,OE8XBB,S,,Villach,KTN,AUT
+2328061,OE8MPF,Markus,,Klagenfurt,KTN,AUT
+2328062,OE8HXK,Horst,,Ferlach,KTN,AUT
+2328063,OE8HSF,Hermann,,Knappenberg,KTN,AUT
+2328064,OE8FSE,Franz,,Liebenfels,KTN,AUT
+2328065,OE8IBK,Bernhard,,Loelling Sonnseite,KTN,AUT
+2328066,OE8NDR,Friedrich,,Ruden,KTN,AUT
+2328067,OE8APO,Peter,,Krumpendorf,KTN,AUT
+2328068,OE8CKK,Christopher,,Waidegg,KTN,AUT
+2328069,OE8MFQ,Martin,,Klagenfurt,KTN,AUT
+2328070,OE8ARK,Gerhard,,Steindorf/osee,KTN,AUT
+2328071,OE8ASR,Andre,,Arnoldstein,KTN,AUT
+2328072,OE8DUT,Boris,,Radenthein,KTN,AUT
+2328073,OE8NWQ,Hermann,,Berg/drau,KTN,AUT
+2328074,OE8PJQ,Johann,,Baldramsdorf,KTN,AUT
+2328075,OE8WV,Leon,,Villach,KTN,AUT
 2328076,OE8AED,no_name,,no_city,KTN,AUT
-2328077,OE8ADF,no_name,,Spittal An Der Drau,KTN,AUT
-2328078,OE8ACQ,no_name,,Klagenfurt,KTN,AUT
-2328079,OE8ANK,no_name,,Pischeldorf,KTN,AUT
-2328080,OE8JPQ,no_name,,Klagenfurt,KTN,AUT
+2328077,OE8ADF,Werner,,Spittal An der Drau,KTN,AUT
+2328078,OE8ACQ,Luca,,Klagenfurt,KTN,AUT
+2328079,OE8ANK,Raimund,,Pischeldorf,KTN,AUT
+2328080,OE8JPQ,Philipp,,Klagenfurt,KTN,AUT
 2328081,OE8KTR,Gerhard,,Grafenstein,KTN,AUT
-2328082,OE8MVG,no_name,,Keutschach,KTN,AUT
-2328083,OE8JWK,no_name,,Pörtschach Am Wörther See,KTN,AUT
-2328084,OE8ACD,no_name,,Wolfsberg,KTN,AUT
-2328085,OE8AEE,no_name,,Klagenfurt,KTN,AUT
+2328082,OE8MVG,Michael,,Keutschach,KTN,AUT
+2328083,OE8JWK,Josef,,Poertschach am Woerther See,KTN,AUT
+2328084,OE8ACD,Stefan,,Wolfsberg,KTN,AUT
+2328085,OE8AEE,Helmut,,Klagenfurt,KTN,AUT
 2328086,OE8GWQ,no_name,,Sankt Jakob im Rosental,KTN,AUT
-2328087,OE8IJK,no_name,,Sankt Veit An Der Glan,KTN,AUT
+2328087,OE8IJK,Kugi,,Sankt Veit An der Glan,KTN,AUT
 2328088,OE8GGE,Gradischnig,,Sankt Veit An der Glan,KTN,AUT
-2328089,OE8IMK,no_name,,Sankt Veit An Der Glan,KTN,AUT
+2328089,OE8IMK,Peter,,Sankt Veit An der Glan,KTN,AUT
 2328090,OE8ITG,Stromberger,,Sankt Veit An der Glan,KTN,AUT
 2328091,OE8IMR,Rauter,,Sankt Veit An der Glan,KTN,AUT
 2328092,OE8RAT,no_name,,no_city,KTN,AUT
 2328093,OE8JAS,Sacherer,,Sittersdorf,KTN,AUT
-2328094,OE8JSK,no_name,,Sankt Veit An Der Glan,KTN,AUT
-2328095,OE8ASK,no_name,,Sankt Veit An Der Glan,KTN,AUT
-2328096,OE8BSK,no_name,,Miklauzhof,KTN,AUT
-2328097,OE8KYK,no_name,,Überfeld,KTN,AUT
-2328098,OE8OGI,no_name,,Feistritz Im Rosental,KTN,AUT
-2328099,OE8SFK,no_name,,Klagenfurt,KTN,AUT
+2328094,OE8JSK,Juergen,,Sankt Veit An der Glan,KTN,AUT
+2328095,OE8ASK,Angelika,,Sankt Veit An der Glan,KTN,AUT
+2328096,OE8BSK,Albert,,Miklauzhof,KTN,AUT
+2328097,OE8KYK,Unterkoefler,,Ueberfeld,KTN,AUT
+2328098,OE8OGI,Wolfram,,Feistritz im Rosental,KTN,AUT
+2328099,OE8SFK,Franz,,Klagenfurt,KTN,AUT
 2328100,OE8ELO,no_name,,Feldkirchen In Kaernten,KTN,AUT
 2328101,OE8TEK,Elmar,,Bodensdorf,KTN,AUT
 2328102,OE8FOX,Juergen,,Steindorf,KTN,AUT
 2328212,OE8LBK,Helmut,,Villach,KTN,AUT
-2328502,OE8WLK,no_name,,Villach,KTN,AUT
-2328503,OE8BCK,no_name,,Gmünd,KTN,AUT
-2328504,OE8EGK,no_name,,Klgft/Viktring,,AUT
-2328505,OE8HJK,no_name,,Klagenfurt,KTN,AUT
-2328506,OE8HJK,no_name,,Klagenfurt,KTN,AUT
-2328507,OE8CHK,no_name,,Villach,KTN,AUT
-2328508,OE8HJK,no_name,,Klagenfurt,KTN,AUT
+2328502,OE8WLK,Wolf,,Villach,KTN,AUT
+2328503,OE8BCK,Christof,,Gmuend,KTN,AUT
+2328504,OE8EGK,Erwin,,Klgft/viktring,KTN,AUT
+2328505,OE8HJK,Hermann,,Klagenfurt,KTN,AUT
+2328506,OE8HJK,Hermann,,Klagenfurt,KTN,AUT
+2328507,OE8CHK,Christoph,,Villach,KTN,AUT
+2328508,OE8HJK,Hermann,,Klagenfurt,KTN,AUT
 2328802,OE8SWR,Wolfgang,,Villach,KTN,AUT
-2328806,OE8OK,no_name,,Kanzian,,AUT
-2328811,OE8MDK,no_name,,Tainach,KTN,AUT
-2328812,OE8SGK,no_name,,Wernberg,KTN,AUT
-2328813,OE8KIK,no_name,,Wolfsberg,,AUT
-2328816,OE8LRL,no_name,,Völkermarkt,,AUT
-2328818,OE8OWK,no_name,,Ferndorf,KTN,AUT
-2328820,OE8OWK,no_name,,Ferndorf,KTN,AUT
-2328821,OE8HJK,no_name,,Klagenfurt,KTN,AUT
-2328822,OE8PKR,no_name,,Magdalen,,AUT
-2328823,OE8KIK,no_name,,Wolfsberg,,AUT
-2328831,OE8CLR,no_name,,Klagenfurt,KTN,AUT
-2328832,OE8YHQ,no_name,,Ulrich,,AUT
-2328841,OE8RVK,no_name,,Klagenfurt,,AUT
-2328842,OE8URQ,no_name,,Nötsch,KTN,AUT
+2328806,OE8OK,Oskar,,St Kanzian,KTN,AUT
+2328811,OE8MDK,Michael,,Tainach,KTN,AUT
+2328812,OE8SGK,Gerhard,,Wernberg,KTN,AUT
+2328813,OE8KIK,Johann,,Wolfsberg,KTN,AUT
+2328816,OE8LRL,Richard,,Voelkermarkt,KTN,AUT
+2328818,OE8OWK,Erich,,Ferndorf,KTN,AUT
+2328820,OE8OWK,Erich,,Ferndorf,KTN,AUT
+2328821,OE8HJK,Hermann,,Klagenfurt,KTN,AUT
+2328822,OE8PKR,Paul,,St Magdalen,KTN,AUT
+2328823,OE8KIK,Johann,,Wolfsberg,KTN,AUT
+2328831,OE8CLR,Christoph,,Klagenfurt,KTN,AUT
+2328832,OE8YHQ,Heidi,,St Ulrich,KTN,AUT
+2328841,OE8RVK,Robert,,Klagenfurt,KTN,AUT
+2328842,OE8URQ,Uwe,,Noetsch,KTN,AUT
 2328851,OE8KER,no_name,,no_city,KTN,AUT
-2328860,OE8AAK,no_name,,Villach,KTN,AUT
-2328862,OE8PKR,no_name,,Magdalen,,AUT
-2328864,OE8BGQ,no_name,,Steinfeld,,AUT
+2328860,OE8AAK,Anton,,Villach,KTN,AUT
+2328862,OE8PKR,Paul,,St Magdalen,KTN,AUT
+2328864,OE8BGQ,Gerhard,,Steinfeld,KTN,AUT
 2328872,OE8PTK,SK,,Villach,KTN,AUT
 2328892,OE8MCQ,Udo,,Wernberg,KTN,AUT
-2329001,OE9KFV,no_name,,Hörbranz,VBG,AUT
-2329002,OE9KSV,no_name,,Bregenz,VBG,AUT
+2329001,OE9KFV,Frank,,Hoerbranz,VBG,AUT
+2329002,OE9KSV,Karl,,Bregenz,VBG,AUT
 2329003,OE9IGV,Ingo,,Dornbirn,VBG,AUT
-2329004,OE9TEV,no_name,,Lorüns,VBG,AUT
-2329005,OE9AFV,no_name,,Lauterach,VBG,AUT
-2329006,OE9SAJ,no_name,,Bregenz,VBG,AUT
-2329007,OE9LTV,no_name,,Bregenz,VBG,AUT
+2329004,OE9TEV,Tobias,,Loruens,VBG,AUT
+2329005,OE9AFV,Alexander,,Lauterach,VBG,AUT
+2329006,OE9SAJ,Stephan,,Bregenz,VBG,AUT
+2329007,OE9LTV,Thomas,,Bregenz,VBG,AUT
 2329008,OE9VVV,RC,,Frastanz,VBG,AUT
-2329009,OE9PKV,no_name,,Bludesch,VBG,AUT
-2329010,OE9AFV,no_name,,Lauterach,VBG,AUT
-2329011,OE9FRV,no_name,,Feldkirch,VBG,AUT
-2329012,OE9MWI,no_name,,Fußach,,AUT
-2329013,OE9LTV,no_name,,Bregenz,VBG,AUT
-2329014,OE9TNT,no_name,,Bregenz,VBG,AUT
-2329015,OE9BBH,no_name,,Bregenz,VBG,AUT
+2329009,OE9PKV,Klaus,,Bludesch,VBG,AUT
+2329010,OE9AFV,Alexander,,Lauterach,VBG,AUT
+2329011,OE9FRV,Fabian,,Feldkirch,VBG,AUT
+2329012,OE9MWI,Marcus,,Fussach,VBG,AUT
+2329013,OE9LTV,Thomas,,Bregenz,VBG,AUT
+2329014,OE9TNT,Wilfried,,Bregenz,VBG,AUT
+2329015,OE9BBH,Bernhard,,Bregenz,VBG,AUT
 2329016,OE9WOH,Manfred,,Wolfurt,VBG,AUT
-2329017,OE9PTI,no_name,,Bregenz,VBG,AUT
-2329018,OE9WLJ,no_name,,Hörbranz,VBG,AUT
-2329019,OE9PGV,no_name,,Dornbirn,VBG,AUT
-2329020,OE9HGV,no_name,,Götzis,VBG,AUT
-2329021,OE9HLH,no_name,,Bregenz,VBG,AUT
+2329017,OE9PTI,Thomas,,Bregenz,VBG,AUT
+2329018,OE9WLJ,Wilfried,,Hoerbranz,VBG,AUT
+2329019,OE9PGV,Peter,,Dornbirn,VBG,AUT
+2329020,OE9HGV,Guenter,,Goetzis,VBG,AUT
+2329021,OE9HLH,Harald,,Bregenz,VBG,AUT
 2329022,OE9UGV,Uwe,,Bregenz,VBG,AUT
-2329023,OE9WSJ,no_name,,Meiningen,VBG,AUT
-2329024,OE9FWV,no_name,,Feldkirch,VBG,AUT
-2329025,OE9XGV,no_name,,Koblach,VBG,AUT
-2329026,OE9XXV,no_name,,Bregenz,VBG,AUT
-2329027,OE9ETH,no_name,,Feldkirch,VBG,AUT
-2329028,OE9EFH,no_name,,Schoppernau,VBG,AUT
-2329029,OE9SJV,no_name,,Bregenz,VBG,AUT
-2329030,OE9MOI,no_name,,Feldkirch,VBG,AUT
+2329023,OE9WSJ,Wilfried,,Meiningen,VBG,AUT
+2329024,OE9FWV,Werner,,Feldkirch,VBG,AUT
+2329025,OE9XGV,(oevsv),,Koblach,VBG,AUT
+2329026,OE9XXV,Vorarlberg,,Bregenz,VBG,AUT
+2329027,OE9ETH,Erik,,Feldkirch,VBG,AUT
+2329028,OE9EFH,Engelbert,,Schoppernau,VBG,AUT
+2329029,OE9SJV,Julian,,Bregenz,VBG,AUT
+2329030,OE9MOI,Guenther,,Feldkirch,VBG,AUT
 2329031,OE9IMJ,no_name,,no_city,VBG,AUT
-2329032,OE9HPV,no_name,,Feldkirch,VBG,AUT
-2329033,OE9TFH,no_name,,Bludesch,VBG,AUT
-2329034,OE9AZV,no_name,,Feldkirch,VBG,AUT
-2329035,OE9FMV,no_name,,Buch,VBG,AUT
-2329036,OE9SAJ,no_name,,Bregenz,VBG,AUT
-2329037,OE9RGI,no_name,,Bludesch,VBG,AUT
-2329038,OE9FMV,no_name,,Buch,VBG,AUT
-2329039,OE9AZV,no_name,,Feldkirch,VBG,AUT
-2329040,OE9XVI,no_name,,Feldkirch,VBG,AUT
-2329041,OE9SAM,no_name,,Wolfurt,VBG,AUT
-2329042,OE9EFJ,no_name,,Gortipohl,VBG,AUT
+2329032,OE9HPV,Heiner-Anton,,Feldkirch,VBG,AUT
+2329033,OE9TFH,Thomas,,Bludesch,VBG,AUT
+2329034,OE9AZV,Rudolf,,Feldkirch,VBG,AUT
+2329035,OE9FMV,Martin,,Buch,VBG,AUT
+2329036,OE9SAJ,Stephan,,Bregenz,VBG,AUT
+2329037,OE9RGI,Rainer,,Bludesch,VBG,AUT
+2329038,OE9FMV,Martin,,Buch,VBG,AUT
+2329039,OE9AZV,Rudolf,,Feldkirch,VBG,AUT
+2329040,OE9XVI,(oevsv),,Feldkirch,VBG,AUT
+2329041,OE9SAM,Manfred,,Wolfurt,VBG,AUT
+2329042,OE9EFJ,Edwin,,Gortipohl,VBG,AUT
 2329043,OE9JAP,Patrick,,Feldkirch,VBG,AUT
-2329044,OE9DKH,no_name,,Hörbranz,VBG,AUT
-2329045,OE9CBV,no_name,,Lauterach,VBG,AUT
+2329044,OE9DKH,Dirk,,Hoerbranz,VBG,AUT
+2329045,OE9CBV,Christoph,,Lauterach,VBG,AUT
 2329046,OE9IMJ,no_name,,no_city,VBG,AUT
-2329047,OE9EZI,no_name,,Bregenz,VBG,AUT
-2329048,OE9TEV,no_name,,Lorüns,VBG,AUT
-2329049,OE9PBV,no_name,,Bregenz,VBG,AUT
-2329050,OE9KBV,no_name,,Bludenz,VBG,AUT
-2329051,OE9STG,no_name,,Höchst,VBG,AUT
-2329052,OE9DCV,no_name,,Dornbirn,VBG,AUT
-2329053,OE9IDI,no_name,,Bludenz,VBG,AUT
-2329054,OE9OBV,no_name,,Dornbirn,VBG,AUT
-2329055,OE9VMR,no_name,,Bregenz,VBG,AUT
-2329056,OE9DEV,no_name,,Lauterach,VBG,AUT
-2329057,OE9TNT,no_name,,Bregenz,VBG,AUT
+2329047,OE9EZI,Ernst,,Bregenz,VBG,AUT
+2329048,OE9TEV,Tobias,,Loruens,VBG,AUT
+2329049,OE9PBV,Joerg,,Bregenz,VBG,AUT
+2329050,OE9KBV,Matthias,,Bludenz,VBG,AUT
+2329051,OE9STG,Martin,,Hoechst,VBG,AUT
+2329052,OE9DCV,Maria,,Dornbirn,VBG,AUT
+2329053,OE9IDI,Ingo,,Bludenz,VBG,AUT
+2329054,OE9OBV,Alexander,,Dornbirn,VBG,AUT
+2329055,OE9VMR,Markus,,Bregenz,VBG,AUT
+2329056,OE9DEV,Dominique,,Lauterach,VBG,AUT
+2329057,OE9TNT,Wilfried,,Bregenz,VBG,AUT
 2329058,OE9SBV,no_name,,no_city,VBG,AUT
-2329059,OE9RSV,no_name,,Sulz,,AUT
-2329060,OE9AKI,no_name,,Dornbirn,VBG,AUT
-2329061,OE9MMH,no_name,,Dornbirn,VBG,AUT
-2329062,OE9MVV,no_name,,Feldkirch,VBG,AUT
-2329063,OE9ICI,no_name,,Hörbranz,VBG,AUT
-2329064,OE9DGV,no_name,,Hohenems,VBG,AUT
-2329065,OE9JAI,no_name,,Hohenems,VBG,AUT
-2329066,OE9GOI,no_name,,Dornbirn,VBG,AUT
-2329067,OE9FSJ,no_name,,Dornbirn,VBG,AUT
-2329068,OE9BGI,no_name,,Dornbirn,VBG,AUT
-2329069,OE9XRV,no_name,,Bregenz,VBG,AUT
-2329070,OE9MAV,no_name,,Andelsbuch,VBG,AUT
-2329071,OE9HSV,no_name,,Bregenz,VBG,AUT
-2329072,OE9TKH,no_name,,Lustenau,VBG,AUT
-2329073,OE9PKV,no_name,,Bludesch,VBG,AUT
-2329074,OE9NJJ,no_name,,Meiningen,VBG,AUT
-2329075,OE9MGJ,no_name,,Hörbranz,VBG,AUT
-2329076,OE9RJJ,no_name,,Alberschwende,VBG,AUT
-2329077,OE9HWV,no_name,,Dornbirn,VBG,AUT
-2329078,OE9OLT,no_name,,Hard,VBG,AUT
-2329079,OE9MEV,no_name,,Bregenz,VBG,AUT
+2329059,OE9RSV,Rene,,Sulz,VBG,AUT
+2329060,OE9AKI,Arno,,Dornbirn,VBG,AUT
+2329061,OE9MMH,Michael,,Dornbirn,VBG,AUT
+2329062,OE9MVV,Michael,,Feldkirch,VBG,AUT
+2329063,OE9ICI,Christoph,,Hoerbranz,VBG,AUT
+2329064,OE9DGV,Guntram,,Hohenems,VBG,AUT
+2329065,OE9JAI,Johann,,Hohenems,VBG,AUT
+2329066,OE9GOI,Gerhard,,Dornbirn,VBG,AUT
+2329067,OE9FSJ,Fritz,,Dornbirn,VBG,AUT
+2329068,OE9BGI,Gerhard,,Dornbirn,VBG,AUT
+2329069,OE9XRV,(oevsv),,Bregenz,VBG,AUT
+2329070,OE9MAV,Martin,,Andelsbuch,VBG,AUT
+2329071,OE9HSV,Hermann,,Bregenz,VBG,AUT
+2329072,OE9TKH,Thomas,,Lustenau,VBG,AUT
+2329073,OE9PKV,Klaus,,Bludesch,VBG,AUT
+2329074,OE9NJJ,Juergen,,Meiningen,VBG,AUT
+2329075,OE9MGJ,Manuel,,Hoerbranz,VBG,AUT
+2329076,OE9RJJ,Johann,,Alberschwende,VBG,AUT
+2329077,OE9HWV,Walter,,Dornbirn,VBG,AUT
+2329078,OE9OLT,Markus,,Hard,VBG,AUT
+2329079,OE9MEV,Matthias,,Bregenz,VBG,AUT
 2329080,OE9DLV,David,,Lauterach,VBG,AUT
-2329081,OE9MDT,no_name,,Bregenz,VBG,AUT
-2329082,OE9GBH,no_name,,Klaus,VBG,AUT
-2329083,OE9MMV,no_name,,Bludenz,VBG,AUT
-2329084,OE9HIJ,no_name,,Muntlix,VBG,AUT
-2329085,OE9LGH,no_name,,Lustenau,VBG,AUT
-2329086,OE9TBI,no_name,,Dornbirn,VBG,AUT
-2329087,OE9BZT,no_name,,Ausserbraz,VBG,AUT
-2329088,OE9LTH,no_name,,Muntlix,VBG,AUT
-2329089,OE9BSJ,no_name,,Meiningen,VBG,AUT
-2329090,OE9FKV,no_name,,Bregenz,VBG,AUT
-2329091,OE9RSJ,no_name,,Dornbirn,VBG,AUT
-2329092,OE9AWI,no_name,,Feldkirch,VBG,AUT
-2329093,OE9GNH,no_name,,Lech,VBG,AUT
-2329094,OE9BRH,no_name,,Bürs,VBG,AUT
-2329095,OE9SVJ,no_name,,Götzis,VBG,AUT
-2329096,OE9ERC,no_name,,Wolfurt,VBG,AUT
-2329097,OE9GWV,no_name,,Bludesch,VBG,AUT
-2329098,OE9GZH,no_name,,Dornbirn,VBG,AUT
-2329099,OE9XXV,no_name,,Bregenz,VBG,AUT
+2329081,OE9MDT,Markus,,Bregenz,VBG,AUT
+2329082,OE9GBH,Guido,,Klaus,VBG,AUT
+2329083,OE9MMV,Martin,,Bludenz,VBG,AUT
+2329084,OE9HIJ,Helmut,,Muntlix,VBG,AUT
+2329085,OE9LGH,Gerhard,,Lustenau,VBG,AUT
+2329086,OE9TBI,Thomas,,Dornbirn,VBG,AUT
+2329087,OE9BZT,A.,,Ausserbraz,VBG,AUT
+2329088,OE9LTH,Thomas,,Muntlix,VBG,AUT
+2329089,OE9BSJ,Stefan,,Meiningen,VBG,AUT
+2329090,OE9FKV,Florian,,Bregenz,VBG,AUT
+2329091,OE9RSJ,Roman,,Dornbirn,VBG,AUT
+2329092,OE9AWI,Walter,,Feldkirch,VBG,AUT
+2329093,OE9GNH,Hartfried,,Lech,VBG,AUT
+2329094,OE9BRH,Rainer,,Buers,VBG,AUT
+2329095,OE9SVJ,Sven,,Goetzis,VBG,AUT
+2329096,OE9ERC,Erich,,Wolfurt,VBG,AUT
+2329097,OE9GWV,Guntram,,Bludesch,VBG,AUT
+2329098,OE9GZH,Johann,,Dornbirn,VBG,AUT
+2329099,OE9XXV,Vorarlberg,,Bregenz,VBG,AUT
 2329100,OE9VVV,RC,,Frastanz,VBG,AUT
-2329101,OE9DBI,no_name,,Vandans,VBG,AUT
-2329102,OE9DAI,no_name,,Vandans,VBG,AUT
-2329103,OE9OBV,no_name,,Dornbirn,VBG,AUT
-2329104,OE9ASJ,no_name,,Dornbirn,VBG,AUT
-2329105,OE9EFJ,no_name,,Gortipohl,VBG,AUT
-2329106,OE9BRH,no_name,,Bürs,VBG,AUT
-2329107,OE9MHV,no_name,,Bludesch,VBG,AUT
-2329108,OE9MSI,no_name,,Tschagguns,VBG,AUT
-2329109,OE9CPV,no_name,,Bartholomäberg,VBG,AUT
-2329110,OE9GDJ,no_name,,Thüringen,VBG,AUT
-2329111,OE9BKV,no_name,,Götzis,VBG,AUT
-2329112,OE9MVT,no_name,,Frastanz,VBG,AUT
+2329101,OE9DBI,Bianca,,Vandans,VBG,AUT
+2329102,OE9DAI,Alexander,,Vandans,VBG,AUT
+2329103,OE9OBV,Alexander,,Dornbirn,VBG,AUT
+2329104,OE9ASJ,Murat,,Dornbirn,VBG,AUT
+2329105,OE9EFJ,Edwin,,Gortipohl,VBG,AUT
+2329106,OE9BRH,Rainer,,Buers,VBG,AUT
+2329107,OE9MHV,Mario,,Bludesch,VBG,AUT
+2329108,OE9MSI,Matthias,,Tschagguns,VBG,AUT
+2329109,OE9CPV,Christoph,,Bartholomaeberg,VBG,AUT
+2329110,OE9GDJ,Dietmar,,Thueringen,VBG,AUT
+2329111,OE9BKV,Kurt,,Goetzis,VBG,AUT
+2329112,OE9MVT,Tobias,,Frastanz,VBG,AUT
 2329113,OE9MNR,no_name,,no_city,VBG,AUT
-2329114,OE9BOK,no_name,,Bregenz,VBG,AUT
+2329114,OE9BOK,Klaus,,Bregenz,VBG,AUT
 2329115,OE9IHR,Mesaric,,Nenzing,VBG,AUT
-2329116,OE9CBV,no_name,,Lauterach,VBG,AUT
-2329117,OE9KRI,no_name,,Altach,VBG,AUT
-2329118,OE9FRV,no_name,,Feldkirch,VBG,AUT
+2329116,OE9CBV,Christoph,,Lauterach,VBG,AUT
+2329117,OE9KRI,Robert,,Altach,VBG,AUT
+2329118,OE9FRV,Fabian,,Feldkirch,VBG,AUT
 2329119,OE9MNR,no_name,,no_city,VBG,AUT
-2329120,OE9PHV,no_name,,Lustenau,VBG,AUT
-2329121,OE9TAV,no_name,,Lustenau,VBG,AUT
+2329120,OE9PHV,Heinz,,Lustenau,VBG,AUT
+2329121,OE9TAV,Tamer,,Lustenau,VBG,AUT
 2329122,OE9RFV,no_name,,no_city,VBG,AUT
 2340000,G8SJP,Iain,,Aylesbury,England,GBR
 2340001,G8SJP,Iain,,Aylesbury,England,GBR
@@ -33591,7 +33616,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2347687,G8XCL,Iandavis,,Lydd. Romney Marsh,England,GBR
 2347688,G7SFI,Qwiksilver,,Telford,England,GBR
 2347689,2E0BCJ,Dave2e0bcj,,Crewe,England,GBR
-2347690,M1CDP,no_name,,Corby,England,GBR
+2347690,M1CDP,Allan,,Corby,England,GBR
 2347691,G7MPJ,John,,Hebburn,England,GBR
 2347692,M7BJH,Brianhavers,,Slough,England,GBR
 2347693,G6TMO,Allan,,Stoke On Trent,England,GBR
@@ -33653,7 +33678,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2347749,G1YVS,no_name,,no_city,,GBR
 2347750,M1ESM,Leonwallace,,Milton Keynes,England,GBR
 2347751,M0NGD,Richard,,Diss,England,GBR
-2347752,G1LPW,no_name,,Stafford,England,GBR
+2347752,G1LPW,Ivan,,Stafford,England,GBR
 2347753,M1TCP,Peter2,,Cirencester,England,GBR
 2347754,G1NZO,John,,Berkshire,England,GBR
 2347755,M0IVN,Pavol,,London,England,GBR
@@ -33683,7 +33708,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2347779,M6VUB,Shane,,Nottingham,England,GBR
 2347780,G4ZEU,Bill,,Boldon Colliery,England,GBR
 2347781,G4KVT,Jason,,Bristol,England,GBR
-2347782,G0AMO,no_name,,no_city,,GBR
+2347782,G0AMO,Mike,,Andover,England,GBR
 2347783,G3ZYC,Chris,,Ripley,England,GBR
 2347784,2E0SDC,Stuart,,St Neots,England,GBR
 2347785,G0EOY,Stuart,,Newcastle Upon Tyne,England,GBR
@@ -33942,7 +33967,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348038,G8ZRO,Andy,,Bristol,,GBR
 2348039,G6BNT,Matthewd,,Sheffield,,GBR
 2348040,M0LYF,Kevinfletcher,,Barnetby,,GBR
-2348041,G8UMB,no_name,,no_city,,GBR
+2348041,G8UMB,no_name,,no_city,.,GBR
 2348042,M7JOY,Jason,,M7joy,,GBR
 2348043,G6NVT,Mharrison,,Sheffield,,GBR
 2348044,G6AEN,Srrgroup,,Sheffield,,GBR
@@ -33996,7 +34021,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348092,2E0AGB,no_name,,no_city,,GBR
 2348093,G0FEY,Stephen,,Cheshire,England,GBR
 2348094,2E0SSA,no_name,,no_city,,GBR
-2348095,G0VWP,no_name,,no_city,,GBR
+2348095,G0VWP,Mark,,no_city,England,GBR
 2348096,M7ASW,no_name,,no_city,,GBR
 2348097,G4PZU,no_name,,no_city,,GBR
 2348098,G7PKF,Dean,,Hillersdon Chase,England,GBR
@@ -34016,11 +34041,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348112,G1TAY,Alec,,Stalham. Norfolk,Alec,GBR
 2348113,G0KAD,Mike,,Crawley,MikeG0KAD,GBR
 2348114,M0YIK,Craig,,Haydock St Helens.,England,GBR
-2348115,M3YSV,no_name,,Benfleet,,GBR
+2348115,M3YSV,no_name,,Benfleet,.,GBR
 2348116,M0NRG,Nigel,,Fareham,,GBR
 2348117,2E0FOR,Ian,,Derby (AO),,GBR
-2348118,2E0EZZ,no_name,,no_city,,GBR
-2348119,M7JSA,no_name,,no_city,,GBR
+2348118,2E0EZZ,no_name,,no_city,.,GBR
+2348119,M7JSA,no_name,,no_city,.,GBR
 2348120,M7DMS,Dave,,South Petherton,,GBR
 2348121,2E0YDT,no_name,,Sunderland,2E0YDT,GBR
 2348122,M7HDP,Harrypomfret,,York,,GBR
@@ -34034,7 +34059,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348130,M7ARP,Adrian,,York,,GBR
 2348131,G1TAI,P,,Shutlanger,,GBR
 2348132,2E0AFL,Mj,,Parker Lane. Whitestake. Preston,,GBR
-2348133,M3HXW,no_name,,no_city,,GBR
+2348133,M3HXW,no_name,,no_city,.,GBR
 2348134,G7LAS,Rob,,Swadlincote,,GBR
 2348135,M7WYC,Adam,,Padiham,,GBR
 2348136,M7AOI,Mjfirth,,Sabden,,GBR
@@ -34042,7 +34067,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348138,M0JEY,Baconradioclub,,Gosport,,GBR
 2348139,M0ZTD,Tim,,Canterbury,,GBR
 2348140,MX0ONL,Torc,,Goffs Oak,,GBR
-2348141,G4ZOT,no_name,,no_city,,GBR
+2348141,G4ZOT,no_name,,no_city,.,GBR
 2348142,G1BGF,Davemac,,Northampton,,GBR
 2348143,2E1ICB,Ian,,Hull,,GBR
 2348144,M7VYZ,Danr,,Swadlincote,,GBR
@@ -34053,7 +34078,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348149,M3XYH,Craigbell,,Sunderland,,GBR
 2348150,2E0UHJ,Philip,,Thornton-Cleveleys,England,GBR
 2348151,M0NXF,Bill,,Hayle,,GBR
-2348152,M0IMQ,no_name,,no_city,,GBR
+2348152,M0IMQ,no_name,,no_city,.,GBR
 2348153,2E0GRU,Richardpar,,Ely,,GBR
 2348154,M6RFO,Alan,,Fishponds Bristol,England,GBR
 2348155,M7BEM,Stephen,,Abram Wigan,England,GBR
@@ -34070,11 +34095,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348166,M7THK,Mike,,Gloucester,,GBR
 2348167,M6VCJ,Chrisj,,Loughborough,,GBR
 2348168,M1EOU,Roy,,Sheffield,,GBR
-2348169,2E0LJR,no_name,,no_city,,GBR
-2348170,M0JFF,no_name,,no_city,,GBR
-2348171,G1PJJ,no_name,,Harwich,,GBR
+2348169,2E0LJR,no_name,,no_city,.,GBR
+2348170,M0JFF,no_name,,no_city,.,GBR
+2348171,G1PJJ,no_name,,Harwich,.,GBR
 2348172,G7OXK,John,,Feltham,,GBR
-2348173,M7ROT,no_name,,no_city,,GBR
+2348173,M7ROT,no_name,,no_city,.,GBR
 2348174,M6TUC,Geoff,,Bradford,,GBR
 2348175,M7CAK,Leigh,,Corbridge,,GBR
 2348176,G7FCL,Dell,,E. Studdal,England,GBR
@@ -34093,9 +34118,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348189,M0JBV,Martin,,Essex,,GBR
 2348190,2E0EQH,Paul,,Manchester,,GBR
 2348191,G4CFB,Kevin915,,Brighton,,GBR
-2348192,G6EGM,no_name,,no_city,,GBR
+2348192,G6EGM,no_name,,no_city,.,GBR
 2348193,M7DAG,Dean,,London,,GBR
-2348194,M7MAK,no_name,,no_city,,GBR
+2348194,M7MAK,no_name,,no_city,.,GBR
 2348195,M7RJR,Robert,,Burnley,England,GBR
 2348196,G7EIO,Patb,,Belvedere (VI),Veneto,GBR
 2348197,G6ZQS,Mark,,Horncastle. England,,GBR
@@ -34105,33 +34130,33 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348201,M0HGY,Jimmy,,Macclesfield,,GBR
 2348202,M7AOV,Markausterfield,,Withernsea,,GBR
 2348203,M0LZI,Iduxbury,,Chelmsford,,GBR
-2348204,G6HVI,no_name,,no_city,,GBR
-2348205,G8YJL,no_name,,no_city,,GBR
-2348206,M0NTC,no_name,,no_city,,GBR
-2348207,M6AVD,no_name,,no_city,,GBR
-2348208,G8UUV,no_name,,no_city,,GBR
-2348209,M0VMK,no_name,,no_city,,GBR
+2348204,G6HVI,no_name,,no_city,.,GBR
+2348205,G8YJL,no_name,,no_city,.,GBR
+2348206,M0NTC,no_name,,no_city,.,GBR
+2348207,M6AVD,no_name,,no_city,.,GBR
+2348208,G8UUV,no_name,,no_city,.,GBR
+2348209,M0VMK,no_name,,no_city,.,GBR
 2348210,G4ONV,George,,Dawlish,,GBR
-2348211,2E0PGN,no_name,,no_city,,GBR
-2348212,M1FGS,no_name,,no_city,,GBR
-2348213,2E0FRE,no_name,,no_city,,GBR
+2348211,2E0PGN,no_name,,no_city,.,GBR
+2348212,M1FGS,no_name,,no_city,.,GBR
+2348213,2E0FRE,no_name,,no_city,.,GBR
 2348214,G6EBN,Michael,,Kings Lynn,England,GBR
-2348215,G4LOM,no_name,,no_city,,GBR
-2348216,2E0WFD,no_name,,no_city,,GBR
-2348217,M6SDU,no_name,,no_city,,GBR
-2348218,M6BFQ,no_name,,no_city,,GBR
-2348219,M6GGR,no_name,,no_city,,GBR
-2348220,G4YFP,no_name,,no_city,,GBR
+2348215,G4LOM,no_name,,no_city,.,GBR
+2348216,2E0WFD,no_name,,no_city,.,GBR
+2348217,M6SDU,no_name,,no_city,.,GBR
+2348218,M6BFQ,no_name,,no_city,.,GBR
+2348219,M6GGR,no_name,,no_city,.,GBR
+2348220,G4YFP,no_name,,no_city,.,GBR
 2348221,M0HKC,Kevin,,Shotley,England,GBR
 2348222,G8MUV,Bernard,,Cradley Heath,,GBR
 2348223,2E0FTH,Sean,,Buckinghamshire,,GBR
 2348224,G4APO,R,,Rotherham,Rowland,GBR
 2348225,G1OAX,Ljp64,,Swadlincote,,GBR
-2348226,G0WCF,no_name,,no_city,,GBR
+2348226,G0WCF,no_name,,no_city,.,GBR
 2348227,G0RVT,Davehesketh,,Hoo,,GBR
 2348228,G4XNS,Michel,,Lizant,,GBR
 2348229,G4FJR,Dave,,Bristol,,GBR
-2348230,2E0YMI,no_name,,no_city,,GBR
+2348230,2E0YMI,no_name,,no_city,.,GBR
 2348231,G0JFP,John,,Milnrow Rochdale,,GBR
 2348232,M7XTL,Martin,,Ashford,,GBR
 2348233,GX3LRS,Leicester,,Leicester,,GBR
@@ -34143,7 +34168,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348239,M7ARV,Marv,,Reading,,GBR
 2348240,M7GUY,Guy,,High Wycombe,,GBR
 2348241,G6UYG,Stephen,,Shropshire,Stephen,GBR
-2348242,G8GON,no_name,,Exmouth,,GBR
+2348242,G8GON,no_name,,Exmouth,.,GBR
 2348243,G4LKD,John,,Goole,,GBR
 2348244,G0MKP,Norman,,Withernsea,,GBR
 2348245,M7TIG,Tiggreg,,Martley,,GBR
@@ -34174,11 +34199,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348270,G0CFB,Richard,,Huntingfield,,GBR
 2348271,G0BDE,Barry,,Wigston,,GBR
 2348272,M0SVL,Rupert,,Rugby,,GBR
-2348273,2E0SKD,no_name,,no_city,,GBR
-2348274,G7ULW,no_name,,no_city,,GBR
+2348273,2E0SKD,no_name,,no_city,.,GBR
+2348274,G7ULW,no_name,,no_city,.,GBR
 2348275,M7AOZ,Duncan,,Bradford,,GBR
 2348276,G4AQB,Steve,,Bolton Lancs,,GBR
-2348277,M7AQA,no_name,,Rochdale,,GBR
+2348277,M7AQA,no_name,,Rochdale,.,GBR
 2348278,2E0EKM,Paul,,Bristol,,GBR
 2348279,M6GZQ,Jeremy,,Skipton,,GBR
 2348280,2E0GXL,Dean,,Kent.,,GBR
@@ -34250,23 +34275,28 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348347,G0BPS,Dick,,Hawkinge Kent,,GBR
 2348348,G0TKZ,Morris,,Edenbridge Kent,England,GBR
 2348349,G3DBJ,David,,Leiston Suffolk,,GBR
-2348350,M3ZSL,no_name,,no_city,,GBR
+2348350,M3ZSL,no_name,,no_city,.,GBR
 2348351,G1KWF,Steve,,Huntingdon,,GBR
 2348352,M7XXT,Philwright,,Mansfield,,GBR
+2348353,M7VNX,Andrew,,Leeds,.,GBR
 2348354,2E0FSJ,David,,Mansfield,,GBR
 2348355,G4JKM,Den,,Malmesbury,,GBR
 2348356,G7RGR,Roger,,Burnham On Crouch,,GBR
 2348357,G8CIX,Martin,,Southport,,GBR
 2348358,G7AAI,Mike,,Irby,,GBR
 2348359,M7WTJ,Tj,,Manchester,,GBR
-2348360,M0UNC,no_name,,no_city,,GBR
-2348361,M7DUB,no_name,,no_city,,GBR
+2348360,M0UNC,no_name,,no_city,.,GBR
+2348361,M7DUB,no_name,,no_city,.,GBR
 2348362,G0TMB,Mike,,Frome,,GBR
 2348363,M7DMS,David,,South Petherton,England,GBR
+2348364,M7AJO,Callum,,Glastonbury Somerset,.,GBR
 2348365,M7TRE,Stevep,,Rayleigh,,GBR
+2348366,M6CBU,William,,Tonbridge,.,GBR
 2348367,G1XDT,Rj,,Spalding,,GBR
 2348368,M7PBD,Peter,,Morden.,London,GBR
 2348369,2E0CTM,Charlie,,Derbyshire,,GBR
+2348370,2E0FOW,Brian,,Chippenham,.,GBR
+2348371,M7DJG,Darren,,Winsford,.,GBR
 2348372,M6ELL,Ken,,Sunderland,,GBR
 2348373,M0USR,Richard,,Leicester,,GBR
 2348374,G4AAQ,Phil,,Knottingley,,GBR
@@ -34341,6 +34371,24 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348458,G6WWY,Wwy,,Axmister,.,GBR
 2348459,M0RWS,Robertno_namewno_name,,Waterlooville.Hants.,.,GBR
 2348460,2E0OLB,Michael,,Notts,.,GBR
+2348461,M7CLJ,Cindy,,Worksop,.,GBR
+2348462,2E0KXL,Rich,,Cheltenham,.,GBR
+2348463,M7OJA,Oscar,,Murton. Seaham. County Durham,.,GBR
+2348464,G7GYP,Lee,,Gloucestershire Gl Uz,.,GBR
+2348465,M7RAH,Ross,,Beccles,.,GBR
+2348466,M3CNC,Andrew,,Chesterfield,.,GBR
+2348467,M7MHT,Mark,,Sheerness,.,GBR
+2348468,M6VDJ,Den,,Durham,England,GBR
+2348469,M3XIR,Graeme,,Swindon,.,GBR
+2348470,M7GDK,Mark,,Milton Keynes,.,GBR
+2348471,M7REL,Rob,,Liverpool,.,GBR
+2348472,M0KLX,Bobh,,Kings Lynn,.,GBR
+2348473,M0CVM,Chris,,Derbyshire,.,GBR
+2348474,G3ATA,Giovanni,,Minster On Sea,.,GBR
+2348476,M0LTH,Battery,,Crawley,.,GBR
+2348477,M7HHH,Harry,,Windlesham,.,GBR
+2348478,G8VR,Kerryg8vr,,London,.,GBR
+2348479,M0OUK,no_name,,no_city,.,GBR
 2349999,GM0RDI,Iain,,Lincoln,England,GBR
 2351001,G0PRF,John,,Huddersfield,West Yorkshire,GBR
 2351002,G0PRF,John,,Huddersfield,West Yorkshire,GBR
@@ -36845,7 +36893,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2353504,2W0TUZ,Terrence,,Denbighshire,Wales,GBR
 2353505,MW3YNA,Mike,,Llanelli,Wales,GBR
 2353506,GW4WND,Roger,,MONTGOMERY,Wales,GBR
-2353507,MW6GWP,no_name,,Menaibridge,Wales,GBR
+2353507,MW6GWP,Geraint,,Anglesey,Wales,GBR
 2353508,MB6IPO,Mark,,Porth,Wales,GBR
 2353509,MW0GCT,Stuart,,Pentraeth,Wales,GBR
 2353510,2W0UAS,Colinwalker,,Anglesey,Wales,GBR
@@ -36911,21 +36959,21 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2353570,MW6WHL,Johnburns,,Newport,,GBR
 2353571,MW6BYX,Neil,,Wrexham.,,GBR
 2353572,2W0BUQ,Steve,,Caerphilly Uk,,GBR
-2353573,MW6BOW,no_name,,no_city,,GBR
+2353573,MW6BOW,no_name,,no_city,.,GBR
 2353574,GW0MAV,Richard,,Caerphilly,,GBR
 2353575,GW0NEC,Vince,,Llandudno,,GBR
-2353576,MW6RLA,no_name,,no_city,,GBR
+2353576,MW6RLA,no_name,,no_city,.,GBR
 2353577,GW7VQD,Neil,,Newport,GW7VQDNeil,GBR
 2353578,MW6LDM,Meirionars,,Harlech,,GBR
 2353579,2W0LGG,Louis,,Tal Y Bont Gwynedd,Gwynedd Wales,GBR
-2353580,MW6PME,no_name,,no_city,,GBR
+2353580,MW6PME,no_name,,no_city,.,GBR
 2353581,2W0EPO,Pete,,Llandysul,,GBR
 2353582,MW7KAP,Kapila,,Wrexham,,GBR
 2353583,MW1EOR,Michael,,Blackwood,Michael,GBR
 2353584,GW0POA,Mark,,Cardiff,,GBR
 2353585,GW1MTH,Huw,,Merthyr Tydfil,,GBR
-2353586,GW7KNF,no_name,,no_city,,GBR
-2353587,MW6JYU,no_name,,Y Felinheli,,GBR
+2353586,GW7KNF,no_name,,no_city,.,GBR
+2353587,MW6JYU,no_name,,Y Felinheli,.,GBR
 2353588,MW7MJL,Mikeladd,,Llanelli,,GBR
 2353589,MW7APX,Craig,,Llanelli,,GBR
 2353590,GW3ATZ,Geoff,,Portable,Geoff,GBR
@@ -37645,7 +37693,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2354709,GM8HWZ,Paul,,Forres,Scotland,GBR
 2354710,MM0XDB,David,,Fochabers,Scotland,GBR
 2354711,MM3EKX,Mark,,Nairn,Scotland,GBR
-2354712,GM0MMN,no_name,,no_city,,GBR
+2354712,GM0MMN,Mike,,Kirkcaldy,,GBR
 2354713,MM0LBF,no_name,,no_city,,GBR
 2354714,MM0WXT,no_name,,no_city,,GBR
 2354715,MM0SWY,MJS,,Falkirk,Scotland,GBR
@@ -37669,10 +37717,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2354733,MM0GBV,Ivanm,,Edinburgh,,GBR
 2354734,GM4HYR,Melvyn,,Edinburgh,,GBR
 2354735,MM7BJR,John,,Spean Bridge,,GBR
-2354736,MM0NNR,no_name,,no_city,,GBR
-2354737,MM7IEF,no_name,,no_city,,GBR
-2354738,2M0FCT,no_name,,no_city,,GBR
-2354739,MM3VRT,no_name,,no_city,,GBR
+2354736,MM0NNR,no_name,,no_city,.,GBR
+2354737,MM7IEF,no_name,,no_city,.,GBR
+2354738,2M0FCT,no_name,,no_city,.,GBR
+2354739,MM3VRT,no_name,,no_city,.,GBR
 2354740,MM7MMB,Adam,,Glasgow,AdamHood,GBR
 2354741,MM7HFC,Scott,,North Lanarkshire,,GBR
 2354742,MM7RIK,Richard,,East Kilbride,,GBR
@@ -37680,7 +37728,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2354744,MM7UPP,Bryan,,Orkney,,GBR
 2354745,MM0YAB,Christopher,,Newtongrange.,,GBR
 2354746,GM8KCS,Mike,,Edinburgh,,GBR
-2354747,MM7XPP,no_name,,no_city,,GBR
+2354747,MM7XPP,no_name,,no_city,.,GBR
 2354748,MM7SMY,Stewartyoung,,Dunfermline,,GBR
 2354749,MM0KGB,Julian,,North Ayrshire,,GBR
 2354750,MM7IOD,Jamie,,Irvine,,GBR
@@ -37698,6 +37746,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2354763,MM7AXR,Lee,,Grangemouth,Scotland,GBR
 2354764,GM4UQD,Ally,,Livingston,.,GBR
 2354768,MM7NOZ,Steven,,Dundee,.,GBR
+2354769,MM3XGP,Gordon,,Glenrothes Fife,.,GBR
+2354771,MM3ZTS,no_name,,no_city,.,GBR
 2355001,MI3WWF,Mark,,Bangor,Northern Ireland,GBR
 2355002,GI8VKA,Roy,,Ballynure,Northern Ireland,GBR
 2355003,MI0AAZ,John,,Kilrea,Coleraine,GBR
@@ -38217,12 +38267,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2355517,MI7WNY,Peter,,Lisburn,PeterFF,GBR
 2355518,MI6WJW,Williamj,,Limavady,,GBR
 2355519,MI6KDY,Kyle,,Armagh,,GBR
-2355520,MI7KVA,no_name,,Belfast,,GBR
+2355520,MI7KVA,no_name,,Belfast,.,GBR
 2355521,MI0TBD,Tony,,Coleraine,Northern Ireland,GBR
 2355522,MI6TUM,Shanemi6tum,,Newry,,GBR
 2355523,MI6PIR,Dean,,Dundrum,,GBR
-2355524,2I0IDJ,no_name,,no_city,,GBR
-2355525,GI7VGR,no_name,,no_city,,GBR
+2355524,2I0IDJ,no_name,,no_city,.,GBR
+2355525,GI7VGR,no_name,,no_city,.,GBR
 2355526,MI7GLM,Gary,,Antrim,,GBR
 2355527,MI7ATM,Anoushka,,Antrim,,GBR
 2355528,MI7ELJ,Andrewe,,Belfast,,GBR
@@ -38231,7 +38281,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2355531,2I0BAD,Jim,,Doagh,.,GBR
 2355532,2I0ILB,David,,Belfast,,GBR
 2355533,MI7PSY,Simon,,Portadown,,GBR
-2355534,MI6PHV,no_name,,no_city,,GBR
+2355534,MI6PHV,no_name,,no_city,.,GBR
 2355535,GI0SSA,Keith,,Donaghadee,Northern Ireland,GBR
 2356001,GD6XHG,Ed,,Douglas,Isle of Man,GBR
 2356002,GD6XHG,Ed,,Douglas,Isle of Man,GBR
@@ -38310,7 +38360,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2380011,OZ0ABC,Kontaktkarstennu,,Jaegerspris,,DNK
 2380012,OZ1VO,Hoeyer,,Jaegerspris,,DNK
 2380013,OZ4ABI,John,,Holstebro,Midtjylland,DNK
-2380014,OZ5PT,no_name,,no_city,,DNK
+2380014,OZ5PT,no_name,,no_city,.,DNK
 2380015,OZ1JRL,Hans,,Lille Skensved,,DNK
 2380016,OZ1AKN,Mogens,,Haderslev,,DNK
 2380017,OZ1PJO,Peter,,Virum,,DNK
@@ -38334,6 +38384,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2380035,OZ9MF,Michael,,Tylstrup,.,DNK
 2380036,OZ1BIZ,Kenneth,,Copenhagen,.,DNK
 2380037,OZ1ES,Erik,,Kastrup,.,DNK
+2380038,OZ2WK,Kurt,,Nykoebing Sjaelland,.,DNK
+2380039,OZ3MZ,Svend,,Vallensbaek,.,DNK
 2381001,OZ2CA,Soren,,Bronderslev,Nordjylland,DNK
 2381002,5P4Z,Herman,,Ulbjerg,Nordjylland,DNK
 2381003,5P5V,Find,,Farsoe,Nordjylland,DNK
@@ -40067,10 +40119,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2400413,SA5PMG,Marcus,,Linkoeping,,SWE
 2400414,SM0OXU,Philip,,Stockholm,,SWE
 2400415,SM0GTV,Lasse,,Jordbro,,SWE
-2400416,SA5MET,no_name,,no_city,,SWE
-2400417,SM2FUM,no_name,,Burtraesk,,SWE
+2400416,SA5MET,no_name,,no_city,.,SWE
+2400417,SM2FUM,no_name,,Burtraesk,.,SWE
 2400418,SM6CTQ,Kjellerik,,Karlsborg,,SWE
-2400419,SM7XOJ,no_name,,no_city,,SWE
+2400419,SM7XOJ,no_name,,no_city,.,SWE
 2400420,SA7STE,Stefan,,Horby,,SWE
 2400421,SA5BAU,Ulf,,Vaederstad,,SWE
 2400422,SA5JOT,Jenst,,Bjoerkvik,,SWE
@@ -40085,7 +40137,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2400431,SM6PIS,Charlie,,Graestorp,,SWE
 2400432,SM6SIF,Jonas,,Alingsns,,SWE
 2400433,SM6LOO,Bengt,,Gothenburg,,SWE
-2400434,SM7XVD,no_name,,Ljungbyhed,,SWE
+2400434,SM7XVD,no_name,,Ljungbyhed,.,SWE
 2400435,SM7GMD,Conny,,Monsteras,,SWE
 2400436,SA3BLO,Alferik,,Domsjoe,,SWE
 2400437,SA4ATZ,Torbjorn,,Malung,,SWE
@@ -40105,7 +40157,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2400451,SM0YHL,Goeran,,Tullinge,,SWE
 2400452,SM5OQV,Gunnar,,Vasteras,Vaestmanland-U,SWE
 2400453,SM0RFL,Obone,,Jaerfalla,Stockholm,SWE
-2400454,SM5TPW,no_name,,Eskilstuna,,SWE
+2400454,SM5TPW,no_name,,Eskilstuna,.,SWE
 2400455,SA5VAL,Bart,,Linkoeping,,SWE
 2400456,SM2HMF,Lennart,,Kiruna,,SWE
 2400457,SM6UZG,Glenn,,Angered,,SWE
@@ -40123,6 +40175,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2400469,SM5SRS,Anders,,Almunge,.,SWE
 2400470,SM6ZAB,34002,,Trollhaettan,.,SWE
 2400471,SA0BXI,no_name,,no_city,.,SWE
+2400472,SM6GYB,Peter,,Salingsas,.,SWE
+2400473,SK3SSA,no_name,,Hudiksvall,.,SWE
+2400474,SM6CIX,Eide,,Kungshamn,.,SWE
 2401001,SM5IGF,Staffan,,Linkoeping,Gotland-I,SWE
 2401002,SM1NVX,Dag,,Klintehamn,Gotland-I,SWE
 2401003,SA1CCQ,Eddie,,Romakloster,,SWE
@@ -41625,7 +41680,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2420111,LA7VK,Tormod,,Klofta,,NOR
 2420112,LA4C,Haugaland,,Aakrehamn,Haugalandsgruppen,NOR
 2420113,LA6GKA,Janove,,Aakrehamn,,NOR
-2420114,LB8OI,no_name,,Stjrdal,,NOR
+2420114,LB8OI,no_name,,Stjrdal,.,NOR
 2420115,LA7RCA,Ingebret,,Stavanger,,NOR
 2420116,LB2CG,Bjorn,,Ndal,Akershus,NOR
 2420117,LB5CI,Christian,,Solbergelva,,NOR
@@ -41641,19 +41696,19 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2420127,LA6VDA,Tom,,Sjoevegan,,NOR
 2420128,LB2FG,Ingebretsen,,Arnes,,NOR
 2420129,LA8HNA,Roar,,Vestby,,NOR
-2420130,LA7OIA,no_name,,no_city,,NOR
-2420131,LB8UI,no_name,,no_city,,NOR
-2420132,LB8QI,no_name,,no_city,,NOR
-2420133,LB6VI,no_name,,no_city,,NOR
+2420130,LA7OIA,no_name,,no_city,.,NOR
+2420131,LB8UI,no_name,,no_city,.,NOR
+2420132,LB8QI,no_name,,no_city,.,NOR
+2420133,LB6VI,no_name,,no_city,.,NOR
 2420134,LB8RI,Oebk,,As,,NOR
 2420135,LA5EUA,Morten,,Ryken,,NOR
 2420136,LA7NO,Per-Tore,,Bergen,,NOR
-2420137,LA1XOA,no_name,,Nesbyen,,NOR
+2420137,LA1XOA,no_name,,Nesbyen,.,NOR
 2420138,LA8TIA,Larsrune,,Lommedalen,,NOR
 2420139,LA2TNA,Syversen,,Dal,,NOR
 2420140,LB8OI,Hanspeter,,Stjrdal,Trundelag,NOR
-2420141,LA8BTA,no_name,,Varhaug,,NOR
-2420142,LB9HI,no_name,,no_city,,NOR
+2420141,LA8BTA,no_name,,Varhaug,.,NOR
+2420142,LB9HI,no_name,,no_city,.,NOR
 2420143,LB9AI,Isamun,,Bergen,.,NOR
 2420144,LA5TUR,no_name,,Drammen,.,NOR
 2421001,LA6VMA,Tommy,,Dal,Akershus,NOR
@@ -42589,7 +42644,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2441090,OH1E,Ricardo,,Ulvila,Turku-Pori,FIN
 2441091,OH3CH,Mauri,,Tampere,,FIN
 2441092,OH6KW,Jarno,,Seinaejoki,,FIN
-2441093,OH2EKO,no_name,,Hanko,,FIN
+2441093,OH2EKO,no_name,,Hanko,.,FIN
 2441094,OH3GKA,Jukka,,Haemeenlinna,,FIN
 2441095,OH3MTK,Markku,,Hameenlinna,,FIN
 2441096,OH2HHV,Timomerilaeinen,,Helsinki,,FIN
@@ -42602,7 +42657,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2441103,OH6HDB,Tommy,,Kokkola,,FIN
 2441104,OH9NB,Benny,,Rovaniemi,,FIN
 2441105,OH3GFX,Janneantila,,Vilppula,,FIN
-2441106,OH1GRL,no_name,,no_city,,FIN
+2441106,OH1GRL,no_name,,no_city,.,FIN
 2441107,OH5BZR,Joni-Pekka,,Lappeenranta,Etela-Karjala,FIN
 2441108,OH6HRX,Simo,,Kaelviae,,FIN
 2441109,OH9BOC,Jari,,Kemi,,FIN
@@ -43437,12 +43492,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2460015,LY4MR,no_name,,no_city,,LTU
 2460016,LY2XC,Zbignev,,Rudamina,,LTU
 2460017,LY1B,Zigmas,,Ukmerge,,LTU
-2460018,LY3VH,no_name,,no_city,,LTU
+2460018,LY3VH,Jaroslav,,Vilnius,Vilnius,LTU
 2460019,LY1RF,Rolandas,,Lithunia,Lithunia,LTU
 2460020,LY3RM,Marius,,Kaunas,Kaunas,LTU
 2460021,LY3VH,Jaroslav,,Vilnius,Vilnius,LTU
 2460022,LY5AT,Linas,,Taurage,,LTU
-2460023,LY1HD,no_name,,Dusetos,,LTU
+2460023,LY1HD,no_name,,Dusetos,.,LTU
 2460024,LY4AL,no_name,,Klaipeda,.,LTU
 2460025,LY2EE,Sarunas,,Marijampole,.,LTU
 2470001,YL3JE,Juergen,,Ramava,Baltic states,LVA
@@ -43522,6 +43577,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2480037,ES2ETAM,Edgar,,Tallinn,Harju County,EST
 2480038,ES1PIT,no_name,,no_city,,EST
 2480039,ES1TMS,Toomas,,no_city,,EST
+2480040,ES6JAN,Janno,,Vorumaa,.,EST
 2500001,RU0LA,Aleksandr,,Chernigovka,,RUS
 2500002,R0AET,Vladimir,,p.Tayozhnyy,,RUS
 2500003,R0ADW,Aleksandr,,Moscow,Moscow,RUS
@@ -45178,7 +45234,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2550379,UV1IZ,Alex,,Kramatorsk,,UKR
 2550380,UT4UGW,Paul,,Kiev,,UKR
 2550381,US7UF,Pavel,,Irpin,,UKR
-2550382,UR5WED,no_name,,Lviv,Lviv,UKR
+2550382,UR5WED,Mykola,,Lviv,,UKR
 2550383,UR6LPC,Michael,,Kharkiv,Kharkov,UKR
 2550384,UT3UOQ,Gena,,Kiev,,UKR
 2550385,UT7AT,Dima,,Apostolovo. Dnepropetrovskaya Ob,,UKR
@@ -45421,14 +45477,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600113,SQ9GT,Grzegorz,,Koty,,POL
 2600114,SP20EJ,Robert,,Krakow,,POL
 2600115,SP9ANC,Robert,,Myslowice,,POL
-2600116,SP2EGA,no_name,,no_city,,POL
+2600116,SP2EGA,no_name,,no_city,.,POL
 2600117,SQ5DN,Daniel,,Kreczki,,POL
 2600118,SP9ITP,Tomasz,,Krakow,,POL
 2600119,SP6KZ,Konrad,,Jelenia Gora,,POL
 2600120,SP7PSD,Pawel,,Leczyca,,POL
 2600121,SQ5NBY,Michal,,Garwolin,,POL
 2600122,SP3XPJ,Krzysztof,,Jarocin,,POL
-2600123,SP2ZIE,no_name,,no_city,,POL
+2600123,SP2ZIE,no_name,,no_city,.,POL
 2600124,SP3U,Wojciech,,Czerwonak,,POL
 2600125,SP6SW,Wojciech,,Klodzko,,POL
 2600126,SP5DDF,Andrzej,,Michalowice Reguly,,POL
@@ -45442,7 +45498,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600134,SQ3RS,Jacek,,Poznan,,POL
 2600135,SP2GCH,Jacek,,Chojnice,Pomorskie,POL
 2600136,SQ5EXG,Grzegorz,,Warszawa,,POL
-2600137,SQ7BRH,no_name,,no_city,,POL
+2600137,SQ7BRH,no_name,,no_city,.,POL
 2600138,SP5FWT,Maciej,,Legionowo,,POL
 2600139,SP5UAD,Slawomir,,Warszawa,,POL
 2600140,SP6TC,Tomasz,,Wroclaw,,POL
@@ -45454,8 +45510,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600146,SP4MSU,Ryszard,,Bransk,,POL
 2600147,SP4UQ,Bazyli,,Hajnowka,Podlaskie,POL
 2600148,SQ8OAX,Bartosz,,Szebnie,,POL
-2600149,SP2U,no_name,,no_city,,POL
-2600150,SQ2NUL,no_name,,no_city,,POL
+2600149,SP2U,no_name,,no_city,.,POL
+2600150,SQ2NUL,no_name,,no_city,.,POL
 2600151,SQ4SGH,Grzegorz,,Bialystok,,POL
 2600152,SQ5EKU,Robert,,Karczew,,POL
 2600153,SQ7OIT,Tomasz,,Pabianice,,POL
@@ -45493,6 +45549,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600185,SQ5EBC,Marcin,,Mankowo,.,POL
 2600186,SP5ELW,Edward,,Warszawa,.,POL
 2600187,SP3USA,Slawomir,,Pila (PG),Umbria,POL
+2600188,SQ9MDK,Artur,,Czstochowa,.,POL
+2600189,SQ5IRZ,Grzegorz,,Radom,.,POL
+2600190,SP7ENZ,Dariusz,,Zbludowice,.,POL
+2600191,HF9MW,Miosz,,Katowice,.,POL
 2601001,SP1XNE,Maciek,,Szczecin,Zachodniopomorskie,POL
 2601002,SQ1TAO,Krzysztof,,Szczecin,Zachodniopomorskie,POL
 2601003,SQ1GZG,Bogdan,,Stargard,Zachodniopomorskie,POL
@@ -48478,6 +48538,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620700,DB5UI,Karl-Heinz,,Erlangen,BY,DEU
 2620701,DG6SBZ,Christoph,,Stuttgart,BW,DEU
 2620702,DG8OP,Guenter,,Haste,NI,DEU
+2620703,DO1RTM,Thomas,,Neuhausen-Filder,BW,DEU
+2620704,DL2EP,Ulrich,,Hamburg,HH,DEU
+2620705,DG7SBL,Peter,,Bueckeburg,NI,DEU
+2620706,DL9GAS,Stefan,,Schwarzenfeld,BY,DEU
+2620707,DO7WDG,Markus,,Fischbach,RP,DEU
+2620708,DK5CH,Christian,,Uedem,NW,DEU
+2620709,DJ3PX,Reinhold,,Neustadt,RP,DEU
+2620710,DO1EL,Karlheinz,,Duisburg,NW,DEU
+2620711,DH0GME,Elmar,,Villingen-Schwenningen,BW,DEU
+2620712,DC8OH,Christian,,Wunstorf,NI,DEU
+2620713,DG6DXG,Grzegorz,,Muenchen,BY,DEU
 2621001,DL7AJ,Wolfgang,,Berlin,BE,DEU
 2621002,DG4FEY,Thomas,,Berlin,BE,DEU
 2621003,DL7ATA,Frank,,Berlin,BE,DEU
@@ -58983,7 +59054,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2638608,DO3HD,Helmut,,Fuerth,BY,DEU
 2638609,DO3SKF,Sebastian,,Fuerstenfeldbruck,BY,DEU
 2638610,DF4MD,Heinrich,,Pullach,BY,DEU
-2638611,DH9AT,no_name,,Prien,BY,DEU
+2638611,DH9AT,Andreas,,Prien,BY,DEU
 2638612,DC1WID,Wido,,Jachenau,BY,DEU
 2638613,DO2EST,Erhard,,Haibach,BY,DEU
 2638614,DB2XF,Franz,,Riedering,BY,DEU
@@ -60232,7 +60303,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2680008,CT2HDT,Tiago,,Arruda Dos Vinhos,TiagoPinto,PRT
 2680009,CU3EQ,Josetoste,,Angra Do Heroismo,,PRT
 2680010,CT4VB,Jose,,Carnaxide,,PRT
-2680011,CT2IFC,no_name,,no_city,,PRT
+2680011,CT2IFC,no_name,,no_city,.,PRT
 2680012,CT1GXC,Vinagre,,Cacia,,PRT
 2680013,CU3AK,Jaimeeloy,,Praia Da Vitoria,,PRT
 2680014,CT5KBU,Valter,,Portimao,,PRT
@@ -60250,8 +60321,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2680026,CR7AWK,Ismael,,Marinhais,,PRT
 2680027,CT2HGJ,Pedro,,Barcelos,,PRT
 2680028,CT1AYN,Jose,,Monchique,,PRT
-2680029,CT1CAD,no_name,,no_city,,PRT
-2680030,CS7ARL,no_name,,no_city,,PRT
+2680029,CT1CAD,no_name,,no_city,.,PRT
+2680030,CS7ARL,no_name,,no_city,.,PRT
 2680031,CT7AVN,Andre,,Lisbon,,PRT
 2680032,CT2JBN,Rauljesus,,Condeixa A Nova,,PRT
 2680033,CT1EMY,Luisfranco,,Sobreda,,PRT
@@ -61222,8 +61293,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2700003,LX1TSF,Jean-Marie,,no_city,Luxembourg,LUX
 2700004,LX3OO,Darach,,Grevenmacher,Luxembourg,LUX
 2700005,LX2AS,Alain,,Luxembourg,Luxembourg,LUX
-2700006,LX2WP,no_name,,no_city,,LUX
-2700007,LX2WM,no_name,,no_city,,LUX
+2700006,LX2WP,no_name,,no_city,.,LUX
+2700007,LX2WM,no_name,,no_city,.,LUX
 2700008,LX1ZJ,Frank,,Contern,,LUX
 2700009,LX1TSF,Jean-Marie,,Wiltz,Luxembourg,LUX
 2700010,LX1BF,Frank,,Luxembourg,.,LUX
@@ -62118,21 +62189,22 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2840368,LZ2LBB,no_name,,no_city,,BGR
 2840369,LZ1SJS,no_name,,Sofia,,BGR
 2840370,LZ3ST,Stanimirlz3st,,Haskovo,,BGR
-2840371,LZ1RU,no_name,,no_city,,BGR
+2840371,LZ1RU,no_name,,no_city,.,BGR
 2840372,LZ2HPC,Stanislav,,Veliko Turnovo,Veliko Tarnovo,BGR
-2840373,LZ1SNV,no_name,,no_city,,BGR
-2840374,LZ2TBC,no_name,,no_city,,BGR
+2840373,LZ1SNV,no_name,,no_city,.,BGR
+2840374,LZ2TBC,no_name,,no_city,.,BGR
 2840375,LZ1ANQ,Ani,,Sofia,,BGR
-2840376,LZ1MAC,no_name,,no_city,,BGR
+2840376,LZ1MAC,no_name,,no_city,.,BGR
 2840377,LZ1VES,Vesco,,Sofia,,BGR
 2840378,LZ1KAM,Radioclublz1kam,,Haskovo,,BGR
-2840379,LZ1HPY,no_name,,no_city,,BGR
+2840379,LZ1HPY,no_name,,no_city,.,BGR
 2840380,LZ1MWS,no_name,,Sofia,.,BGR
 2840381,LZ1SLS,no_name,,Sofia,.,BGR
 2840382,LZ2ASR,Lzasr,,Varna (BZ),Trentino Aa,BGR
 2840383,LZ1AWK,Vasil,,Sofia,.,BGR
 2840384,LZ2DMV,no_name,,no_city,.,BGR
 2840385,LZ1RMA,no_name,,no_city,.,BGR
+2840386,LZ1TUZ,Bojotuz,,Sofia,.,BGR
 2860001,TA6TC,Mirac,,Samsun,,TUR
 2860002,TA5ACC,Cihan,,Adana,,TUR
 2860003,TA2UKC,Cem,,Istanbul,Marmara region,TUR
@@ -63762,7 +63834,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2861627,TA1LZS,no_name,,no_city,,TUR
 2861628,TB2TIO,Erdal,,Sakarya,ERDAL,TUR
 2861629,TA4TA,Kurtulu,,Aydin/nazll,,TUR
-2861630,TA4UZE,no_name,,no_city,,TUR
+2861630,TA4UZE,Uzeyir,,Nazilli,,TUR
 2861631,TB3GHI,Okday,,no_city,,TUR
 2861632,TA3URS,Ramazan,,Izmir,,TUR
 2861633,TB2HJU,Akif,,no_city,,TUR
@@ -63776,13 +63848,13 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2861641,TB2DGA,no_name,,no_city,,TUR
 2861642,TB2FMV,no_name,,no_city,,TUR
 2861643,TA2DX,no_name,,no_city,,TUR
-2861644,TA2WW,no_name,,Kocaeli,,TUR
+2861644,TA2WW,no_name,,Kocaeli,.,TUR
 2861645,TA2IUK,no_name,,no_city,,TUR
 2861646,TA5MSK,no_name,,no_city,,TUR
 2861647,TB1BCN,no_name,,no_city,,TUR
 2861648,TA2LES,no_name,,no_city,,TUR
 2861649,TA6MEU,no_name,,no_city,,TUR
-2861650,TB6TSG,no_name,,no_city,,TUR
+2861650,TB6TSG,Sabri,,Merkez - Sinop,Amasya,TUR
 2861651,TA1UHK,no_name,,no_city,,TUR
 2861652,TA2MHS,no_name,,no_city,,TUR
 2861653,TA7W,Baris,,Ankara,,TUR
@@ -63799,7 +63871,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2861664,TA1KMB,MURATBOYOGLU,,Istanbul,,TUR
 2861665,TA2SU,no_name,,no_city,,TUR
 2861666,TA1USV,no_name,,no_city,,TUR
-2861667,TB1GSN,no_name,,no_city,,TUR
+2861667,TB1GSN,Mucahitsahin,,Istanbul,MucahitSahin,TUR
 2861668,TB3BNS,no_name,,no_city,,TUR
 2861669,TA2DQ,Hicret,,Ankara,,TUR
 2861670,TA2EHT,no_name,,no_city,,TUR
@@ -63966,7 +64038,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2861831,TA2W,no_name,,no_city,,TUR
 2861832,TA3Q,no_name,,no_city,,TUR
 2861833,TB3BUY,no_name,,no_city,,TUR
-2861834,TA2KHV,no_name,,no_city,,TUR
+2861834,TA2KHV,no_name,,no_city,.,TUR
 2861835,TA1FY,no_name,,no_city,,TUR
 2861836,TA3ICV,no_name,,no_city,,TUR
 2861837,YM2KS,Trac,,Merkez,,TUR
@@ -63981,15 +64053,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2861846,TA2MAE,Emre,,Bartin,,TUR
 2861847,TA6AYK,no_name,,no_city,,TUR
 2861848,TA2NLL,no_name,,no_city,,TUR
-2861849,TB2MOR,no_name,,no_city,,TUR
+2861849,TB2MOR,no_name,,no_city,.,TUR
 2861850,TB4DUA,no_name,,no_city,,TUR
 2861851,TA1SCA,Chad,,no_city,,TUR
 2861852,TB2NDM,Mohawk,,no_city,,TUR
-2861853,TA2LCB,no_name,,no_city,,TUR
-2861854,TA2EBV,no_name,,no_city,,TUR
-2861855,TA3LTF,no_name,,no_city,,TUR
+2861853,TA2LCB,no_name,,no_city,.,TUR
+2861854,TA2EBV,no_name,,no_city,.,TUR
+2861855,TA3LTF,no_name,,no_city,.,TUR
 2861856,TA7LBD,Halil,,no_city,HalilIbrahimDemir,TUR
-2861857,TB1BKV,no_name,,no_city,,TUR
+2861857,TB1BKV,no_name,,no_city,.,TUR
 2861858,TA5KE,Erkan,,Konya,,TUR
 2861859,TA2MSE,Mustafa,,Merkez/bolu,,TUR
 2861860,TB4HKI,Isa,,Aydin,,TUR
@@ -64002,50 +64074,50 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2861867,TA5LKO,Cukurova,,no_city,,TUR
 2861868,TB8GMT,Mehmet,,Adiyaman,Adiyaman,TUR
 2861869,TA5SBG,Bora,,Silifke Mersin,BoraGur,TUR
-2861870,TB2HYC,no_name,,no_city,,TUR
+2861870,TB2HYC,no_name,,no_city,.,TUR
 2861871,TB2NAE,Sevgin,,Ankara,,TUR
 2861872,TA7MSC,Mustafa,,Erzincan,Erzincan,TUR
 2861873,TA2OUI,Gokhan,,no_city,Ankara,TUR
 2861874,TA3NIS,Ismail,,no_city,Izmir,TUR
-2861875,TA2KFH,no_name,,no_city,,TUR
-2861876,TB4BNS,no_name,,no_city,,TUR
+2861875,TA2KFH,no_name,,no_city,.,TUR
+2861876,TB4BNS,no_name,,no_city,.,TUR
 2861877,TA1LSD,Safakdurmus,,Ist-Maslak,Marmara region,TUR
 2861878,TA5MAT,Mustafa,,Konya,,TUR
 2861879,TA5MCB,Cuneyt,,Nevsehir,,TUR
 2861880,TA7NTA,Tolga,,Sivas,,TUR
-2861881,TB3DYO,no_name,,no_city,,TUR
-2861882,TB1GCU,no_name,,no_city,,TUR
-2861883,TB6YEP,no_name,,no_city,,TUR
-2861884,TB8DXM,no_name,,no_city,,TUR
-2861885,TA2MO,no_name,,no_city,,TUR
-2861886,TA2MGF,no_name,,no_city,,TUR
-2861887,TA1Q,no_name,,no_city,,TUR
+2861881,TB3DYO,no_name,,no_city,.,TUR
+2861882,TB1GCU,no_name,,no_city,.,TUR
+2861883,TB6YEP,no_name,,no_city,.,TUR
+2861884,TB8DXM,no_name,,no_city,.,TUR
+2861885,TA2MO,no_name,,no_city,.,TUR
+2861886,TA2MGF,no_name,,no_city,.,TUR
+2861887,TA1Q,no_name,,no_city,.,TUR
 2861888,TA3UMO,Umut,,Izmir,,TUR
-2861889,TA7IYE,no_name,,no_city,,TUR
+2861889,TA7IYE,no_name,,no_city,.,TUR
 2861890,TA5J,Omer,,Adana,,TUR
 2861891,TB2HMM,Mustafa,,Sakarya,,TUR
 2861892,TA7OTX,no_name,,Bitlis,.,TUR
-2861893,TA3LVK,no_name,,no_city,,TUR
-2861894,TA6ATR,no_name,,no_city,,TUR
-2861895,TA6LAE,no_name,,no_city,,TUR
+2861893,TA3LVK,no_name,,no_city,.,TUR
+2861894,TA6ATR,no_name,,no_city,.,TUR
+2861895,TA6LAE,no_name,,no_city,.,TUR
 2861896,TA2UAB,Enes,,Karabuk,EnesBurak,TUR
-2861897,TA4OSE,no_name,,no_city,,TUR
+2861897,TA4OSE,no_name,,no_city,.,TUR
 2861898,TA2RGN,Dgurgun,,no_city,,TUR
 2861899,TA2MSJ,Said,,no_city,,TUR
-2861900,TB3DMN,no_name,,Canakkale,Antalya,TUR
+2861900,TB3DMN,Murat,,Antalya,,TUR
 2861901,TA2STE,Typhoonkaya,,no_city,,TUR
-2861902,TA8MG,no_name,,no_city,,TUR
-2861903,TB2GSK,no_name,,no_city,,TUR
-2861904,TB2HYL,no_name,,no_city,,TUR
-2861905,TB2TGD,no_name,,no_city,,TUR
+2861902,TA8MG,no_name,,no_city,.,TUR
+2861903,TB2GSK,no_name,,no_city,.,TUR
+2861904,TB2HYL,no_name,,no_city,.,TUR
+2861905,TB2TGD,no_name,,no_city,.,TUR
 2861906,TA2MLC,Cengiz,,no_city,Ta2mlc,TUR
-2861907,TB1BSI,no_name,,no_city,,TUR
-2861908,TB7PFX,no_name,,no_city,,TUR
-2861909,TA2UHB,no_name,,no_city,,TUR
-2861910,TB2GHM,no_name,,no_city,,TUR
-2861911,TA9SEB,no_name,,no_city,,TUR
-2861912,TA5ASA,no_name,,no_city,,TUR
-2861913,TA1UDS,no_name,,no_city,,TUR
+2861907,TB1BSI,no_name,,no_city,.,TUR
+2861908,TB7PFX,no_name,,no_city,.,TUR
+2861909,TA2UHB,no_name,,no_city,.,TUR
+2861910,TB2GHM,no_name,,no_city,.,TUR
+2861911,TA9SEB,no_name,,no_city,.,TUR
+2861912,TA5ASA,no_name,,no_city,.,TUR
+2861913,TA1UDS,no_name,,no_city,.,TUR
 2861914,TA2MV,Mustafa,,Istanbul,Istanbul,TUR
 2861915,TA2MIH,Caner,,no_city,Bartin,TUR
 2861916,TA5BG,Gokmen,,Aksaray,,TUR
@@ -64054,16 +64126,16 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2861919,TA2OUA,Ibrahim,,no_city,,TUR
 2861920,TA6AUJ,Lhan,,no_city,,TUR
 2861921,TB2GCF,Ahmet,,Ankara,,TUR
-2861922,TB1DBK,no_name,,no_city,,TUR
-2861923,TA3EMS,no_name,,no_city,,TUR
+2861922,TB1DBK,no_name,,no_city,.,TUR
+2861923,TA3EMS,no_name,,no_city,.,TUR
 2861924,TA2NMT,Murat,,Istanbul,Stanbul,TUR
 2861925,TB2GJK,Kurtkapan,,Eskisehir,,TUR
 2861926,TA5MCB,Cuneyt,,Nevsehir,Nevsehir,TUR
-2861927,TA5AW,no_name,,no_city,,TUR
-2861928,TB9BZG,no_name,,no_city,,TUR
-2861929,TA2O,no_name,,no_city,,TUR
-2861930,TB9BNG,no_name,,no_city,,TUR
-2861931,TA2MJK,no_name,,no_city,,TUR
+2861927,TA5AW,no_name,,no_city,.,TUR
+2861928,TB9BZG,no_name,,no_city,.,TUR
+2861929,TA2O,no_name,,no_city,.,TUR
+2861930,TB9BNG,no_name,,no_city,.,TUR
+2861931,TA2MJK,no_name,,no_city,.,TUR
 2861932,TA4LAA,no_name,,no_city,.,TUR
 2861933,TA2TE,no_name,,no_city,.,TUR
 2861934,TB4BMV,Trac,,no_city,.,TUR
@@ -64095,6 +64167,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2861960,TA2VJ,Suleyman,,Istanbul,.,TUR
 2861961,TB2GOO,Ercan74100,,Bartin,.,TUR
 2861962,TB4TAR,Unaltarhan,,Aydin,.,TUR
+2861963,TB6BWW,Munir,,no_city,.,TUR
+2861964,TB2DJX,Ahmetyakup3781,,no_city,.,TUR
+2861965,TA1HD,no_name,,no_city,.,TUR
+2861966,TB1DBY,no_name,,no_city,.,TUR
 2862001,TA2OI,Nejmettin,,Sulakyurt,Kirikkale,TUR
 2880001,OY8W,Steffen,,Kollafjorour,,FRO
 2880002,OY1DZ,Karstin,,Hoyvik,,FRO
@@ -64610,12 +64686,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2930486,S52R,Tone,,Crnomelj,Bela Krajina,SLO
 2930487,S52KH,Franc,,Majsperk,,SLO
 2930488,S57JHH,Stane,,Zidani Most,,SLO
-2930489,S51AF,no_name,,Brezice,,SLO
+2930489,S51AF,no_name,,Brezice,.,SLO
 2930490,S56ZBL,Tadej,,Kamnik,,SLO
 2930491,S56FML,Rado,,Bohinj,,SLO
 2930492,S58S,Robert,,Vuhred,.,SLO
 2930493,S51RP,Rudolf,,Izola,.,SLO
 2930494,S57GEN,Miha,,Ljubljana,.,SLO
+2930495,S57MB,Boris,,Velenje,.,SLO
+2930496,S52G,Cbrk,,Nova Gorica,.,SLO
 2940001,Z36AEC,Herolind,,Gostivar,Gostivar,MKD
 2940002,Z32IT,Dragan,,Skopje,Skopje RegionSkopje,MKD
 2940003,Z32IT,Dragan,,Skopje,Skopje,MKD
@@ -64694,81 +64772,3 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2970033,4O6ARO,Nvo,,Herceg Novi,,MNE
 2970034,4O9KOM,Lukavulic,,Berane,,MNE
 2970035,4O4Z,Nebojsa,,Herceg Novi,,MNE
-2020084,SV1SMB,Georgios,,Athens,.,GRC
-2020085,SV2HTY,Iosif,,Thessaloniki,Anatoliki Makedonia Kai Thraki,GRC
-2040070,PD1JHH,Jan,,Hoogerheide,.,NLD
-2080449,F5LRG,Bruno,,Saint Orens De Gameville,.,FRA
-2140289,EA1JAB,Norberto,,Leon Spain,.,ESP
-2140315,EB4EDV,Basilio,,Madrid,.,ESP
-2140316,EA5HQ,Marcus,,La Murta,.,ESP
-2140317,EA2CLE,Ren,,Bilbao,.,ESP
-2140318,EA7KJL,Juan,,Jerez De La Frontera,.,ESP
-2160020,HA9NI,Istvan,,Hajduszoboszlo,.,HUN
-2225928,IW0ROX,Alessandro,,Terni (TR),Umbria,ITA
-2225929,IS0MNR,Valente,,Elmas (CA),Sardegna,ITA
-2225930,IT9BTI,Orazio,,Riposto (CT),Sicilia,ITA
-2225931,IU2NRF,Massimo,,Gorno (BG),Lombardia,ITA
-2225932,IZ5YEJ,Antonio,,Santa Maria A Monte (PI),Toscana,ITA
-2225933,IZ2TEU,Daniele,,Gardone Val Trompia (BS),Lombardia,ITA
-2225935,IW0EQG,Sandro,,Roma (RM),Lazio,ITA
-2284237,HB3XVF,Andrea,,Basel,.,CHE
-2300028,OK5LR,Csoka,,Smirice,.,CZE
-2300029,OK7FW,Fanda,,Lesov,.,CZE
-2310011,OM7AHJ,Jozef,,Velky Krtis,.,SVK
-2348353,M7VNX,Andrew,,Leeds,.,GBR
-2348364,M7AJO,Callum,,Glastonbury Somerset,.,GBR
-2348366,M6CBU,William,,Tonbridge,.,GBR
-2348370,2E0FOW,Brian,,Chippenham,.,GBR
-2348371,M7DJG,Darren,,Winsford,.,GBR
-2348461,M7CLJ,Cindy,,Worksop,.,GBR
-2348462,2E0KXL,Rich,,Cheltenham,.,GBR
-2348463,M7OJA,Oscar,,Murton. Seaham. County Durham,.,GBR
-2348464,G7GYP,Lee,,Gloucestershire Gl Uz,.,GBR
-2348465,M7RAH,Ross,,Beccles,.,GBR
-2348466,M3CNC,Andrew,,Chesterfield,.,GBR
-2348467,M7MHT,Mark,,Sheerness,.,GBR
-2348468,M6VDJ,Den,,Durham,England,GBR
-2348469,M3XIR,Graeme,,Swindon,.,GBR
-2348470,M7GDK,Mark,,Milton Keynes,.,GBR
-2348471,M7REL,Rob,,Liverpool,.,GBR
-2348472,M0KLX,Bobh,,Kings Lynn,.,GBR
-2348473,M0CVM,Chris,,Derbyshire,.,GBR
-2348474,G3ATA,Giovanni,,Minster On Sea,.,GBR
-2348476,M0LTH,Battery,,Crawley,.,GBR
-2348477,M7HHH,Harry,,Windlesham,.,GBR
-2348478,G8VR,Kerryg8vr,,London,.,GBR
-2354769,MM3XGP,Gordon,,Glenrothes Fife,.,GBR
-2380038,OZ2WK,Kurt,,Nykoebing Sjaelland,.,DNK
-2380039,OZ3MZ,Svend,,Vallensbaek,.,DNK
-2400472,SM6GYB,Peter,,Salingsas,.,SWE
-2400473,SK3SSA,no_name,,Hudiksvall,.,SWE
-2400474,SM6CIX,Eide,,Kungshamn,.,SWE
-2480040,ES6JAN,Janno,,Vorumaa,.,EST
-2600188,SQ9MDK,Artur,,Czstochowa,.,POL
-2600189,SQ5IRZ,Grzegorz,,Radom,.,POL
-2600190,SP7ENZ,Dariusz,,Zbludowice,.,POL
-2600191,HF9MW,Miosz,,Katowice,.,POL
-2620703,DO1RTM,Thomas,,Neuhausen-Filder,BW,DEU
-2620704,DL2EP,Ulrich,,Hamburg,HH,DEU
-2620705,DG7SBL,Peter,,Bueckeburg,NI,DEU
-2620706,DL9GAS,Stefan,,Schwarzenfeld,BY,DEU
-2620707,DO7WDG,Markus,,Fischbach,RP,DEU
-2620708,DK5CH,Christian,,Uedem,NW,DEU
-2620709,DJ3PX,Reinhold,,Neustadt,RP,DEU
-2620710,DO1EL,Karlheinz,,Duisburg,NW,DEU
-2620711,DH0GME,Elmar,,Villingen-Schwenningen,BW,DEU
-2840386,LZ1TUZ,Bojotuz,,Sofia,.,BGR
-2930495,S57MB,Boris,,Velenje,.,SLO
-2930496,S52G,Cbrk,,Nova Gorica,.,SLO
-2020086,SW8LES,no_name,,no_city,.,GRC
-2225927,IW8EST,Luigi,,No_city,,ITA
-2225934,IN3IVV,Massimo,,Sella Giudicarie (TN),Trentino AA,ITA
-2348479,M0OUK,no_name,,no_city,.,GBR
-2354771,MM3ZTS,no_name,,no_city,.,GBR
-2620712,DC8OH,Christian,,Wunstorf,NI,DEU
-2620713,DG6DXG,Grzegorz,,Muenchen,BY,DEU
-2861963,TB6BWW,Munir,,no_city,.,TUR
-2861964,TB2DJX,Ahmetyakup3781,,no_city,.,TUR
-2861965,TA1HD,no_name,,no_city,.,TUR
-2861966,TB1DBY,no_name,,no_city,.,TUR
-2140319,EA5IZS,Ea5izs,,no_city,.,ESP

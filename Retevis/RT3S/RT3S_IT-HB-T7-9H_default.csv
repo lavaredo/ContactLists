@@ -5671,7 +5671,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225670,IU8CDS,Raffaele Di Marco,Raffaele,Pontecagnano (SA),Campania,ITA
 2225671,IZ1MMM,Sergio Re,Sergio,Cuneo (CN),Piemonte,ITA
 2225672,IW2LPC,Alessandro Boldrini,Alessandro,Botticino (BS),Lombardia,ITA
-2225673,IU0DSZ,no_name ,no_name,no_city,,ITA
+2225673,IU0DSZ,no_name ,no_name,no_city,.,ITA
 2225674,IW6PIC,Ivo Pizzola,Ivo,Pratola Peligna (AQ),Abruzzo,ITA
 2225675,IU3MAQ,Ivan Berton,Ivan,Fosso' (VE),Veneto,ITA
 2225676,IK8WTK,Salvatore Ruggiero,Salvatore,Nocera Inferiore (SA),Campania,ITA
@@ -5925,6 +5925,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225924,IZ8GUA,Andrea Liparoti,Andrea,Cosenza (CS),Calabria,ITA
 2225925,IU8KDD,Raffaele ,Raffaele,San Nicola La Strada (CE),Campania,ITA
 2225926,IU2NWH,No_name ,No_name,Porto Mantovano (MN),Lombardia,ITA
+2225927,IW8EST,Luigi ,Luigi,No_city,,ITA
+2225928,IW0ROX,Alessandro ,Alessandro,Terni (TR),Umbria,ITA
+2225929,IS0MNR,Valente Leoni,Valente,Elmas (CA),Sardegna,ITA
+2225930,IT9BTI,Orazio Sorbello,Orazio,Riposto (CT),Sicilia,ITA
+2225931,IU2NRF,Massimo Esposito,Massimo,Gorno (BG),Lombardia,ITA
+2225932,IZ5YEJ,Antonio Sasso,Antonio,Santa Maria A Monte (PI),Toscana,ITA
+2225933,IZ2TEU,Daniele Poli,Daniele,Gardone Val Trompia (BS),Lombardia,ITA
+2225934,IN3IVV,Massimo ,Massimo,Sella Giudicarie (TN),Trentino AA,ITA
+2225935,IW0EQG,Sandro De Francesco,Sandro,Roma (RM),Lazio,ITA
 2226001,IZ6FGP,Mario Ranni,Mario,Ortona (CH),Abruzzo,ITA
 2226002,IK6TTE,Plinio Codastefano,Plinio,Casalbordino (CH),Abruzzo,ITA
 2226003,IZ6FGP,Mario Ranni,Mario,Ortona (CH),Abruzzo,ITA
@@ -8589,7 +8598,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2283199,HB3XTM,Mario ,Mario,Muehlethurnen,Bern und Oberwallis,CHE
 2283200,HB9RWR,Urs Fluekiger,Urs,Ersigen,,CHE
 2283201,HB9SHB,Marc ,Marc,Zollikofen,,CHE
-2283202,HB9RVH,no_name ,no_name,no_city,,CHE
+2283202,HB9RVH,no_name ,no_name,no_city,.,CHE
 2283203,HB9RVG,Roli ,Roli,Graechen,,CHE
 2283204,HB9TBI,Francesco ,Francesco,Bern,,CHE
 2283205,HB9EVN,Remo ,Remo,Bern,,CHE
@@ -8829,6 +8838,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2284234,HB9TPQ,Dieter ,Dieter,Solothurn,,CHE
 2284235,HB9PFA,Albert ,Albert,Muenchenstein,,CHE
 2284236,HB9GVA,Romeo Kienzler,Romeo,Basel,,CHE
+2284237,HB3XVF,Andrea Bertoneri,Andrea,Basel,.,CHE
 2285001,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE
 2285002,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE
 2285003,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE
@@ -9154,7 +9164,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2286254,HB9HEC,Gabri ,Gabri,Astano,Gabri,CHE
 2286255,HB3YTC,Roberto ,Roberto,Lumino,,CHE
 2286256,HB9TTY,Fred ,Fred,Buttisholz,,CHE
-2286257,HB9ERA,no_name ,no_name,no_city,,CHE
+2286257,HB9ERA,no_name ,no_name,no_city,.,CHE
 2286258,HB9GHD,Davide Paganoni,Davide,Piedmont,Zentralschweiz und T,CHE
 2287001,HB9FPO,Stefano ,Stefano,Poschiavo,Graubuenden,CHE
 2287002,HB9HAN,Roland Peter,Roland,Sargans,Graubuenden,CHE
@@ -9685,13 +9695,3 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2920019,T77TF,Tullio Fabbri,Tullio,San Marino,San Marino,SMR
 2920020,T77IC,Roberto Boroncelli,Roberto,San Marino,San Marino,SMR
 2920021,T77WL,Massimo Lusardi,Massimo,San Marino,San Marino,SMR
-2225928,IW0ROX,Alessandro ,Alessandro,Terni (TR),Umbria,ITA
-2225929,IS0MNR,Valente Leoni,Valente,Elmas (CA),Sardegna,ITA
-2225930,IT9BTI,Orazio Sorbello,Orazio,Riposto (CT),Sicilia,ITA
-2225931,IU2NRF,Massimo Esposito,Massimo,Gorno (BG),Lombardia,ITA
-2225932,IZ5YEJ,Antonio Sasso,Antonio,Santa Maria A Monte (PI),Toscana,ITA
-2225933,IZ2TEU,Daniele Poli,Daniele,Gardone Val Trompia (BS),Lombardia,ITA
-2225935,IW0EQG,Sandro De Francesco,Sandro,Roma (RM),Lazio,ITA
-2284237,HB3XVF,Andrea Bertoneri,Andrea,Basel,.,CHE
-2225927,IW8EST,Luigi ,Luigi,No_city,,ITA
-2225934,IN3IVV,Massimo ,Massimo,Sella Giudicarie (TN),Trentino AA,ITA
