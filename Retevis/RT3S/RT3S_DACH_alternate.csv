@@ -1776,6 +1776,8 @@
 2321258,OE1SPD Sebastia,Sebastian Pfeifer        Wien                    WIEN                    AUT
 2321259,OE1EGU Erwin   ,Erwin Gamerith           Wien                    WIEN                    AUT
 2321260,OE1VDS Dejan   ,Dejan Stojanovic         Wien                    WIEN                    AUT
+2321261,OE1MIS Michael ,Michael Rubitschka       Wien                    WIEN                    AUT
+2321262,OE1ZMM Michel  ,Michel Montfort          Wien                    WIEN                    AUT
 2321301,OE1BAD Andreas ,Andreas Boeck            Wien                    WIEN                    AUT
 2321302,OE1PNS Peter   ,Peter                    Wien                    WIEN                    AUT
 2321303,OE1MCU Michael ,Michael Kastelic         Wien                    WIEN                    AUT
@@ -2428,6 +2430,7 @@
 2325176,OE5AGM Andreas ,Andreas Gallistl         Wels                    OOE                     AUT
 2325177,OE5XXF no_name ,no_name                  no_city                 OOE                     AUT
 2325178,OE5TJO Tim     ,Tim Justus               Sankt Pantaleon         OOE                     AUT
+2325179,OE5SGN Gerhard ,Gerhard Simader          Buchkirchen             OOE                     AUT
 2325181,OE5PON Andreas ,Andreas Pointner         Alberndorf In der Riedm OOE                     AUT
 2325251,OE5DRP Peter   ,Peter Albrecht           Schlaegl                OOE                     AUT
 2326001,OE6HEF Harald  ,Harald Enko              St. Peter Ob Judenburg  STMK                    AUT
@@ -2945,6 +2948,7 @@
 2328100,OE8ELO no_name ,no_name                  Feldkirchen In Kaernten KTN                     AUT
 2328101,OE8TEK Elmar   ,Elmar Tusch              Bodensdorf              KTN                     AUT
 2328102,OE8FOX Juergen ,Juergen Spreitzer        Steindorf               KTN                     AUT
+2328103,OE8RPK Roland  ,Roland Pobatschnig       Sankt Andrae            KTN                     AUT
 2328212,OE8LBK Helmut  ,Helmut                   Villach                 KTN                     AUT
 2328502,OE8WLK Wolf    ,Wolf Spielvogel          Villach                 KTN                     AUT
 2328503,OE8BCK Christof,Christof Bodner          Gmuend                  KTN                     AUT
@@ -2976,7 +2980,7 @@
 2328892,OE8MCQ Udo     ,Udo                      Wernberg                KTN                     AUT
 2329001,OE9KFV Frank   ,Frank Kossidowski        Hoerbranz               VBG                     AUT
 2329002,OE9KSV Karl    ,Karl Schoell             Bregenz                 VBG                     AUT
-2329003,OE9IGV Ingo    ,Ingo                     Dornbirn                VBG                     AUT
+2329003,OE9IGV Ingo    ,Ingo Giesinger           Dornbirn                VBG                     AUT
 2329004,OE9TEV Tobias  ,Tobias Eisemann          Loruens                 VBG                     AUT
 2329005,OE9AFV Alexande,Alexander Fetz           Lauterach               VBG                     AUT
 2329006,OE9SAJ Stephan ,Stephan Autengruber      Bregenz                 VBG                     AUT
@@ -3096,6 +3100,7 @@
 2329120,OE9PHV Heinz   ,Heinz Petnig             Lustenau                VBG                     AUT
 2329121,OE9TAV Tamer   ,Tamer Yekdes             Lustenau                VBG                     AUT
 2329122,OE9RFV no_name ,no_name                  no_city                 VBG                     AUT
+2329123,OE9IGV Ingo    ,Ingo Giesinger           Dornbirn                VBG                     AUT
 2620001,DD8OA Jan      ,Jan Oppermann            Thale                   ST                      DEU
 2620002,DB1JBA Jens    ,Jens Bontemps            Wismar                  MV                      DEU
 2620003,DG0CCO Joerg   ,Joerg Saalfeld           Tangermuende            ST                      DEU
@@ -3742,7 +3747,7 @@
 2620644,DG4CG Christian,Christian Gifhorn        Hebertsfelden           BY                      DEU
 2620645,DK3LU Joerg    ,Joerg Buechler           Waibstadt               BW                      DEU
 2620646,DL1RCD Bernhard,Bernhard Brandl          Fensterbach             BY                      DEU
-2620647,DB5UX Reiner   ,Reiner Helm              Lauf                    BW                      DEU
+2620647,DL5OBH Juergen ,Juergen Klier            Hannover                NI                      DEU
 2620648,DO7WC Christian,Christian Wolff          Altenburg               NI                      DEU
 2620649,DG1OBD Axel    ,Axel Steinkamp           Hannover                NI                      DEU
 2620650,DG2GME Michael ,Michael Schroeder        Mahlberg                BW                      DEU
@@ -3823,6 +3828,30 @@
 2620725,DL2FAG Karl-Hei,Karl-Heinz Kuehlborn     Graevenwiesbach         HE                      DEU
 2620726,DD0VS Harald   ,Harald Fritzsche         Lauf                    BY                      DEU
 2620727,DG8YB Florian  ,Florian Brandl           Schongau                BY                      DEU
+2620728,DC7CY Rudolf   ,Rudolf Strauch           Unterfoehring           BY                      DEU
+2620729,DK9OC Guenther ,Guenther Grave           Hildesheim              NI                      DEU
+2620730,DH0ST Timo     ,Timo Schneider           Weilburg                HE                      DEU
+2620731,DL3SV Matthias ,Matthias Gauch           Trochtelfingen          BW                      DEU
+2620732,DL6SBM Juergen ,Juergen Brandler         Neu-Ulm                 BY                      DEU
+2620733,DG9AS Joachim  ,Joachim Paulmann         Celle                   NI                      DEU
+2620734,DO8FC Christian,Christian Salzmann       Bebra                   HE                      DEU
+2620735,DF1QQ Manfred  ,Manfred Heyne            Greven                  NW                      DEU
+2620736,DL7UPN Axel    ,Axel Scholz              Grossraeschen           BB                      DEU
+2620737,DL1OB Rainer   ,Rainer Markwardt         Neustadt-Glewe          MV                      DEU
+2620738,DG2OBI Michael ,Michael Hartmann         Holzminden              NI                      DEU
+2620739,DO1KFS Friedhel,Friedhelm Schumann       Hamburg                 HH                      DEU
+2620740,DB7EM Edward   ,Edward Mc Gaha           Neuenstein              BW                      DEU
+2620741,DL3MHS Hamdo   ,Hamdo Melezovic          Muenchen                BY                      DEU
+2620742,DL1HR Ralph    ,Ralph Hellmig            Bad Laasphe             NW                      DEU
+2620743,DD3PM Michael  ,Michael Mueller          Speicher                RP                      DEU
+2620744,DL4EQ Bernd    ,Bernd Lange              Ratingen                NW                      DEU
+2620745,DO5HJK Hermann-,Hermann-Josef Kruecken   Niederkruechten         NW                      DEU
+2620746,DM7ST Stefan   ,Stefan Reichelt          Berlin                  BE                      DEU
+2620747,DG2SEW Jens    ,Jens Winkler             Vaihingen An der Enz    BW                      DEU
+2620748,DO7PCH Christop,Christoph Horn           Seeheim-Jugenheim       HE                      DEU
+2620749,DF3MIB Andreas ,Andreas Greinwald        Mechernich              NW                      DEU
+2620750,DG5RCH Rudi    ,Rudi Ehrenschwender      Mengkofen               BY                      DEU
+2620751,DG1SGH Wolf    ,Wolf Winkler             Vaihingen               BW                      DEU
 2621001,DL7AJ Wolfgang ,Wolfgang Meier           Berlin                  BE                      DEU
 2621002,DG4FEY Thomas  ,Thomas Kocher            Berlin                  BE                      DEU
 2621003,DL7ATA Frank   ,Frank Kochanski          Berlin                  BE                      DEU
@@ -15562,9 +15591,9 @@
 2644849,DO7KY Andreas  ,Andreas Respondek        Koeln                   NW                      DEU
 2644850,DL5JA Peter    ,Peter Rommerskirchen     Schwalmtal              NW                      DEU
 2644851,DO3THP Thorben ,Thorben Potthast         Bochum                  NW                      DEU
-2620728,DC7CY Rudolf   ,Rudolf Strauch           Unterfoehring           BY                      DEU
-2620729,DK9OC Guenther ,Guenther Grave           Hildesheim              NI                      DEU
-2620730,DH0ST Timo     ,Timo Schneider           Weilburg                HE                      DEU
-2620731,DL3SV Matthias ,Matthias Gauch           Trochtelfingen          BW                      DEU
-2325179,OE5SGN Gerhard ,Gerhard Simader          Buchkirchen             OOE                     AUT
-2329123,OE9IGV Ingo    ,Ingo Giesinger           Dornbirn                VBG                     AUT
+2620752,DK1SDR Juergen ,Juergen Haerpfer         Weinsberg               BW                      DEU
+2620753,DL9HAM Michael ,Michael Klemmer          Hamburg                 HH                      DEU
+2620754,DJ0NA Adolf    ,Adolf Zagers             Altenkirchen            RP                      DEU
+2620755,DK2HI Frank    ,Frank Moellerfeld        Gronau Ot Behteln       NI                      DEU
+2620756,DO3TBA Thomas  ,Thomas Basler            Weiherhammer            BY                      DEU
+2322061,OE25URQ Uwe    ,Uwe Rimmele              Noetsch im Gailtal      KTN                     AUT

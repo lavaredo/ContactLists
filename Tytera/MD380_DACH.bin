@@ -1,4 +1,4 @@
-878891
+880572
 1,Local, ,,,,
 2,Local/Cluster, ,,,,
 8,Regional, ,,,,
@@ -1918,6 +1918,8 @@
 2321258,OE1SPD,Sebastian Pfeifer,Wien,WIEN,Sebastian,AUT
 2321259,OE1EGU,Erwin Gamerith,Wien,WIEN,Erwin,AUT
 2321260,OE1VDS,Dejan Stojanovic,Wien,WIEN,Dejan,AUT
+2321261,OE1MIS,Michael Rubitschka,Wien,WIEN,Michael,AUT
+2321262,OE1ZMM,Michel Montfort,Wien,WIEN,Michel,AUT
 2321301,OE1BAD,Andreas Boeck ,Wien,WIEN,Andreas,AUT
 2321302,OE1PNS,Peter ,Wien,WIEN,Peter,AUT
 2321303,OE1MCU,Michael Kastelic ,Wien,WIEN,Michael,AUT
@@ -2570,6 +2572,7 @@
 2325176,OE5AGM,Andreas Gallistl ,Wels,OOE,Andreas,AUT
 2325177,OE5XXF,no_name ,no_city,OOE,no_name,AUT
 2325178,OE5TJO,Tim Justus ,Sankt Pantaleon,OOE,Tim,AUT
+2325179,OE5SGN,Gerhard Simader,Buchkirchen,OOE,Gerhard,AUT
 2325181,OE5PON,Andreas Pointner ,Alberndorf In der Riedmark,OOE,Andreas,AUT
 2325251,OE5DRP,Peter Albrecht ,Schlaegl,OOE,Peter,AUT
 2326001,OE6HEF,Harald Enko ,St. Peter Ob Judenburg,STMK,Harald,AUT
@@ -3087,6 +3090,7 @@
 2328100,OE8ELO,no_name ,Feldkirchen In Kaernten,KTN,no_name,AUT
 2328101,OE8TEK,Elmar Tusch,Bodensdorf,KTN,Elmar,AUT
 2328102,OE8FOX,Juergen Spreitzer,Steindorf,KTN,Juergen,AUT
+2328103,OE8RPK,Roland Pobatschnig,Sankt Andrae,KTN,Roland,AUT
 2328212,OE8LBK,Helmut ,Villach,KTN,Helmut,AUT
 2328502,OE8WLK,Wolf Spielvogel ,Villach,KTN,Wolf,AUT
 2328503,OE8BCK,Christof Bodner ,Gmuend,KTN,Christof,AUT
@@ -3118,7 +3122,7 @@
 2328892,OE8MCQ,Udo ,Wernberg,KTN,Udo,AUT
 2329001,OE9KFV,Frank Kossidowski ,Hoerbranz,VBG,Frank,AUT
 2329002,OE9KSV,Karl Schoell ,Bregenz,VBG,Karl,AUT
-2329003,OE9IGV,Ingo ,Dornbirn,VBG,Ingo,AUT
+2329003,OE9IGV,Ingo Giesinger,Dornbirn,VBG,Ingo,AUT
 2329004,OE9TEV,Tobias Eisemann ,Loruens,VBG,Tobias,AUT
 2329005,OE9AFV,Alexander Fetz ,Lauterach,VBG,Alexander,AUT
 2329006,OE9SAJ,Stephan Autengruber ,Bregenz,VBG,Stephan,AUT
@@ -3238,6 +3242,7 @@
 2329120,OE9PHV,Heinz Petnig ,Lustenau,VBG,Heinz,AUT
 2329121,OE9TAV,Tamer Yekdes ,Lustenau,VBG,Tamer,AUT
 2329122,OE9RFV,no_name ,no_city,VBG,no_name,AUT
+2329123,OE9IGV,Ingo Giesinger,Dornbirn,VBG,Ingo,AUT
 2620001,DD8OA,Jan Oppermann,Thale,ST,Jan,DEU
 2620002,DB1JBA,Jens Bontemps,Wismar,MV,Jens,DEU
 2620003,DG0CCO,Joerg Saalfeld,Tangermuende,ST,Joerg,DEU
@@ -3884,7 +3889,7 @@
 2620644,DG4CG,Christian Gifhorn,Hebertsfelden,BY,Christian,DEU
 2620645,DK3LU,Joerg Buechler,Waibstadt,BW,Joerg,DEU
 2620646,DL1RCD,Bernhard Brandl,Fensterbach,BY,Bernhard,DEU
-2620647,DB5UX,Reiner Helm,Lauf,BW,Reiner,DEU
+2620647,DL5OBH,Juergen Klier,Hannover,NI,Juergen,DEU
 2620648,DO7WC,Christian Wolff,Altenburg,NI,Christian,DEU
 2620649,DG1OBD,Axel Steinkamp,Hannover,NI,Axel,DEU
 2620650,DG2GME,Michael Schroeder,Mahlberg,BW,Michael,DEU
@@ -3965,6 +3970,30 @@
 2620725,DL2FAG,Karl-Heinz Kuehlborn,Graevenwiesbach,HE,Karl-Heinz,DEU
 2620726,DD0VS,Harald Fritzsche,Lauf,BY,Harald,DEU
 2620727,DG8YB,Florian Brandl,Schongau,BY,Florian,DEU
+2620728,DC7CY,Rudolf Strauch,Unterfoehring,BY,Rudolf,DEU
+2620729,DK9OC,Guenther Grave,Hildesheim,NI,Guenther,DEU
+2620730,DH0ST,Timo Schneider,Weilburg,HE,Timo,DEU
+2620731,DL3SV,Matthias Gauch,Trochtelfingen,BW,Matthias,DEU
+2620732,DL6SBM,Juergen Brandler,Neu-Ulm,BY,Juergen,DEU
+2620733,DG9AS,Joachim Paulmann,Celle,NI,Joachim,DEU
+2620734,DO8FC,Christian Salzmann,Bebra,HE,Christian,DEU
+2620735,DF1QQ,Manfred Heyne,Greven,NW,Manfred,DEU
+2620736,DL7UPN,Axel Scholz,Grossraeschen,BB,Axel,DEU
+2620737,DL1OB,Rainer Markwardt,Neustadt-Glewe,MV,Rainer,DEU
+2620738,DG2OBI,Michael Hartmann,Holzminden,NI,Michael,DEU
+2620739,DO1KFS,Friedhelm Schumann,Hamburg,HH,Friedhelm,DEU
+2620740,DB7EM,Edward Mc Gaha,Neuenstein,BW,Edward,DEU
+2620741,DL3MHS,Hamdo Melezovic,Muenchen,BY,Hamdo,DEU
+2620742,DL1HR,Ralph Hellmig,Bad Laasphe,NW,Ralph,DEU
+2620743,DD3PM,Michael Mueller,Speicher,RP,Michael,DEU
+2620744,DL4EQ,Bernd Lange,Ratingen,NW,Bernd,DEU
+2620745,DO5HJK,Hermann-Josef Kruecken,Niederkruechten,NW,Hermann-Josef,DEU
+2620746,DM7ST,Stefan Reichelt,Berlin,BE,Stefan,DEU
+2620747,DG2SEW,Jens Winkler,Vaihingen An der Enz,BW,Jens,DEU
+2620748,DO7PCH,Christoph Horn,Seeheim-Jugenheim,HE,Christoph,DEU
+2620749,DF3MIB,Andreas Greinwald,Mechernich,NW,Andreas,DEU
+2620750,DG5RCH,Rudi Ehrenschwender,Mengkofen,BY,Rudi,DEU
+2620751,DG1SGH,Wolf Winkler,Vaihingen,BW,Wolf,DEU
 2621001,DL7AJ,Wolfgang Meier,Berlin,BE,Wolfgang,DEU
 2621002,DG4FEY,Thomas Kocher,Berlin,BE,Thomas,DEU
 2621003,DL7ATA,Frank Kochanski,Berlin,BE,Frank,DEU
@@ -15704,9 +15733,9 @@
 2644849,DO7KY,Andreas Respondek,Koeln,NW,Andreas,DEU
 2644850,DL5JA,Peter Rommerskirchen,Schwalmtal,NW,Peter,DEU
 2644851,DO3THP,Thorben Potthast,Bochum,NW,Thorben,DEU
-2620728,DC7CY,Rudolf Strauch,Unterfoehring,BY,Rudolf,DEU
-2620729,DK9OC,Guenther Grave,Hildesheim,NI,Guenther,DEU
-2620730,DH0ST,Timo Schneider,Weilburg,HE,Timo,DEU
-2620731,DL3SV,Matthias Gauch,Trochtelfingen,BW,Matthias,DEU
-2325179,OE5SGN,Gerhard Simader,Buchkirchen,OOE,Gerhard,AUT
-2329123,OE9IGV,Ingo Giesinger,Dornbirn,VBG,Ingo,AUT
+2620752,DK1SDR,Juergen Haerpfer,Weinsberg,BW,Juergen,DEU
+2620753,DL9HAM,Michael Klemmer,Hamburg,HH,Michael,DEU
+2620754,DJ0NA,Adolf Zagers,Altenkirchen,RP,Adolf,DEU
+2620755,DK2HI,Frank Moellerfeld,Gronau Ot Behteln,NI,Frank,DEU
+2620756,DO3TBA,Thomas Basler,Weiherhammer,BY,Thomas,DEU
+2322061,OE25URQ,Uwe Rimmele,Noetsch im Gailtal,KTN,Uwe,AUT
