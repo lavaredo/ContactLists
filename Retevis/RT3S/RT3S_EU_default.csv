@@ -95,6 +95,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2020094,SV4LAE,Irene ,Irene,Volos,.,GRC
 2020095,SY8DGQ,Ektoras ,Ektoras,Mitilini,.,GRC
 2020096,SY7AXF,George ,George,Kissario,.,GRC
+2020097,SV1LHN,no_name ,no_name,no_city,.,GRC
 2021001,SV1BYK,Babis Kappatos,Babis,Athens,Attica,GRC
 2021002,SV1PDW,Ioannis Barbat-Soskos,Ioannis,Athens,Attica,GRC
 2021003,SV1IW,Emmanouel Darkadakis,Emmanouel,Athens,Attica,GRC
@@ -1403,6 +1404,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2040069,PD1MZ,Maarten Zeypveld,Maarten,Den Helder,.,NLD
 2040070,PD1JHH,Jan ,Jan,Hoogerheide,.,NLD
 2040071,PE1JNQ,Bertus ,Bertus,Almere,Flevoland,NLD
+2040072,PE9JAN,Jan ,Jan,Oosterleek,.,NLD
 2040073,PA3PI,Paul ,Paul,Utrecht,.,NLD
 2040074,PD2GRZ,Pieter Liebregts,Pieter,Beers Nb,Nno_infobrabant,NLD
 2040075,PE1HYP,Koos ,Koos,Groningen,Groningen,NLD
@@ -3024,7 +3026,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2046122,PA5VK,Henksk ,Henksk,Apeldoorn,Gelderland,NLD
 2046123,PE1RES,Jan Hensen,Jan,Harderwijk,Gelderland,NLD
 2046124,PD0RB,Rene Bovenkamp,Rene,Malden,Gelderland,NLD
-2046125,PA9BT,Erik Bellert,Erik,Twello,Gelderland,NLD
+2046125,PA2TX,Erik ,Erik,Twello,Gelderland,NLD
 2046126,PE1NHD,Jos Malherbe,Jos,Arnhem,Gelderland,NLD
 2046127,PE1BGO,Guus Wiselius,Guus,Lochem,Gelderland,NLD
 2046128,PA4SB,Sander Baten,Sander,Gendringen,Gelderland,NLD
@@ -4029,7 +4031,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060294,ON2PAT,no_name ,no_name,Lommel,.,BEL
 2060295,ON7CFZ,no_name ,no_name,no_city,.,BEL
 2060296,ON3PBC,no_name ,no_name,no_city,.,BEL
-2060297,ON4DSL,Peter Vanoverbeke,Peter,Houthulst,.,BEL
+2060297,ON6NY,Willy Coutereel,Willy,Middelkerke,.,BEL
 2060298,ON8LR,no_name ,no_name,Rijmenam,.,BEL
 2060299,ON6FS,no_name ,no_name,Boussu,.,BEL
 2060300,ON5BJ,no_name ,no_name,no_city,.,BEL
@@ -5601,6 +5603,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080462,F0EQG,Thierry ,Thierry,Montrouge,.,FRA
 2080463,F4CYX,Hubert ,Hubert,Schweighouse Sur Moder,.,FRA
 2080464,F5ILQ,Jeanpascal ,Jeanpascal,Prouvy,.,FRA
+2080465,F4EFP,Claude ,Claude,Mezieres Sous Lavardin,.,FRA
+2080466,F5JHC,Nicolas ,Nicolas,Montauroux,.,FRA
+2080467,F5JNI,Jeanclaude ,Jeanclaude,51240 - Mairy Sur Marne,.,FRA
+2080468,F5PEG,Henri ,Henri,Sarry,.,FRA
 2081001,F1UOT,Olivier Guerin,Olivier,Suresnes,Ile-de-France,FRA
 2081002,F4ACD,Romain Hulot,Romain,Poitiers,Vienne,FRA
 2081003,F1TDI,Daniel Trillaud,Daniel,Suresnes,Paris,FRA
@@ -7660,7 +7666,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140341,EA5CWC,Vicente ,Vicente,Almazora,Valencia,ESP
 2140342,EA5JX,Jaume Manzano,Jaume,Altea (ALACANT),Alicante,ESP
 2140343,EA1FGV,Eloy ,Eloy,Alcala De Henares,Galicia,ESP
-2140344,EB7BVL,Javier Lopez,Javier,no_city,.,ESP
+2140344,EA1BDV,Manuel Vno_name,Manuel,Aviles Asturias,.,ESP
 2140346,EA1HVH,Ramn ,Ramn,A Corua,.,ESP
 2140347,EA5RM,no_name ,no_name,Elche,.,ESP
 2140349,EB9GB,Germinal ,Germinal,Ceuta,.,ESP
@@ -7683,6 +7689,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2140367,EB5HI,Tonicaldern ,Tonicaldern,Paterna,.,ESP
 2140368,EA2ETV,Ivanm ,Ivanm,Vitoria-Gasteiz,.,ESP
 2140369,EA4FBG,no_name ,no_name,no_city,.,ESP
+2140370,EA4ON,Victorcadierno ,Victorcadierno,Las Rozas,.,ESP
+2140371,EA5JAA,Elziber ,Elziber,La Nuca,.,ESP
+2140372,EA5IZZ,Tonials ,Tonials,Lalfas Del Pi,.,ESP
+2140373,EA7KLD,Jmgt ,Jmgt,Martos,.,ESP
+2140374,EA3IIQ,no_name ,no_name,Lleida,.,ESP
+2140375,EA1IYA,Jose Ruiz,Jose,Medina Del Campo ( VALLADOLID),Castilla Y Leon,ESP
+2140376,EA3GWF,Paco ,Paco,Barcelona,.,ESP
+2140377,EA6YK,Mmf ,Mmf,Inca Mallorca,.,ESP
+2140378,EA3IHF,Javier ,Javier,Lleida,.,ESP
+2140379,EA3C,Carlos ,Carlos,Tremp,.,ESP
+2140380,EA6ANB,Cayetano ,Cayetano,Inca,.,ESP
 2141001,EB1CU,Andoni ,Andoni,Castro Urdiales,Cantabria,ESP
 2141002,EA1DBB,Adolfo Vila,Adolfo,Ourense,Galicia,ESP
 2141003,EB1CU,Axpe Andoni,Axpe,Castro Urdiales,Cantabria,ESP
@@ -14286,6 +14303,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2190300,9A5FTR,Tullio ,Tullio,Nave (BS),Lombardia,HRV
 2190301,9A3DAH,Antonio ,Antonio,Slatina,.,HRV
 2190302,9A2ND,Branko Ilic,Branko,Dubrovnik,.,HRV
+2190303,9A3CTT,no_name ,no_name,no_city,.,HRV
 2200001,YT2CQ,Miloslav Miskar,Miloslav,Novi Sad,,SRB
 2200002,YU1VI,Slobodan Nikolic,Slobodan,Belgrade,Slobodan,SRB
 2200003,YU5JZI,Igor Joncic,Igor,Beograd,,SRB
@@ -20525,7 +20543,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2225967,IZ2RPP,Nicola Zeni,Nicola,Sumirago (VA),Lombardia,ITA
 2225968,IU2NRH,Francesco ,Francesco,Cilavegna (PV),Lombardia,ITA
 2225969,IU3NMO,Alberto Filippi,Alberto,Valli Del Pasubio (VI),Veneto,ITA
-2225970,IU1NOD,Corrado Bortolin,Corrado,Airasca (TO),Piemonte,ITA
+2225970,IT9ETX,Nino Santagati,Nino,Motta Sulla Secchia (MO),Emilia-Rom.,ITA
 2225971,IK2TQI,Fulvio Caimi,Fulvio,Villanterio (PV),Lombardia,ITA
 2225972,IV3EPC,Fabrizio Lizzi,Fabrizio,San Daniele Del Friuli (UD),Friuli VG,ITA
 2225973,IU4JGI,Talmelli Stefano,Talmelli,Ferrara (FE),Emilia-Rom.,ITA
@@ -20964,6 +20982,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2226406,IU0GJQ,Marty Bello,Marty,Perugia (PG),Umbria,ITA
 2226407,IZ2YAL,Federico Catteruccia,Federico,Ranica (BG),Lombardia,ITA
 2226408,IW1GLE,Silvan Bert,Silvan,Bricherasio (TO),Piemonte,ITA
+2226409,IZ2OBB,No_name ,No_name,Induno Olona (VA),Lombardia,ITA
+2226410,IU5GBQ,Andrea Branchetti,Andrea,Carrara (MS),Toscana,ITA
+2226411,IK7IZM,Massimo Sartorio,Massimo,Taranto (TA),Puglia,ITA
+2226412,IT9CLX,Mirko Castorina,Mirko,Carlentini (SR),Sicilia,ITA
 2227001,IZ7OIX,Domenico Conte,Domenico,Bari (BA),Puglia,ITA
 2227002,IZ7GLL,Massimo Leonetti,Massimo,Bari (BA),Puglia,ITA
 2227003,IZ7ZFT,Silvio Martina,Silvio,Rutigliano (BA),Puglia,ITA
@@ -22776,6 +22798,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2260028,YO6BOY,Laszloairboy ,Laszloairboy,Toplita,.,ROU
 2260029,YO5BIM,Puiu ,Puiu,Oradea,.,ROU
 2260030,YO4RST,Romeo ,Romeo,Focsani,.,ROU
+2260031,YO9PAL,Paulyo9pal ,Paulyo9pal,Campina,.,ROU
 2261000,YO5DSG,Daniel Daniel,Daniel,Cluj-Napoca,Judeoul Cluj,ROU
 2261001,YO3GTS,Dan ,Dan,Bucharest,Bucharest,ROU
 2262001,YO2LOJ,Marius Petrescu,Marius,Timisoara,Judeul Timi,ROU
@@ -23579,6 +23602,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2282037,HB9FXW,Francois Wisard,Francois,La Chaux-de-Fonds,,CHE
 2282038,HB9GSO,Roland Urbanyik,Roland,Grenchen So,Westschweiz-Nord,CHE
 2282039,HB9EVI,Pascal ,Pascal,Boncourt,.,CHE
+2282040,HB9ARD,Lorenz ,Lorenz,Cressier Ne,.,CHE
 2283000,HB9DUU,Christian Christian,Christian,Ringgenberg,Interlaken,CHE
 2283001,HB9DUU,Christian ,Christian,Ringgenberg,Interlaken,CHE
 2283002,HB9DUU,Christian ,Christian,Ringgenberg,Interlaken,CHE
@@ -24706,7 +24730,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2288316,HB9HDC,Maik ,Maik,Uitikon,Zuerich und Thurgau,CHE
 2288317,HB3XUN,Digital Club,Digital,Waedenswil,Zuerich und Thurgau,CHE
 2288318,HB9LBR,Rolf Tschumi,Rolf,Waedenswil,Zuerich und Thurgau,CHE
-2288319,HB9SDB,Rolf ,Rolf,Waedenswil,Zuerich und Thurgau,CHE
+2288319,HB9HCQ,Marius Matter,Marius,Berikon,.,CHE
 2288320,HB9WAV,Peter ,Peter,Mettmenstetten,Zuerich und Thurgau,CHE
 2288321,HB9GYI,Crispin Tschirky,Crispin,Tagelswangen,Crispin,CHE
 2288322,HB9HDZ,Hans ,Hans,Embrach,ZH-TG,CHE
@@ -26456,6 +26480,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2325177,OE5XXF,no_name ,no_name,no_city,OOE,AUT
 2325178,OE5TJO,Tim Justus ,Tim,Sankt Pantaleon,OOE,AUT
 2325179,OE5SGN,Gerhard Simader,Gerhard,Buchkirchen,OOE,AUT
+2325180,OE5ARP,Ralph Aichinger,Ralph,Linz,KTN,AUT
 2325181,OE5PON,Andreas Pointner ,Andreas,Alberndorf In der Riedmark,OOE,AUT
 2325251,OE5DRP,Peter Albrecht ,Peter,Schlaegl,OOE,AUT
 2326001,OE6HEF,Harald Enko ,Harald,St. Peter Ob Judenburg,STMK,AUT
@@ -33627,7 +33652,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2347497,2E0SVS,Riki Callaghan,Riki,Stoke On Trent. Staffordshire,England,GBR
 2347498,G4OJD,Buddy Guy,Buddy,Brixham,England,GBR
 2347499,M7TFX,Timothy ,Timothy,Manchester,England,GBR
-2347500,M1DYP,Ken ,Ken,Welwyn Garden City,England,GBR
+2347500,M7TJS,Terry Sherwin,Terry,Aylesbury,.,GBR
 2347501,M3DKX,no_name ,no_name,Hove,England,GBR
 2347502,2E0FJH,John Harper,John,Benfleet,England,GBR
 2347503,M0MCT,Matthew Bradbury,Matthew,Rotherham,England,GBR
@@ -34629,10 +34654,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348501,M7PWB,Peter ,Peter,Stalybridge,.,GBR
 2348502,M7DEV,Stevec ,Stevec,Ripley,.,GBR
 2348503,G4KMM,Philip ,Philip,London,.,GBR
+2348504,M3XCN,Headhacker ,Headhacker,Sutton Coldfield,.,GBR
 2348505,M7CHB,Michaelbell ,Michaelbell,Sheffield,.,GBR
 2348506,M7AWG,Allang ,Allang,Chelmsford,.,GBR
+2348507,M6MRG,no_name ,no_name,no_city,.,GBR
+2348508,G2SM,Scott ,Scott,Blackburn,.,GBR
 2348509,M7SDN,Simon ,Simon,Macclesfield,.,GBR
 2348510,G0EDY,Peter ,Peter,Oxford,.,GBR
+2348511,M6VPT,Paul ,Paul,Darwen,.,GBR
 2348512,M6EPU,Thill ,Thill,Lowestoft,.,GBR
 2348513,M0OPL,Philip ,Philip,Durham,.,GBR
 2348514,M5WNS,Codge ,Codge,Chudleigh,.,GBR
@@ -34646,7 +34675,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348522,M3WQD,Sharon ,Sharon,Coalville,England,GBR
 2348525,G0SMJ,Mf Jackson,Mf,Holland On Sea. Clacton On Sea,England,GBR
 2348527,G7SUV,J Patterson,J,Thornton-Cleveleys,.,GBR
-2348528,M7FRS,Ben ,Ben,Still Unknown,England,GBR
+2348528,M7COV,Martin Higginson,Martin,Coventry,West Midlands,GBR
 2348529,M3JVK,James ,James,Doncaster,.,GBR
 2348531,2E0BUZ,David ,David,Nottingham,.,GBR
 2348532,M7FRS,Ben ,Ben,Still Unknown,England,GBR
@@ -34666,14 +34695,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348551,M7JOS,Joe ,Joe,Marston Magna,.,GBR
 2348552,G0LEU,Peter ,Peter,Broadstairs,.,GBR
 2348553,M7FVS,Paul ,Paul,Attleborough,.,GBR
-2348554,M7MRT,no_name ,no_name,no_city,.,GBR
+2348554,G7JUP,Jenny Beckingham,Jenny,Abbeymead. Gloucester,.,GBR
 2348555,M7JLD,Jimid ,Jimid,Corringham Essex,.,GBR
 2348556,G6FFB,Dave Meaker,Dave,Yate. Bristol. Uk,Sno_infogloucestershire,GBR
 2348557,M7IDS,Ian ,Ian,Reading,.,GBR
 2348558,M3NEL,Neil ,Neil,Chorley,.,GBR
 2348559,M7NAC,Tonycampbell ,Tonycampbell,London,.,GBR
-2348560,M7MRT,Mark T,Mark,no_city,.,GBR
-2348561,G6LPF,no_name ,no_name,no_city,.,GBR
+2348560,M7APV,Carl ,Carl,Harlow,.,GBR
+2348561,M7PWW,Paul ,Paul,Clitheroe,.,GBR
 2348562,G7JPE,Henry ,Henry,Stourport On Severn,.,GBR
 2348563,M7APU,Robert ,Robert,Lytham,.,GBR
 2348565,G8GQJ,Ray Cl;Ark,Ray,Chinnor,England,GBR
@@ -34711,6 +34740,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2348602,M7JNH,Jonah ,Jonah,Wallsend,.,GBR
 2348603,M7LAP,Paull ,Paull,Birmingham,.,GBR
 2348604,G0RGF,Daveallestree ,Daveallestree,Derby (AO),Valle D'Aosta,GBR
+2348605,G0JYQ,Malcolm ,Malcolm,Fareham,.,GBR
+2348606,M7EJS,Ericstammers ,Ericstammers,Guildford,.,GBR
+2348607,M7NES,Nigel ,Nigel,Woodbridge,.,GBR
+2348611,M7YOE,Graham ,Graham,Stoke-On-Trent,.,GBR
+2348613,M7HXS,Hamzahs ,Hamzahs,London,.,GBR
+2348615,G4SBC,Ianbateman ,Ianbateman,Chesterfield,.,GBR
+2348616,M7TCT,Mark ,Mark,Havant,.,GBR
+2348617,M0NTT,Richard ,Richard,Skipton,.,GBR
+2348618,M6TET,Tony Esen,Tony,Details,Withheld,GBR
+2348619,M1AIB,Paul ,Paul,Fareham,.,GBR
+2348620,M3DOO,Johndooley ,Johndooley,Stoke On Trent,.,GBR
 2349999,GM0RDI,Iain Iain,Iain,Lincoln,England,GBR
 2351001,G0PRF,John Goodwin,John,Huddersfield,West Yorkshire,GBR
 2351002,G0PRF,John Goodwin,John,Huddersfield,West Yorkshire,GBR
@@ -38091,6 +38131,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2354777,GM8NET,Aw Fraser,Aw,Glasgow G Bs,.,GBR
 2354779,MM7DBT,Dave ,Dave,Kirkcaldy,.,GBR
 2354780,MM7MTX,Cristian ,Cristian,Glasgow,.,GBR
+2354781,MM0OPX,Mm0opxcolin ,Mm0opxcolin,Edinburgh,.,GBR
+2354782,MM6HDZ,Hans ,Hans,Ballater,.,GBR
 2355001,MI3WWF,Mark ,Mark,Bangor,Northern Ireland,GBR
 2355002,GI8VKA,Roy Coulter,Roy,Ballynure,Northern Ireland,GBR
 2355003,MI0AAZ,John Anderson,John,Kilrea,Coleraine,GBR
@@ -38633,6 +38675,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2355540,MI0UFT,John Martin,John,Omagh,Northern Ireland,GBR
 2355541,MI0JPC,James Cosgrove,James,Newtownards,Northern Ireland,GBR
 2355543,2I0VWS,Jj ,Jj,Ballymena,.,GBR
+2355545,MI7MCK,Andy ,Andy,Newtownards,.,GBR
 2356001,GD6XHG,Ed Rixon,Ed,Douglas,Isle of Man,GBR
 2356002,GD6XHG,Ed Rixon,Ed,Douglas,Isle of Man,GBR
 2356003,GD0NFN,John Butler,John,Isle of Man,Isle of Man,GBR
@@ -38684,6 +38727,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2356049,MD7RFC,Robert Corrin,Robert,Douglas,Isle of Man,GBR
 2356050,MJ0THP,Markthorpe ,Markthorpe,Jersey,,GBR
 2356051,GU7DAI,Jasonsmith ,Jasonsmith,Guernsey,,GBR
+2356052,GD0WSK,Stuart ,Stuart,Isle Of Man,.,GBR
 2357001,GJ6WRI,Steve Cummins,Steve,St Peter,Jersey,GBR
 2357002,GJ7DTA,Anthony ,Anthony,Yota Station,Others,GBR
 2357003,GJ7LJJ,Nigel Utting,Nigel,St.Saviour,Others,GBR
@@ -38745,6 +38789,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2380046,OZ1ES,Erik Schmidt,Erik,Kastrup,Hovedstaden,DNK
 2380047,OZ4ACA,Peter Shark,Peter,Melby,.,DNK
 2380048,OZ7LM,Leiffynshav ,Leiffynshav,Augustenborg,.,DNK
+2380049,OZ2DLB,Dannydk ,Dannydk,Nordborg,.,DNK
+2380050,OZ9PPE,Per ,Per,Boulstrup Odder,.,DNK
+2380051,OZ6WR,Jorn ,Jorn,Ishoj,.,DNK
 2381001,OZ2CA,Soren ,Soren,Bronderslev,Nordjylland,DNK
 2381002,5P4Z,Herman Frank,Herman,Ulbjerg,Nordjylland,DNK
 2381003,5P5V,Find Kristensen,Find,Farsoe,Nordjylland,DNK
@@ -40546,6 +40593,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2400481,SM7ECA,Arne Nilsson,Arne,Malmoe,.,SWE
 2400482,SA3UTS,Tomasskoglund ,Tomasskoglund,Naelden,.,SWE
 2400483,SA0ZAP,Andreas ,Andreas,Osterskar,.,SWE
+2400484,SA6BTU,no_name ,no_name,Svenljunga,.,SWE
+2400485,SM6FBF,no_name ,no_name,Dalsjoefors,.,SWE
+2400486,SA0LAC,Peter ,Peter,Stockholm,.,SWE
+2400487,SM6WBU,John ,John,Alingsas,.,SWE
 2401001,SM5IGF,Staffan Kindgren,Staffan,Linkoeping,Gotland-I,SWE
 2401002,SM1NVX,Dag Salmanson,Dag,Klintehamn,Gotland-I,SWE
 2401003,SA1CCQ,Eddie Pilipavicius,Eddie,Romakloster,,SWE
@@ -44357,6 +44408,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2502147,R2ADU,Vladimir ,Vladimir,no_city,,RUS
 2502148,R2ACG,no_name ,no_name,no_city,,RUS
 2502149,R2ARZ,Pavel ,Pavel,no_city,,RUS
+2502153,R2AYH,Kirill ,Kirill,no_city,.,RUS
 2502154,R2ARB,Vadim ,Vadim,no_city,,RUS
 2502156,R2AACX,Revaz ,Revaz,no_city,,RUS
 2502157,R2DABO,Roman ,Roman,Moscow,Moscow,RUS
@@ -44720,6 +44772,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2504058,R4HEL,Alexander Kurunov,Alexander,Samara,Aleksandr,RUS
 2504059,RA4HM,Aleksandr ,Aleksandr,no_city,,RUS
 2504063,R4YAA,Oleg ,Oleg,no_city,.,RUS
+2504066,R4HFJ,Denis ,Denis,no_city,.,RUS
+2504069,R4YABC,Denis ,Denis,no_city,.,RUS
 2505001,R5DK,Alexey Kamenev,Alexey,Lyubertsy,,RUS
 2505002,R5ACQ,Kirill Ryabov,Kirill,Moscow,,RUS
 2505003,UB5MBG,Oleg ,Oleg,Rybinsk,Yaroslavl obl,RUS
@@ -44987,6 +45041,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2507076,RX7K,Konstantin Konstantin,Konstantin,no_city,,RUS
 2507077,R7RAX,Vlad ,Vlad,no_city,Vlad,RUS
 2507078,R7RAX,Vlad ,Vlad,no_city,Vlad,RUS
+2507079,UB7RBA,Arkady Arakelyan,Arkady,Sevastopol,All Regions,RUS
 2508001,R8CZ,Pavel Semyonov,Pavel,Amundsen,,RUS
 2508002,R8CAV,Andrey Kondratyuk,Andrey,Verhnyaya Pyshma,,RUS
 2508003,R8KAB,Evgenii Tarko-Sale,Evgenii,no_city,,RUS
@@ -45891,7 +45946,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600134,SQ3RS,Jacek ,Jacek,Poznan,,POL
 2600135,SP2GCH,Jacek Grzona,Jacek,Chojnice,Pomorskie,POL
 2600136,SQ5EXG,Grzegorz ,Grzegorz,Warszawa,,POL
-2600137,SQ7BRH,no_name ,no_name,no_city,.,POL
+2600137,SP5BRH,Bartek Barnas,Bartek,Radom,.,POL
 2600138,SP5FWT,Maciej ,Maciej,Legionowo,,POL
 2600139,SP5UAD,Slawomir ,Slawomir,Warszawa,,POL
 2600140,SP6TC,Tomasz ,Tomasz,Wroclaw,,POL
@@ -45953,6 +46008,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600196,SQ9FIV,Przemek ,Przemek,Jaworzno,.,POL
 2600197,SP5CI,Club Association,Club,Ciechanow,Mazowieckie,POL
 2600198,SQ1KTT,Leszek ,Leszek,Nowogrdek Pomorski,.,POL
+2600199,SQ1JA,Adam ,Adam,Szczecin,.,POL
 2600200,SQ7BFI,Andrzej ,Andrzej,Rzgow,.,POL
 2600201,SP9NSZ,Jozef ,Jozef,Myslowice,.,POL
 2600202,SP2FCF,Roman ,Roman,Rumia,.,POL
@@ -45960,6 +46016,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2600204,SQ7FZS,Sylwester ,Sylwester,Nowa Deba,.,POL
 2600205,SP5OXM,Mariusz Apalkow,Mariusz,Warszawa,Mazowieckie,POL
 2600206,SP2RII,Jacek ,Jacek,Tczew,.,POL
+2600207,SQ6SLG,Henryk ,Henryk,Boleslawiec,.,POL
+2600208,SP9TW,Tomasz ,Tomasz,Krakow,.,POL
 2601001,SP1XNE,Maciek ,Maciek,Szczecin,Zachodniopomorskie,POL
 2601002,SQ1TAO,Krzysztof ,Krzysztof,Szczecin,Zachodniopomorskie,POL
 2601003,SQ1GZG,Bogdan Gwodziaski,Bogdan,Stargard,Zachodniopomorskie,POL
@@ -49010,6 +49068,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620765,DG7BO,Werner Meyer,Werner,Verden,NI,DEU
 2620766,DG9LQ,Frank Wadehn,Frank,Nottensdorf,NI,DEU
 2620767,DL8CU,Helmut Matschiner,Helmut,Regen,BY,DEU
+2620768,DG5CAK,Heinz Illgen,Heinz,Pullach,BY,DEU
+2620769,DL2SV,Nikolaos Saridis,Nikolaos,Neumarkt,BY,DEU
 2621001,DL7AJ,Wolfgang Meier,Wolfgang,Berlin,BE,DEU
 2621002,DG4FEY,Thomas Kocher,Thomas,Berlin,BE,DEU
 2621003,DL7ATA,Frank Kochanski,Frank,Berlin,BE,DEU
@@ -59119,6 +59179,219 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2638212,DO8GER,Guenter Eichinger,Guenter,Kaufbeuren,BY,DEU
 2638213,DL3MRK,Markus Rath,Markus,Ismaning,BY,DEU
 2638214,DG2MFC,Roman Breisch,Roman,Erdweg/walkertshofen,BY,DEU
+2638430,DL1MBV,Michael Billa,Michael,Veitshoechheim,BY,DEU
+2638431,DL3NBS,Bernhard Schaeflein,Bernhard,Bamberg,BY,DEU
+2638432,DG2RAM,Michael Niemetz,Michael,Waldmuenchen,BY,DEU
+2638433,DB6BD,Dennis Willigmann,Dennis,Rosenheim,BY,DEU
+2638434,DF7MQ,Volker Gessner,Volker,Donauwoerth,BY,DEU
+2638435,DO5HBA,Hubert Burkert,Hubert,Weiler-Simmerberg,BY,DEU
+2638436,DK0OD,Christian Friess,Christian,Hebertshausen,BY,DEU
+2638437,DO4TS,Soeren Timm,Soeren,Bramsche,NI,DEU
+2638438,DF1HPK,Henrik Pfeifer,Henrik,Muenchen,BY,DEU
+2638439,DG2MDJ,Wolfgang Hartmuth,Wolfgang,Augsburg,BY,DEU
+2638440,DL1MXX,Maximilian Spratter,Maximilian,Bavaria,BY,DEU
+2638441,DL3SC,Sascha Conradi,Sascha,Altomuenster,BY,DEU
+2638442,DL9RDP,Heinz Metzger,Heinz,Noerdlingen,BY,DEU
+2638443,DO1MPS,Stefan Pichler,Stefan,Karlsfeld,BY,DEU
+2638444,DG2NCD,Wolfgang Schultheis,Wolfgang,Woerth a Main,BY,DEU
+2638445,DF3CU,Gerald Gebsattel,Gerald,Olching,BY,DEU
+2638446,DO1DO,Alexander Giesler,Alexander,no_city,,DEU
+2638447,DO1SLA,Stefan Linseisen,Stefan,Aschau am Inn,BY,DEU
+2638448,DO3SCL,Daniel Albert,Daniel,no_city,,DEU
+2638449,DL6SB,Sebastian Schubert,Sebastian,Buchenberg,BY,DEU
+2638450,DD1FLO,Florian Makesch,Florian,Olching,BY,DEU
+2638451,DO2RMH,Ralph Henne,Ralph,Koenigsbrunn,BY,DEU
+2638452,DO2KCH,Karin Henne,Karin,Koenigsbrunn,BY,DEU
+2638453,DL3HD,Heike Drechsler,Heike,Hebertshausen,BY,DEU
+2638454,DC0DON,Ingomar Rydwal,Ingomar,Oettingen,BY,DEU
+2638455,DL4HMS,Holger Sirch,Holger,Augsburg,BY,DEU
+2638456,DC0DR,Davide Ripamonti,Davide,Sigmarszell,BY,DEU
+2638457,DL5OL,Franz Loibl,Franz,Muenchen,BY,DEU
+2638458,DK2RS,Roland Soellheim,Roland,Ansbach,BY,DEU
+2638459,DG1MTG,Thomas Werner,Thomas,Muenchen,BY,DEU
+2638460,DG1MLK,Markus Kuchler,Markus,Fuerstenfeldbruck,BY,DEU
+2638461,DK1MAT,Olaf Mattmueller,Olaf,Alling,BY,DEU
+2638462,DL8HM,Martin Hammer,Martin,Hoehenkirchen,BY,DEU
+2638463,DL5MFJ,Johannes Ziegler,Johannes,Heimertingen,BY,DEU
+2638464,DO1NER,Randolf Ehrensberger,Randolf,no_city,,DEU
+2638465,DD7YE,Eberhard Gailer,Eberhard,Lohr,BY,DEU
+2638466,DO5SPA,Sven Jaensch,Sven,Altomuenster,BY,DEU
+2638467,DO1AHN,Alexander Horcher,Alexander,Neuburg,BY,DEU
+2638468,DG2RA,Bernhard Pschierer,Bernhard,Windischeschenbach,BY,DEU
+2638469,DL9ST,Johannes Thomandl,Johannes,Pfaffenhofen,BY,DEU
+2638470,DC1IK,Olaf Erb,Olaf,Kirchseeon,BY,DEU
+2638471,DO2ARS,Richard Schestak,Richard,Augsburg,BY,DEU
+2638472,DG1NBM,Stephan Haberberger,Stephan,Pottenstein,BY,DEU
+2638473,DO6DW,Detmar Kind,Detmar,Unterschleissheim,BY,DEU
+2638474,DL1MIM,Immo Thieme,Immo,Weilheim,BY,DEU
+2638475,DK8CW,Johann Assenbrunner,Johann,Schweitenkirchen,BY,DEU
+2638476,DG6NX,Peter Jobst,Peter,Fuerth,BY,DEU
+2638477,DJ6CF,Friedrich Faber,Friedrich,Dietmannsried,BY,DEU
+2638478,DG6TOM,Thomas Schlosser,Thomas,Ismaning,BY,DEU
+2638479,DO1MGO,Gottfried Stronski,Gottfried,Hallbergmoos,BY,DEU
+2638480,DG2CV,Gerhard Metz,Gerhard,Muenchen,BY,DEU
+2638481,DL4MET,Werner Gaiss,Werner,Holzheim,BY,DEU
+2638482,DG8RAD,Joachim Hummel,Joachim,Muenchen,BY,DEU
+2638483,DK8IL,Michael Enders,Michael,Kreuzwertheim,BY,DEU
+2638484,DG4MNU,Klaus Kreuzmann,Klaus,Muenchen,BY,DEU
+2638485,DG6RS,Georg Seegerer,Georg,Taennesberg,BY,DEU
+2638486,DC1MBR,Bernd Neubauer,Bernd,Reichertshausen,BY,DEU
+2638487,DL2NGT,Karl Herrmann,Karl,Eckental,BY,DEU
+2638488,DL9RMH,Michael Horst,Michael,Hahnbach,BY,DEU
+2638489,DJ0DX,Claus-Dieter Stehlik,Claus-Dieter,Groebenzell,BY,DEU
+2638490,DK4NU,Uwe Emmert,Uwe,Bad Kissingen,BY,DEU
+2638491,DL4MEJ,Stefan Ziereis,Stefan,Kempten,BY,DEU
+2638492,DJ3TF,Wolfgang Wessely,Wolfgang,Amberg,BY,DEU
+2638493,DJ4RF,Rudolf Fehr,Rudolf,Niederschoenenfeld,BY,DEU
+2638494,DO4NF,Karl-Horst Herrmann,Karl-Horst,Hohenroth,BY,DEU
+2638495,DL2FS,Fabian Schneider,Fabian,Roding,BY,DEU
+2638496,DM8ALO,Andreas Lohrum,Andreas,Muenchen,BY,DEU
+2638497,DG7NEN,Michael Schneider,Michael,Gilching,BY,DEU
+2638498,DL9RMH,Michael Horst,Michael,Hahnbach,BY,DEU
+2638499,DG2SER,Carsten Wilderotter,Carsten,Odelzhausen,BY,DEU
+2638500,DL4MGR,Walter Foag,Walter,Kastl,BY,DEU
+2638501,DG3MCH,Peter Schmid-Rannetsperger,Peter,Waldkraiburg,BY,DEU
+2638502,DO7SMM,Stefan Kulisch,Stefan,Altenthann,BY,DEU
+2638503,DC6RI,Andreas Hellinger,Andreas,Moosburg,BY,DEU
+2638504,DG2MKR,Klaus-Juergen Rober,Klaus-Juergen,Zorneding,BY,DEU
+2638505,DK4CW,Tibor Hegedues,Tibor,Eching,BY,DEU
+2638506,DL1NCN,Stephan Jehring,Stephan,Bayreuth,BY,DEU
+2638507,DL6MBX,Franz Holzmann,Franz,Kirchdorf a.d. Amper,BY,DEU
+2638508,DG2MNM,Anton Liebermann,Anton,Donauwoerth,BY,DEU
+2638509,DB3DE,Birk Bremer,Birk,Muenchen,BY,DEU
+2638510,DO1HFS,Heinrich Schnell,Heinrich,Waging am See,BY,DEU
+2638511,DO6RV,Stephan Servatius,Stephan,Bockhorn,BY,DEU
+2638512,DO3RM,Michael Reichel,Michael,Dachau,BY,DEU
+2638513,DL5MHD,Eduard Kirchner,Eduard,Ebersberg,BY,DEU
+2638514,DK5DM,Marco Hoffmann,Marco,Ampfing,BY,DEU
+2638515,DM4RW,Robert Wolters,Robert,Krailling,BY,DEU
+2638516,DJ6RY,Rudolf Huettner,Rudolf,Amberg,BY,DEU
+2638517,DG5MH,Thomas Haas,Thomas,Kempten,BY,DEU
+2638518,DJ3MU,Kurt Loupal,Kurt,Forstern,BY,DEU
+2638519,DO1PH,Marcus Goettler,Marcus,Stuttgart,BY,DEU
+2638520,DD7RN,Bernhard Mayer,Bernhard,Rottenburg,BY,DEU
+2638521,DO9KMM,Emil Kulisch,Emil,Regensburg,BY,DEU
+2638522,DL9IGL,Karl-Heinz Fucker,Karl-Heinz,no_city,,DEU
+2638523,DF1AX,Alexander Burger,Alexander,Lauterhofen,BY,DEU
+2638524,DG3MGW,Udo Suetterlin,Udo,Mering,BY,DEU
+2638525,DO5EMA,Peter Kornherr,Peter,Lautertal,BY,DEU
+2638526,DJ3NRA,Reinhard Albrecht,Reinhard,Schwabach,BY,DEU
+2638527,DO1MHJ,Juergen Hochsteiner,Juergen,Memmingerberg,BY,DEU
+2638528,DO1MHJ,Juergen Hochsteiner,Juergen,Memmingerberg,BY,DEU
+2638529,DC1MLG,Ludwig Goeppel,Ludwig,Guenzach,BY,DEU
+2638530,DL1GID,Gideon Schmelich,Gideon,Dachau,BY,DEU
+2638531,DL1AQV,Joerg Landsiedel,Joerg,Karlstein,BY,DEU
+2638532,DG5MNJ,Felix Binder,Felix,Zorneding,BY,DEU
+2638533,DM4AL,Alfred Bauer,Alfred,Mittbach,BY,DEU
+2638534,DG5MPQ,Thomas Kalmeier,Thomas,Reimlingen,BY,DEU
+2638535,DJ1PC,Johann Doetsch,Johann,Amberg,BY,DEU
+2638536,DO2MSH,Nico Winnig,Nico,Stadtbergen,BY,DEU
+2638537,DG4NEO,Norbert Keim,Norbert,Rednitzhembach,BY,DEU
+2638538,DO1GER,Gerhard Multerer,Gerhard,Simbach/Inn,BY,DEU
+2638539,DO2FSB,Fabian Schneebauer,Fabian,Baldham,BY,DEU
+2638540,DL9MDW,Christian Klotz,Christian,Bad Aibling,BY,DEU
+2638541,DL2MCD,Wolf-Dieter Roth,Wolf-Dieter,Buchloe,BY,DEU
+2638542,DJ3MS,Wolfgang Kaps,Wolfgang,Markt-Indersdorf,BY,DEU
+2638543,DC1SHJ,Hans-Juergen Soellner,Hans-Juergen,Muenchen,BY,DEU
+2638544,DJ1MGB,Aleksander Pavkovic,Aleksander,Muenchen,BY,DEU
+2638545,DF7CD,Ulrich Graf,Ulrich,Gilching,BY,DEU
+2638546,DJ6KI,Reiner Reinke,Reiner,Peissenberg,BY,DEU
+2638547,DO5RE,Wilhelm Beyvers,Wilhelm,Aufhausen,BY,DEU
+2638548,DD2NI,Jerry Kehl,Jerry,Miltenberg,BY,DEU
+2638549,DL1DLX,Stefan Amey,Stefan,Landshut,BY,DEU
+2638550,DB5FA,Andreas Fickl,Andreas,Mittenwald,BY,DEU
+2638551,DL7NL,Stefan Rupprecht,Stefan,Schoenwald,BY,DEU
+2638552,DC6RN,Norbert Haas,Norbert,Kuemmersbruck,BY,DEU
+2638553,DL6RDR,Stephan Schmieg,Stephan,Pfarrkirchen,BY,DEU
+2638554,DH5RAD,Rupert Heindl,Rupert,Steinach,BY,DEU
+2638555,DL9DW,Dieter Weissfloch,Dieter,Wilhermsdorf,BY,DEU
+2638556,DL1EFF,Thomas Collisi,Thomas,Hilpoltstein,BY,DEU
+2638557,DG8MK,Michael Kreis,Michael,Fuerth,BY,DEU
+2638558,DK9NP,Peter Haberzettl,Peter,Windsbach,BY,DEU
+2638559,DJ0OQ,Kazunori Tsurumi,Kazunori,Muenchen,BY,DEU
+2638560,DL9NAZ,Knut Kirchner,Knut,Rosstal,BY,DEU
+2638561,DL4RDO,Reimund Feicht,Reimund,Teublitz,BY,DEU
+2638562,DG2MY,Peter Liegmann,Peter,Neubiberg,BY,DEU
+2638563,DK5UF,Wolfgang Ritter,Wolfgang,Greding,BY,DEU
+2638564,DL5RCW,Lars Engelhard,Lars,Altdorf,BY,DEU
+2638565,DG2MEU,Stefanie Engelhard,Stefanie,Ilmmuenster,BY,DEU
+2638566,DB6CA,Klaus Schachtl,Klaus,no_city,,DEU
+2638567,DO1ARK,Thomas Tonko,Thomas,Feldkirchen,BY,DEU
+2638568,DG5NBG,Herbert Kinzelmann,Herbert,Stein,BY,DEU
+2638569,DF7LYN,Ruediger Maass,Ruediger,Riemerling,BY,DEU
+2638570,DG9MDR,Rudolf Ehrenthaler,Rudolf,Wallerstein,BY,DEU
+2638571,DJ4HW,Harald Welscher,Harald,Altenmuenster,BY,DEU
+2638572,DK8RU,Dieter Schraudner,Dieter,Schnaittenbach,BY,DEU
+2638573,DH8MST,Stefan Mudrack,Stefan,Olching OT Esting,BY,DEU
+2638574,DJ5UW,Ulrich Winkler,Ulrich,Groebenzell,BY,DEU
+2638575,DO1SFT,Sebastian Loew,Sebastian,Bad Fuessing,BY,DEU
+2638576,DL2AWR,Wolfgang Richter,Wolfgang,Augsburg,BY,DEU
+2638577,DL1GLC,Gerhard Lindner,Gerhard,Moettingen,BY,DEU
+2638578,DG8MGN,Michael Wolfgram,Michael,Babenhausen,BY,DEU
+2638579,DB8MG,Daniel Darriba,Daniel,no_city,,DEU
+2638580,DB7NN,Karl-Heinz Suck,Karl-Heinz,Burgkunstadt,BY,DEU
+2638581,DO6KP,Kevin Klima,Kevin,Pleinfeld,BY,DEU
+2638582,DL9PH,Peter Herzog,Peter,Muenchen,BY,DEU
+2638583,DO7NR,Achim Lehmeier,Achim,Weissenburg i. Bay.,BY,DEU
+2638584,DO1MAK,Andreas Kutzke,Andreas,Feldkirchen-Westerham,BY,DEU
+2638585,DL1RO,Robert Hofmann,Robert,Olching Geiselbullach,BY,DEU
+2638586,DG5MG,Markus Gundermann,Markus,Pullach,BY,DEU
+2638587,DL6MDF,Roland Macho,Roland,Munningen,BY,DEU
+2638588,DK5MDA,Helmut Larm,Helmut,Kranzberg,BY,DEU
+2638589,DH1JH,Joachim Haubold,Joachim,Heroldsberg,BY,DEU
+2638590,DB1MKS,Stefan Kuba,Stefan,Muenchen,BY,DEU
+2638591,DL2MDJ,Erich Ziegelmeir,Erich,Alerheim,BY,DEU
+2638592,DL1DH,Dominik Hubert,Dominik,no_city,,DEU
+2638593,DD4ST,Thomas Stoerlein,Thomas,no_city,,DEU
+2638594,DL3MLP,Patrick Leicht,Patrick,Bruckmuehl,BY,DEU
+2638595,DO9KT,Michael Evseenko,Michael,Hersbruck,BY,DEU
+2638596,DO5MTK,Markus Trinler,Markus,Kempten,BY,DEU
+2638597,DO7RMO,Magnus Ott,Magnus,Bernried,BY,DEU
+2638598,DH3MLI,Jons Menzel,Jons,Stoettwang/Linden,BY,DEU
+2638599,DB4UW,Udo Wolfsdorf,Udo,Puchheim,BY,DEU
+2638600,DL8WJH,Wilhelm Hafner,Wilhelm,Tuntenhausen,BY,DEU
+2638601,DK9NL,Hanns Merz,Hanns,Holzheim,BY,DEU
+2638602,DO7ATR,Kevin Popp,Kevin,Baar-Ebenhausen,BY,DEU
+2638603,DG6NDE,Peter Klein,Peter,Wuerzburg,BY,DEU
+2638604,DL2HF,Manfred Lindner,Manfred,Diessen,BY,DEU
+2638605,DJ4US,Uwe Schuster,Uwe,Grattersdorf,BY,DEU
+2638606,DM1XB,Philipp Langbauer,Philipp,Aschau a. Inn,BY,DEU
+2638607,DH7NK,Klaus Knoth,Klaus,Moembris,BY,DEU
+2638608,DO3HD,Helmut Drotleff,Helmut,Fuerth,BY,DEU
+2638609,DO3SKF,Sebastian Karl,Sebastian,Fuerstenfeldbruck,BY,DEU
+2638610,DF4MD,Heinrich Schilling,Heinrich,Pullach,BY,DEU
+2638611,DH9AT,Andreas Tscherner,Andreas,Prien,BY,DEU
+2638612,DC1WID,Wido Hofmann,Wido,Jachenau,BY,DEU
+2638613,DO2EST,Erhard Staab,Erhard,Haibach,BY,DEU
+2638614,DB2XF,Franz Fischer,Franz,Riedering,BY,DEU
+2638615,DL1YAE,Thomas Bakenecker,Thomas,Taufkirchen,BY,DEU
+2638616,DG7NFG,Bernd Schwind,Bernd,Waldaschaff,BY,DEU
+2638617,DB0XG,Josef Benzinger,Josef,Greding,BY,DEU
+2638618,DL1KV,Kevin Steinke,Kevin,Baunach,BY,DEU
+2638619,DO1MA,Matthias Ehrmann,Matthias,Neufahrn,BY,DEU
+2638620,DO1TFI,Tobias Fischer,Tobias,Koenigsbrunn,BY,DEU
+2638621,DL4SCF,Wilhelm Goelz,Wilhelm,Weissenhorn,BY,DEU
+2638622,DK9RC,Friedrich Dirschedl,Friedrich,Muenchen,BY,DEU
+2638623,DL4MGC,Bernd Titze,Bernd,Zusmarshausen,BY,DEU
+2638624,DL4WF,Walter Fisch,Walter,Hebertshausen,BY,DEU
+2638625,DG5MHD,Michael Huettlin,Michael,Pfaffenhofen,BY,DEU
+2638626,DO7VF,Veronika Fuchs,Veronika,Hettenshausen,BY,DEU
+2638627,DL8MN,Manfred Nuessgen,Manfred,Illertissen,BY,DEU
+2638628,DL6NM,Michael Meier,Michael,no_city,,DEU
+2638629,DC4CI,Christian Maurer,Christian,Augsburg,BY,DEU
+2638630,DB4FO,Dirk Bergmeier,Dirk,no_city,,DEU
+2638631,DO1JAK,Josef Koepfle,Josef,Germaringen,BY,DEU
+2638632,DG1IUK,Florian Pankerl,Florian,Aschaffenburg,BY,DEU
+2638633,DO1RFR,Frank Ratzke,Frank,Hof,BY,DEU
+2638634,DG3RBQ,Horst Fleischer,Horst,Eging A.See,BY,DEU
+2638635,DJ2MT,Edouard Pomaroli,Edouard,Mengkofen,BY,DEU
+2638636,DH1AR,Hubert Huesch,Hubert,Muenchen,BY,DEU
+2638637,DO1PIT,Peter Helmig,Peter,Muenchen,BY,DEU
+2638638,DC4CW,Johann Hundseder,Johann,no_city,,DEU
+2638639,DJ8MA,Martin Abel,Martin,Ebersberg,BY,DEU
+2638640,DO1SEK,Simon Engelmayer,Simon,Pfoerring,BY,DEU
+2638641,DL9WTL,Wolfgang Tappert,Wolfgang,Ansbach,BY,DEU
+2638642,DL6DJ,Dieter Betz,Dieter,Laaber,BY,DEU
 2638215,DG1MLB,Michael Waldmueller,Michael,Neuburg /St.Heinrichsheim,BY,DEU
 2638216,DJ7SH,Horst Seidl,Horst,Munchen,BY,DEU
 2638217,DL7XX,Rolf Mustopf,Rolf,Woerth,BY,DEU
@@ -59334,250 +59607,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2638427,DC1NGS,Gerhardt Spinner,Gerhardt,Hoechstadt,BY,DEU
 2638428,DK1TK,Thomas Koehler,Thomas,Kaufbeuren,BY,DEU
 2638429,DO7VF,Veronika Fuchs,Veronika,Hettenshausen,BY,DEU
-2638430,DL1MBV,Michael Billa,Michael,Veitshoechheim,BY,DEU
-2638431,DL3NBS,Bernhard Schaeflein,Bernhard,Bamberg,BY,DEU
-2638432,DG2RAM,Michael Niemetz,Michael,Waldmuenchen,BY,DEU
-2638433,DB6BD,Dennis Willigmann,Dennis,Rosenheim,BY,DEU
-2638434,DF7MQ,Volker Gessner,Volker,Donauwoerth,BY,DEU
-2638435,DO5HBA,Hubert Burkert,Hubert,Weiler-Simmerberg,BY,DEU
-2638436,DK0OD,Christian Friess,Christian,Hebertshausen,BY,DEU
-2638437,DO4TS,Soeren Timm,Soeren,Bramsche,NI,DEU
-2638438,DF1HPK,Henrik Pfeifer,Henrik,Muenchen,BY,DEU
-2638439,DG2MDJ,Wolfgang Hartmuth,Wolfgang,Augsburg,BY,DEU
-2638440,DL1MXX,Maximilian Spratter,Maximilian,Bavaria,BY,DEU
-2638441,DL3SC,Sascha Conradi,Sascha,Altomuenster,BY,DEU
-2638442,DL9RDP,Heinz Metzger,Heinz,Noerdlingen,BY,DEU
-2638443,DO1MPS,Stefan Pichler,Stefan,Karlsfeld,BY,DEU
-2638444,DG2NCD,Wolfgang Schultheis,Wolfgang,Woerth a Main,BY,DEU
-2638445,DF3CU,Gerald Gebsattel,Gerald,Olching,BY,DEU
-2638446,DO1DO,Alexander Giesler,Alexander,no_city,,DEU
-2638447,DO1SLA,Stefan Linseisen,Stefan,Aschau am Inn,BY,DEU
-2638448,DO3SCL,Daniel Albert,Daniel,no_city,,DEU
-2638449,DL6SB,Sebastian Schubert,Sebastian,Buchenberg,BY,DEU
-2638450,DD1FLO,Florian Makesch,Florian,Olching,BY,DEU
-2638451,DO2RMH,Ralph Henne,Ralph,Koenigsbrunn,BY,DEU
-2638452,DO2KCH,Karin Henne,Karin,Koenigsbrunn,BY,DEU
-2638453,DL3HD,Heike Drechsler,Heike,Hebertshausen,BY,DEU
-2638454,DC0DON,Ingomar Rydwal,Ingomar,Oettingen,BY,DEU
-2638455,DL4HMS,Holger Sirch,Holger,Augsburg,BY,DEU
-2638456,DC0DR,Davide Ripamonti,Davide,Sigmarszell,BY,DEU
-2638457,DL5OL,Franz Loibl,Franz,Muenchen,BY,DEU
-2638458,DK2RS,Roland Soellheim,Roland,Ansbach,BY,DEU
-2638459,DG1MTG,Thomas Werner,Thomas,Muenchen,BY,DEU
-2638460,DG1MLK,Markus Kuchler,Markus,Fuerstenfeldbruck,BY,DEU
-2638461,DK1MAT,Olaf Mattmueller,Olaf,Alling,BY,DEU
-2638462,DL8HM,Martin Hammer,Martin,Hoehenkirchen,BY,DEU
-2638463,DL5MFJ,Johannes Ziegler,Johannes,Heimertingen,BY,DEU
-2638464,DO1NER,Randolf Ehrensberger,Randolf,no_city,,DEU
-2638465,DD7YE,Eberhard Gailer,Eberhard,Lohr,BY,DEU
-2638466,DO5SPA,Sven Jaensch,Sven,Altomuenster,BY,DEU
-2638467,DO1AHN,Alexander Horcher,Alexander,Neuburg,BY,DEU
-2638468,DG2RA,Bernhard Pschierer,Bernhard,Windischeschenbach,BY,DEU
-2638469,DL9ST,Johannes Thomandl,Johannes,Pfaffenhofen,BY,DEU
-2638470,DC1IK,Olaf Erb,Olaf,Kirchseeon,BY,DEU
-2638471,DO2ARS,Richard Schestak,Richard,Augsburg,BY,DEU
-2638472,DG1NBM,Stephan Haberberger,Stephan,Pottenstein,BY,DEU
-2638473,DO6DW,Detmar Kind,Detmar,Unterschleissheim,BY,DEU
-2638474,DL1MIM,Immo Thieme,Immo,Weilheim,BY,DEU
-2638475,DK8CW,Johann Assenbrunner,Johann,Schweitenkirchen,BY,DEU
-2638476,DG6NX,Peter Jobst,Peter,Fuerth,BY,DEU
-2638477,DJ6CF,Friedrich Faber,Friedrich,Dietmannsried,BY,DEU
-2638478,DG6TOM,Thomas Schlosser,Thomas,Ismaning,BY,DEU
-2638479,DO1MGO,Gottfried Stronski,Gottfried,Hallbergmoos,BY,DEU
-2638480,DG2CV,Gerhard Metz,Gerhard,Muenchen,BY,DEU
-2638481,DL4MET,Werner Gaiss,Werner,Holzheim,BY,DEU
-2638482,DG8RAD,Joachim Hummel,Joachim,Muenchen,BY,DEU
-2638483,DK8IL,Michael Enders,Michael,Kreuzwertheim,BY,DEU
-2638484,DG4MNU,Klaus Kreuzmann,Klaus,Muenchen,BY,DEU
-2638485,DG6RS,Georg Seegerer,Georg,Taennesberg,BY,DEU
-2638486,DC1MBR,Bernd Neubauer,Bernd,Reichertshausen,BY,DEU
-2638487,DL2NGT,Karl Herrmann,Karl,Eckental,BY,DEU
-2638488,DL9RMH,Michael Horst,Michael,Hahnbach,BY,DEU
-2638489,DJ0DX,Claus-Dieter Stehlik,Claus-Dieter,Groebenzell,BY,DEU
-2638490,DK4NU,Uwe Emmert,Uwe,Bad Kissingen,BY,DEU
-2638491,DL4MEJ,Stefan Ziereis,Stefan,Kempten,BY,DEU
-2638492,DJ3TF,Wolfgang Wessely,Wolfgang,Amberg,BY,DEU
-2638493,DJ4RF,Rudolf Fehr,Rudolf,Niederschoenenfeld,BY,DEU
-2638494,DO4NF,Karl-Horst Herrmann,Karl-Horst,Hohenroth,BY,DEU
-2638495,DL2FS,Fabian Schneider,Fabian,Roding,BY,DEU
-2638496,DM8ALO,Andreas Lohrum,Andreas,Muenchen,BY,DEU
-2638497,DG7NEN,Michael Schneider,Michael,Gilching,BY,DEU
-2638498,DL9RMH,Michael Horst,Michael,Hahnbach,BY,DEU
-2638499,DG2SER,Carsten Wilderotter,Carsten,Odelzhausen,BY,DEU
-2638500,DL4MGR,Walter Foag,Walter,Kastl,BY,DEU
-2638501,DG3MCH,Peter Schmid-Rannetsperger,Peter,Waldkraiburg,BY,DEU
-2638502,DO7SMM,Stefan Kulisch,Stefan,Altenthann,BY,DEU
-2638503,DC6RI,Andreas Hellinger,Andreas,Moosburg,BY,DEU
-2638504,DG2MKR,Klaus-Juergen Rober,Klaus-Juergen,Zorneding,BY,DEU
-2638505,DK4CW,Tibor Hegedues,Tibor,Eching,BY,DEU
-2638506,DL1NCN,Stephan Jehring,Stephan,Bayreuth,BY,DEU
-2638507,DL6MBX,Franz Holzmann,Franz,Kirchdorf a.d. Amper,BY,DEU
-2638508,DG2MNM,Anton Liebermann,Anton,Donauwoerth,BY,DEU
-2638509,DB3DE,Birk Bremer,Birk,Muenchen,BY,DEU
-2638510,DO1HFS,Heinrich Schnell,Heinrich,Waging am See,BY,DEU
-2638511,DO6RV,Stephan Servatius,Stephan,Bockhorn,BY,DEU
-2638512,DO3RM,Michael Reichel,Michael,Dachau,BY,DEU
-2638513,DL5MHD,Eduard Kirchner,Eduard,Ebersberg,BY,DEU
-2638514,DK5DM,Marco Hoffmann,Marco,Ampfing,BY,DEU
-2638515,DM4RW,Robert Wolters,Robert,Krailling,BY,DEU
-2638516,DJ6RY,Rudolf Huettner,Rudolf,Amberg,BY,DEU
-2638517,DG5MH,Thomas Haas,Thomas,Kempten,BY,DEU
-2638518,DJ3MU,Kurt Loupal,Kurt,Forstern,BY,DEU
-2638519,DO1PH,Marcus Goettler,Marcus,Stuttgart,BY,DEU
-2638520,DD7RN,Bernhard Mayer,Bernhard,Rottenburg,BY,DEU
-2638521,DO9KMM,Emil Kulisch,Emil,Regensburg,BY,DEU
-2638522,DL9IGL,Karl-Heinz Fucker,Karl-Heinz,no_city,,DEU
-2638523,DF1AX,Alexander Burger,Alexander,Lauterhofen,BY,DEU
-2638524,DG3MGW,Udo Suetterlin,Udo,Mering,BY,DEU
-2638525,DO5EMA,Peter Kornherr,Peter,Lautertal,BY,DEU
-2638526,DJ3NRA,Reinhard Albrecht,Reinhard,Schwabach,BY,DEU
-2638527,DO1MHJ,Juergen Hochsteiner,Juergen,Memmingerberg,BY,DEU
-2638528,DO1MHJ,Juergen Hochsteiner,Juergen,Memmingerberg,BY,DEU
-2638529,DC1MLG,Ludwig Goeppel,Ludwig,Guenzach,BY,DEU
-2638530,DL1GID,Gideon Schmelich,Gideon,Dachau,BY,DEU
-2638531,DL1AQV,Joerg Landsiedel,Joerg,Karlstein,BY,DEU
-2638532,DG5MNJ,Felix Binder,Felix,Zorneding,BY,DEU
-2638533,DM4AL,Alfred Bauer,Alfred,Mittbach,BY,DEU
-2638534,DG5MPQ,Thomas Kalmeier,Thomas,Reimlingen,BY,DEU
-2638535,DJ1PC,Johann Doetsch,Johann,Amberg,BY,DEU
-2638536,DO2MSH,Nico Winnig,Nico,Stadtbergen,BY,DEU
-2638537,DG4NEO,Norbert Keim,Norbert,Rednitzhembach,BY,DEU
-2638538,DO1GER,Gerhard Multerer,Gerhard,Simbach/Inn,BY,DEU
-2638539,DO2FSB,Fabian Schneebauer,Fabian,Baldham,BY,DEU
-2638540,DL9MDW,Christian Klotz,Christian,Bad Aibling,BY,DEU
-2638541,DL2MCD,Wolf-Dieter Roth,Wolf-Dieter,Buchloe,BY,DEU
-2638542,DJ3MS,Wolfgang Kaps,Wolfgang,Markt-Indersdorf,BY,DEU
-2638543,DC1SHJ,Hans-Juergen Soellner,Hans-Juergen,Muenchen,BY,DEU
-2638544,DJ1MGB,Aleksander Pavkovic,Aleksander,Muenchen,BY,DEU
-2638545,DF7CD,Ulrich Graf,Ulrich,Gilching,BY,DEU
-2638546,DJ6KI,Reiner Reinke,Reiner,Peissenberg,BY,DEU
-2638547,DO5RE,Wilhelm Beyvers,Wilhelm,Aufhausen,BY,DEU
-2638548,DD2NI,Jerry Kehl,Jerry,Miltenberg,BY,DEU
-2638549,DL1DLX,Stefan Amey,Stefan,Landshut,BY,DEU
-2638550,DB5FA,Andreas Fickl,Andreas,Mittenwald,BY,DEU
-2638551,DL7NL,Stefan Rupprecht,Stefan,Schoenwald,BY,DEU
-2638552,DC6RN,Norbert Haas,Norbert,Kuemmersbruck,BY,DEU
-2638553,DL6RDR,Stephan Schmieg,Stephan,Pfarrkirchen,BY,DEU
-2638554,DH5RAD,Rupert Heindl,Rupert,Steinach,BY,DEU
-2638555,DL9DW,Dieter Weissfloch,Dieter,Wilhermsdorf,BY,DEU
-2638556,DL1EFF,Thomas Collisi,Thomas,Hilpoltstein,BY,DEU
-2638557,DG8MK,Michael Kreis,Michael,Fuerth,BY,DEU
-2638558,DK9NP,Peter Haberzettl,Peter,Windsbach,BY,DEU
-2638559,DJ0OQ,Kazunori Tsurumi,Kazunori,Muenchen,BY,DEU
-2638560,DL9NAZ,Knut Kirchner,Knut,Rosstal,BY,DEU
-2638561,DL4RDO,Reimund Feicht,Reimund,Teublitz,BY,DEU
-2638562,DG2MY,Peter Liegmann,Peter,Neubiberg,BY,DEU
-2638563,DK5UF,Wolfgang Ritter,Wolfgang,Greding,BY,DEU
-2638564,DL5RCW,Lars Engelhard,Lars,Altdorf,BY,DEU
-2638565,DG2MEU,Stefanie Engelhard,Stefanie,Ilmmuenster,BY,DEU
-2638566,DB6CA,Klaus Schachtl,Klaus,no_city,,DEU
-2638567,DO1ARK,Thomas Tonko,Thomas,Feldkirchen,BY,DEU
-2638568,DG5NBG,Herbert Kinzelmann,Herbert,Stein,BY,DEU
-2638569,DF7LYN,Ruediger Maass,Ruediger,Riemerling,BY,DEU
-2638570,DG9MDR,Rudolf Ehrenthaler,Rudolf,Wallerstein,BY,DEU
-2638571,DJ4HW,Harald Welscher,Harald,Altenmuenster,BY,DEU
-2638572,DK8RU,Dieter Schraudner,Dieter,Schnaittenbach,BY,DEU
-2638573,DH8MST,Stefan Mudrack,Stefan,Olching OT Esting,BY,DEU
-2638574,DJ5UW,Ulrich Winkler,Ulrich,Groebenzell,BY,DEU
-2638575,DO1SFT,Sebastian Loew,Sebastian,Bad Fuessing,BY,DEU
-2638576,DL2AWR,Wolfgang Richter,Wolfgang,Augsburg,BY,DEU
-2638577,DL1GLC,Gerhard Lindner,Gerhard,Moettingen,BY,DEU
-2638578,DG8MGN,Michael Wolfgram,Michael,Babenhausen,BY,DEU
-2638579,DB8MG,Daniel Darriba,Daniel,no_city,,DEU
-2638580,DB7NN,Karl-Heinz Suck,Karl-Heinz,Burgkunstadt,BY,DEU
-2638581,DO6KP,Kevin Klima,Kevin,Pleinfeld,BY,DEU
-2638582,DL9PH,Peter Herzog,Peter,Muenchen,BY,DEU
-2638583,DO7NR,Achim Lehmeier,Achim,Weissenburg i. Bay.,BY,DEU
-2638584,DO1MAK,Andreas Kutzke,Andreas,Feldkirchen-Westerham,BY,DEU
-2638585,DL1RO,Robert Hofmann,Robert,Olching Geiselbullach,BY,DEU
-2638586,DG5MG,Markus Gundermann,Markus,Pullach,BY,DEU
-2638587,DL6MDF,Roland Macho,Roland,Munningen,BY,DEU
-2638588,DK5MDA,Helmut Larm,Helmut,Kranzberg,BY,DEU
-2638589,DH1JH,Joachim Haubold,Joachim,Heroldsberg,BY,DEU
-2638590,DB1MKS,Stefan Kuba,Stefan,Muenchen,BY,DEU
-2638591,DL2MDJ,Erich Ziegelmeir,Erich,Alerheim,BY,DEU
-2638592,DL1DH,Dominik Hubert,Dominik,no_city,,DEU
-2638593,DD4ST,Thomas Stoerlein,Thomas,no_city,,DEU
-2638594,DL3MLP,Patrick Leicht,Patrick,Bruckmuehl,BY,DEU
-2638595,DO9KT,Michael Evseenko,Michael,Hersbruck,BY,DEU
-2638596,DO5MTK,Markus Trinler,Markus,Kempten,BY,DEU
-2638597,DO7RMO,Magnus Ott,Magnus,Bernried,BY,DEU
-2638598,DH3MLI,Jons Menzel,Jons,Stoettwang/Linden,BY,DEU
-2638599,DB4UW,Udo Wolfsdorf,Udo,Puchheim,BY,DEU
-2638600,DL8WJH,Wilhelm Hafner,Wilhelm,Tuntenhausen,BY,DEU
-2638601,DK9NL,Hanns Merz,Hanns,Holzheim,BY,DEU
-2638602,DO7ATR,Kevin Popp,Kevin,Baar-Ebenhausen,BY,DEU
-2638603,DG6NDE,Peter Klein,Peter,Wuerzburg,BY,DEU
-2638604,DL2HF,Manfred Lindner,Manfred,Diessen,BY,DEU
-2638605,DJ4US,Uwe Schuster,Uwe,Grattersdorf,BY,DEU
-2638606,DM1XB,Philipp Langbauer,Philipp,Aschau a. Inn,BY,DEU
-2638607,DH7NK,Klaus Knoth,Klaus,Moembris,BY,DEU
-2638608,DO3HD,Helmut Drotleff,Helmut,Fuerth,BY,DEU
-2638609,DO3SKF,Sebastian Karl,Sebastian,Fuerstenfeldbruck,BY,DEU
-2638610,DF4MD,Heinrich Schilling,Heinrich,Pullach,BY,DEU
-2638611,DH9AT,Andreas Tscherner,Andreas,Prien,BY,DEU
-2638612,DC1WID,Wido Hofmann,Wido,Jachenau,BY,DEU
-2638613,DO2EST,Erhard Staab,Erhard,Haibach,BY,DEU
-2638614,DB2XF,Franz Fischer,Franz,Riedering,BY,DEU
-2638615,DL1YAE,Thomas Bakenecker,Thomas,Taufkirchen,BY,DEU
-2638616,DG7NFG,Bernd Schwind,Bernd,Waldaschaff,BY,DEU
-2638617,DB0XG,Josef Benzinger,Josef,Greding,BY,DEU
-2638618,DL1KV,Kevin Steinke,Kevin,Baunach,BY,DEU
-2638619,DO1MA,Matthias Ehrmann,Matthias,Neufahrn,BY,DEU
-2638620,DO1TFI,Tobias Fischer,Tobias,Koenigsbrunn,BY,DEU
-2638621,DL4SCF,Wilhelm Goelz,Wilhelm,Weissenhorn,BY,DEU
-2638622,DK9RC,Friedrich Dirschedl,Friedrich,Muenchen,BY,DEU
-2638623,DL4MGC,Bernd Titze,Bernd,Zusmarshausen,BY,DEU
-2638624,DL4WF,Walter Fisch,Walter,Hebertshausen,BY,DEU
-2638625,DG5MHD,Michael Huettlin,Michael,Pfaffenhofen,BY,DEU
-2638626,DO7VF,Veronika Fuchs,Veronika,Hettenshausen,BY,DEU
-2638627,DL8MN,Manfred Nuessgen,Manfred,Illertissen,BY,DEU
-2638628,DL6NM,Michael Meier,Michael,no_city,,DEU
-2638629,DC4CI,Christian Maurer,Christian,Augsburg,BY,DEU
-2638630,DB4FO,Dirk Bergmeier,Dirk,no_city,,DEU
-2638631,DO1JAK,Josef Koepfle,Josef,Germaringen,BY,DEU
-2638632,DG1IUK,Florian Pankerl,Florian,Aschaffenburg,BY,DEU
-2638633,DO1RFR,Frank Ratzke,Frank,Hof,BY,DEU
-2638634,DG3RBQ,Horst Fleischer,Horst,Eging A.See,BY,DEU
-2638635,DJ2MT,Edouard Pomaroli,Edouard,Mengkofen,BY,DEU
-2638636,DH1AR,Hubert Huesch,Hubert,Muenchen,BY,DEU
-2638637,DO1PIT,Peter Helmig,Peter,Muenchen,BY,DEU
-2638638,DC4CW,Johann Hundseder,Johann,no_city,,DEU
-2638639,DJ8MA,Martin Abel,Martin,Ebersberg,BY,DEU
-2638640,DO1SEK,Simon Engelmayer,Simon,Pfoerring,BY,DEU
-2638641,DL9WTL,Wolfgang Tappert,Wolfgang,Ansbach,BY,DEU
-2638642,DL6DJ,Dieter Betz,Dieter,Laaber,BY,DEU
-2638643,DF6RI,Alfred Iberer,Alfred,Happurg,BY,DEU
-2638644,DB4HB,Amr Moshref,Amr,Kirchdorf am Inn,BY,DEU
-2638645,DG1RAT,Walter Findeis,Walter,Parsberg,BY,DEU
-2638646,DH9FG,Frank Grundmann,Frank,Grossaitingen,BY,DEU
-2638647,DO1BYT,Fabian Eppig,Fabian,Grosswallstadt,BY,DEU
-2638648,DC2MP,Karl Schedler,Karl,Oberstdorf,BY,DEU
-2638649,DL5RAS,Christian Pacher,Christian,Bad Griesbach,BY,DEU
-2638650,DH4RN,Manfred Stey,Manfred,Eggenfelden,BY,DEU
-2638651,DM3ER,Rainer Ertl,Rainer,Wallersdorf,BY,DEU
-2638652,DL8MCJ,Wilfried Ritschel,Wilfried,Kaufbeuren,BY,DEU
-2638653,DG2NDJ,Christian Bauer,Christian,Nuernberg,BY,DEU
-2638654,DL2NED,Martin Leybold,Martin,Reichenschwand,BY,DEU
-2638655,DH3RW,Werner Wallert,Werner,Mainaschaff,BY,DEU
-2638656,DK0PT,Hans Cuno,Hans,Laaber,BY,DEU
-2638657,DC9NG,Heinz-Gerhard Greiner,Heinz-Gerhard,Neustadt,BY,DEU
-2638658,DH3TW,Tobias Wessely,Tobias,Amberg,BY,DEU
-2638659,DL4RDT,Roland Mandl,Roland,Ortenburg,BY,DEU
-2638660,DO9QC,Ulrich Herbst,Ulrich,Hallbergmoos,BY,DEU
-2638661,DL1PA,Peter Appel,Peter,Kuehbach,BY,DEU
-2638662,DG2MMO,Alexander Messner,Alexander,Teisendorf,BY,DEU
-2638663,DB7JB,Karsten Lohscheidt,Karsten,Landsberg am Lech,BY,DEU
-2638664,DL7MEH,Herbert Egger,Herbert,Breitenbrunn,BY,DEU
-2638665,DL6SB,Sebastian Schubert,Sebastian,Buchenberg,BY,DEU
-2638666,DO2NA,Michael Ahlbrink,Michael,Burgpreppach,BY,DEU
-2638667,DG1MG,Guenter Mehlhart,Guenter,Rohrbach,BY,DEU
-2638668,DK5AC,Albert Kaske,Albert,Naila,BY,DEU
-2638669,DO7ANF,Axel Franitza,Axel,no_city,,DEU
-2638670,DL2NAT,Johann Tiefel,Johann,Eichstaett,BY,DEU
-2638671,DO1DRA,Dominik Riederer,Dominik,Neustadt,BY,DEU
-2638672,DF6MG,Kurt Rohm,Kurt,Reichertshausen,BY,DEU
-2638673,DL1HKB,Heinrich Kramer,Heinrich,Unterschleissheim,BY,DEU
 2638674,DG1MAJ,Roland Biber,Roland,Kinsau,BY,DEU
 2638675,DF7SP,Hermann Hiller,Hermann,Pfaffenhofen,BY,DEU
 2638676,DL5MCG,Wilhelm Rauh,Wilhelm,Augsburg,BY,DEU
@@ -59763,6 +59792,257 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2638856,DL8MFX,Wilfried Hantschel,Wilfried,Rieden,BY,DEU
 2638857,DC1KS,Karlheinz Sperber,Karlheinz,Grossaitlingen,BY,DEU
 2638858,DL5MHE,Hans Hack,Hans,Muenchen,BY,DEU
+2638643,DF6RI,Alfred Iberer,Alfred,Happurg,BY,DEU
+2638644,DB4HB,Amr Moshref,Amr,Kirchdorf am Inn,BY,DEU
+2638645,DG1RAT,Walter Findeis,Walter,Parsberg,BY,DEU
+2638646,DH9FG,Frank Grundmann,Frank,Grossaitingen,BY,DEU
+2638647,DO1BYT,Fabian Eppig,Fabian,Grosswallstadt,BY,DEU
+2638648,DC2MP,Karl Schedler,Karl,Oberstdorf,BY,DEU
+2638649,DL5RAS,Christian Pacher,Christian,Bad Griesbach,BY,DEU
+2638650,DH4RN,Manfred Stey,Manfred,Eggenfelden,BY,DEU
+2638651,DM3ER,Rainer Ertl,Rainer,Wallersdorf,BY,DEU
+2638652,DL8MCJ,Wilfried Ritschel,Wilfried,Kaufbeuren,BY,DEU
+2638653,DG2NDJ,Christian Bauer,Christian,Nuernberg,BY,DEU
+2638654,DL2NED,Martin Leybold,Martin,Reichenschwand,BY,DEU
+2638655,DH3RW,Werner Wallert,Werner,Mainaschaff,BY,DEU
+2638656,DK0PT,Hans Cuno,Hans,Laaber,BY,DEU
+2638657,DC9NG,Heinz-Gerhard Greiner,Heinz-Gerhard,Neustadt,BY,DEU
+2638658,DH3TW,Tobias Wessely,Tobias,Amberg,BY,DEU
+2638659,DL4RDT,Roland Mandl,Roland,Ortenburg,BY,DEU
+2638660,DO9QC,Ulrich Herbst,Ulrich,Hallbergmoos,BY,DEU
+2638661,DL1PA,Peter Appel,Peter,Kuehbach,BY,DEU
+2638662,DG2MMO,Alexander Messner,Alexander,Teisendorf,BY,DEU
+2638663,DB7JB,Karsten Lohscheidt,Karsten,Landsberg am Lech,BY,DEU
+2638664,DL7MEH,Herbert Egger,Herbert,Breitenbrunn,BY,DEU
+2638665,DL6SB,Sebastian Schubert,Sebastian,Buchenberg,BY,DEU
+2638666,DO2NA,Michael Ahlbrink,Michael,Burgpreppach,BY,DEU
+2638667,DG1MG,Guenter Mehlhart,Guenter,Rohrbach,BY,DEU
+2638668,DK5AC,Albert Kaske,Albert,Naila,BY,DEU
+2638669,DO7ANF,Axel Franitza,Axel,no_city,,DEU
+2638670,DL2NAT,Johann Tiefel,Johann,Eichstaett,BY,DEU
+2638671,DO1DRA,Dominik Riederer,Dominik,Neustadt,BY,DEU
+2638672,DF6MG,Kurt Rohm,Kurt,Reichertshausen,BY,DEU
+2638673,DL1HKB,Heinrich Kramer,Heinrich,Unterschleissheim,BY,DEU
+2644366,DF2EQ,Michael Siebert,Michael,Kaarst,NW,DEU
+2644367,DD5LX,Frank Seidl,Frank,Leverkusen,NW,DEU
+2644368,DC3MS,Mark Schraven,Mark,Paderborn,NW,DEU
+2644369,DO9REF,Rene Frohberg,Rene,Welver,NW,DEU
+2644370,DG1EEI,Thorsten Anstoetz,Thorsten,Viersen,NW,DEU
+2644371,DO7JWG,Johannes Gramser,Johannes,no_city,,DEU
+2644372,DL3KHG,Helmut Grode,Helmut,Wesseling,NW,DEU
+2644373,DO8AA,Andreas Fraebel,Andreas,Herne,NW,DEU
+2644374,DL3ST,Leon Staab,Leon,Aachen,NW,DEU
+2644375,DK0FOX,Rene Pawliczek,Rene,Leverkusen,NW,DEU
+2644376,DG2ET,Peter Hamann,Peter,Essen,NW,DEU
+2644377,DL4EBT,Herbert Zmuda,Herbert,Duesseldorf,NW,DEU
+2644378,DO6CR,Damian Kuczera,Damian,Bochum,NW,DEU
+2644379,DL5RMS,Richard Sinning,Richard,Aachen,NW,DEU
+2644380,DF1DX,Juergen Henneke,Juergen,Siegen,NW,DEU
+2644381,DG2KAT,Friedbert Schmitz,Friedbert,Hueckelhoven,NW,DEU
+2644382,DL8BEP,Peter Janssen,Peter,Lienen,NW,DEU
+2644383,DB9MUT,Marek Tuczynski,Marek,Bergheim,NW,DEU
+2644384,DL1IKT,Ismail Kavlak,Ismail,Dortmund,NW,DEU
+2644385,DL9YBP,Ingo Schlief,Ingo,Gronau,NW,DEU
+2644386,DF1EZ,Heinz Coenen,Heinz,Grevenbroich,NW,DEU
+2644387,DJ3KS,Herbert Fischer,Herbert,Mechernich,NW,DEU
+2644388,DL4KBO,Erich Bock,Erich,Alsdorf,NW,DEU
+2644389,DB1RW,Roland Woelfl,Roland,Muelheim,NW,DEU
+2644390,DG7DCI,Michael Akay,Michael,Ennepetal,NW,DEU
+2644391,DB6FN,Finn Loehr,Finn,Witten,NW,DEU
+2644392,DL2EBW,Norbert Buscher,Norbert,Wuppertal,NW,DEU
+2644393,DH8EAD,Joerg Weber,Joerg,Essen,NW,DEU
+2644394,DO6GS,Markus Grosse-Schware,Markus,Bochum,NW,DEU
+2644395,DL1EEL,Thomas Daniels,Thomas,Duesseldorf,NW,DEU
+2644396,DG1EHJ,Juergen Abraham,Juergen,Moers,NW,DEU
+2644397,DO2LEV,Dieter Bussmann,Dieter,Leverkusen,NW,DEU
+2644398,DL4YEH,Reiner Brischke,Reiner,Selm,NW,DEU
+2644399,DK2CRN,Christoph Rueckert,Christoph,Neuss,NW,DEU
+2644400,DJ9ZL,Juergen Meissburger,Juergen,Juelich,NW,DEU
+2644401,DG1DSN,Sanel Nukic,Sanel,Dortmund,NW,DEU
+2644402,DL4EZ,Friedhelm Reichmann,Friedhelm,Voerde,NW,DEU
+2644403,DF5FD,Andreas Kohlhaas,Andreas,Haan,NW,DEU
+2644404,DL7SW,Sven Weckelmann,Sven,Bottrop,NW,DEU
+2644405,DF9CV,Wolfgang Koesters,Wolfgang,Borken,NW,DEU
+2644406,DH7JL,Jens Lehmann,Jens,Koeln,NW,DEU
+2644407,DL4BBU,Peter Hoerig,Peter,Dorsten,NW,DEU
+2644408,DG1DAD,Martin Plaeger,Martin,Dortmund,NW,DEU
+2644409,DL3SPS,Simon-Philipp Schmidt,Simon-Philipp,Dresden,SN,DEU
+2644410,DO3HMK,Heribert Kraemer,Heribert,Altena,NW,DEU
+2644411,DO9MIE,Michael Erlenbruch,Michael,Essen,NW,DEU
+2644412,DK0CRT,Michael Schwarz,Michael,Borchen,NW,DEU
+2644413,DO3CM,Marc Rose,Marc,Dortmund,NW,DEU
+2644414,DG1WA,Udo Nolte,Udo,Horn-Bad Meinberg,NW,DEU
+2644415,DB2DE,Juergen Rossberg,Juergen,Sprockhoevel,NW,DEU
+2644416,DO5FJ,Franz-Josef Sistenich,Franz-Josef,Wuerselen,NW,DEU
+2644417,DL6EZ,Hans Boeckenkamp,Hans,Duesseldorf,NW,DEU
+2644418,DG4DCW,Michael Weuster,Michael,Breckerfeld,NW,DEU
+2644419,DG5GBS,Guenter Bredtmann,Guenter,Essen,NW,DEU
+2644420,DL3DBV,Martin Pape,Martin,Winterberg,NW,DEU
+2644421,DO7VM,Peter Van der Mond,Peter,Gelsenkirchen,NW,DEU
+2644422,DO8KAS,Joachim Stritthof,Joachim,Nideggen-Schmidt,NW,DEU
+2644423,DL5JS,Michael Wahl,Michael,Duesseldorf,NW,DEU
+2644424,DG8DBS,Thomas Vendel,Thomas,Dortmund,NW,DEU
+2644425,DL4KAZ,Wolfram Fischer,Wolfram,Rees,NW,DEU
+2644426,DO3CON,Georg Contzen,Georg,Koeln,NW,DEU
+2644427,DG8YFV,Stephan Schoenewolf,Stephan,Herten,NW,DEU
+2644428,DL8YAP,Thomas Grabs,Thomas,Altenberge,NW,DEU
+2644429,DB7KP,Alfred Gueth,Alfred,Erftstadt,NW,DEU
+2644430,DO1KBW,Klaus Borrmann,Klaus,Oberhausen,NW,DEU
+2644431,DJ8TM,Helmut Thiem,Helmut,Hamm,NW,DEU
+2644432,DL1EMK,Heinz Keime,Heinz,Ratingen,NW,DEU
+2644433,DL0SAR,Philipp Kniola,Philipp,Dortmund,NW,DEU
+2644434,DL3YDH,Heribert Wuebken,Heribert,Ochtrup,NW,DEU
+2644435,DL3WB,Wilhelm Bienemann,Wilhelm,Bedburg-Hau,NW,DEU
+2644436,DO9LC,Andre Zimmermann,Andre,Duisburg,NW,DEU
+2644437,DH4YAW,Sabine Gauf-Dreckshage,Sabine,Buende,NW,DEU
+2644438,DO5SR,Stefan Rehbein,Stefan,Hamm,NW,DEU
+2644439,DG2YBP,Holger Reimann,Holger,Herten,NW,DEU
+2644440,DL3YEG,Heinrich Laustroer,Heinrich,Guetersloh,NW,DEU
+2644441,DL3CA,Rolf Heinke,Rolf,Buende,NW,DEU
+2644442,DJ1QQ,Karl-Heinz Osiek,Karl-Heinz,Roedinghausen,NW,DEU
+2644443,DL6DAU,Gerd Koechling,Gerd,Geseke,NW,DEU
+2644444,DO9JS,Joerg Schmidt,Joerg,Dortmund,NW,DEU
+2644445,DL4KAG,Reiner Weiss,Reiner,Bergisch Gladbach,NW,DEU
+2644446,DO3RSA,Ralf Suertenich,Ralf,Dormagen,NW,DEU
+2644447,DO2JKO,Juergen Koenig,Juergen,Wegberg,NW,DEU
+2644448,DF9QN,Lutz Poppe,Lutz,Muenster,NW,DEU
+2644449,DO5TR,Thomas Roehl,Thomas,Aumuehle,SH,DEU
+2644450,DO4HJM,Hans-Juergen Maik,Hans-Juergen,Essen,NW,DEU
+2644451,DD9JQ,Werner Sperling,Werner,Hamminkeln,NW,DEU
+2644452,DJ6NN,Gerd Sauer,Gerd,Stolberg,NW,DEU
+2644453,DK2NI,Horst Fiedler,Horst,Muenster,NW,DEU
+2644454,DO9EK,Heiko Koch,Heiko,Essen,NW,DEU
+2644455,DC5DM,Marcus Dietrich,Marcus,Netphen,NW,DEU
+2644456,DF9EY,Manfred Claar,Manfred,Borken,NW,DEU
+2644457,DO4YMG,Marcel-Etienne Gose,Marcel-Etienne,Enger,NW,DEU
+2644458,DF7QQ,Berthold Wedding,Berthold,Borken,NW,DEU
+2644459,DG6YY,Diethard Klinkenberg,Diethard,Muenster,NW,DEU
+2644460,DL2KBQ,Horst Guenther,Horst,Koenigswinter,NW,DEU
+2644461,DL3KU,Ulrich Kurzbein,Ulrich,Dortmund,NW,DEU
+2644462,DG4KLU,Kai Ludwig,Kai,Neuss,NW,DEU
+2644463,DD0EU,Volker Ludwig,Volker,Neuss,NW,DEU
+2644464,DC5AS,Alexander Schremmer,Alexander,Essen,NW,DEU
+2644465,DG6YAB,Uwe Stallmann,Uwe,Loehne,NW,DEU
+2644466,DF6HP,Hans Schneider,Hans,Bonn,NW,DEU
+2644467,DL1HVO,Holger Vogel-Otto,Holger,Hemer,NW,DEU
+2644468,DC1DX,Eberhard Lerche,Eberhard,Dortmund,NW,DEU
+2644469,DF4MF,Otto Giffeler,Otto,Sankt Augustin,NW,DEU
+2644470,DJ6QO,Dietrich Platthaus,Dietrich,Essen,NW,DEU
+2644471,DO9EK,Heiko Koch,Heiko,Essen,NW,DEU
+2644472,DB6QN,Thomas Groppe,Thomas,Muenster,NW,DEU
+2644473,DL5YK,Reinhold Koerner,Reinhold,Gelsenkirchen,NW,DEU
+2644474,DL1DAI,Hans-Dieter Hedtfeld,Hans-Dieter,Hagen,NW,DEU
+2644475,DL9YFF,Uwe Klatt,Uwe,Schorndorf,BW,DEU
+2644476,DG2YIC,Andreas Bertram,Andreas,Minden,NW,DEU
+2644477,DL1UDO,Udo Mueller,Udo,Haltern am See,NW,DEU
+2644478,DF9XZ,Wilhelm Wollenweber,Wilhelm,Gronau,NW,DEU
+2644479,DK1HP,Petra Dettmann,Petra,Rheine,NW,DEU
+2644480,DL1PWJ,Peter Wuddel,Peter,Muenster,NW,DEU
+2644481,DC7NTP,Johannes Maul,Johannes,Stuttgart,BW,DEU
+2644482,DO1AFM,Mike Althoefer,Mike,Essen,NW,DEU
+2644483,DJ1NT,Neset Tanurhan,Neset,Leverkusen,NW,DEU
+2644484,DB1BC,Thomas Moellers,Thomas,Korschenbroich,NW,DEU
+2644485,DO3DM,Markus Duesterhus,Markus,Hamm,NW,DEU
+2644486,DL9EBS,Hermann Slagman,Hermann,Muelheim an der Ruhr,NW,DEU
+2644487,DD7QL,Hans Schaub,Hans,Dorsten,NW,DEU
+2644488,DL7KAR,Klaus Jebasinski,Klaus,Bergisch Gladbach,NW,DEU
+2644489,DG1ECZ,Stephan Rieger,Stephan,Willich,NW,DEU
+2644490,DH5GP,Gregor Potthof,Gregor,Lindlar,NW,DEU
+2644491,DO4CAT,Maximilian Nagel,Maximilian,Meerbusch,NW,DEU
+2644492,DO1KWR,Wilhelm Radermacher,Wilhelm,Erkelenz,NW,DEU
+2644493,DB4KW,Ulrich Steiner,Ulrich,Troisdorf,NW,DEU
+2644494,DJ2RK,Ralf Kohls,Ralf,Paderborn,NW,DEU
+2644495,DF2DO,Heinrich Kayser,Heinrich,Dortmund,NW,DEU
+2644496,DG9ME,Michael Erlenbruch,Michael,Essen,NW,DEU
+2644497,DL9KV,Guenter Turrek,Guenter,Dorsten,NW,DEU
+2644498,DK3CY,Wilhelm Laufs,Wilhelm,Muelheim,NW,DEU
+2644499,DG9YCL,Christoph Paschedag,Christoph,Beckum,NW,DEU
+2644500,DO5TH,Thomas Heupel,Thomas,Bochum,NW,DEU
+2644501,DO2MP,Markus Philipp,Markus,Dormagen,NW,DEU
+2644502,DO5PL,Paul Lang,Paul,Eschweiler,NW,DEU
+2644503,DF4HKF,Dimitri Garbi,Dimitri,Koeln,NW,DEU
+2644504,DF3AH,Arthur Hebben,Arthur,Kranenburg,NW,DEU
+2644505,DB4CB,Cazim Bajic,Cazim,Essen,NW,DEU
+2644506,DG1EAD,Dieter Hinsch,Dieter,Duesseldorf,NW,DEU
+2644507,DH4AC,Fred Jakobs,Fred,Hilden,NW,DEU
+2644508,DL3ELM,Werner Schubert,Werner,Moenchengladbach,NW,DEU
+2644509,DL1YES,Ruediger Lychatz,Ruediger,Minden,NW,DEU
+2644510,DC3JE,Holger Hoffmann,Holger,Oberhausen,NW,DEU
+2644511,DL1KDX,Urs Schlegel,Urs,Duesseldorf,NW,DEU
+2644512,DO1DSL,Dirk Spies,Dirk,Erndtebrueck,NW,DEU
+2644513,DO3ANK,Andreas Kriesmer,Andreas,Erndtebrueck,NW,DEU
+2644514,DL3DR,Heiko Damerau,Heiko,Luenen,NW,DEU
+2644515,DO7GJ,Michael Jung,Michael,Essen,NW,DEU
+2644516,DL1HWG,Oliver Ballert,Oliver,Hueckeswagen,NW,DEU
+2644517,DO1YMP,Rolf-Bernd Wernicke,Rolf-Bernd,Dorsten,NW,DEU
+2644518,DO2AP,Artur Pakulla,Artur,Soemmerda,NW,DEU
+2644519,DK1HL,Stefan Geue,Stefan,Bielefeld,NW,DEU
+2644520,DG6KL,Heinrich Bous,Heinrich,Hellenthal,NW,DEU
+2644521,DO2MEL,Patrick Melde,Patrick,Bielefeld,NW,DEU
+2644522,DK3EL,Leo Van Gemmeren,Leo,Uedem,NW,DEU
+2644523,DD1EH,Siegfried Reisch,Siegfried,Duesseldorf,NW,DEU
+2644524,DL1WKU,Willi Kunst,Willi,Aachen,NW,DEU
+2644525,DG5BEE,Michael Stadie,Michael,Lengerich,NW,DEU
+2644526,DL1MV,Markus Becker,Markus,Wilnsdorf,NW,DEU
+2644527,DO5LA,Achim Lindner,Achim,Frechen,NW,DEU
+2644528,DO2MSE,Michael Schytrumpf,Michael,Essen,NW,DEU
+2644529,DO4BP,Benedikt Pakulla,Benedikt,no_city,,DEU
+2644530,DL7BN,Nihat Becerik,Nihat,Krefeld,Nw,DEU
+2644531,DL1DBO,Dieter Mueller,Dieter,Witten,NW,DEU
+2644532,DC6QL,Ralf Schaak,Ralf,Porta Westfalica,NW,DEU
+2644533,DL3DAY,Peter Rohden,Peter,Medebach,NW,DEU
+2644534,DL1BGI,Axel Laupenmuehlen,Axel,Lage,NW,DEU
+2644535,DL1KMD,Mevlut Demirbueken,Mevlut,Koeln,NW,DEU
+2644536,DO7HJB,Hans-Juergen Bansberg,Hans-Juergen,Pulheim,NW,DEU
+2644537,DO1EK,Erhard Kleemann,Erhard,Preussisch Oldendorf,NW,DEU
+2644538,DJ1BG,Bernd Gruhn,Bernd,Bonn,NW,DEU
+2644539,DD5MD,Mathias Davidheimann,Mathias,Bochum,NW,DEU
+2644540,DF3JR,Udo Goldhammer,Udo,Moenchengladbach,NW,DEU
+2644541,DB1UJ,Joerg Ullmann,Joerg,Paderborn,NW,DEU
+2644542,DL4QJ,Manfred Gonschor,Manfred,Lichtenau,NW,DEU
+2644543,DL1KGL,Guenter Liebert,Guenter,Aldenhoven,NW,DEU
+2644544,DO9DT,Andreas Grundhoff,Andreas,Warstein,NW,DEU
+2644545,DO1MMK,Mustafa Kocak,Mustafa,Moenchengladbach,NW,DEU
+2644546,DO1RHC,Ruediger Herrmann,Ruediger,Koeln,NW,DEU
+2644547,DB1CD,Christian Dehnert,Christian,Herzogenrath,NW,DEU
+2644548,DL5EKI,Recep Abacik,Recep,Krefeld,NW,DEU
+2644549,DC3QJ,Frank Just,Frank,Porta Westfalica,NW,DEU
+2644550,DO1WDG,Hans Dalluhn,Hans,Essen,NW,DEU
+2644551,DO9EN,Norbert Elsaesser,Norbert,privat,NW,DEU
+2644552,DJ1FQ,Gerhard Fasse,Gerhard,Extertal,NW,DEU
+2644553,DL4KCD,Erika Joswig,Erika,Koeln,NW,DEU
+2644554,DL5BH,Horst Klinger,Horst,Stemwede,NW,DEU
+2644555,DL2BR,Ralf Berger,Ralf,Schalksmuehle,NW,DEU
+2644556,DJ2JW,Wilhelm Jansen,Wilhelm,Moenchengladbach,NW,DEU
+2644557,DL3KGS,Gerald Schuler,Gerald,Sankt Augustin,NW,DEU
+2644558,DO1LC,Josef Rasche,Josef,no_city,,DEU
+2644559,DO8GW,Guenther Wolff,Guenther,no_city,NW,DEU
+2644560,DL2EGS,Gerd Schaefer,Gerd,Essen,NW,DEU
+2644561,DD4JN,Norbert Hoefges,Norbert,Willich,NW,DEU
+2644562,DO1KEV,Markus Wermers,Markus,Krefeld,NW,DEU
+2644563,DO4LEX,Alexander Schmitt,Alexander,Bonn,NW,DEU
+2644564,DO5JI,Jan-Hendrik Schmitt,Jan-Hendrik,Bonn,NW,DEU
+2644565,DB8QT,Thomas Mueller,Thomas,Bielefeld,NW,DEU
+2644566,DL9DA,Thomas Schnoor,Thomas,Velbert,NW,DEU
+2644567,DO7ACI,Dursun Acikgoez,Dursun,Duisburg,NW,DEU
+2644568,DJ1NT,Neset Tanurhan,Neset,Leverkusen,NW,DEU
+2644569,DO8JM,Markus Janssen,Markus,Siegburg,NW,DEU
+2644570,DO7JH,Julian Held,Julian,Bad Honnef,NW,DEU
+2644571,DD9DR,Harald Lipphaus,Harald,Witten,NW,DEU
+2644572,DG9DBO,Thomas Immenkamp,Thomas,Kierspe,NW,DEU
+2644573,DL8KR,Karl-Heinz Rohde,Karl-Heinz,Königswinter,NW,DEU
+2644574,DO3GH,Gerhard Haug,Gerhard,Bonn,NW,DEU
+2644575,DO2BC,Christian Preussler,Christian,Bad Oeynhausen,NW,DEU
+2644576,DB8YS,Hans-Werner Kretschmar,Hans-Werner,Bottrop,NW,DEU
+2644577,DK7ZX,Axel Altmann,Axel,Frechen,NW,DEU
+2644578,DD3EU,Ulrich Becker,Ulrich,Leichlingen,NW,DEU
+2644579,DO1CGE,Christian Grosse-Eskedor,Christian,Buende,NW,DEU
+2644580,DL5KSB,Kathrin Schulte-Braucks,Kathrin,Dortmund,NW,DEU
+2644581,DK4RH,Roland Hartmann,Roland,Leverkusen,NW,DEU
+2644582,DL1TEX,Dennis Take,Dennis,Coesfeld,NW,DEU
+2644583,DG2DCC,Guido Rocholl,Guido,Arnsberg,NW,DEU
+2644584,DB8QR,Reinhold Weigmann,Reinhold,Enger,NW,DEU
+2644585,DG8YFB,Karl-Heinz Kohaupt,Karl-Heinz,Warburg,NW,DEU
 2638859,DM8AK,Antonijo Kekic,Antonijo,Muenchen,BY,DEU
 2638860,DG6RW,Roland Rossgotterer,Roland,Puchheim,BY,DEU
 2638861,DL3NBP,Gerhard Hofmann,Gerhard,Nuernberg,BY,DEU
@@ -60263,226 +60543,6 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2644363,DD9QY,Herbert Kleine,Herbert,Dorsten,NW,DEU
 2644364,DL1MRL,Marcel Michulitz,Marcel,Dormagen,NW,DEU
 2644365,DL2KHM,Heinrich Mennen,Heinrich,Linnich,NW,DEU
-2644366,DF2EQ,Michael Siebert,Michael,Kaarst,NW,DEU
-2644367,DD5LX,Frank Seidl,Frank,Leverkusen,NW,DEU
-2644368,DC3MS,Mark Schraven,Mark,Paderborn,NW,DEU
-2644369,DO9REF,Rene Frohberg,Rene,Welver,NW,DEU
-2644370,DG1EEI,Thorsten Anstoetz,Thorsten,Viersen,NW,DEU
-2644371,DO7JWG,Johannes Gramser,Johannes,no_city,,DEU
-2644372,DL3KHG,Helmut Grode,Helmut,Wesseling,NW,DEU
-2644373,DO8AA,Andreas Fraebel,Andreas,Herne,NW,DEU
-2644374,DL3ST,Leon Staab,Leon,Aachen,NW,DEU
-2644375,DK0FOX,Rene Pawliczek,Rene,Leverkusen,NW,DEU
-2644376,DG2ET,Peter Hamann,Peter,Essen,NW,DEU
-2644377,DL4EBT,Herbert Zmuda,Herbert,Duesseldorf,NW,DEU
-2644378,DO6CR,Damian Kuczera,Damian,Bochum,NW,DEU
-2644379,DL5RMS,Richard Sinning,Richard,Aachen,NW,DEU
-2644380,DF1DX,Juergen Henneke,Juergen,Siegen,NW,DEU
-2644381,DG2KAT,Friedbert Schmitz,Friedbert,Hueckelhoven,NW,DEU
-2644382,DL8BEP,Peter Janssen,Peter,Lienen,NW,DEU
-2644383,DB9MUT,Marek Tuczynski,Marek,Bergheim,NW,DEU
-2644384,DL1IKT,Ismail Kavlak,Ismail,Dortmund,NW,DEU
-2644385,DL9YBP,Ingo Schlief,Ingo,Gronau,NW,DEU
-2644386,DF1EZ,Heinz Coenen,Heinz,Grevenbroich,NW,DEU
-2644387,DJ3KS,Herbert Fischer,Herbert,Mechernich,NW,DEU
-2644388,DL4KBO,Erich Bock,Erich,Alsdorf,NW,DEU
-2644389,DB1RW,Roland Woelfl,Roland,Muelheim,NW,DEU
-2644390,DG7DCI,Michael Akay,Michael,Ennepetal,NW,DEU
-2644391,DB6FN,Finn Loehr,Finn,Witten,NW,DEU
-2644392,DL2EBW,Norbert Buscher,Norbert,Wuppertal,NW,DEU
-2644393,DH8EAD,Joerg Weber,Joerg,Essen,NW,DEU
-2644394,DO6GS,Markus Grosse-Schware,Markus,Bochum,NW,DEU
-2644395,DL1EEL,Thomas Daniels,Thomas,Duesseldorf,NW,DEU
-2644396,DG1EHJ,Juergen Abraham,Juergen,Moers,NW,DEU
-2644397,DO2LEV,Dieter Bussmann,Dieter,Leverkusen,NW,DEU
-2644398,DL4YEH,Reiner Brischke,Reiner,Selm,NW,DEU
-2644399,DK2CRN,Christoph Rueckert,Christoph,Neuss,NW,DEU
-2644400,DJ9ZL,Juergen Meissburger,Juergen,Juelich,NW,DEU
-2644401,DG1DSN,Sanel Nukic,Sanel,Dortmund,NW,DEU
-2644402,DL4EZ,Friedhelm Reichmann,Friedhelm,Voerde,NW,DEU
-2644403,DF5FD,Andreas Kohlhaas,Andreas,Haan,NW,DEU
-2644404,DL7SW,Sven Weckelmann,Sven,Bottrop,NW,DEU
-2644405,DF9CV,Wolfgang Koesters,Wolfgang,Borken,NW,DEU
-2644406,DH7JL,Jens Lehmann,Jens,Koeln,NW,DEU
-2644407,DL4BBU,Peter Hoerig,Peter,Dorsten,NW,DEU
-2644408,DG1DAD,Martin Plaeger,Martin,Dortmund,NW,DEU
-2644409,DL3SPS,Simon-Philipp Schmidt,Simon-Philipp,Dresden,SN,DEU
-2644410,DO3HMK,Heribert Kraemer,Heribert,Altena,NW,DEU
-2644411,DO9MIE,Michael Erlenbruch,Michael,Essen,NW,DEU
-2644412,DK0CRT,Michael Schwarz,Michael,Borchen,NW,DEU
-2644413,DO3CM,Marc Rose,Marc,Dortmund,NW,DEU
-2644414,DG1WA,Udo Nolte,Udo,Horn-Bad Meinberg,NW,DEU
-2644415,DB2DE,Juergen Rossberg,Juergen,Sprockhoevel,NW,DEU
-2644416,DO5FJ,Franz-Josef Sistenich,Franz-Josef,Wuerselen,NW,DEU
-2644417,DL6EZ,Hans Boeckenkamp,Hans,Duesseldorf,NW,DEU
-2644418,DG4DCW,Michael Weuster,Michael,Breckerfeld,NW,DEU
-2644419,DG5GBS,Guenter Bredtmann,Guenter,Essen,NW,DEU
-2644420,DL3DBV,Martin Pape,Martin,Winterberg,NW,DEU
-2644421,DO7VM,Peter Van der Mond,Peter,Gelsenkirchen,NW,DEU
-2644422,DO8KAS,Joachim Stritthof,Joachim,Nideggen-Schmidt,NW,DEU
-2644423,DL5JS,Michael Wahl,Michael,Duesseldorf,NW,DEU
-2644424,DG8DBS,Thomas Vendel,Thomas,Dortmund,NW,DEU
-2644425,DL4KAZ,Wolfram Fischer,Wolfram,Rees,NW,DEU
-2644426,DO3CON,Georg Contzen,Georg,Koeln,NW,DEU
-2644427,DG8YFV,Stephan Schoenewolf,Stephan,Herten,NW,DEU
-2644428,DL8YAP,Thomas Grabs,Thomas,Altenberge,NW,DEU
-2644429,DB7KP,Alfred Gueth,Alfred,Erftstadt,NW,DEU
-2644430,DO1KBW,Klaus Borrmann,Klaus,Oberhausen,NW,DEU
-2644431,DJ8TM,Helmut Thiem,Helmut,Hamm,NW,DEU
-2644432,DL1EMK,Heinz Keime,Heinz,Ratingen,NW,DEU
-2644433,DL0SAR,Philipp Kniola,Philipp,Dortmund,NW,DEU
-2644434,DL3YDH,Heribert Wuebken,Heribert,Ochtrup,NW,DEU
-2644435,DL3WB,Wilhelm Bienemann,Wilhelm,Bedburg-Hau,NW,DEU
-2644436,DO9LC,Andre Zimmermann,Andre,Duisburg,NW,DEU
-2644437,DH4YAW,Sabine Gauf-Dreckshage,Sabine,Buende,NW,DEU
-2644438,DO5SR,Stefan Rehbein,Stefan,Hamm,NW,DEU
-2644439,DG2YBP,Holger Reimann,Holger,Herten,NW,DEU
-2644440,DL3YEG,Heinrich Laustroer,Heinrich,Guetersloh,NW,DEU
-2644441,DL3CA,Rolf Heinke,Rolf,Buende,NW,DEU
-2644442,DJ1QQ,Karl-Heinz Osiek,Karl-Heinz,Roedinghausen,NW,DEU
-2644443,DL6DAU,Gerd Koechling,Gerd,Geseke,NW,DEU
-2644444,DO9JS,Joerg Schmidt,Joerg,Dortmund,NW,DEU
-2644445,DL4KAG,Reiner Weiss,Reiner,Bergisch Gladbach,NW,DEU
-2644446,DO3RSA,Ralf Suertenich,Ralf,Dormagen,NW,DEU
-2644447,DO2JKO,Juergen Koenig,Juergen,Wegberg,NW,DEU
-2644448,DF9QN,Lutz Poppe,Lutz,Muenster,NW,DEU
-2644449,DO5TR,Thomas Roehl,Thomas,Aumuehle,SH,DEU
-2644450,DO4HJM,Hans-Juergen Maik,Hans-Juergen,Essen,NW,DEU
-2644451,DD9JQ,Werner Sperling,Werner,Hamminkeln,NW,DEU
-2644452,DJ6NN,Gerd Sauer,Gerd,Stolberg,NW,DEU
-2644453,DK2NI,Horst Fiedler,Horst,Muenster,NW,DEU
-2644454,DO9EK,Heiko Koch,Heiko,Essen,NW,DEU
-2644455,DC5DM,Marcus Dietrich,Marcus,Netphen,NW,DEU
-2644456,DF9EY,Manfred Claar,Manfred,Borken,NW,DEU
-2644457,DO4YMG,Marcel-Etienne Gose,Marcel-Etienne,Enger,NW,DEU
-2644458,DF7QQ,Berthold Wedding,Berthold,Borken,NW,DEU
-2644459,DG6YY,Diethard Klinkenberg,Diethard,Muenster,NW,DEU
-2644460,DL2KBQ,Horst Guenther,Horst,Koenigswinter,NW,DEU
-2644461,DL3KU,Ulrich Kurzbein,Ulrich,Dortmund,NW,DEU
-2644462,DG4KLU,Kai Ludwig,Kai,Neuss,NW,DEU
-2644463,DD0EU,Volker Ludwig,Volker,Neuss,NW,DEU
-2644464,DC5AS,Alexander Schremmer,Alexander,Essen,NW,DEU
-2644465,DG6YAB,Uwe Stallmann,Uwe,Loehne,NW,DEU
-2644466,DF6HP,Hans Schneider,Hans,Bonn,NW,DEU
-2644467,DL1HVO,Holger Vogel-Otto,Holger,Hemer,NW,DEU
-2644468,DC1DX,Eberhard Lerche,Eberhard,Dortmund,NW,DEU
-2644469,DF4MF,Otto Giffeler,Otto,Sankt Augustin,NW,DEU
-2644470,DJ6QO,Dietrich Platthaus,Dietrich,Essen,NW,DEU
-2644471,DO9EK,Heiko Koch,Heiko,Essen,NW,DEU
-2644472,DB6QN,Thomas Groppe,Thomas,Muenster,NW,DEU
-2644473,DL5YK,Reinhold Koerner,Reinhold,Gelsenkirchen,NW,DEU
-2644474,DL1DAI,Hans-Dieter Hedtfeld,Hans-Dieter,Hagen,NW,DEU
-2644475,DL9YFF,Uwe Klatt,Uwe,Schorndorf,BW,DEU
-2644476,DG2YIC,Andreas Bertram,Andreas,Minden,NW,DEU
-2644477,DL1UDO,Udo Mueller,Udo,Haltern am See,NW,DEU
-2644478,DF9XZ,Wilhelm Wollenweber,Wilhelm,Gronau,NW,DEU
-2644479,DK1HP,Petra Dettmann,Petra,Rheine,NW,DEU
-2644480,DL1PWJ,Peter Wuddel,Peter,Muenster,NW,DEU
-2644481,DC7NTP,Johannes Maul,Johannes,Stuttgart,BW,DEU
-2644482,DO1AFM,Mike Althoefer,Mike,Essen,NW,DEU
-2644483,DJ1NT,Neset Tanurhan,Neset,Leverkusen,NW,DEU
-2644484,DB1BC,Thomas Moellers,Thomas,Korschenbroich,NW,DEU
-2644485,DO3DM,Markus Duesterhus,Markus,Hamm,NW,DEU
-2644486,DL9EBS,Hermann Slagman,Hermann,Muelheim an der Ruhr,NW,DEU
-2644487,DD7QL,Hans Schaub,Hans,Dorsten,NW,DEU
-2644488,DL7KAR,Klaus Jebasinski,Klaus,Bergisch Gladbach,NW,DEU
-2644489,DG1ECZ,Stephan Rieger,Stephan,Willich,NW,DEU
-2644490,DH5GP,Gregor Potthof,Gregor,Lindlar,NW,DEU
-2644491,DO4CAT,Maximilian Nagel,Maximilian,Meerbusch,NW,DEU
-2644492,DO1KWR,Wilhelm Radermacher,Wilhelm,Erkelenz,NW,DEU
-2644493,DB4KW,Ulrich Steiner,Ulrich,Troisdorf,NW,DEU
-2644494,DJ2RK,Ralf Kohls,Ralf,Paderborn,NW,DEU
-2644495,DF2DO,Heinrich Kayser,Heinrich,Dortmund,NW,DEU
-2644496,DG9ME,Michael Erlenbruch,Michael,Essen,NW,DEU
-2644497,DL9KV,Guenter Turrek,Guenter,Dorsten,NW,DEU
-2644498,DK3CY,Wilhelm Laufs,Wilhelm,Muelheim,NW,DEU
-2644499,DG9YCL,Christoph Paschedag,Christoph,Beckum,NW,DEU
-2644500,DO5TH,Thomas Heupel,Thomas,Bochum,NW,DEU
-2644501,DO2MP,Markus Philipp,Markus,Dormagen,NW,DEU
-2644502,DO5PL,Paul Lang,Paul,Eschweiler,NW,DEU
-2644503,DF4HKF,Dimitri Garbi,Dimitri,Koeln,NW,DEU
-2644504,DF3AH,Arthur Hebben,Arthur,Kranenburg,NW,DEU
-2644505,DB4CB,Cazim Bajic,Cazim,Essen,NW,DEU
-2644506,DG1EAD,Dieter Hinsch,Dieter,Duesseldorf,NW,DEU
-2644507,DH4AC,Fred Jakobs,Fred,Hilden,NW,DEU
-2644508,DL3ELM,Werner Schubert,Werner,Moenchengladbach,NW,DEU
-2644509,DL1YES,Ruediger Lychatz,Ruediger,Minden,NW,DEU
-2644510,DC3JE,Holger Hoffmann,Holger,Oberhausen,NW,DEU
-2644511,DL1KDX,Urs Schlegel,Urs,Duesseldorf,NW,DEU
-2644512,DO1DSL,Dirk Spies,Dirk,Erndtebrueck,NW,DEU
-2644513,DO3ANK,Andreas Kriesmer,Andreas,Erndtebrueck,NW,DEU
-2644514,DL3DR,Heiko Damerau,Heiko,Luenen,NW,DEU
-2644515,DO7GJ,Michael Jung,Michael,Essen,NW,DEU
-2644516,DL1HWG,Oliver Ballert,Oliver,Hueckeswagen,NW,DEU
-2644517,DO1YMP,Rolf-Bernd Wernicke,Rolf-Bernd,Dorsten,NW,DEU
-2644518,DO2AP,Artur Pakulla,Artur,Soemmerda,NW,DEU
-2644519,DK1HL,Stefan Geue,Stefan,Bielefeld,NW,DEU
-2644520,DG6KL,Heinrich Bous,Heinrich,Hellenthal,NW,DEU
-2644521,DO2MEL,Patrick Melde,Patrick,Bielefeld,NW,DEU
-2644522,DK3EL,Leo Van Gemmeren,Leo,Uedem,NW,DEU
-2644523,DD1EH,Siegfried Reisch,Siegfried,Duesseldorf,NW,DEU
-2644524,DL1WKU,Willi Kunst,Willi,Aachen,NW,DEU
-2644525,DG5BEE,Michael Stadie,Michael,Lengerich,NW,DEU
-2644526,DL1MV,Markus Becker,Markus,Wilnsdorf,NW,DEU
-2644527,DO5LA,Achim Lindner,Achim,Frechen,NW,DEU
-2644528,DO2MSE,Michael Schytrumpf,Michael,Essen,NW,DEU
-2644529,DO4BP,Benedikt Pakulla,Benedikt,no_city,,DEU
-2644530,DL7BN,Nihat Becerik,Nihat,Krefeld,Nw,DEU
-2644531,DL1DBO,Dieter Mueller,Dieter,Witten,NW,DEU
-2644532,DC6QL,Ralf Schaak,Ralf,Porta Westfalica,NW,DEU
-2644533,DL3DAY,Peter Rohden,Peter,Medebach,NW,DEU
-2644534,DL1BGI,Axel Laupenmuehlen,Axel,Lage,NW,DEU
-2644535,DL1KMD,Mevlut Demirbueken,Mevlut,Koeln,NW,DEU
-2644536,DO7HJB,Hans-Juergen Bansberg,Hans-Juergen,Pulheim,NW,DEU
-2644537,DO1EK,Erhard Kleemann,Erhard,Preussisch Oldendorf,NW,DEU
-2644538,DJ1BG,Bernd Gruhn,Bernd,Bonn,NW,DEU
-2644539,DD5MD,Mathias Davidheimann,Mathias,Bochum,NW,DEU
-2644540,DF3JR,Udo Goldhammer,Udo,Moenchengladbach,NW,DEU
-2644541,DB1UJ,Joerg Ullmann,Joerg,Paderborn,NW,DEU
-2644542,DL4QJ,Manfred Gonschor,Manfred,Lichtenau,NW,DEU
-2644543,DL1KGL,Guenter Liebert,Guenter,Aldenhoven,NW,DEU
-2644544,DO9DT,Andreas Grundhoff,Andreas,Warstein,NW,DEU
-2644545,DO1MMK,Mustafa Kocak,Mustafa,Moenchengladbach,NW,DEU
-2644546,DO1RHC,Ruediger Herrmann,Ruediger,Koeln,NW,DEU
-2644547,DB1CD,Christian Dehnert,Christian,Herzogenrath,NW,DEU
-2644548,DL5EKI,Recep Abacik,Recep,Krefeld,NW,DEU
-2644549,DC3QJ,Frank Just,Frank,Porta Westfalica,NW,DEU
-2644550,DO1WDG,Hans Dalluhn,Hans,Essen,NW,DEU
-2644551,DO9EN,Norbert Elsaesser,Norbert,privat,NW,DEU
-2644552,DJ1FQ,Gerhard Fasse,Gerhard,Extertal,NW,DEU
-2644553,DL4KCD,Erika Joswig,Erika,Koeln,NW,DEU
-2644554,DL5BH,Horst Klinger,Horst,Stemwede,NW,DEU
-2644555,DL2BR,Ralf Berger,Ralf,Schalksmuehle,NW,DEU
-2644556,DJ2JW,Wilhelm Jansen,Wilhelm,Moenchengladbach,NW,DEU
-2644557,DL3KGS,Gerald Schuler,Gerald,Sankt Augustin,NW,DEU
-2644558,DO1LC,Josef Rasche,Josef,no_city,,DEU
-2644559,DO8GW,Guenther Wolff,Guenther,no_city,NW,DEU
-2644560,DL2EGS,Gerd Schaefer,Gerd,Essen,NW,DEU
-2644561,DD4JN,Norbert Hoefges,Norbert,Willich,NW,DEU
-2644562,DO1KEV,Markus Wermers,Markus,Krefeld,NW,DEU
-2644563,DO4LEX,Alexander Schmitt,Alexander,Bonn,NW,DEU
-2644564,DO5JI,Jan-Hendrik Schmitt,Jan-Hendrik,Bonn,NW,DEU
-2644565,DB8QT,Thomas Mueller,Thomas,Bielefeld,NW,DEU
-2644566,DL9DA,Thomas Schnoor,Thomas,Velbert,NW,DEU
-2644567,DO7ACI,Dursun Acikgoez,Dursun,Duisburg,NW,DEU
-2644568,DJ1NT,Neset Tanurhan,Neset,Leverkusen,NW,DEU
-2644569,DO8JM,Markus Janssen,Markus,Siegburg,NW,DEU
-2644570,DO7JH,Julian Held,Julian,Bad Honnef,NW,DEU
-2644571,DD9DR,Harald Lipphaus,Harald,Witten,NW,DEU
-2644572,DG9DBO,Thomas Immenkamp,Thomas,Kierspe,NW,DEU
-2644573,DL8KR,Karl-Heinz Rohde,Karl-Heinz,Königswinter,NW,DEU
-2644574,DO3GH,Gerhard Haug,Gerhard,Bonn,NW,DEU
-2644575,DO2BC,Christian Preussler,Christian,Bad Oeynhausen,NW,DEU
-2644576,DB8YS,Hans-Werner Kretschmar,Hans-Werner,Bottrop,NW,DEU
-2644577,DK7ZX,Axel Altmann,Axel,Frechen,NW,DEU
-2644578,DD3EU,Ulrich Becker,Ulrich,Leichlingen,NW,DEU
-2644579,DO1CGE,Christian Grosse-Eskedor,Christian,Buende,NW,DEU
-2644580,DL5KSB,Kathrin Schulte-Braucks,Kathrin,Dortmund,NW,DEU
-2644581,DK4RH,Roland Hartmann,Roland,Leverkusen,NW,DEU
-2644582,DL1TEX,Dennis Take,Dennis,Coesfeld,NW,DEU
-2644583,DG2DCC,Guido Rocholl,Guido,Arnsberg,NW,DEU
-2644584,DB8QR,Reinhold Weigmann,Reinhold,Enger,NW,DEU
-2644585,DG8YFB,Karl-Heinz Kohaupt,Karl-Heinz,Warburg,NW,DEU
 2644586,DG3YGA,Ulrich Lang,Ulrich,Datteln,NW,DEU
 2644587,DO1GEM,Georgios Miliotis,Georgios,no_city,NW,DEU
 2644588,DJ4SU,Peter Habermann,Peter,Bochum,NW,DEU
@@ -63082,7 +63142,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2860397,TA3OZX,Koray Ozturk,Koray,Istanbul,,TUR
 2860398,TA2EE,Burcak Cubukcu,Burcak,Bahcelievler,,TUR
 2860399,TA2OTE,Taskin ,Taskin,Ankara,,TUR
-2860400,TA2MKS,Suleyman Karakas,Suleyman,Maltepe,,TUR
+2860400,TA2VJ,Suleyman Karakas,Suleyman,Istanbul,Istanbul,TUR
 2860401,TA2SO,Sukru Dogan,Sukru,Istanbul,,TUR
 2860402,TA5MEX,Mevlut Kucukcalik,Mevlut,Cumra,Konya,TUR
 2860403,TA5T,Metin Kaya,Metin,Konya,Konya,TUR
@@ -63201,7 +63261,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2860516,TA6N,Taskin Akansel,Taskin,Sinop,,TUR
 2860517,TA2OE,Ibrahim Gore,Ibrahim,Yalova,,TUR
 2860518,TA3IKC,Cem ,Cem,Izmir,,TUR
-2860519,TA1OFK,Omer Fahreddin,Omer,Istanbul,,TUR
+2860519,TA1BH,Omer Karabekrolu,Omer,Istanbul,.,TUR
 2860520,TA3NHK,Hayri ,Hayri,Balikesir,,TUR
 2860521,TA3UHK,Hatice ,Hatice,Izmir,,TUR
 2860522,TA7OSA,no_name ,no_name,Sivas,,TUR
@@ -63261,7 +63321,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2860576,TA2KY,Erdal Guler,Erdal,Serdivan,,TUR
 2860577,TA6UMI,Umit Yorulmaz,Umit,Bozkurt,,TUR
 2860578,TA2NVC,Semistan ,Semistan,Istanbul,,TUR
-2860579,TA1OFK,Ofkara ,Ofkara,Istanbul,,TUR
+2860579,TA1BH,Omer Karabekrolu,Omer,Istanbul,.,TUR
 2860580,TA2URM,Remzi Karaca,Remzi,Ankara,,TUR
 2860581,TA2UK,Ercankilic ,Ercankilic,Ankara,,TUR
 2860582,TA2ED,Derya Elcin,Derya,Batikent,,TUR
@@ -63282,7 +63342,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2860597,TB1BDL,Tunca Bildik,Tunca,Istanbul,,TUR
 2860598,TA9EG,Hasan Gultekin,Hasan,Artvin,,TUR
 2860599,TB2BEG,Erdinc Koc,Erdinc,Yalova,,TUR
-2860600,TB3HAI,Ahmet ,Ahmet,Bursa,,TUR
+2860600,TA3RAI,Ahmet ,Ahmet,Bursa,.,TUR
 2860601,TA1AOR,Oezcan ,Oezcan,Istanbul,,TUR
 2860602,TA2FP,Eren Demir,Eren,Saskinbakkal,,TUR
 2860603,TA2MOB,Onur ,Onur,Istanbul,,TUR
@@ -63529,7 +63589,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2860844,TA1LFT,Merter Keresteciler,Merter,Istanbul,,TUR
 2860845,TA1MER,Mert ,Mert,Istanbul,,TUR
 2860846,TA2NLA,Ahmet Geldi,Ahmet,Duzce,,TUR
-2860847,TA5ISA,Serif Ayhan,Serif,Kozan,,TUR
+2860847,TA5SO,Erf Kilicli,Erf,Adana,.,TUR
 2860848,TA5ASQ,Seda Kilicli,Seda,Kozan,,TUR
 2860849,TA2ZE,Zafer Baskan,Zafer,Ankara,,TUR
 2860850,TA5AAB,Kasim Adnan,Kasim,Adana,,TUR
@@ -64666,6 +64726,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2861981,TA5AWO,Ali Demirayak,Ali,Klcaslan Mah.Konya,.,TUR
 2861982,TA2XC,no_name ,no_name,no_city,.,TUR
 2861983,TB2GCE,no_name ,no_name,no_city,.,TUR
+2861984,TA8OZT,Bilal ,Bilal,Gaziantep,Gaziantep,TUR
 2862001,TA2OI,Nejmettin Ozel,Nejmettin,Sulakyurt,Kirikkale,TUR
 2880001,OY8W,Steffen Solberg,Steffen,Kollafjorour,,FRO
 2880002,OY1DZ,Karstin ,Karstin,Hoyvik,,FRO
@@ -65201,6 +65262,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2930505,S57GB,Bostjan ,Bostjan,Ljubljana,.,SLO
 2930506,S55SG,no_name ,no_name,Kranj,.,SLO
 2930507,S57PC,Mitja ,Mitja,Tolmin,.,SLO
+2930508,S51DSG,Cbrcsocang ,Cbrcsocang,Nova Gorica,.,SLO
+2930509,S51JM,Jure ,Jure,Medvode,.,SLO
 2940001,Z36AEC,Herolind Useini,Herolind,Gostivar,Gostivar,MKD
 2940002,Z32IT,Dragan Spiroski,Dragan,Skopje,Skopje RegionSkopje,MKD
 2940003,Z32IT,Dragan Spiroski,Dragan,Skopje,Skopje,MKD
@@ -65244,6 +65307,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2959006,HB0AA,Yvo Oehri,Yvo,Schaanwald,,LIE
 2959007,HB0HF,Markus Marxer,Markus,Eschen,,LIE
 2959008,HB0HF,Markus Marxer,Markus,Eschen,,LIE
+2959009,HB0RER,no_name ,no_name,no_city,.,LIE
 2970001,4O6DXC,Janko Cukic,Janko,Podgorica,,MNE
 2970002,4O6ZD,Zeljko Draskovic,Zeljko,Podgorica,,MNE
 2970003,4O5JD,Jovan Dedic,Jovan,Podgorica,,MNE
@@ -65280,67 +65344,193 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2970034,4O9KOM,Lukavulic ,Lukavulic,Berane,,MNE
 2970035,4O4Z,Nebojsa Bozovic,Nebojsa,Herceg Novi,,MNE
 2970036,4O3TGC,no_name ,no_name,no_city,.,MNE
-2080465,F4EFP,Claude ,Claude,Mezieres Sous Lavardin,.,FRA
-2140370,EA4ON,Victorcadierno ,Victorcadierno,Las Rozas,.,ESP
-2140371,EA5JAA,Elziber ,Elziber,La Nuca,.,ESP
-2140372,EA5IZZ,Tonials ,Tonials,Lalfas Del Pi,.,ESP
-2140373,EA7KLD,Jmgt ,Jmgt,Martos,.,ESP
-2140374,EA3IIQ,no_name ,no_name,Lleida,.,ESP
-2140375,EA1IYA,Jose Ruiz,Jose,Medina Del Campo ( VALLADOLID),Castilla Y Leon,ESP
-2140376,EA3GWF,Paco ,Paco,Barcelona,.,ESP
-2140377,EA6YK,Mmf ,Mmf,Inca Mallorca,.,ESP
-2140378,EA3IHF,Javier ,Javier,Lleida,.,ESP
-2226409,IZ2OBB,No_name ,No_name,Induno Olona (VA),Lombardia,ITA
-2226410,IU5GBQ,Andrea Branchetti,Andrea,Carrara (MS),Toscana,ITA
-2260031,YO9PAL,Paulyo9pal ,Paulyo9pal,Campina,.,ROU
-2282040,HB9ARD,Lorenz ,Lorenz,Cressier Ne,.,CHE
-2348504,M3XCN,Headhacker ,Headhacker,Sutton Coldfield,.,GBR
-2348605,G0JYQ,Malcolm ,Malcolm,Fareham,.,GBR
-2348606,M7EJS,Ericstammers ,Ericstammers,Guildford,.,GBR
-2348607,M7NES,Nigel ,Nigel,Woodbridge,.,GBR
-2348611,M7YOE,Graham ,Graham,Stoke-On-Trent,.,GBR
-2348613,M7HXS,Hamzahs ,Hamzahs,London,.,GBR
-2348615,G4SBC,Ianbateman ,Ianbateman,Chesterfield,.,GBR
-2348616,M7TCT,Mark ,Mark,Havant,.,GBR
-2348617,M0NTT,Richard ,Richard,Skipton,.,GBR
-2354781,MM0OPX,Mm0opxcolin ,Mm0opxcolin,Edinburgh,.,GBR
-2356052,GD0WSK,Stuart ,Stuart,Isle Of Man,.,GBR
-2380049,OZ2DLB,Dannydk ,Dannydk,Nordborg,.,DNK
-2380050,OZ9PPE,Per ,Per,Boulstrup Odder,.,DNK
-2400484,SA6BTU,no_name ,no_name,Svenljunga,.,SWE
-2400485,SM6FBF,no_name ,no_name,Dalsjoefors,.,SWE
-2502153,R2AYH,Kirill ,Kirill,no_city,.,RUS
-2504066,R4HFJ,Denis ,Denis,no_city,.,RUS
-2504069,R4YABC,Denis ,Denis,no_city,.,RUS
-2507079,UB7RBA,Arkady Arakelyan,Arkady,Sevastopol,All Regions,RUS
-2600199,SQ1JA,Adam ,Adam,Szczecin,.,POL
-2600207,SQ6SLG,Henryk ,Henryk,Boleslawiec,.,POL
-2620768,DG5CAK,Heinz Illgen,Heinz,Pullach,BY,DEU
-2620769,DL2SV,Nikolaos Saridis,Nikolaos,Neumarkt,BY,DEU
-2930508,S51DSG,Cbrcsocang ,Cbrcsocang,Nova Gorica,.,SLO
-2930509,S51JM,Jure ,Jure,Medvode,.,SLO
-2020097,SV1LHN,no_name ,no_name,no_city,.,GRC
-2190303,9A3CTT,no_name ,no_name,no_city,.,HRV
-2325180,OE5ARP,Ralph Aichinger,Ralph,Linz,KTN,AUT
-2348507,M6MRG,no_name ,no_name,no_city,.,GBR
-2861984,TA8OZT,Bilal ,Bilal,Gaziantep,Gaziantep,TUR
-2959009,HB0RER,no_name ,no_name,no_city,.,LIE
-2040072,PE9JAN,Jan ,Jan,Oosterleek,.,NLD
-2080466,F5JHC,Nicolas ,Nicolas,Montauroux,.,FRA
-2080467,F5JNI,Jeanclaude ,Jeanclaude,51240 - Mairy Sur Marne,.,FRA
-2080468,F5PEG,Henri ,Henri,Sarry,.,FRA
-2140379,EA3C,Carlos ,Carlos,Tremp,.,ESP
-2140380,EA6ANB,Cayetano ,Cayetano,Inca,.,ESP
-2226411,IK7IZM,Massimo Sartorio,Massimo,Taranto (TA),Puglia,ITA
-2226412,IT9CLX,Mirko Castorina,Mirko,Carlentini (SR),Sicilia,ITA
-2348508,G2SM,Scott ,Scott,Blackburn,.,GBR
-2348511,M6VPT,Paul ,Paul,Darwen,.,GBR
-2348618,M6TET,Tony Esen,Tony,Details,Withheld,GBR
-2348619,M1AIB,Paul ,Paul,Fareham,.,GBR
-2348620,M3DOO,Johndooley ,Johndooley,Stoke On Trent,.,GBR
-2354782,MM6HDZ,Hans ,Hans,Ballater,.,GBR
-2355545,MI7MCK,Andy ,Andy,Newtownards,.,GBR
-2380051,OZ6WR,Jorn ,Jorn,Ishoj,.,DNK
-2400486,SA0LAC,Peter ,Peter,Stockholm,.,SWE
-2400487,SM6WBU,John ,John,Alingsas,.,SWE
-2600208,SP9TW,Tomasz ,Tomasz,Krakow,.,POL
+2020098,SV3RZL,Dimitris Lagos,Dimitris,Paroreio,Peloponnisos,GRC
+2020099,SY2BCW,Sotos Litsos,Sotos,Kastoria,.,GRC
+2020100,SV2HRW,Iosif Kaponis,Iosif,Thessaloniki,Kentriki Makedonia,GRC
+2020101,SV1ONZ,Leonidas Daoutis,Leonidas,Athens,Attica,GRC
+2020102,SV2RUE,Teo Rap,Teo,Katerini,.,GRC
+2020103,SV7BOW,Moschos Prepoudis,Moschos,Soufli,.,GRC
+2020104,SV1QB,Manos ,Manos,Athens,.,GRC
+2040086,PE1AVN,R Van Straten,R,Hoofddorp,.,NLD
+2040087,PA2VC,Paul Groothoff,Paul,Roden,.,NLD
+2040088,PA3EKM,Marten Remmers,Marten,Xr Groningen,.,NLD
+2040089,PD0ROH,Rob Van der Heijden,Rob,Eindhoven,.,NLD
+2040090,PA3GHM,Cj Van der Burgt,Cj,Gk Enschede,.,NLD
+2040091,PA2GRT,Cees ,Cees,Delft,.,NLD
+2040092,PC4U,Marc ,Marc,Roosendaal,.,NLD
+2040093,PA3AYW,Hans ,Hans,Hoogland,.,NLD
+2060301,ON5JT,Jean-Pierre Lebrun,Jean-Pierre,Frasnes-Lez-Buissenal,.,BEL
+2060302,ON4DL,Alain Valentour,Alain,Saint Servais ( NAMUR ),.,BEL
+2060304,ON4VJP,Jean Pierre,Jean,Jabbeke,.,BEL
+2060305,ON8TB,Tommy Michiels,Tommy,Ronse,.,BEL
+2080469,F4GKQ,Renzo Salmon,Renzo,Saint Connec,.,FRA
+2080470,F6DVG,Pierrot Pollet,Pierrot,Tarascon Sur Ariege,.,FRA
+2080471,F1OVB,Paul ,Paul,Grenoble,.,FRA
+2140338,EA3IIR,Danifdez ,Danifdez,Badalona,Cataluna,ESP
+2140345,EA4HIE,Jose Gabriel,Jose,Azuqueca De Henares,.,ESP
+2140348,EA5IZS,Antonio ,Antonio,Benidorm,.,ESP
+2140353,EA2EFM,Iosu ,Iosu,Vitoria,.,ESP
+2140383,EA5JAD,Dani ,Dani,Elche,.,ESP
+2140384,EA1FGY,Jose ,Jose,Burgos (SS),Sardegna,ESP
+2140385,EB3FYO,Juan Pedro,Juan,Riudarenes,.,ESP
+2140386,EA5GVZ,Nando Mengual,Nando,Denia (ALICANTE),.,ESP
+2140387,EA5IPD,Felipe Martinez,Felipe,Paterna. Valencia,.,ESP
+2140388,EA3HRE,Jaume Guiluz,Jaume,El Vendrell,.,ESP
+2140389,EA7JZU,Javier ,Javier,Sevilla,.,ESP
+2140390,EA1HB,Jose Garcia,Jose,Ourense,.,ESP
+2140391,EA3IFS,Josep ,Josep,Badalona,Barcelona,ESP
+2140392,EA7KKO,David Franco,David,Jerez De La Frontera,.,ESP
+2140393,EA5T,Jose Guillem,Jose,Valencia,.,ESP
+2140394,EB4BLV,Antonio ,Antonio,Madrid,.,ESP
+2140395,EB4GBJ,Juan Rivero,Juan,Illescas. Toledo.,.,ESP
+2160032,HA7ZB,Csuhaj Laszlo,Csuhaj,Pomaz,.,HUN
+2160033,HG6DAD,Norbert ,Norbert,Kallo,.,HUN
+2160034,HA1EF,Pankotayjzsef ,Pankotayjzsef,Szombathely,.,HUN
+2190304,9A5ARI,Darko Srbis,Darko,Skrljevo,Ôçäprimorje-Gorski Kotar,HRV
+2190305,9A3SWR,Matija ,Matija,Croatia,.,HRV
+2226413,IZ2FMV,Silvano Castoldi,Silvano,Lonate Pozzolo (VA),Lombardia,ITA
+2226414,IW3BVG,Eugenio Gallelli,Eugenio,Bolzano (BZ),Trentino AA,ITA
+2226415,IT9DJI,Giuseppe Spadaro,Giuseppe,Caltagirone (CT),Sicilia,ITA
+2226416,IT9VCE,Alfio Scirto,Alfio,Randazzo (CT),Sicilia,ITA
+2226417,IT9JDH,Marcello Coco,Marcello,Catania (CT),Sicilia,ITA
+2226418,IU0FNV,Marco Stefanutti,Marco,Colleferro (RM),Lazio,ITA
+2226419,IT9DEC,Angela Allegra,Angela,Pedara (CT),Sicilia,ITA
+2226420,IU1HGO,Fabio Boccardo,Fabio,Mignanego (GE),Liguria,ITA
+2226421,IT9JRU,Francesco Patane,Francesco,Pedara (CT),Sicilia,ITA
+2226423,IU3JNS,Matteo ,Matteo,Ceggia (VE),Veneto,ITA
+2226424,IK3LLZ,Luigi ,Luigi,Villafranca (VR),Veneto,ITA
+2226425,IU1MPF,Issey Sandei,Issey,Genova (GE),Liguria,ITA
+2226426,IN3CES,Bruno ,Bruno,Trento (TN),Trentino AA,ITA
+2226427,IW7DZS,D'Oronzo Vincenzo,D'Oronzo,Cassano Delle Murge (BA),Puglia,ITA
+2226428,IV3NDR,Rosario Urzi',Rosario,Trieste (TS),Friuli VG,ITA
+2226429,IW0EWI,Alessandro Di Ponio,Alessandro,Roma (RM),Lazio,ITA
+2226430,IT9OJW,Ignazio Sgroi,Ignazio,Catania (CT),Sicilia,ITA
+2226431,IT9DQF,Fernando ,Fernando,Palermo (PA),Sicilia,ITA
+2226432,IU7KQS,Gaetano Pennacchio,Gaetano,Castellaneta (TA),Puglia,ITA
+2226435,IT9GQT,Massimiliano Leone,Massimiliano,Palermo (PA),Sicilia,ITA
+2289102,HB9DVZ,Andre Jalkoczi,Andre,Sevelen Sg,.,CHE
+2300036,OK1MB,Milan ,Milan,Sk- Ceske Budejovice,Zno_info Bohemian,CZE
+2300037,OK1VVE,Vit Velharticky,Vit,Ricany,Central Bohemian,CZE
+2300038,OK1UUK,Eda ,Eda,Iernilov,.,CZE
+2300039,OK1WET,Petr ,Petr,Skutec,.,CZE
+2310015,OM8AMV,Marek Varga,Marek,Poprad,Kosicky,SVK
+2348346,M1DOZ,David Sampson,David,Great Totham. Essex.,England,GBR
+2348523,G8TEB,David Clarke,David,Wyke. Bradford,England,GBR
+2348524,M7KLY,John ,John,Sheffield,England,GBR
+2348530,M7MRR,Matt Rogers,Matt,England,.,GBR
+2348536,M7EEB,Paul ,Paul,Shrewsbury,.,GBR
+2348542,M7BLA,Michael Blackwood,Michael,Littlehampton West Sussex,.,GBR
+2348548,M7ABD,Graham O'Reilly,Graham,Southampton,.,GBR
+2348549,M7PHB,Peter Baines,Peter,Bolton,.,GBR
+2348621,G3ZVN,Gm Peck,Gm,Westerham,England,GBR
+2348623,M7MJH,Martin Hall,Martin,Yate Bristol.,England,GBR
+2348625,M0MAR,Andrew El-Khalidi,Andrew,Ruislip,.,GBR
+2348626,M6DEZ,James Butters,James,Derby (AO),Valle D'Aosta,GBR
+2348627,M7PCE,Paul Clark,Paul,Rowley Regis,.,GBR
+2348628,2E0YGM,Matthew Clayton,Matthew,Hungerford Berkshire,.,GBR
+2348630,M0DSS,Dave Smith,Dave,Alnwick. Northumberland,.,GBR
+2348631,M7PHO,Phil ,Phil,London,.,GBR
+2348633,M7DCT,David ,David,Weston Super Mare,.,GBR
+2348634,G7NIZ,Anthony Bowers,Anthony,Northampton,England,GBR
+2348635,G7UCO,Dave Reed,Dave,Hollingdean. Brighton,.,GBR
+2348638,M7PDS,Paul ,Paul,Nottingham,.,GBR
+2348639,M0CZV,M0czv_ian ,M0czv_ian,Fareham,.,GBR
+2348640,M0KDR,Kno_name Roberts,Kno_name,Redruth. Cornwall,.,GBR
+2348641,M7DRP,Aaron Pennell,Aaron,Essex,.,GBR
+2348643,M6UPE,Rob Saddler,Rob,Swindon,.,GBR
+2348644,G7GQC,George Beckingham,George,Gloucester,.,GBR
+2348645,M7DTP,Dave ,Dave,Wakefield,.,GBR
+2348648,M7HUL,Andrew Shakesby,Andrew,Kingston Upon Hull,.,GBR
+2348649,M7ATX,David Pyke,David,Immingham,.,GBR
+2348653,M7SZD,Saniyah ,Saniyah,Cheshunt,.,GBR
+2348654,M7RTT,Russel ,Russel,Beausale,.,GBR
+2348657,G1SQI,John Bewley,John,Pennycross. Plymouth,England,GBR
+2348658,M1APC,James ,James,Gunnislake,.,GBR
+2348659,M7IRL,Paul ,Paul,Wellingborough,.,GBR
+2348661,G3WSW,John ,John,Preston,.,GBR
+2348662,MB6IMS,no_name ,no_name,Loughton,.,GBR
+2354784,MM7CWE,Scott Cowie,Scott,Perth,.,GBR
+2354785,MM0KTL,Kit Lane,Kit,Tillicoultry,.,GBR
+2354787,MM7OZY,Marty ,Marty,Cupar,.,GBR
+2380052,OZ7YM,Kurt Muller,Kurt,Nordborg,Syddanmark,DNK
+2380053,OZ9ANT,Olivier ,Olivier,Kolding,.,DNK
+2380054,OZ1YL,Annaelle ,Annaelle,Kolding,.,DNK
+2380055,OZ9M,Lennarth Hjgard,Lennarth,Horsens,.,DNK
+2400488,SA6JXE,John ,John,Uddevalla,Vastergotland,SWE
+2400489,SM0SGY,Erik Hogfors,Erik,Hagersten,.,SWE
+2400490,SM0SME,Kurre Tyresoe,Kurre,Tyresoe,.,SWE
+2502173,R2FBN,Aleksandr ,Aleksandr,no_city,.,RUS
+2503303,RD3X,Dmitriy Kaminskiy,Dmitriy,Balabanovo,Kaluzhskaya Obl,RUS
+2503332,UB3AUS,Gabriel Tikhonov,Gabriel,Moscow,.,RUS
+2550419,UR4UQP,Roman ,Roman,Irpin,.,UKR
+2600209,SQ7OTG,Tomasz Gieraga,Tomasz,Ozorkow,.,POL
+2600210,SQ7BR,Tomasz Sacinski,Tomasz,Sulejow,.,POL
+2600211,SP6QM,Kazimierz Kedzierski,Kazimierz,Boleslawiec,.,POL
+2600212,SP2J,Michal Brennek,Michal,(JASZCZEREK),.,POL
+2600213,SP1MM,Michal Brennek,Michal,Warszawa,.,POL
+2600214,SP8ML,Michal Nagraba,Michal,Chelm,.,POL
+2620770,DG6NFU,Andreas Dornhoefer,Andreas,Nuernberg,BY,DEU
+2620771,DC7DQ,Richard Haack,Richard,Berlin,BE,DEU
+2620772,DL8YBK,Theo Janssen,Theo,Dortmund,NW,DEU
+2620773,DL2ON,Otto Nicula,Otto,Stassfurt,ST,DEU
+2620774,DH5EE,Andreas Kramer,Andreas,Heinsen,NI,DEU
+2620775,DO9MWZ,Martin Weitz,Martin,Zuelpich,NW,DEU
+2620776,DL9WB,Bernd Wehner,Bernd,Duisburg,NW,DEU
+2620777,DF6NF,Alexander Hampel,Alexander,Hochheim am Main,HE,DEU
+2620778,DG3RCO,Wolfgang Kurtz,Wolfgang,Frankfurt,HE,DEU
+2620779,DD2JB,Hans-Jurgen Bansberg,Hans-Jurgen,Pulheim,NW,DEU
+2620780,DH2LAB,Matthias Mania,Matthias,Kiel,SH,DEU
+2620781,DO4HM,Markus Haneklaus,Markus,Rheine,NW,DEU
+2620782,DL7KV,Hans-Heinz Arens,Hans-Heinz,Niederkassel,NW,DEU
+2620783,DC6DX,Jan Metz,Jan,Froendenberg,NW,DEU
+2620784,DD6JH,Michael Herfurth,Michael,Treuenbrietzen,BB,DEU
+2620785,DL1RP,Reinhold Uebbing,Reinhold,Neuss,NW,DEU
+2620786,DG1HTF,Felix Hentschel,Felix,Haynsburg,ST,DEU
+2620787,DB4ML,Martin Luttig,Martin,Hanau,HE,DEU
+2620788,DH1OK,Olaf Keller,Olaf,Backnang,BW,DEU
+2620789,DL3BBF,Manfred Goretzki,Manfred,Neuried,BY,DEU
+2620790,DG6OBC,Heiko Linne,Heiko,Natendorf,NI,DEU
+2620792,DK1GP,Guido Pluetzer,Guido,Koeln,NW,DEU
+2620793,DG1GMY,Michael Schiele,Michael,Sinzheim,BW,DEU
+2620794,DL1IF,Torben Jesaitis-Soeht,Torben,Weddingstedt,SH,DEU
+2620795,DL9ROW,Rolf Wuerdemann,Rolf,Freiburg,BW,DEU
+2620796,DF6HE,Burghard Hanisch,Burghard,Braunschweig,NI,DEU
+2620797,DO3WE,Jan ,Jan,Netphen,NW,DEU
+2620798,DO5IO,Demy ,Demy,Wuppertal,NW,DEU
+2620799,DC9DE,Patrick Sturtz-Klose,Patrick,Muenster,NW,DEU
+2620800,DO6TCM,Tom ,Tom,Irlbach,BY,DEU
+2680061,CT2JRH,Mirio ,Mirio,Lavradio,Lisboa,PRT
+2680062,CR7AXY,Bruno Barros,Bruno,Canelas,.,PRT
+2720218,EI2JD,Thos Caffrey,Thos,Clogherhead. Co. Louth,Louth,IRL
+2720219,EI7BMB,Tonymoore ,Tonymoore,Dublin,.,IRL
+2840392,LZ3CY,Stefani ,Stefani,Sozopol,Burgas,BGR
+2840393,LZ1FMI,no_name ,no_name,Sofia,.,BGR
+2861985,TA2RUO,Onur ,Onur,Bilecik,Bilecik,TUR
+2861986,TB2GRT,Serhat ,Serhat,Kocaeli,Ankara,TUR
+2861987,TB2TYM,Yesim ,Yesim,Sakarya,Ankara,TUR
+2861988,TB1PMC,Mehmet ,Mehmet,Istanbul,.,TUR
+2861989,TB3DXE,Erbil ,Erbil,Bursa,.,TUR
+2930510,S55LA,Marko ,Marko,Rakek,.,SLO
+2930511,S58SMS,Miha ,Miha,Store,.,SLO
+2930512,S52TMX,Tomaz ,Tomaz,Smartno Pri Litiji,.,SLO
+2930513,S58Y,Robert Mlakar,Robert,Poljcane,.,SLO
+2930514,S50SE,Simon ,Simon,Maribor,.,SLO
+2080472,F4HHY,no_name ,no_name,no_city,.,FRA
+2140396,EA4GNR,no_name ,no_name,no_city,.,ESP
+2140397,EA7KO,no_name ,no_name,no_city,.,ESP
+2190306,9A3FBD,Dado-Srvks ,Dado-Srvks,no_city,Grad Zagreb,HRV
+2226433,IU3NQX,Francesco Zarantonello,Francesco,Padova (PD),Veneto,ITA
+2226434,IW0EKH,No_name ,No_name,No_city,,ITA
+2226436,IU2NYM,Leonardo Lerede,Leonardo,Milano (MI),Lombardia,ITA
+2226437,IT9FEG,Salvatore Camilleri,Salvatore,Catania (CT),Sicilia,ITA
+2226438,IW5CBO,Andrea Sbrana,Andrea,Pisa (PI),Toscana,ITA
+2226439,IT9BXC,Toni Caruso,Toni,Misterbianco (CT),Sicilia,ITA
+2226440,IU2CEK,Gianfilippo Nicoletti,Gianfilippo,Ospitaletto (MI),Lombardia,ITA
+2327190,OE7GWT,Gunther Wirth,Gunther,Volders,TIROL,AUT
+2570069,EW1AEM,Mikhail Shaviarenka,Mikhail,no_city,.,BLR
+2600215,SQ9CWW,Piotr ,Piotr,no_city,.,POL
+2620791,DL2TOB,Tobias Hruby,Tobias,Waldsassen,BY,DEU
+2861990,TB3PSU,no_name ,no_name,no_city,.,TUR
+2348624,M7CWE,Scottc ,Scottc,no_city,England,GBR
+2348651,M7IRL,Paul ,Paul,Wellingborough,.,GBR
+2348652,M7PRB,Paul Bates,Paul,no_city,.,GBR
