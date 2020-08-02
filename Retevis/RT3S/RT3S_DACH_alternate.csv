@@ -238,6 +238,8 @@
 2281236,HB9HCT Bernard ,Bernard Vouilloz         Meyrin                  .                       CHE
 2281237,HB3XVJ Anthony ,Anthony Schaer           Etoy                    Vaud                    CHE
 2281238,HB3XVN Pascal  ,Pascal Honger            Ecublens                Vaud                    CHE
+2281239,HB9GUO Francesc,Francesco                Verbier                 Vs                      CHE
+2281240,HB9CCE Roger   ,Roger                    Aigle                   .                       CHE
 2282001,HB9OOI Stephan ,Stephan Hofstetter       Grenchen                Solothurn               CHE
 2282002,HB9BEI Bruno   ,Bruno Knuchel            Taeuffelen              Bern                    CHE
 2282003,HB9EZV Michel  ,Michel Perrenoud         La Neuveville           Westschweiz-Nord        CHE
@@ -794,6 +796,7 @@
 2285068,HB9HDE Bhp     ,Bhp Bhp                  Neuenhof                Aargau                  CHE
 2285069,HB9ERD Udo     ,Udo                      Holderbank              Aargau                  CHE
 2285070,HB9XBG Walter  ,Walter Kaegi             Auenstein               .                       CHE
+2285071,HB9HGQ Tomasini,Tomasini                 Villmergen              Aargau                  CHE
 2286001,HB9BMC Robert  ,Robert Murer             Steinhausen             Zentralschweiz und T    CHE
 2286002,HB9CPY Peter   ,Peter                    Altdorf                 Uri                     CHE
 2286003,HB3YVK Luca    ,Luca                     Comano                  Tessin                  CHE
@@ -1053,6 +1056,7 @@
 2286257,HB9ERA no_name ,no_name                  no_city                 .                       CHE
 2286258,HB9GHD Davide  ,Davide Paganoni          Piedmont                Zentralschweiz und T    CHE
 2286259,HB3YKK Marcel  ,Marcel Kieliger          Brunnen                 Zentralschweiz und T    CHE
+2286260,HB3XTP Gianpaol,Gianpaolo Ferrari        Chiasso                 Ticino                  CHE
 2287001,HB9FPO Stefano ,Stefano                  Poschiavo               Graubuenden             CHE
 2287002,HB9HAN Roland  ,Roland Peter             Sargans                 Graubuenden             CHE
 2287003,HB9FPO Stefano ,Stefano Foppoli          Poschiavo               Graubuenden             CHE
@@ -2191,7 +2195,11 @@
 2323327,OE3RQA Martin  ,Martin Rafenstein        Brunn am Gebirge        NOE                     AUT
 2323328,OE3FTC No_name ,No_name                  No_city                                         AUT
 2323329,OE3KCC Karl    ,Karl Koczan              Baden                   NOE                     AUT
+2323330,OE3MNU Manuel  ,Manuel Reiter            Sankt Poelten           NOE                     AUT
+2323331,OE3AJS Dieter  ,Dieter                   Krems An der Donau      NOE                     AUT
+2323332,OE3AKI Andreas ,Andreas                  Berndorf                STMK                    AUT
 2323333,OE3TRB Thomas  ,Thomas                   Berndorf                NOE                     AUT
+2323334,OE3MTA Max     ,Max Schaffer             Perchtoldsdorf          NOE                     AUT
 2323353,OE3MJA Josef   ,Josef Mathae             Seitenstetten           NOE                     AUT
 2323354,OE3DNA Andreas ,Andreas Neubauer         Amstetten               NOE                     AUT
 2323355,OE3YZC Marlene ,Marlene Zehetner         Wolfsbach               NOE                     AUT
@@ -2874,6 +2882,7 @@
 2327188,OE7MOF no_name ,no_name                  Eben am Achensee        TIROL                   AUT
 2327189,OE7NCT Nikolaus,Nikolaus Coluccini       Angerberg               TIROL                   AUT
 2327190,OE7GWT Guenther,Guenther Wirth           Volders                 TIROL                   AUT
+2327191,OE7LOJ Erik    ,Erik Loll-Nielsen        Kitzbuehel              TIROL                   AUT
 2327232,OE7OST Thomas  ,Thomas Ostermann         Innsbruck               TIROL                   AUT
 2328001,OE8AGK Alfred  ,Alfred Grascher          Eberndorf               KTN                     AUT
 2328002,OE8DDK no_name ,no_name                  no_city                 KTN                     AUT
@@ -3837,7 +3846,7 @@
 2620705,DG7SBL Peter   ,Peter Rieg               Bueckeburg              NI                      DEU
 2620706,DL9GAS Stefan  ,Stefan Gollwitzer        Schwarzenfeld           BY                      DEU
 2620707,DO7WDG Markus  ,Markus Gillhoff          Fischbach               RP                      DEU
-2620708,DK5CH Christian,Christian Hoeffken       Uedem                   NW                      DEU
+2620708,DK5CH Christian,Christian Hoeffken       Essen                   NW                      DEU
 2620709,DJ3PX Reinhold ,Reinhold Schneider       Neustadt                RP                      DEU
 2620710,DO1EL Karlheinz,Karlheinz Seifert        Duisburg                NW                      DEU
 2620711,DH0GME Elmar   ,Elmar Meiss              Villingen-Schwenningen  BW                      DEU
@@ -3984,7 +3993,7 @@
 2620852,DL1FMK Mario   ,Mario Koch               Buedingen               HE                      DEU
 2620853,DC9DD Hans     ,Hans Koester             Bergkamen               NW                      DEU
 2620854,DJ9KK Koichi   ,Koichi Kasamatsu         Nuernberg               BY                      DEU
-2620855,DC7SB Siegfried,Siegfried Bill           Odenthal                NW                      DEU
+2620855,DO6BJ Thomas   ,Thomas Breit             Wolfsburg               NI                      DEU
 2620856,DO8MAX Maximili,Maximilian Jaeger        no_city                                         DEU
 2620857,DG1FCL Daniel  ,Daniel Nottarp           Bad Soden               HE                      DEU
 2620858,DO4TW Torsten  ,Torsten Warnstorff       Straubing               BY                      DEU
@@ -4013,7 +4022,47 @@
 2620881,DG8NBO Bernd   ,Bernd Benkert            Berg                    BY                      DEU
 2620882,DC0DPN Michael ,Michael Vogl             Grevenbroich            NW                      DEU
 2620883,DO1SV Stephan  ,Stephan Vinke            Au In der Hallertau     BY                      DEU
-2620884,DO2AM Andreas  ,Andreas Mertes           Erfurt                  TH                      DEU
+2620884,DO2AM Andreas  ,Andreas Mertes           Trier                   RP                      DEU
+2620885,DO1AGM Alexande,Alexander Mueck          Landshut                BY                      DEU
+2620886,DH8MBP Joerg   ,Joerg Soba               Ingolstadt              BY                      DEU
+2620887,DD7RG Ralf     ,Ralf Geiger              Heilbronn               BW                      DEU
+2620888,DL8DF Dirk     ,Dirk Fissmer             Huellhorst              NW                      DEU
+2620889,DO7AJ Armin    ,Armin Jonker             Densborn                RP                      DEU
+2620890,DO2YK Frank    ,Frank Kuhne              Hattingen               NW                      DEU
+2620891,DG3GH Gerhard  ,Gerhard Haug             Bonn                    NW                      DEU
+2620892,DM4RTN Martin  ,Martin Brunokowski       Viersen                 NW                      DEU
+2620893,DL4MBY Werner  ,Werner Riedl             Durach                  BY                      DEU
+2620894,DL7LE Sebastian,Sebastian Schaumann      Arnsberg                NW                      DEU
+2620895,DJ6LM Manfred  ,Manfred Gluehr           Westerstede             NI                      DEU
+2620896,DH1BAQ Andreas ,Andreas Niere            Lingen                  NI                      DEU
+2620897,DO2JGR Jonas   ,Jonas Gruedl             Juelich                 NW                      DEU
+2620898,DL6PG Peter    ,Peter Gruedl             Juelich                 NW                      DEU
+2620899,DO8LMS Markus  ,Markus Schroeder         Schoenkirchen           SH                      DEU
+2620900,DO1KFG Frank   ,Frank Gaertner           Koeln                   NW                      DEU
+2620901,DO1MWO Markus  ,Markus Walser            Ravensburg              BW                      DEU
+2620902,DG7CD Siegfried,Siegfried Eiche          Weil am Rhein           BW                      DEU
+2620903,DO6MD Michael  ,Michael Ehrler           Hohenlohe               NI                      DEU
+2620904,DO7MN Maximilia,Maximilian Niepold       Garbsen                 NI                      DEU
+2620905,DL7CI Otto-Gerh,Otto-Gerhard Richter     Berlin                  BE                      DEU
+2620906,DH7DHB Dirk    ,Dirk Herzer              Essen                   NW                      DEU
+2620907,DG7DK Andree   ,Andree Moser             Halstenbek              SH                      DEU
+2620908,DL1LK Kai      ,Kai Litfin-Klinke        Wetter                  NW                      DEU
+2620909,DK4FP Gerd     ,Gerd Jung                Welzheim                BW                      DEU
+2620910,DH5LAM Holger  ,Holger Moeller           Weyhe                   NI                      DEU
+2620911,DF7LUX Sebastia,Sebastian Daniel         Dortmund                NW                      DEU
+2620912,DO3MAX Max     ,Max Burmeister           Ribnitz-Damgarten       MV                      DEU
+2620913,DF2OR Werner   ,Werner Ortel             Hannover                NI                      DEU
+2620914,DL5VZ Alexander,Alexander Schwinn        Albstadt                BW                      DEU
+2620915,DG1DCW Bernd   ,Bernd Lutz               Kreuztal                NW                      DEU
+2620916,DO3SES Dominik ,Dominik Martens          Oldenburg               NI                      DEU
+2620917,DK3RNW Wolfgang,Wolfgang Kern            Waldbroel               NW                      DEU
+2620918,DC6LK Wolfgang ,Wolfgang Wendefeuer      Muenchen                BY                      DEU
+2620919,DL4MGM Michael ,Michael Spannbauer       Gaimersheim             BY                      DEU
+2620920,DM3KE Wolfgang ,Wolfgang Schuster        Diensdorf-Radlow        BB                      DEU
+2620921,DL6OLI Oliver  ,Oliver Kilgus            Stuttgart               BW                      DEU
+2620922,DL3HY Thorsten ,Thorsten Walter          Uelzen                  NI                      DEU
+2620923,DL1JW Josef    ,Josef Wichmann           Visbek                  NI                      DEU
+2620924,DH5DC Peter    ,Peter Lochny             Syrgenstein             BY                      DEU
 2621001,DL7AJ Wolfgang ,Wolfgang Meier           Berlin                  BE                      DEU
 2621002,DG4FEY Thomas  ,Thomas Kocher            Berlin                  BE                      DEU
 2621003,DL7ATA Frank   ,Frank Kochanski          Berlin                  BE                      DEU
@@ -12913,7 +12962,7 @@
 2634644,DL3DBC Ralf    ,Ralf Schneider           Wilnsdorf               NW                      DEU
 2634645,DO9DMG Dorothea,Dorothea Von Geisau      Koeln                   NW                      DEU
 2634646,DL2KHU Hans-Ulr,Hans-Ulrich Eick         Koeln                   NW                      DEU
-2634647,DO9DV Luca     ,Luca Iasevoli            Haltern                 NW                      DEU
+2634647,DL8MUN Luca    ,Luca Iasevoli            Haltern am See          NW                      DEU
 2634648,DL8ZBW Joachim ,Joachim Nowak            Castrop- Rauxel         NW                      DEU
 2634649,DO1OW Jens     ,Jens Winkler             Bonn                    NW                      DEU
 2634650,DG1KFK Frank   ,Frank Korbel             Bruehl                  NW                      DEU
@@ -15753,52 +15802,54 @@
 2644849,DO7KY Andreas  ,Andreas Respondek        Koeln                   NW                      DEU
 2644850,DL5JA Peter    ,Peter Rommerskirchen     Schwalmtal              NW                      DEU
 2644851,DO3THP Thorben ,Thorben Potthast         Bochum                  NW                      DEU
-2281239,HB9GUO Francesc,Francesco                Verbier                 Vs                      CHE
-2281240,HB9CCE Roger   ,Roger                    Aigle                   .                       CHE
-2285071,HB9HGQ Tomasini,Tomasini                 Villmergen              Aargau                  CHE
-2286260,HB3XTP Gianpaol,Gianpaolo Ferrari        Chiasso                 Ticino                  CHE
-2323330,OE3MNU Manuel  ,Manuel Reiter            Sankt Poelten           NOE                     AUT
-2323331,OE3AJS Dieter  ,Dieter                   Krems An der Donau      NOE                     AUT
-2323332,OE3AKI Andreas ,Andreas                  Berndorf                STMK                    AUT
-2323334,OE3MTA Max     ,Max Schaffer             Perchtoldsdorf          NOE                     AUT
-2327191,OE7LOJ Erik    ,Erik Loll-Nielsen        Kitzbuehel              TIROL                   AUT
-2620885,DO1AGM Alexande,Alexander Mueck          Landshut                BY                      DEU
-2620886,DH8MBP Joerg   ,Joerg Soba               Ingolstadt              BY                      DEU
-2620887,DD7RG Ralf     ,Ralf Geiger              Heilbronn               BW                      DEU
-2620888,DL8DF Dirk     ,Dirk Fissmer             Huellhorst              NW                      DEU
-2620889,DO7AJ Armin    ,Armin Jonker             Densborn                RP                      DEU
-2620890,DO2YK Frank    ,Frank Kuhne              Hattingen               NW                      DEU
-2620891,DG3GH Gerhard  ,Gerhard Haug             Bonn                    NW                      DEU
-2620892,DM4RTN Martin  ,Martin Brunokowski       Viersen                 NW                      DEU
-2620893,DL4MBY Werner  ,Werner Riedl             Durach                  BY                      DEU
-2620894,DL7LE Sebastian,Sebastian Schaumann      Arnsberg                NW                      DEU
-2620895,DJ6LM Manfred  ,Manfred Gluhr            Westerstede             NI                      DEU
-2620896,DH1BAQ Andreas ,Andreas Niere            Lingen                  NI                      DEU
-2620897,DO2JGR Jonas   ,Jonas Gruedl             Juelich                 NW                      DEU
-2620898,DL6PG Peter    ,Peter Gruedl             Juelich                 NW                      DEU
-2620899,DO8LMS Markus  ,Markus Schroeder         Schoenkirchen           SH                      DEU
-2620900,DO1KFG Frank   ,Frank Gaertner           Koeln                   NW                      DEU
-2620901,DO1MWO Markus  ,Markus Walser            Ravensburg              BW                      DEU
-2620902,DG7CD Siegfried,Siegfried Eiche          Weil am Rhein           BW                      DEU
-2620903,DO6MD Michael  ,Michael Ehrler           Hohenlohe               NI                      DEU
-2620904,DO7MN Maximilia,Maximilian Niepold       Garbsen                 NI                      DEU
-2620905,DL7CI Otto-Gerh,Otto-Gerhard Richter     Berlin                  BE                      DEU
-2620906,DH7DHB Dirk    ,Dirk Herzer              Essen                   NW                      DEU
-2620907,DG7DK Andree   ,Andree Moser             Halstenbek              SH                      DEU
-2620908,DL1LK Kai      ,Kai Litfin-Klinke        Wetter                  NW                      DEU
-2620909,DK4FP Gerd     ,Gerd Jung                Welzheim                BW                      DEU
-2620910,DH5LAM Holger  ,Holger Moeller           Weyhe                   NI                      DEU
-2620911,DF7LUX Sebastia,Sebastian Daniel         Dortmund                NW                      DEU
-2620912,DO3MAX Max     ,Max Burmeister           Ribnitz-Damgarten       MV                      DEU
-2620913,DF2OR Werner   ,Werner Ortel             Hannover                NI                      DEU
-2620914,DL5VZ Alexander,Alexander Schwinn        Albstadt                BW                      DEU
-2620915,DG1DCW Bernd   ,Bernd Lutz               Kreuztal                NW                      DEU
-2620916,DO3SES Dominik ,Dominik Martens          Oldenburg               NI                      DEU
-2620917,DK3RNW Wolfgang,Wolfgang Kern            Waldbroel               NW                      DEU
-2620918,DC6LK Wolfgang ,Wolfgang Wendefeuer      Muenchen                BY                      DEU
-2620919,DL4MGM Michael ,Michael Spannbauer       Gaimersheim             BY                      DEU
-2620920,DM3KE Wolfgang ,Wolfgang Schuster        Diensdorf-Radlow        BB                      DEU
-2620921,DL6OLI Oliver  ,Oliver Kilgus            Stuttgart               BW                      DEU
-2620922,DL3HY Thorsten ,Thorsten Walter          Uelzen                  NI                      DEU
-2620923,DL1JW Josef    ,Josef Wichmann           Visbek                  NI                      DEU
-2620924,DH5DC Peter    ,Peter Lochny             Syrgenstein             BY                      DEU
+2281241,HB9MIG Michel  ,Michel                   Froideville             Vaud                    CHE
+2284240,HB9HGH Schindle,Schindler                Pfeffingen              Basel-Landschaft        CHE
+2620925,DO6HHM Helmut  ,Helmut Muench            Gillenfeld              RP                      DEU
+2620926,DO7BC Carsten  ,Carsten Bockelmann       Salzhausen              NI                      DEU
+2620927,DG4BZ Hubert   ,Hubert Griese            Bohmte                  NI                      DEU
+2620928,DO5SBZ Marcel  ,Marcel                   Pirna                   Sn                      DEU
+2620929,DO3SKA Karin   ,Karin Bassfeld           Eningen Unter Achalm    BW                      DEU
+2620930,DJ6SBJ Jens    ,Jens Bassfeld            Eningen Unter Achalm    BW                      DEU
+2620931,DO2KTE Thomas  ,Thomas Kraehahn          Erfurt                  TH                      DEU
+2620932,DL6EE Arno     ,Arno Loehdorf            Wuppertal               NW                      DEU
+2620933,DM5KA Axelkarch,Axelkarch Karch          Dresden                 SN                      DEU
+2620934,DG6EM Michael  ,Michael Richter          Dormagen                NW                      DEU
+2620935,DL1AGB Andreas ,Andreas Baldauf          Muenchen                BY                      DEU
+2620936,DO6DD Tobias   ,Tobias Stockreiter       Osnabrueck              NI                      DEU
+2620937,DO1MBC Martial ,Martial Chauteauvieux    Rheinfelden             BW                      DEU
+2620938,DG2FA Henning  ,Henning Oschwald         Straubing               BY                      DEU
+2620939,DL1XMW Michael ,Michael Weber            Muenchen                BY                      DEU
+2620940,DO5SST Sascha  ,Sascha Struckmann        Bad Oeynhausen          NW                      DEU
+2620941,DO1GPS Simon   ,Simon Glienke            Pohlheim                HE                      DEU
+2620942,DO9SO Soner    ,Soner Aktas              Babenhausen             HE                      DEU
+2323335,OE3PBS Bernhard,Bernhard Ing. Peter Bamb Scheiblingkirchen       NOE                     AUT
+2323336,OE3TSH No_name ,No_name                  No_city                                         AUT
+2325184,OE5LKL Klaus   ,Klaus Layr               Feldkirchen             OOE                     AUT
+2321266,OE1BHT Bernd   ,Bernd                    Wien                    WIEN                    AUT
+2321267,OE1WAA Alexande,Alexander Wacek          Wien                    WIEN                    AUT
+2321268,OE1UNS Sascha  ,Sascha Ungar             Wien                    WIEN                    AUT
+2321269,OE1MHZ Wolfgang,Wolfgang Mahr            Wien                    WIEN                    AUT
+2321270,OE1OEE Arek    ,Arek                     Wien                    WIEN                    AUT
+2321271,OE1VEP Peter   ,Peter                    Wien                    WIEN                    AUT
+2321272,OE1ITE Peter   ,Peter Scharmueller       Wien                    WIEN                    AUT
+2323337,OE3RFR Robert  ,Robert                   Ruprechtshofen          OOE                     AUT
+2323338,OE3EGH Martin  ,Martin Haiderer          Gross Enzersdorf        NOE                     AUT
+2323339,OE3THX Matthias,Matthias                 Maria Enzersdorf        NOE                     AUT
+2323340,OE3WWP Willi   ,Willi                    Laaben                  NOE                     AUT
+2323341,OE3WEK Martin  ,Martin                   Laaben                  NOE                     AUT
+2323342,OE3OMR Roland  ,Roland                   Grossrust               NOE                     AUT
+2323343,OE3RBT Reinhard,Reinhard                 Pyhra                   NOE                     AUT
+2323344,OE3WDK Dominik ,Dominik                  Hafnerbach              NOE                     AUT
+2327192,OE7OLI Josef   ,Josef Leitner            Kundl                   TIROL                   AUT
+2620943,DO1DSH Dennis  ,Dennis Schulz            Hamburg                 HH                      DEU
+2620944,DG9MFH Reinhard,Reinhard Nigg            Kempten                 BY                      DEU
+2620945,DG4GA Armin    ,Armin Bente              Messstetten             BW                      DEU
+2620946,DO1KHI Rudi    ,Rudi                     Kirchhain               HE                      DEU
+2620947,DL6NDG Karl-Hei,Karl-Heinz Bohn          Wuerzburg               BY                      DEU
+2620948,DG7LBB Jens    ,Jens Hoffmann            Glinde                  SH                      DEU
+2620949,DK9DP Hans-Geor,Hans-Georg Sippel        Hamm                    NW                      DEU
+2620950,DH8HAK Christia,Christian Kautz          Luebeck                 SH                      DEU
+2620951,DK2WY Wolfgang ,Wolfgang Mocker          Eggenfelden             BY                      DEU
+2620952,DO9BUS Bjoern  ,Bjoern                   Lueneburg               NI                      DEU
+2620953,DL6IS Ingo     ,Ingo Strecker            Bitz                    BW                      DEU
+2620954,DK9MBA Martin  ,Martin Baas              Grevenbroich            NW                      DEU
