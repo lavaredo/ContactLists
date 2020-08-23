@@ -489,6 +489,7 @@
 2283205,HB9EVN Remo    ,Remo                     Bern                                            CHE
 2283206,HB9HGK Kevin   ,Kevin                    Zollikofen              Bern und Oberwallis     CHE
 2283207,HB9GUX Hawe    ,Hawe Grotemeyer          Muensingen / Bern       Bern                    CHE
+2283208,HB9TKB Reto    ,Reto Trachsel            Steffisburg             Bern                    CHE
 2284001,HB9EMQ Andy    ,Andy Wetzikon            Oberbuchsitten          Olten                   CHE
 2284002,HB9EMQ Andy    ,Andy Wetzikon            Oberbuchsitten          Olten                   CHE
 2284003,HB9EMQ Andy    ,Andy Wetzikon            Oberbuchsitten          Olten                   CHE
@@ -729,6 +730,7 @@
 2284238,HB9PCH Christia,Christian                Allschwil               .                       CHE
 2284239,HB3XVI Pascal  ,Pascal Steck             Muttenz                 Basel                   CHE
 2284240,HB9HGH Schindle,Schindler                Pfeffingen              Basel-Landschaft        CHE
+2284241,HB9HGG Simon   ,Simon Wuethrich          Rohrbach                Oberaargau              CHE
 2285001,HB9CNT Paul    ,Paul Streich             Untersiggenthal         Baden                   CHE
 2285002,HB9CNT Paul    ,Paul Streich             Untersiggenthal         Baden                   CHE
 2285003,HB9CNT Paul    ,Paul Streich             Untersiggenthal         Baden                   CHE
@@ -1811,6 +1813,7 @@
 2321272,OE1ITE Peter   ,Peter Scharmueller       Wien                    WIEN                    AUT
 2321273,OE1WDH Walter  ,Walter Dvorak            Wien                    WIEN                    AUT
 2321274,OE1UHU Stefan  ,Stefan Hutter            Wien                    WIEN                    AUT
+2321275,OE1TRI Thomas  ,Thomas Rief              Wien                    WIEN                    AUT
 2321301,OE1BAD Andreas ,Andreas Boeck            Wien                    WIEN                    AUT
 2321302,OE1PNS Peter   ,Peter                    Wien                    WIEN                    AUT
 2321303,OE1MCU Michael ,Michael Kastelic         Wien                    WIEN                    AUT
@@ -2224,6 +2227,10 @@
 2323343,OE3RBT Reinhard,Reinhard                 Pyhra                   NOE                     AUT
 2323344,OE3WDK Dominik ,Dominik                  Hafnerbach              NOE                     AUT
 2323345,OE3HPT Thomas  ,Thomas                   Prein An der Rax        NOE                     AUT
+2323346,OE3OEW Wolfgang,Wolfgang                 no_city                 NOE                     AUT
+2323347,OE3XNR Arc     ,Arc Waldviertel          St. Poelten             NOE                     AUT
+2323348,OE3WHS Walter  ,Walter Hahnemann         Amstetten               NOE                     AUT
+2323349,OE3OEX No_name ,No_name                  No_city                                         AUT
 2323353,OE3MJA Josef   ,Josef Mathae             Seitenstetten           NOE                     AUT
 2323354,OE3DNA Andreas ,Andreas Neubauer         Amstetten               NOE                     AUT
 2323355,OE3YZC Marlene ,Marlene Zehetner         Wolfsbach               NOE                     AUT
@@ -2491,6 +2498,7 @@
 2325182,OE5IRS Robert  ,Robert Schneeberger      Gaspoltshofen           OOE                     AUT
 2325183,OE5HCL Christia,Christian Haas           Leonding                OOE                     AUT
 2325184,OE5LKL Klaus   ,Klaus Layr               Feldkirchen             OOE                     AUT
+2325185,OE5GMO Gerhard ,Gerhard Mueller          St. Martin / M          OOE                     AUT
 2325251,OE5DRP Peter   ,Peter Albrecht           Schlaegl                OOE                     AUT
 2326001,OE6HEF Harald  ,Harald Enko              St. Peter Ob Judenburg  STMK                    AUT
 2326002,OE6HXF Michael ,Michael Hofstaetter      Graz                    STMK                    AUT
@@ -4143,6 +4151,29 @@
 2620975,DH1DF Martin   ,Martin Schaller          Elterlein               SN                      DEU
 2620976,DO1MPH Martin  ,Martin Hubert            Neunkirchen am Brand    BY                      DEU
 2620977,DL3OHM Florian ,Florian Fritz            Sulz am Neckar          BW                      DEU
+2620978,DK4FW Kurt     ,Kurt Loewenstein         Bad Nauheim             HE                      DEU
+2620979,DL3YEG Heinrich,Heinrich Laustroer       Guetersloh              NW                      DEU
+2620980,DL7FCB Bernd   ,Bernd Nebgen             Dornburg-Wilsenroth     HE                      DEU
+2620981,DG2GHH Heiko   ,Heiko Haug               Albstadt                BW                      DEU
+2620982,DO7DMT Sven    ,Sven Schleifer           Solms                   HE                      DEU
+2620983,DO1BG Beatrice ,Beatrice Gillern-Kosian  Koenigswinter           NW                      DEU
+2620984,DO2PW Paul     ,Paul Walde               Koenigswinter           NW                      DEU
+2620985,DL3MCT Aristos ,Aristos Panatos          Langenbach              BY                      DEU
+2620986,DO4HM Markus   ,Markus Haneklaus         Rheine                  NW                      DEU
+2620987,DL4NGW Norbert ,Norbert Wenk             Fuerth                  BY                      DEU
+2620988,DO1ASB Marco   ,Marco Woltermann         Goettingen              NI                      DEU
+2620989,DD0IB Ingo     ,Ingo Bauer               Wiesbaden               HE                      DEU
+2620990,DK2WU Werner   ,Werner Gallmeier         Kelheim-Ihrlerstein     BY                      DEU
+2620991,DF8TB Rainer   ,Rainer Binder            Albstadt                BW                      DEU
+2620992,DO1IM Uwe      ,Uwe Koch                 Wolfsburg               NI                      DEU
+2620993,DK3GT Gerhard  ,Gerhard Topp             Wolfsburg               NI                      DEU
+2620994,DO1WKD Waldemar,Waldemar Doerr           Marpingen               SL                      DEU
+2620995,DL5PC Jesus    ,Jesus Comendador         Eitorf                  NW                      DEU
+2620996,DB9AX Willi    ,Willi Grobe              Didderse                NI                      DEU
+2620997,DL6JS Joachim  ,Joachim Schwiderski      Messstetten             BW                      DEU
+2620998,DO7HGS Hartmut ,Hartmut Schoschies       Friedland               NI                      DEU
+2620999,DL8MDC Franz   ,Franz Bergmeier          Augsburg                BY                      DEU
+2621000,DO1LDV Lucas   ,Lucas Volk               Giessen                 HE                      DEU
 2621001,DL7AJ Wolfgang ,Wolfgang Meier           Berlin                  BE                      DEU
 2621002,DG4FEY Thomas  ,Thomas Kocher            Berlin                  BE                      DEU
 2621003,DL7ATA Frank   ,Frank Kochanski          Berlin                  BE                      DEU
@@ -15882,34 +15913,24 @@
 2644849,DO7KY Andreas  ,Andreas Respondek        Koeln                   NW                      DEU
 2644850,DL5JA Peter    ,Peter Rommerskirchen     Schwalmtal              NW                      DEU
 2644851,DO3THP Thorben ,Thorben Potthast         Bochum                  NW                      DEU
-2283208,HB9TKB Reto    ,Reto Trachsel            Steffisburg             Bern                    CHE
-2284241,HB9HGG Simon   ,Simon Wuethrich          Rohrbach                Oberaargau              CHE
-2620978,DK4FW Kurt     ,Kurt Loewenstein         Bad Nauheim             HE                      DEU
-2620979,DL3YEG Heinrich,Heinrich Laustroer       Guetersloh              NW                      DEU
-2620980,DL7FCB Bernd   ,Bernd Nebgen             Dornburg-Wilsenroth     HE                      DEU
-2620981,DG2GHH Heiko   ,Heiko Haug               Albstadt                BW                      DEU
-2620982,DO7DMT Sven    ,Sven Schleifer           Solms                   HE                      DEU
-2620983,DO1BG Beatrice ,Beatrice Gillern-Kosian  Koenigswinter           NW                      DEU
-2620984,DO2PW Paul     ,Paul Walde               Koenigswinter           NW                      DEU
-2620985,DL3MCT Aristos ,Aristos Panatos          Langenbach              BY                      DEU
-2620986,DO4HM Markus   ,Markus Haneklaus         Rheine                  NW                      DEU
-2620987,DL4NGW Norbert ,Norbert Wenk             Fuerth                  BY                      DEU
-2620988,DO1ASB Marco   ,Marco Woltermann         Goettingen              NI                      DEU
-2620989,DD0IB Ingo     ,Ingo Bauer               Wiesbaden               HE                      DEU
-2620990,DK2WU Werner   ,Werner Gallmeier         Kelheim-Ihrlerstein     BY                      DEU
-2620991,DF8TB Rainer   ,Rainer Binder            Albstadt                BW                      DEU
-2620992,DO1IM Uwe      ,Uwe Koch                 Wolfsburg               NI                      DEU
-2620993,DK3GT Gerhard  ,Gerhard Topp             Wolfsburg               NI                      DEU
-2620994,DO1WKD Waldemar,Waldemar Doerr           Marpingen               SL                      DEU
-2620995,DL5PC Jesus    ,Jesus Comendador         Eitorf                  NW                      DEU
-2620996,DB9AX Willi    ,Willi Grobe              Didderse                NI                      DEU
-2620997,DL6JS Joachim  ,Joachim Schwiderski      Messstetten             BW                      DEU
-2620998,DO7HGS Hartmut ,Hartmut Schoschies       Friedland               NI                      DEU
-2321275,OE1TRI Thomas  ,Thomas Rief              Wien                    WIEN                    AUT
-2323346,OE3OEW Wolfgang,Wolfgang                 no_city                 NOE                     AUT
-2323347,OE3XNR Arc     ,Arc Waldviertel          St. Poelten             NOE                     AUT
-2323348,OE3WHS Walter  ,Walter Hahnemann         Amstetten               NOE                     AUT
-2323349,OE3OEX No_name ,No_name                  No_city                                         AUT
-2325185,OE5GMO Gerhard ,Gerhard Mueller          St. Martin / M          OOE                     AUT
-2620999,DL8MDC Franz   ,Franz Bergmeier          Augsburg                BY                      DEU
-2621000,DO1LDV Lucas   ,Lucas Volk               Giessen                 HE                      DEU
+2282041,HB9HLM Andre   ,Andre                    Boudry                  .                       CHE
+2323350,OE3FKN Franz   ,Franz Kleindl            Goestling An der Ybbs   NOE                     AUT
+2324042,OE4EWA Wolfgang,Wolfgang                 Lackenbach              BGLD                    AUT
+2621552,DO4HST Heike   ,Heike Sterll             Karwitz                 NI                      DEU
+2621553,DO2NEH Harald  ,Harald Enssner           Markt Erlbach           BY                      DEU
+2621554,DL1DTD Detlef  ,Detlef Geissler          Teichland               BB                      DEU
+2621555,DG1FAR Joachim ,Joachim Purps            Frankfurt               HE                      DEU
+2621556,DL1MGF Sebastia,Sebastian Mayer          Schliersee              BY                      DEU
+2621557,DH6VL Harald   ,Harald Lehnart           Trier                   RP                      DEU
+2621558,DH1NG Niklas   ,Niklas Gauder            Heidenheim An der Brenz BW                      DEU
+2621559,DK4WJ Werner   ,Werner Jakobi            Wincheringen            RP                      DEU
+2621560,DH9VH Veronika ,Veronika Hofmaier        Weisingen Holzheim      BY                      DEU
+2621561,DO9MCT Tobias  ,Tobias Hegel             Mengen                  BW                      DEU
+2621562,DK8WA Bernd    ,Bernd Schick             Gross-Umstadt           HE                      DEU
+2621563,DB9YZ Frank    ,Frank Vaupel             Bad Oeynhausen          NW                      DEU
+2621564,DO3SEN Ernst   ,Ernst Nell               Tailfingen              BW                      DEU
+2621565,DL8MDH Wolfgang,Wolfgang Hirler          Ottenhofen              BY                      DEU
+2621566,DL2HYA Lefteris,Lefteris Karavasillis    Duren                   NW                      DEU
+2621567,DB9OH Hartmut  ,Hartmut Meseke           Wolfsburg               NI                      DEU
+2621568,DB6KU Jonas    ,Jonas Kopp               Kaarst                  NW                      DEU
+2621569,DM3DS Dirk     ,Dirk Schladebach         Weimar                  TH                      DEU
