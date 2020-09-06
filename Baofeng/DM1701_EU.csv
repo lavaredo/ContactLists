@@ -140,6 +140,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2020139,SV4QNP,Panagiotis Sergetzis,Panagiotis,Trikala,.,GRC,DMR
 2020140,SV2OIK,Saddler1972 ,Saddler1972,Veria,.,GRC,DMR
 2020141,SV4RTA,Ounaeonou ,Ounaeonou,Karditsa,.,GRC,DMR
+2020142,SV1MMO,Fanis ,Fanis,Athens,Thessalia,GRC,DMR
+2020143,SV7BOZ,Ilias ,Ilias,Soufli,.,GRC,DMR
+2020144,SY8BAX,Christos Rizoulis,Christos,Samos Island,.,GRC,DMR
+2020145,SY1BOP,Arisgounaris ,Arisgounaris,Agrinio,.,GRC,DMR
+2020146,SV1SAY,no_name ,no_name,no_city,Greece,GRC,DMR
 2021001,SV1BYK,Babis Kappatos,Babis,Athens,Attica,GRC,DMR
 2021002,SV1PDW,Ioannis Barbat-Soskos,Ioannis,Athens,Attica,GRC,DMR
 2021003,SV1IW,Emmanouel Darkadakis,Emmanouel,Athens,Attica,GRC,DMR
@@ -1500,6 +1505,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2040121,PD0ODV,Oeds ,Oeds,Drachten,.,NLD,DMR
 2040122,PE1JUK,Ab De Groot,Ab,Eh Hilversum,.,NLD,DMR
 2040123,PA3FKM,Pascal ,Pascal,Schimmert,.,NLD,DMR
+2040124,PD4WD,Wim D,Wim,Dronrijp,.,NLD,DMR
+2040125,PD7DM,Dion ,Dion,Rotterdam,.,NLD,DMR
+2040126,PD9ENP,Peter ,Peter,Den Bosch,.,NLD,DMR
+2040127,PE2HVH,Ronald ,Ronald,Hook Of Holland,.,NLD,DMR
 2041001,PD2ML,Mark Loggen,Mark,Bussum,Noord-Holland,NLD,DMR
 2041002,PD2ML,Mark Loggen,Mark,Bussum,Noord-Holland,NLD,DMR
 2041003,PA2JM,Joop Mihaly,Joop,Amsterdam,Noord-Holland,NLD,DMR
@@ -4141,6 +4150,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060322,ON2MDC,Marcel ,Marcel,Ninove,Oost-Vlaanderen,BEL,DMR
 2060323,ON8TC,Therese Coffyn,Therese,De Panne,Wno_infoflanders,BEL,DMR
 2060324,ON3BY,David Baeten,David,Veerle Laakdal,.,BEL,DMR
+2060325,ON8LU,Rafa ,Rafa,Woluwe-Saint-Lambert,Brussels,BEL,DMR
+2060326,ON3FR,Freddy Daems,Freddy,Kwaadmechelen,Limburg,BEL,DMR
 2061001,ON8SVH,Stijn Hende,Stijn,Oudenaarde,Oost-Vlaanderen,BEL,DMR
 2061002,ON8SI,Simon Pauw,Simon,Oosterzele,Oost-Vlaanderen,BEL,DMR
 2061003,ON5LUC,Luc Lourense,Luc,Gent,Oost-Vlaanderen,BEL,DMR
@@ -5757,6 +5768,15 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2080510,F1USA,Stephane ,Stephane,Saint-Pierre Dolron,.,FRA,DMR
 2080511,F4IPW,Dayan ,Dayan,La Batie-Neuve,.,FRA,DMR
 2080512,F5OGG,Philippe ,Philippe,Le Pouliguen,.,FRA,DMR
+2080513,F4GXJ,Jean-Pierre Grau,Jean-Pierre,St Jean Pla De Corts,.,FRA,DMR
+2080514,F4IDH,Christian ,Christian,Trie Sur Base,.,FRA,DMR
+2080515,F4IPO,Serge ,Serge,Lyon,.,FRA,DMR
+2080516,F4INM,Alex ,Alex,Roubaix,Hauts De France,FRA,DMR
+2080517,F4CVO,Jeremy Escrich,Jeremy,Frouard,23,FRA,DMR
+2080518,F5BSN,Jack Seguier,Jack,Sauvian,.,FRA,DMR
+2080519,F1OKI,Philippe ,Philippe,Achres-La-Fort,.,FRA,DMR
+2080520,F4HDA,no_name ,no_name,Nanterre,.,FRA,DMR
+2080521,F0FKT,Dadou ,Dadou,Crets En Belledonne,St P,FRA,DMR
 2081001,F1UOT,Olivier Guerin,Olivier,Suresnes,Ile-de-France,FRA,DMR
 2081002,F4ACD,Romain Hulot,Romain,Poitiers,Vienne,FRA,DMR
 2081003,F1TDI,Daniel Trillaud,Daniel,Suresnes,Paris,FRA,DMR
@@ -8008,10 +8028,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2140534,EA1FHO,Jose Luis,Jose,Leon,Castilla Y Leon,ESP,DMR
 2140535,EB1GCD,Rojo ,Rojo,Laxe,Galicia,ESP,DMR
 2140536,EA2DBV,Marce ,Marce,Barakaldo,Basque Country,ESP,DMR
-2140537,EB7FEI,Eduardo Rodriguez,Eduardo,Sanlucar De Barrameda( CADIZ),Sp,ESP,DMR
-2140538,EA3BCH,Emili Nadal,Emili,Lleida,.,ESP,DMR
+2140537,EA4HJN,Jorge ,Jorge,Madrid,.,ESP,DMR
+2140538,EA7EQ,Eneko Iglesias,Eneko,Herrera (SEVILLA),.,ESP,DMR
 2140539,EA5JBO,Eric ,Eric,Aielo De Malferit,Valencia,ESP,DMR
-2140540,EA3ARF,Josep ,Josep,no_city,.,ESP,DMR
+2140540,EB5BIT,Tony ,Tony,Valencia,.,ESP,DMR
 2140541,EA5JBK,Rufititu ,Rufititu,Alicante,.,ESP,DMR
 2140542,EA1CRI,Andresgalarn ,Andresgalarn,Burgos (SS),Sardegna,ESP,DMR
 2140543,EA4HIP,Alex ,Alex,Mstoles,.,ESP,DMR
@@ -8022,8 +8042,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2140548,EA2EUI,Alvaro ,Alvaro,Plentzia,.,ESP,DMR
 2140550,EB5DQW,Manolo ,Manolo,Xirivella,Valencia,ESP,DMR
 2140551,EA4DCU,Enrique Matas,Enrique,Cabanillas Del Campo,Castile-La Mancha,ESP,DMR
+2140552,EA5AUZ,Pablo ,Pablo,Cartagena,.,ESP,DMR
 2140553,EA8T,Manuel Hernandez,Manuel,San Cristobal De La Laguna,Islas Canarias,ESP,DMR
-2140554,EA4BPO,Jose Espariz,Jose,Madrid,.,ESP,DMR
+2140554,EA3IJR,Mula ,Mula,Premia De Mar,.,ESP,DMR
 2140555,EC5APB,Jacinto Navarro,Jacinto,Torrent,.,ESP,DMR
 2140556,EA6AOB,Pedro Camps,Pedro,Ciutadella De Menorca,.,ESP,DMR
 2140557,EA6ANT,Miguel ,Miguel,Palma De Mallorca,.,ESP,DMR
@@ -8034,6 +8055,19 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2140562,EA8DHM,Francisco Medina,Francisco,Las Palmas De Gran Canaria,.,ESP,DMR
 2140563,EA4FMR,Javier ,Javier,Puertollano,.,ESP,DMR
 2140564,EA4HJA,Luis ,Luis,Madrid,.,ESP,DMR
+2140565,EA4TK,F Conde,F,Madrid,.,ESP,DMR
+2140566,EA8CMY,Francisco De Adrian Hdezno_name,Francisco,San Juan De La Rambla. Tenerife,San Juan De La Rambla,ESP,DMR
+2140567,EB7CSU,Pedro Julian,Pedro,Malaga,.,ESP,DMR
+2140568,EA1IPW,Jose Lopez,Jose,La Coruna,.,ESP,DMR
+2140569,EA4AZJ,Manuel Mesa,Manuel,Alcobendas Madrid,.,ESP,DMR
+2140570,EA1HYW,no_name ,no_name,Mugardos,.,ESP,DMR
+2140571,EA8DJZ,Cardoba ,Cardoba,San Cristobal  La Laguna,.,ESP,DMR
+2140573,EA7KJQ,Salva ,Salva,Montemayor,.,ESP,DMR
+2140574,EA1JCB,Alexfernindez ,Alexfernindez,A Corua,.,ESP,DMR
+2140575,EA3ARF,Josep ,Josep,Lleida,.,ESP,DMR
+2140577,EA4HFN,Alberto ,Alberto,Ciempozuelos,.,ESP,DMR
+2140578,EA2EPB,Franciscoramis ,Franciscoramis,Benidorm - Alicante,.,ESP,DMR
+2140579,EA5IPA,Juanllobell ,Juanllobell,Benissa - Alicante,.,ESP,DMR
 2141001,EB1CU,Andoni ,Andoni,Castro Urdiales,Cantabria,ESP,DMR
 2141002,EA1DBB,Adolfo Vila,Adolfo,Ourense,Galicia,ESP,DMR
 2141003,EB1CU,Axpe Andoni,Axpe,Castro Urdiales,Cantabria,ESP,DMR
@@ -13608,6 +13642,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2160039,HA8KL,Fodor Antal,Fodor,Kiszombor,Csongrad,HUN,DMR
 2160040,HA1KPB,Pbg ,Pbg,Pannonhalma,Gyor-Moson-Sopron,HUN,DMR
 2160041,HA7AYA,Szegedi Andras,Szegedi,Budapest,.,HUN,DMR
+2160042,HA1TNX,Peter ,Peter,Gyor,.,HUN,DMR
 2161001,HA2TO,Arpad Orban,Arpad,Papa,Veszprum,HUN,DMR
 2161002,HA4XA,Istvan Matrai,Istvan,Szekesfehervar,Fejur,HUN,DMR
 2161003,HA9MDP,Peter Barnoczki,Peter,Babolna,Komurom-Esztergom,HUN,DMR
@@ -14677,6 +14712,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2190320,9A7DJD,no_name ,no_name,no_city,.,HRV,DMR
 2190321,9A3GVD,Dom ,Dom,Vodice,.,HRV,DMR
 2190322,9A3DIB,Ive ,Ive,Sibenik,.,HRV,DMR
+2190323,9A3BKR,Kris ,Kris,Zapresic,Zagreb,HRV,DMR
+2190324,9A1ABE,Radio Slatina,Radio,Slatina,.,HRV,DMR
+2190325,9A7PRZ,Bongo ,Bongo,Kastel Gomilica,.,HRV,DMR
+2190326,9A3MAB,no_name ,no_name,Zagreb,.,HRV,DMR
+2190327,9A7ICO,Ivon ,Ivon,Dakovo,.,HRV,DMR
+2190328,9A7ABN,Lojze ,Lojze,Slavonski Brod,.,HRV,DMR
 2200001,YT2CQ,Miloslav Miskar,Miloslav,Novi Sad,,SRB,DMR
 2200002,YU1VI,Slobodan Nikolic,Slobodan,Belgrade,Slobodan,SRB,DMR
 2200003,YU5JZI,Igor Joncic,Igor,Beograd,,SRB,DMR
@@ -14957,6 +14998,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2200278,YU7TBA,Balinttoth ,Balinttoth,Backa Topola,.,SRB,DMR
 2200279,YU4CAB,Vidak Kavedzic,Vidak,Belgrade,Belgrade,SRB,DMR
 2200280,YU4VIK,Viktor Ljevar,Viktor,Belgrade,Belgrade,SRB,DMR
+2200281,YT5MW,Dragan Toncic,Dragan,Belgrade,.,SRB,DMR
 2210001,Z63CIA,Aurora ,Aurora,Prishtina,,XKX,DMR
 2210002,Z63CIA,Aurora Useini,Aurora,Z-Prishtina/oe-Linz/z-Gostivar,Pristina,XKX,DMR
 2220001,IK0YYY,Luca Ferrara,Luca,Roma (RM),Lazio,ITA,DMR
@@ -21511,7 +21553,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2226550,IU8AAV,Giovanni ,Giovanni,Rossano (CS),Calabria,ITA,DMR
 2226551,IZ8OED,Claudio Migliore,Claudio,Santa Maria Capua Vetere (CE),Campania,ITA,DMR
 2226552,IQ7EL,Era Trani,Era,Trani (BT),Puglia,ITA,DMR
-2226553,IT9DXE,Giuseppe Donato,Giuseppe,S.Lucia Mela (ME),Sicilia,ITA,DMR
+2226553,IW0HET,Simolo Alessio,Simolo,Roma (RM),Lazio,ITA,DMR
 2226554,IZ1WZJ,Luca Perosino,Luca,Avigliana (TO),Piemonte,ITA,DMR
 2226555,IK2TQB,Pasquale Piscopo,Pasquale,Cinisello Balsamo ( MI ),Lombardia,ITA,DMR
 2226556,IQ2MM,Sezione Ari Mantova,Sezione,Mantova (MN),Lombardia,ITA,DMR
@@ -21521,6 +21563,29 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2226560,IU4LAU,Stefano Zannoni,Stefano,San Cesario Sul Panaro (MO),Emilia-Rom.,ITA,DMR
 2226561,IX1APT,Giuseppe Rotundo,Giuseppe,Saint Vincent (AO),Valle d'Aosta,ITA,DMR
 2226562,IW2DCY,Antonio Burigana,Antonio,Novate Milanese (MI),Lombardia,ITA,DMR
+2226563,IU1MTZ,Luca Sallen,Luca,Cantalupa (TO),Piemonte,ITA,DMR
+2226564,IU2NTG,Giampy ,Giampy,Solto Collina (BG),Lombardia,ITA,DMR
+2226565,IZ0PAU,Marcello Mura,Marcello,Roma (RM),Lazio,ITA,DMR
+2226566,IZ3VYL,Romeo ,Romeo,Vigonza (PD),Veneto,ITA,DMR
+2226567,I1ONK,Gian Carlo Ghezzi,Gian Carlo,Novi Ligure (AL),Piemonte,ITA,DMR
+2226568,IU3GLY,Giampietro Pace,Giampietro,Arcole (VR),Veneto,ITA,DMR
+2226569,IW1CYL,Fabrizio Crepaldi,Fabrizio,Collegno (TO),Piemonte,ITA,DMR
+2226570,IQ3PN,Ari Sezione Pordenone,Ari,Pordenone (PN),Friuli VG,ITA,DMR
+2226571,IW3FQT,Luca Giuriato,Luca,Rovigo (RO),Veneto,ITA,DMR
+2226572,IQ3VN,Radio Club Valsugana,Radio Club,Borgo Valsugana (TN),Trentino AA,ITA,DMR
+2226573,IT9IPQ,Paolo Impallomeni,Paolo,Messina (ME),Sicilia,ITA,DMR
+2226574,IT9OBK,Carmelo Impallomeni,Carmelo,Messina (ME),Sicilia,ITA,DMR
+2226575,IT9BOM,Antonino ,Antonino,Bronte (CT),Sicilia,ITA,DMR
+2226576,IK8HIS,Luigi Colucci,Luigi,Santa Maria Capua Vetere (CE),Campania,ITA,DMR
+2226577,IW1GDN,Danilo Nastrino,Danilo,Bagnolo Piemonte (CN),Piemonte,ITA,DMR
+2226578,IK8SUT,Antonio Lalopa,Antonio,Salerno (SA),Campania,ITA,DMR
+2226579,IU1NYD,Roberto Bellini,Roberto,Azeglio (TO),Piemonte,ITA,DMR
+2226580,IU7KIH,No_name ,No_name,No_city,,ITA,DMR
+2226581,IU3BZU,Emiliano Popa,Emiliano,Tombolo (PD),Veneto,ITA,DMR
+2226582,IU3NYU,Pierantonio Brea,Pierantonio,Chiampo (VI),Veneto,ITA,DMR
+2226583,IZ2OGG,Dattero Gottardi,Dattero,Sartirana Lomellina (PV),Lombardia,ITA,DMR
+2226584,IZ0JRI,Ivan Stupici,Ivan,Lido Di Ostia (RM),Lazio,ITA,DMR
+2226585,IV3ZNK,Luca Molino,Luca,Reana Del Roiale (UD),Friuli VG,ITA,DMR
 2227001,IZ7OIX,Domenico Conte,Domenico,Bari (BA),Puglia,ITA,DMR
 2227002,IZ7GLL,Massimo Leonetti,Massimo,Bari (BA),Puglia,ITA,DMR
 2227003,IZ7ZFT,Silvio Martina,Silvio,Rutigliano (BA),Puglia,ITA,DMR
@@ -23342,6 +23407,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2260037,YO4SRK,Mihai Parlea,Mihai,Eforie Nord,Constanta County,ROU,DMR
 2260038,YO5QKA,Norbert ,Norbert,Oradea,.,ROU,DMR
 2260039,YO7AMK,Ionbarbu ,Ionbarbu,Craiova,.,ROU,DMR
+2260040,YO4SIV,Marius ,Marius,Galati,.,ROU,DMR
 2261000,YO5DSG,Daniel Daniel,Daniel,Cluj-Napoca,Judeoul Cluj,ROU,DMR
 2261001,YO3GTS,Dan ,Dan,Bucharest,Bucharest,ROU,DMR
 2262001,YO2LOJ,Marius Petrescu,Marius,Timisoara,Judeul Timi,ROU,DMR
@@ -24602,6 +24668,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284239,HB3XVI,Pascal Steck,Pascal,Muttenz,Basel,CHE,DMR
 2284240,HB9HGH,Schindler ,Schindler,Pfeffingen,Basel-Landschaft,CHE,DMR
 2284241,HB9HGG,Simon Wuethrich,Simon,Rohrbach,Oberaargau,CHE,DMR
+2284242,HB9MKV,Rudi ,Rudi,Buesserach,.,CHE,DMR
+2284243,HB9HEI,Dominic ,Dominic,Winznau,.,CHE,DMR
 2285001,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE,DMR
 2285002,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE,DMR
 2285003,HB9CNT,Paul Streich,Paul,Untersiggenthal,Baden,CHE,DMR
@@ -24968,6 +25036,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2287033,HB9GYA,Mauro ,Mauro,Zernez,Bern,CHE,DMR
 2287034,HB9GNO,Chrigi Hartmann,Chrigi,Malans,Graubuenden,CHE,DMR
 2287035,HB9GPO,Franco Cristini,Franco,Bergamo,Italy,CHE,DMR
+2287036,HB9GZK,Mark ,Mark,Alvaneu Dorf,.,CHE,DMR
 2288000,HB9SDB,Tschumi Tschumi,Tschumi,Waedenswil,Zurich,CHE,DMR
 2288001,HB3YEJ,Andreas ,Andreas,Schleitheim,Schaffhausen,CHE,DMR
 2288002,HB9WOF,Reto ,Reto,Winterthur,Winterthur,CHE,DMR
@@ -25461,6 +25530,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2300050,OK9FAB,Jirka ,Jirka,Zln,.,CZE,DMR
 2300051,OK1MDD,Milan ,Milan,Horni Stropnice,Zno_info Bohemian,CZE,DMR
 2300052,OK1JDZ,Standa ,Standa,Bechyno,.,CZE,DMR
+2300053,OK2WTW,Pavel ,Pavel,Olomouc,.,CZE,DMR
+2300054,OK2TLJ,Jan ,Jan,Trutnov,.,CZE,DMR
+2300055,OK1JHT,Robert Hudlice,Robert,Hudlice,.,CZE,DMR
+2300056,OK5XL,no_name ,no_name,no_city,.,CZE,DMR
 2301001,OK9DTZ,David ,David,Prague,Hlavni mesto Praha,CZE,DMR
 2301002,OK3ZB,Zdenek Brichacek,Zdenek,Praha,Hlavni mesto Praha,CZE,DMR
 2301003,OK1MX,Milan Barvir,Milan,Praha,Hlavni mesto Praha,CZE,DMR
@@ -26423,6 +26496,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321273,OE1WDH,Walter Dvorak,Walter,Wien,WIEN,AUT,DMR
 2321274,OE1UHU,Stefan Hutter,Stefan,Wien,WIEN,AUT,DMR
 2321275,OE1TRI,Thomas Rief,Thomas,Wien,WIEN,AUT,DMR
+2321276,OE1KTU,Walter Kausalius,Walter,Wien,WIEN,AUT,DMR
 2321301,OE1BAD,Andreas Boeck ,Andreas,Wien,WIEN,AUT,DMR
 2321302,OE1PNS,Peter ,Peter,Wien,WIEN,AUT,DMR
 2321303,OE1MCU,Michael Kastelic ,Michael,Wien,WIEN,AUT,DMR
@@ -27316,6 +27390,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2326203,OE6JUE,Juergen Schweizer,Juergen,Windorf,STMK,AUT,DMR
 2326204,OE6DUG,Edgar Neukirchner,Edgar,Graz,STMK,AUT,DMR
 2326205,OE6PWE,Wolfgang Puhar,Wolfgang,Neuseiersberg,STMK,AUT,DMR
+2326206,OE6OMC,Michael Heritsch,Michael,Aflenz,STMK,AUT,DMR
 2326221,OE6KWD,Wolfgang Kremsner ,Wolfgang,Kapfenberg,STMK,AUT,DMR
 2326222,OE6JFG,Franz Scherr ,Franz,Bruck An der Mur,STMK,AUT,DMR
 2326223,OE6MKD,Rene Mayrhold ,Rene,Kapfenberg,STMK,AUT,DMR
@@ -27528,6 +27603,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2327190,OE7GWT,Guenther Wirth ,Guenther,Volders,TIROL,AUT,DMR
 2327191,OE7LOJ,Erik Loll-Nielsen,Erik,Kitzbuehel,TIROL,AUT,DMR
 2327192,OE7OLI,Josef Leitner,Josef,Kundl,TIROL,AUT,DMR
+2327193,OE7WRJ,Rudolf Wartlsteiner,Rudolf,Kufstein,TIROL,AUT,DMR
 2327232,OE7OST,Thomas Ostermann ,Thomas,Innsbruck,TIROL,AUT,DMR
 2328001,OE8AGK,Alfred Grascher ,Alfred,Eberndorf,KTN,AUT,DMR
 2328002,OE8DDK,no_name ,no_name,no_city,KTN,AUT,DMR
@@ -27787,6 +27863,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2329123,OE9IGV,Ingo Giesinger,Ingo,Dornbirn,VBG,AUT,DMR
 2340000,G8SJP,Iain Iain,Iain,Aylesbury,England,GBR,DMR
 2340001,G8SJP,Iain Iain,Iain,Aylesbury,England,GBR,DMR
+2341000,G0RDI,Iain Philipps,Iain,Bourne,England,GBR,DMR
 2341001,G0RDI,Iain Philipps,Iain,Bourne,England,GBR,DMR
 2341002,G4NEY,Jonathan Jarvis,Jonathan,Cambridge,England,GBR,DMR
 2341003,M6NAE,Neil Rydings,Neil,Manchester,England,GBR,DMR
@@ -34087,7 +34164,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2347298,M0SDF,Paul Ashton,Paul,Nr Newark,England,GBR,DMR
 2347299,2E0LIU,Iain ,Iain,no_city,England,GBR,DMR
 2347300,G3KRZ,John Greenwood,John,Bracebridge Heath,England,GBR,DMR
-2347301,M7BMF,Barry Hudson,Barry,Whitby,England,GBR,DMR
+2347301,2E0RMF,Barry Hudson,Barry,Whitby,North Yorkshire,GBR,DMR
 2347302,M0IYE,Andygibbons ,Andygibbons,Lincoln,England,GBR,DMR
 2347303,G1AHW,Trevor Redden,Trevor,Yarm,England,GBR,DMR
 2347304,M7ONY,Spencer ,Spencer,Contest Station,England,GBR,DMR
@@ -34311,7 +34388,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2347522,M7ESD,Adrian Bayley,Adrian,Bexhill-On-Sea,England,GBR,DMR
 2347523,M7DJD,Daniel ,Daniel,Biddulph,England,GBR,DMR
 2347524,M1DED,Nigel ,Nigel,Sheffield,England,GBR,DMR
-2347525,M7MPL,Martin ,Martin,Portsmouth,England,GBR,DMR
+2347525,2E0FVG,Martin Loveridge,Martin,Portsmouth,England,GBR,DMR
 2347526,M0ICJ,Lukasz ,Lukasz,Brigg,England,GBR,DMR
 2347527,M6HTP,no_name ,no_name,Unregistered,England,GBR,DMR
 2347528,M0OSS,Ian Chaloner,Ian,Orpington,England,GBR,DMR
@@ -34361,8 +34438,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2347572,2E0OLA,Bart ,Bart,London,England,GBR,DMR
 2347573,G6AQQ,Alan ,Alan,Howden,England,GBR,DMR
 2347574,M0SYL,Sylwek ,Sylwek,Swindon,England,GBR,DMR
-2347575,M7JAW,John Withington,John,Hednesford. Staffordshire,Staffs,GBR,DMR
-2347576,M7BAW,Ben Withington,Ben,Hednesford. Staffordshire,Staffs,GBR,DMR
+2347575,2E0WJW,John Withington,John,Hednesford. Staffordshire,Staffs,GBR,DMR
+2347576,2E0WGT,Ben Withington,Ben,Hednesford. Staffordshire,Staffs,GBR,DMR
 2347577,2E0FQE,Drew ,Drew,Bideford,England,GBR,DMR
 2347578,M7DLX,Liam Austin,Liam,Canterbury,England,GBR,DMR
 2347579,2E0EUD,Brian Clark,Brian,Basildon. Essex,England,GBR,DMR
@@ -34764,7 +34841,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2347975,M7SLB,Simon ,Simon,Scarborough,,GBR,DMR
 2347976,M1CJX,Tony ,Tony,Basingstoke,,GBR,DMR
 2347977,M0ZKK,Matt ,Matt,Tring,,GBR,DMR
-2347978,M7HSK,Sam ,Sam,Manchester,,GBR,DMR
+2347978,2E0HSK,Sam ,Sam,Manchester,.,GBR,DMR
 2347979,M0YTH,Simon ,Simon,Manchester,,GBR,DMR
 2347980,G8EII,Mogman ,Mogman,Sandhurst,,GBR,DMR
 2347981,M0JEO,Robin ,Robin,South Derbyshire,,GBR,DMR
@@ -35225,7 +35302,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2348436,G7OJA,Paul ,Paul,Hayfield,.,GBR,DMR
 2348437,M7AQU,Tony ,Tony,London,.,GBR,DMR
 2348438,M7ESN,M7esned ,M7esned,Nottingham,.,GBR,DMR
-2348439,M7GDC,Miguel ,Miguel,Aylesbury,.,GBR,DMR
+2348439,2E0MHC,Miguel Cardoso,Miguel,Aylesbury,.,GBR,DMR
 2348440,M7FOZ,Paul ,Paul,Blandford Forum,.,GBR,DMR
 2348441,G1WCR,no_name ,no_name,Margate,.,GBR,DMR
 2348442,M7BAK,Alex Baker,Alex,Ormskirk,Alexbaker,GBR,DMR
@@ -35256,7 +35333,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2348467,M7MHT,Mark Thompson,Mark,Sheerness,.,GBR,DMR
 2348468,M6VDJ,Den Jones,Den,Durham,England,GBR,DMR
 2348469,M3XIR,Graeme ,Graeme,Swindon,.,GBR,DMR
-2348470,M7GDK,Mark Gadeke,Mark,Milton Keynes,.,GBR,DMR
+2348470,2E0HLX,Mark ,Mark,Milton Keynes,.,GBR,DMR
 2348471,M7REL,Rob ,Rob,Liverpool,.,GBR,DMR
 2348472,M0KLX,Bobh ,Bobh,Kings Lynn,.,GBR,DMR
 2348473,M0CVM,Chris Meats,Chris,Derbyshire,.,GBR,DMR
@@ -35626,6 +35703,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2348837,M7DUD,Ivan ,Ivan,Stockton-On-Tees,England,GBR,DMR
 2348838,M3YNS,Michael ,Michael,Barrow In Furness,Cumbria,GBR,DMR
 2348839,M7NWL,Heaton ,Heaton,Ormskirk,England,GBR,DMR
+2348840,G0EHU,Simon Dalton,Simon,Derbyshire,.,GBR,DMR
 2348841,M1CYR,Kenneth ,Kenneth,Heath Hayes,Cannock,GBR,DMR
 2348842,M7EDZ,Keithedwards ,Keithedwards,West Midlands,England,GBR,DMR
 2348843,G4ETN,Smith ,Smith,Rooks Nest,Lydeard St Lawrence,GBR,DMR
@@ -35640,6 +35718,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2348852,M7PGP,Simon ,Simon,Leamington Spa,.,GBR,DMR
 2348853,2E0MZK,Matthew ,Matthew,Stoke-On-Trent,.,GBR,DMR
 2348854,M7ICK,Percival ,Percival,Higham Ferrers. Northamptonshire,.,GBR,DMR
+2348855,M7AZJ,no_name ,no_name,no_city,.,GBR,DMR
 2348856,M7JPR,Jason ,Jason,Luton,.,GBR,DMR
 2348857,G0AXC,no_name ,no_name,Sidmouth,.,GBR,DMR
 2348858,M0BGU,Moran ,Moran,Bolton,Uk,GBR,DMR
@@ -35679,6 +35758,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2348894,M7XWT,Will ,Will,Newark On Trent,.,GBR,DMR
 2348895,M7CJP,Craig ,Craig,Gillingham,.,GBR,DMR
 2348896,M7PZG,Pam ,Pam,Preston,.,GBR,DMR
+2348897,M7KLR,Sean Mccarthy,Sean,Blackburn. Lancashire.,.,GBR,DMR
 2348898,M0OTQ,Marcin Centkowski,Marcin,Malvern,England,GBR,DMR
 2348899,2E0YEO,Richard ,Richard,Barton St David,.,GBR,DMR
 2348902,2E0DHQ,David Rimmer,David,Wallasey. Merseyside.,England,GBR,DMR
@@ -35686,6 +35766,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2348904,M7PFT,Archie Richardson,Archie,Dunston Heath. Stafford,England,GBR,DMR
 2348905,M0NWY,Simon Newhouse,Simon,Lilbourne,England,GBR,DMR
 2348906,M5MKW,Mark Wootton,Mark,Weymouth,England,GBR,DMR
+2348907,M1EKB,Kevin Baldwin,Kevin,Hereford,.,GBR,DMR
+2348908,2E0FVT,Graham Smith,Graham,London,.,GBR,DMR
+2348909,MB6IWR,Steve ,Steve,Worcester,.,GBR,DMR
 2348910,2E0BSR,Robert Ft-450,Robert,Chester,England,GBR,DMR
 2348911,M7POB,Pob ,Pob,Doncaster,England,GBR,DMR
 2348912,G1SOM,Taunton Group,Taunton,Taunton,England,GBR,DMR
@@ -35707,6 +35790,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2348929,M7EDA,Benjamin ,Benjamin,Derby (AO),Valle D'Aosta,GBR,DMR
 2348930,M7DRR,Dave ,Dave,Stockton On Tees,.,GBR,DMR
 2348931,M7POG,Jamesepogmore ,Jamesepogmore,Chesterfield,.,GBR,DMR
+2348932,2E0NDD,Nick ,Nick,Glossop,.,GBR,DMR
 2348934,G7JRM,no_name ,no_name,no_city,.,GBR,DMR
 2348936,2E0UDP,Cyb0rg ,Cyb0rg,Swindon,.,GBR,DMR
 2348937,GB7EC,Gb7eclink ,Gb7eclink,Fettercairn,.,GBR,DMR
@@ -35736,6 +35820,35 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2348969,G3SEA,Paul ,Paul,Honolulu,.,GBR,DMR
 2348970,M7PJF,Paul ,Paul,High Wycombe,.,GBR,DMR
 2348971,G6HLZ,Malcolm ,Malcolm,Sheffield,.,GBR,DMR
+2348972,MB6ITP,Steve ,Steve,Portstewart,England,GBR,DMR
+2348973,M0DCV,P Howell,P,Foxton. Cambridge,.,GBR,DMR
+2348975,M7DVP,Dave Ward,Dave,Colyton Devon,.,GBR,DMR
+2348976,G7SOJ,Barry ,Barry,Winkleigh,.,GBR,DMR
+2348977,M0ALA,A Lomas,A,United Kingdom,.,GBR,DMR
+2348978,G6ATJ,Ivor Abi,Ivor,Cullompton,.,GBR,DMR
+2348979,2E0FVK,John ,John,Witney,.,GBR,DMR
+2348980,M7AZP,Darren Ionn,Darren,Bolton,.,GBR,DMR
+2348981,2E0XMF,Pete Foster,Pete,Norton-On-Derwent,.,GBR,DMR
+2348982,G0AWM,Cr Warr,Cr,Lancaster,.,GBR,DMR
+2348984,M7GDF,David Coombs-Farnsworth,David,Rothwell,.,GBR,DMR
+2348986,M7WYN,Arwyn ,Arwyn,no_city,.,GBR,DMR
+2348987,M7MAP,no_name ,no_name,Wrexham,.,GBR,DMR
+2348988,2E0BVJ,Wayne (m6bwc),Wayne,Bolton,.,GBR,DMR
+2348992,M7MAP,no_name ,no_name,Wrexham,.,GBR,DMR
+2348993,M0DMP,David Pye,David,Newcastle Upon Tyne,.,GBR,DMR
+2348994,2E0MSY,Martin Smith,Martin,Great Yarmouth,.,GBR,DMR
+2348995,M7KIA,Andyl ,Andyl,Welwyn Garden City,.,GBR,DMR
+2348996,M7VBR,Andy ,Andy,Exeter,.,GBR,DMR
+2348997,G3WRA,Stuart ,Stuart,Hereford,.,GBR,DMR
+2349000,M0NXB,Nick ,Nick,Silverton,.,GBR,DMR
+2349001,M7ROR,Joshua ,Joshua,Chesterfield,.,GBR,DMR
+2349002,2E0XXI,Philwright ,Philwright,Nottingham,.,GBR,DMR
+2349006,M7NKI,Nicola ,Nicola,Wakefield,.,GBR,DMR
+2349008,M7KRE,Keith ,Keith,Exeter,.,GBR,DMR
+2349009,2E0VCK,Kevin ,Kevin,Rainhill,.,GBR,DMR
+2349010,M0ZZT,Steve ,Steve,Exeter,.,GBR,DMR
+2349011,G7AGR,Aylesburyraynet ,Aylesburyraynet,Chinnor,.,GBR,DMR
+2349012,G7MCE,Dave ,Dave,Dalton-In-Furness,.,GBR,DMR
 2349999,GM0RDI,Iain Iain,Iain,Lincoln,England,GBR,DMR
 2351001,G0PRF,John Goodwin,John,Huddersfield,West Yorkshire,GBR,DMR
 2351002,G0PRF,John Goodwin,John,Huddersfield,West Yorkshire,GBR,DMR
@@ -38267,7 +38380,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2353531,MW0SRT,Amory ,Amory,Cardiff,Wales,GBR,DMR
 2353532,MW6HWB,Patrick ,Patrick,Llantwit Major,Wales,GBR,DMR
 2353533,MW7JLM,Jasonsimons ,Jasonsimons,Porth,Wales,GBR,DMR
-2353534,MW7AKR,Davelewis ,Davelewis,Swansea,Wales,GBR,DMR
+2353534,2W0FWJ,Dave Lewis,Dave,Swansea,Wales,GBR,DMR
 2353535,2W1ETN,Damien Jorgensen,Damien,Cowbridge,Wales,GBR,DMR
 2353536,MW0IZX,Kevinboi ,Kevinboi,Pontypool,Wales,GBR,DMR
 2353537,GW4VXE,Tim ,Tim,Goodwick,Wales,GBR,DMR
@@ -38354,6 +38467,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2353619,GW0RUD,Peter ,Peter,Llanelli,.,GBR,DMR
 2353620,GW1DPL,Martyn Beer,Martyn,Waunariwydd Swansea West Glamorg,.,GBR,DMR
 2353621,MW6VNP,Sue Beer,Sue,Swansea West Glamorgan,.,GBR,DMR
+2353623,2W0KPF,Keith Foster,Keith,Llanidloes,.,GBR,DMR
+2353624,MW7WAD,Wayne Dabrowski,Wayne,Knighton. Powys.,.,GBR,DMR
+2353625,MW7IKH,Isambard ,Isambard,Porthcawl,.,GBR,DMR
+2353626,MW7WYN,Arwyn Williams,Arwyn,Swansea,.,GBR,DMR
 2354001,MM0MBK,Mark Bradshaw,Mark,Cairneyhill,Scotland,GBR,DMR
 2354002,MM0MBK,Mark Bradshaw,Mark,Cairneyhill,Scotland,GBR,DMR
 2354003,MM0MBK,Mark Bradshaw,Mark,Cairneyhill,Scotland,GBR,DMR
@@ -39187,6 +39304,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2354832,MM7WSI,Billy ,Billy,Glasgow,.,GBR,DMR
 2354833,MM7IMC,Iliyas Campbell,Iliyas,Glendevon,.,GBR,DMR
 2354834,MM7MFR,Matt ,Matt,Stirling,Scotland,GBR,DMR
+2354835,MM7BBA,Alex Harrison,Alex,Dumfries,.,GBR,DMR
+2354836,MM7WAX,Neal ,Neal,Grangemouth,.,GBR,DMR
+2354837,MM1TIG,Andy ,Andy,Aberdeen,.,GBR,DMR
+2354838,GM1LOZ,Loz Hird,Loz,Keith,.,GBR,DMR
+2354839,MM7STC,Steven ,Steven,Cruden Bay,.,GBR,DMR
 2355001,MI3WWF,Mark ,Mark,Bangor,Northern Ireland,GBR,DMR
 2355002,GI8VKA,Roy Coulter,Roy,Ballynure,Northern Ireland,GBR,DMR
 2355003,MI0AAZ,John Anderson,John,Kilrea,Coleraine,GBR,DMR
@@ -39735,6 +39857,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2355546,MI6IRE,Paul Mcaleer,Paul,Belfast,Northern Ireland,GBR,DMR
 2355547,2I0LJW,Gerrysilogorman ,Gerrysilogorman,Bangor,Northern Ireland,GBR,DMR
 2355548,GI4XAA,Mccann ,Mccann,Dugannon,Dungannon,GBR,DMR
+2355549,2I0FVX,Jamie Robinson,Jamie,Lurgan,.,GBR,DMR
 2355551,GI4SZU,John Mccurry,John,Dunloy. Ballymena,.,GBR,DMR
 2356001,GD6XHG,Ed Rixon,Ed,Douglas,Isle of Man,GBR,DMR
 2356002,GD6XHG,Ed Rixon,Ed,Douglas,Isle of Man,GBR,DMR
@@ -39869,6 +39992,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2380066,OZ8AAJ,Martin_lesler ,Martin_lesler,Sunds,.,DNK,DMR
 2380067,OZ1LQI,Kurt ,Kurt,Svendborg,Syddanmark,DNK,DMR
 2380068,OZ2ABU,no_name ,no_name,no_city,.,DNK,DMR
+2380069,OZ555C,Claus ,Claus,Farum,.,DNK,DMR
+2380070,OZ5MI,Mil ,Mil,Valby,.,DNK,DMR
 2381001,OZ2CA,Soren ,Soren,Bronderslev,Nordjylland,DNK,DMR
 2381002,5P4Z,Herman Frank,Herman,Ulbjerg,Nordjylland,DNK,DMR
 2381003,5P5V,Find Kristensen,Find,Farsoe,Nordjylland,DNK,DMR
@@ -41703,6 +41828,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2400514,SM0LTC,Mats Hjelminge,Mats,Faerentuna,Uppsala County,SWE,DMR
 2400515,SM6YVI,David Hederskog,David,Gothenburg,.,SWE,DMR
 2400516,SA6TAO,Tord Andersson,Tord,Vallda,.,SWE,DMR
+2400517,SM6KXN,Leif ,Leif,Vallda,.,SWE,DMR
+2400518,SA6BSP,no_name ,no_name,no_city,.,SWE,DMR
+2400519,SA3AMP,no_name ,no_name,no_city,.,SWE,DMR
 2401001,SM5IGF,Staffan Kindgren,Staffan,Linkoeping,Gotland-I,SWE,DMR
 2401002,SM1NVX,Dag Salmanson,Dag,Klintehamn,Gotland-I,SWE,DMR
 2401003,SA1CCQ,Eddie Pilipavicius,Eddie,Romakloster,,SWE,DMR
@@ -43252,6 +43380,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2420158,LA8VIA,Knut Strom,Knut,Leikanger,Vestland,NOR,DMR
 2420159,LA5QI,Perolavchristensen ,Perolavchristensen,Eidsvoll,.,NOR,DMR
 2420160,LB3XI,Krzysztof Pienko,Krzysztof,Lundamoveien191,X,NOR,DMR
+2420161,LA7ONA,Bjoern Erik,Bjoern,Bverbru,.,NOR,DMR
+2420162,LA6UIA,Andersfongen ,Andersfongen,Lillehammer,.,NOR,DMR
 2421001,LA6VMA,Tommy ,Tommy,Dal,Akershus,NOR,DMR
 2421002,LA7ZKA,Arve Moller,Arve,Trollasen,Akershus,NOR,DMR
 2421003,LA2YUA,Robin Holm,Robin,Strmmen,Akershus,NOR,DMR
@@ -44228,6 +44358,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2441133,OH8BHM,Auvo ,Auvo,Taivalkoski,Oulu,FIN,DMR
 2441134,OH2BVU,Harri ,Harri,Helsinki,Uusimaa,FIN,DMR
 2441135,OH8AV,Radio Nokia,Radio,Oulu,.,FIN,DMR
+2441136,OH6UX,Jarkko Turunen,Jarkko,Jyvaeskylae,Keski-Suomi,FIN,DMR
+2441137,OH1CAU,Juhani Krekela,Juhani,Turku,.,FIN,DMR
+2441138,OH3FQC,no_name ,no_name,Riihimaeki,.,FIN,DMR
 2442001,OH2LAK,Erik Finskas,Erik,Espoo,Uusimaa,FIN,DMR
 2442002,OH2LAK,Erik Finskas,Erik,Espoo,Uusimaa,FIN,DMR
 2442003,OH2LAK,Erik Finskas,Erik,Espoo,Uusimaa,FIN,DMR
@@ -45148,6 +45281,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2480042,ES1BBJ,Ron ,Ron,Tallinn,.,EST,DMR
 2480043,ES1TAR,Tarmo Tisler,Tarmo,Tallinn,Tallinn,EST,DMR
 2480044,ES8AT,Kuido Lehtmets,Kuido,Paernumaa,Paernumaa,EST,DMR
+2480045,ES4DBAD,no_name ,no_name,no_city,.,EST,DMR
 2500001,RU0LA,Aleksandr ,Aleksandr,Chernigovka,,RUS,DMR
 2500002,R0AET,Vladimir ,Vladimir,p.Tayozhnyy,,RUS,DMR
 2500003,R0ADW,Aleksandr ,Aleksandr,Moscow,Moscow,RUS,DMR
@@ -46889,6 +47023,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2550426,US5WAC,Andrey Rozov,Andrey,Lviv,Lviv,UKR,DMR
 2550427,US0UM,Maxim ,Maxim,Ukrainka,Lviv,UKR,DMR
 2550428,US5WAA,Yuriy ,Yuriy,Lviv,Lviv,UKR,DMR
+2550430,UT3UDX,Maksym Shaposhnikov,Maksym,Kiev,All Regions,UKR,DMR
 2570001,EW7AS,Vladimir Zakharchenko,Vladimir,Klimovichi,Mahilyow Voblast,BLR,DMR
 2570002,EW7AS,Vladimir Zakharchenko,Vladimir,Klimovichi,Mahilyow Voblast,BLR,DMR
 2570003,EU1ADI,Aliaksei Filiutsich,Aliaksei,Minsk,,BLR,DMR
@@ -46963,6 +47098,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2570072,EW8IKA,Kiryl Ivanov,Kiryl,Gomel,Gomel,BLR,DMR
 2570073,EW1Q,no_name ,no_name,no_city,.,BLR,DMR
 2570074,EU7DD,Leonid Chertkov,Leonid,Mahilyow,Mahiljow,BLR,DMR
+2570075,EW1AEO,Denis ,Denis,Minsk,.,BLR,DMR
 2590001,ER1AL,Vadim ,Vadim,Kishinev,,MDA,DMR
 2590002,ER1VOX,Dumitru Stratan,Dumitru,Chisinau,,MDA,DMR
 2590003,ER1MS,Serghei ,Serghei,Chisinau,Chisinau,MDA,DMR
@@ -46989,6 +47125,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2590024,ER1BF,no_name ,no_name,no_city,,MDA,DMR
 2590025,ER3MM,Victor Shubernetsky,Victor,Beltsy,Beltsy,MDA,DMR
 2590026,ER3PS,Povoroznyuk ,Povoroznyuk,Beltsy Balti,Beltsy,MDA,DMR
+2590027,ER2SDL,Dmitrii ,Dmitrii,Tiraspol,Bendery,MDA,DMR
 2600001,SQ7LRX,Adam Kolakowski,Adam,Lodz,ud Voivodeship,POL,DMR
 2600002,SQ7SCC,Arkadiusz Jedrasik,Arkadiusz,Lodz,Wojewodztwo Lodzkie,POL,DMR
 2600003,SP9UXY,Andrzej Olechnowicz,Andrzej,Gliwice,Silesian Voivodeship,POL,DMR
@@ -47273,6 +47410,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2600282,SP3EDQ,Tadeusz ,Tadeusz,Wierzyce,.,POL,DMR
 2600283,SQ5RDA,Dominik ,Dominik,Otwock,.,POL,DMR
 2600284,SP9TE,Tomasz Grygieracki,Tomasz,Zabrze,Lower Silesia,POL,DMR
+2600285,SP9BRP,Jan Szostak,Jan,Krakow,.,POL,DMR
 2600286,SP9IRC,Krystian Baron,Krystian,Czechowice-Dziedzice,Lower Silesia,POL,DMR
 2600287,SQ5JUI,Konrad ,Konrad,Warszawa,Pomerania,POL,DMR
 2600288,SP2KDL,Kamil Dorsz,Kamil,Lubostron,Kuyavia-Pomerania,POL,DMR
@@ -47282,6 +47420,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2600292,SQ1MNE,Arkadiusz Makowski,Arkadiusz,Dygowo,Wno_infopomerania,POL,DMR
 2600293,SQ9KPF,Tomasz ,Tomasz,Cieszyn,Silesia,POL,DMR
 2600294,SP2PS,Piotr ,Piotr,Grudziadz,Kuyavia-Pomerania,POL,DMR
+2600295,SQ8MXC,Cezary ,Cezary,Zawierzbie,.,POL,DMR
 2600296,SP1MD,Daniel Panocha,Daniel,Szczecin,Wno_infopomerania,POL,DMR
 2600297,SP2PJS,Pawel ,Pawel,Grudziadz,Kuyavia-Pomerania,POL,DMR
 2600298,SQ9HH,Manuel ,Manuel,Warszawa,Mazowieckie,POL,DMR
@@ -47297,6 +47436,18 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2600308,SQ5SPG,Pawel Garczynski,Pawel,Zabki K/warszawy,.,POL,DMR
 2600309,SQ2DOK,Michal ,Michal,Elblag,.,POL,DMR
 2600310,SP3ITD,Marcin Czarnecki,Marcin,Surowa,.,POL,DMR
+2600311,SP0R,Robert ,Robert,Lublin,.,POL,DMR
+2600312,SP7BR,Bartosz Roalski,Bartosz,Lodz,Lodz,POL,DMR
+2600313,SP0K,Krystyna ,Krystyna,Lublin,.,POL,DMR
+2600314,SQ2PVB,Benedykt Wilczynski,Benedykt,Bydgoszcz,Koejavie-Pommeren,POL,DMR
+2600315,SP7NPZ,Wojciech ,Wojciech,Lodz,.,POL,DMR
+2600316,SP6AIF,Podhorodecki Arkadiusz,Podhorodecki,Nysa,Opole Voivodeship,POL,DMR
+2600317,SP5SWR,Robert ,Robert,Ciechanow,.,POL,DMR
+2600318,SQ9IDE,Damian Tendera,Damian,Radostowice,.,POL,DMR
+2600319,SP5MGC,Marcin ,Marcin,Ciechanow,.,POL,DMR
+2600320,SP3MCO,Marek ,Marek,Lubsko,.,POL,DMR
+2600321,SP1F,Zbigniew ,Zbigniew,Kolobrzeg,.,POL,DMR
+2600322,SQ9KRIS,Krystian ,Krystian,Myslowice,.,POL,DMR
 2601001,SP1XNE,Maciek ,Maciek,Szczecin,Zachodniopomorskie,POL,DMR
 2601002,SQ1TAO,Krzysztof ,Krzysztof,Szczecin,Zachodniopomorskie,POL,DMR
 2601003,SQ1GZG,Bogdan Gwodziaski,Bogdan,Stargard,Zachodniopomorskie,POL,DMR
@@ -51149,6 +51300,39 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2621567,DB9OH,Hartmut Meseke,Hartmut,Wolfsburg,NI,DEU,DMR
 2621568,DB6KU,Jonas Kopp,Jonas,Kaarst,NW,DEU,DMR
 2621569,DM3DS,Dirk Schladebach,Dirk,Weimar,TH,DEU,DMR
+2621570,DF4CL,Erwin Hirler,Erwin,Muenchen,BY,DEU,DMR
+2621571,DL1OLD,Roland Wollenweber,Roland,Kaarst,NW,DEU,DMR
+2621572,DF6YF,Bernhard Huegging,Bernhard,Hagen,Ni,DEU,DMR
+2621573,DD2VR,Georg Kattler,Georg,Saarwellingen,SL,DEU,DMR
+2621574,DF8AH,Michael Wienbruegge,Michael,Juehnde,NI,DEU,DMR
+2621575,DL4RBR,Juergen Bieder,Juergen,Greding,BY,DEU,DMR
+2621576,DC5LI,Norbert Binke,Norbert,Heide,SH,DEU,DMR
+2621577,DH5SW,Bernhard Wuensche,Bernhard,Wilhelmsfeld,BW,DEU,DMR
+2621578,DB8SEW,Miroslaw Godzwon,Miroslaw,Hemsbuende,NI,DEU,DMR
+2621579,DD5HW,Holger Wuensche,Holger,Wilhelmsfeld,BW,DEU,DMR
+2621580,DO3CST,Stefan Weidt,Stefan,Annaberg-Buchholz,SN,DEU,DMR
+2621581,DO6FP,Felix Pfannkuch,Felix,Waiblingen,BW,DEU,DMR
+2621582,DL1TKL,Klaus Lilienthal,Klaus,Pasewalk,MV,DEU,DMR
+2621583,DL4JM,Zdenko Dimic,Zdenko,Moenchengladbach,NW,DEU,DMR
+2621584,DK1AN,Andreas Nees,Andreas,Moembris,BY,DEU,DMR
+2621585,DG0WOL,Frank Meischner,Frank,Muenchen,BY,DEU,DMR
+2621586,DL3HDK,Hans Kersken,Hans,Netphen,NW,DEU,DMR
+2621587,DL7GRU,Andreas Gruenwald,Andreas,Berlin,BE,DEU,DMR
+2621588,DB2TU,Erhard Blersch,Erhard,Albstadt,BW,DEU,DMR
+2621589,DD2HM,Harald Markus,Harald,Bochum,NW,DEU,DMR
+2621590,DO1HSG,Hans Blum,Hans,St. Georgen,BW,DEU,DMR
+2621591,DG0OS,Steffen Schadeberg,Steffen,Muehlhausen,TH,DEU,DMR
+2621592,DO1BJM,Benjamin Heppner,Benjamin,Hamburg,HH,DEU,DMR
+2621593,DO7RKL,Roland Klass,Roland,Darmstadt,HE,DEU,DMR
+2621594,DO7DKL,Dagmar Klass,Dagmar,Darmstadt,HE,DEU,DMR
+2621595,DO1ABL,Andy Bundt,Andy,Luebeck,SH,DEU,DMR
+2621596,DL1AVP,Alexander Freiherr Von Paleske,Alexander,Neunkirchnen,RP,DEU,DMR
+2621597,DH1BBK,Wilko Reichwein,Wilko,Hamburg,NI,DEU,DMR
+2621598,DM4EU,Thomas Blanke,Thomas,Bissendorf,NI,DEU,DMR
+2621599,DL9KBV,Guenther Zimmer,Guenther,Troisdorf,NW,DEU,DMR
+2621600,DM2AB,Armin Brenner,Armin,Schwetzingen,BW,DEU,DMR
+2621601,DH1OA,Olgun Altug,Olgun,Ulm,BW,DEU,DMR
+2621602,DD1JAB,Udo Hemmerling,Udo,Neuss,NW,DEU,DMR
 2622000,DF4HN,Joerg Neugebauer,Joerg,Hamburg,HH,DEU,DMR
 2622001,DL6LIM,Iven Mueller,Iven,Twedt,SH,DEU,DMR
 2622002,DJ3HZ,Klaus Wittmack,Klaus,Norderstedt,SH,DEU,DMR
@@ -62427,6 +62611,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2680083,CR7AWY,Ana Reis,Ana,Povoa De Manique. Manique Intend,.,PRT,DMR
 2680084,CR7AXK,Carlos Rodrigues,Carlos,Fonte Boa Da Brincosa,.,PRT,DMR
 2680085,CT5GGP,Gaspar ,Gaspar,Coimbra,.,PRT,DMR
+2680086,CT2JJY,Sousa ,Sousa,Olhao,.,PRT,DMR
+2680087,CT2JWM,Palma ,Palma,Olhao,.,PRT,DMR
+2680088,CT3NG,Kevinhenry ,Kevinhenry,Canico Madeira,.,PRT,DMR
 2681001,CT2HMR,Manuel ,Manuel,Amarante,Porto District,PRT,DMR
 2681002,CT1DQV,Eduardo Goncalves,Eduardo,Chaves,Vila Real,PRT,DMR
 2681003,CT2GSW,Rui Calada,Rui,Maia,Porto District,PRT,DMR
@@ -63134,7 +63321,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2683311,CT1FGK,Jose Fernandes,Jose,Almada,Lisboa,PRT,DMR
 2683312,CS7AQZ,Ruiabrantes ,Ruiabrantes,Montijo,Setubal,PRT,DMR
 2683313,CT1FCI,Paulo Vieira,Paulo,Parede,Lisboa,PRT,DMR
-2683314,CR7ATJ,Rui Esteves,Rui,Queluz,,PRT,DMR
+2683314,CS7ATJ,Esteves ,Esteves,Queluz,Lisboa,PRT,DMR
 2683315,CT1CSP,Luis Correia,Luis,Atalaia,,PRT,DMR
 2683316,CT2HLH,Jose Pereiro,Jose,Miratejo,,PRT,DMR
 2683317,CS7AMI,Antonioloureiro ,Antonioloureiro,Odivelas,Lisboa,PRT,DMR
@@ -63747,8 +63934,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2720191,EI7BFB,Dave ,Dave,Dublin,,IRL,DMR
 2720192,EI9FX,Mark O'Rourke,Mark,Dundalk Co. Louth.,,IRL,DMR
 2720193,EI2HF,Pat ,Pat,Galway,,IRL,DMR
-2720194,EI0IPN,Iecro Ireland,Iecro,Mullingar,Westmeath,IRL,DMR
-2720195,EI0IPN,Iecro Ireland,Iecro,Mullingar,Westmeath,IRL,DMR
+2720194,EI4KP,Ivars Zubovs,Ivars,Limerick,.,IRL,DMR
+2720195,EI2ED,John ,John,Galway,.,IRL,DMR
 2720196,EI0IPN,Iecro Ireland,Iecro,Mullingar,Westmeath,IRL,DMR
 2720197,EI0IPN,Iecro Ireland,Iecro,Mullingar,Westmeath,IRL,DMR
 2720198,EI0NRSI,National (nrsi),National,Dublin,.,IRL,DMR
@@ -63784,6 +63971,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2720228,EI8IH,Ciaran ,Ciaran,Galway,.,IRL,DMR
 2720229,EI4IWB,Cathal Ferris,Cathal,Castletroy,.,IRL,DMR
 2720230,EI3IBB,Mark O'Byrnes,Mark,Carlow,.,IRL,DMR
+2720231,EI5IMB,David Barnes,David,Bundoran. Donegal,.,IRL,DMR
+2720232,EI4DBB,David ,David,Newbridge,.,IRL,DMR
 2740001,TF3PKN,Pier Kaspersma,Pier,Reykjavik,,ISL,DMR
 2740002,TF8KP,Krzysztof Przybylski,Krzysztof,Keflavik,,ISL,DMR
 2740003,TF8KP,Krzysztof Przybylski,Krzysztof,Keflavik,,ISL,DMR
@@ -66368,6 +66557,15 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2862040,TB3DJS,Serkan ,Serkan,Manisa,.,TUR,DMR
 2862041,TA2AIQ,Ismail Seyman,Ismail,Atasehir. Istanbul,.,TUR,DMR
 2862042,TB1TAL,Clalesahin ,Clalesahin,Istanbul,.,TUR,DMR
+2862043,TB2FCT,Cagatay ,Cagatay,Kocaeli,Ankara,TUR,DMR
+2862044,TA5IBH,no_name ,no_name,Antakya,Adana,TUR,DMR
+2862045,TA4ISG,Gurcan ,Gurcan,Isparta,.,TUR,DMR
+2862046,TA3LEL,Emre Eru,Emre,Izmir,.,TUR,DMR
+2862047,TA3LKJ,Hakan Turhan,Hakan,Izmir,.,TUR,DMR
+2862048,TA5RK,Recep ,Recep,Konya,.,TUR,DMR
+2862049,TA3LFT,Fikret ,Fikret,Izmir,.,TUR,DMR
+2862050,TA3AEO,Erkandeniz ,Erkandeniz,Balikesir,.,TUR,DMR
+2862051,TA2UTD,no_name ,no_name,no_city,.,TUR,DMR
 2880001,OY8W,Steffen Solberg,Steffen,Kollafjorour,,FRO,DMR
 2880002,OY1DZ,Karstin ,Karstin,Hoyvik,,FRO,DMR
 2880003,OY5X,no_name ,no_name,Hoyvik,,FRO,DMR
@@ -66933,6 +67131,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2930536,S56VGL,Luka Grai,Luka,Ljubljana,.,SLO,DMR
 2930537,S56RH,Rok ,Rok,Trbovlje,.,SLO,DMR
 2930538,S56FLZ,Dragan ,Dragan,Ljubljana,.,SLO,DMR
+2930539,S57CBC,Lojz Jazbec,Lojz,Prevalje,.,SLO,DMR
+2930540,S56SB,Simon ,Simon,Skofljica,.,SLO,DMR
 2940001,Z36AEC,Herolind Useini,Herolind,Gostivar,Gostivar,MKD,DMR
 2940002,Z32IT,Dragan Spiroski,Dragan,Skopje,Skopje RegionSkopje,MKD,DMR
 2940003,Z32IT,Dragan Spiroski,Dragan,Skopje,Skopje,MKD,DMR
@@ -67016,203 +67216,168 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2970037,4O6MBA,Bakrac-Baki ,Bakrac-Baki,Herceg Novi - Montenegro,Minnesota,MNE,DMR
 2970038,4O4DJC,Djordje Capin,Djordje,Herceg-Novi,.,MNE,DMR
 2970039,4O5RAC,no_name ,no_name,no_city,.,MNE,DMR
-2020142,SV1MMO,Fanis ,Fanis,Athens,Thessalia,GRC,DMR
-2020143,SV7BOZ,Ilias ,Ilias,Soufli,.,GRC,DMR
-2020144,SY8BAX,Christos Rizoulis,Christos,Samos Island,.,GRC,DMR
-2020145,SY1BOP,Arisgounaris ,Arisgounaris,Agrinio,.,GRC,DMR
-2040124,PD4WD,Wim D,Wim,Dronrijp,.,NLD,DMR
-2040125,PD7DM,Dion ,Dion,Rotterdam,.,NLD,DMR
-2040126,PD9ENP,Peter ,Peter,Den Bosch,.,NLD,DMR
-2040127,PE2HVH,Ronald ,Ronald,Hook Of Holland,.,NLD,DMR
-2060325,ON8LU,Rafa ,Rafa,Woluwe-Saint-Lambert,Brussels,BEL,DMR
-2060326,ON3FR,Freddy Daems,Freddy,Kwaadmechelen,Limburg,BEL,DMR
-2080513,F4GXJ,Jean-Pierre Grau,Jean-Pierre,St Jean Pla De Corts,.,FRA,DMR
-2080514,F4IDH,Christian ,Christian,Trie Sur Base,.,FRA,DMR
-2080515,F4IPO,Serge ,Serge,Lyon,.,FRA,DMR
-2080516,F4INM,Alex ,Alex,Roubaix,Hauts De France,FRA,DMR
-2080517,F4CVO,Jeremy Escrich,Jeremy,Frouard,23,FRA,DMR
-2080518,F5BSN,Jack Seguier,Jack,Sauvian,.,FRA,DMR
-2080519,F1OKI,Philippe ,Philippe,Achres-La-Fort,.,FRA,DMR
-2080520,F4HDA,no_name ,no_name,Nanterre,.,FRA,DMR
-2080521,F0FKT,Dadou ,Dadou,Crets En Belledonne,St P,FRA,DMR
-2140552,EA5AUZ,Pablo ,Pablo,Cartagena,.,ESP,DMR
-2140565,EA4TK,F Conde,F,Madrid,.,ESP,DMR
-2140566,EA8CMY,Francisco De Adrian Hdezno_name,Francisco,San Juan De La Rambla. Tenerife,San Juan De La Rambla,ESP,DMR
-2140567,EB7CSU,Pedro Julian,Pedro,Malaga,.,ESP,DMR
-2140568,EA1IPW,Jose Lopez,Jose,La Coruna,.,ESP,DMR
-2140569,EA4AZJ,Manuel Mesa,Manuel,Alcobendas Madrid,.,ESP,DMR
-2140570,EA1HYW,no_name ,no_name,Mugardos,.,ESP,DMR
-2140571,EA8DJZ,Cardoba ,Cardoba,San Cristobal  La Laguna,.,ESP,DMR
-2140573,EA7KJQ,Salva ,Salva,Montemayor,.,ESP,DMR
-2140574,EA1JCB,Alexfernindez ,Alexfernindez,A Corua,.,ESP,DMR
-2140575,EA3ARF,Josep ,Josep,Lleida,.,ESP,DMR
-2140577,EA4HFN,Alberto ,Alberto,Ciempozuelos,.,ESP,DMR
-2140578,EA2EPB,Franciscoramis ,Franciscoramis,Benidorm - Alicante,.,ESP,DMR
-2140579,EA5IPA,Juanllobell ,Juanllobell,Benissa - Alicante,.,ESP,DMR
-2160042,HA1TNX,Peter ,Peter,Gyor,.,HUN,DMR
-2190323,9A3BKR,Kris ,Kris,Zapresic,Zagreb,HRV,DMR
-2190324,9A1ABE,Radio Slatina,Radio,Slatina,.,HRV,DMR
-2190325,9A7PRZ,Bongo ,Bongo,Kastel Gomilica,.,HRV,DMR
-2190326,9A3MAB,no_name ,no_name,Zagreb,.,HRV,DMR
-2190327,9A7ICO,Ivon ,Ivon,Dakovo,.,HRV,DMR
-2190328,9A7ABN,Lojze ,Lojze,Slavonski Brod,.,HRV,DMR
-2200281,YT5MW,Dragan Toncic,Dragan,Belgrade,.,SRB,DMR
-2226563,IU1MTZ,Luca Sallen,Luca,Cantalupa (TO),Piemonte,ITA,DMR
-2226564,IU2NTG,Giampy ,Giampy,Solto Collina (BG),Lombardia,ITA,DMR
-2226565,IZ0PAU,Marcello Mura,Marcello,Roma (RM),Lazio,ITA,DMR
-2226566,IZ3VYL,Romeo ,Romeo,Vigonza (PD),Veneto,ITA,DMR
-2226567,I1ONK,Gian Carlo Ghezzi,Gian Carlo,Novi Ligure (AL),Piemonte,ITA,DMR
-2226569,IW1CYL,Fabrizio Crepaldi,Fabrizio,Collegno (TO),Piemonte,ITA,DMR
-2226570,IQ3PN,Ari Sezione Pordenone,Ari,Pordenone (PN),Friuli VG,ITA,DMR
-2226571,IW3FQT,Luca Giuriato,Luca,Rovigo (RO),Veneto,ITA,DMR
-2226572,IQ3VN,Radio Club Valsugana,Radio Club,Borgo Valsugana (TN),Trentino AA,ITA,DMR
-2226573,IT9IPQ,Paolo Impallomeni,Paolo,Messina (ME),Sicilia,ITA,DMR
-2226574,IT9OBK,Carmelo Impallomeni,Carmelo,Messina (ME),Sicilia,ITA,DMR
-2226575,IT9BOM,Antonino ,Antonino,Bronte (CT),Sicilia,ITA,DMR
-2226577,IW1GDN,Danilo Nastrino,Danilo,Bagnolo Piemonte (CN),Piemonte,ITA,DMR
-2226578,IK8SUT,Antonio Lalopa,Antonio,Salerno (SA),Campania,ITA,DMR
-2226579,IU1NYD,Roberto Bellini,Roberto,Azeglio (TO),Piemonte,ITA,DMR
-2226581,IU3BZU,Emiliano Popa,Emiliano,Tombolo (PD),Veneto,ITA,DMR
-2226583,IZ2OGG,Dattero Gottardi,Dattero,Sartirana Lomellina (PV),Lombardia,ITA,DMR
-2226584,IZ0JRI,Ivan Stupici,Ivan,Lido Di Ostia (RM),Lazio,ITA,DMR
-2260040,YO4SIV,Marius ,Marius,Galati,.,ROU,DMR
-2284242,HB9MKV,Rudi ,Rudi,Buesserach,.,CHE,DMR
-2284243,HB9HEI,Dominic ,Dominic,Winznau,.,CHE,DMR
-2287036,HB9GZK,Mark ,Mark,Alvaneu Dorf,.,CHE,DMR
-2300053,OK2WTW,Pavel ,Pavel,Olomouc,.,CZE,DMR
-2300054,OK2TLJ,Jan ,Jan,Trutnov,.,CZE,DMR
-2300055,OK1JHT,Robert Hudlice,Robert,Hudlice,.,CZE,DMR
-2321276,OE1KTU,Walter Kausalius,Walter,Wien,WIEN,AUT,DMR
-2326206,OE6OMC,Michael Heritsch,Michael,Aflenz,STMK,AUT,DMR
-2327193,OE7WRJ,Rudolf Wartlsteiner,Rudolf,Kufstein,TIROL,AUT,DMR
-2348840,G0EHU,Simon Dalton,Simon,Derbyshire,.,GBR,DMR
-2348897,M7KLR,Sean Mccarthy,Sean,Blackburn. Lancashire.,.,GBR,DMR
-2348907,M1EKB,Kevin Baldwin,Kevin,Hereford,.,GBR,DMR
-2348908,2E0FVT,Graham Smith,Graham,London,.,GBR,DMR
-2348909,MB6IWR,Steve ,Steve,Worcester,.,GBR,DMR
-2348932,2E0NDD,Nick ,Nick,Glossop,.,GBR,DMR
-2348972,MB6ITP,Steve ,Steve,Portstewart,England,GBR,DMR
-2348973,M0DCV,P Howell,P,Foxton. Cambridge,.,GBR,DMR
-2348975,M7DVP,Dave Ward,Dave,Colyton Devon,.,GBR,DMR
-2348976,G7SOJ,Barry ,Barry,Winkleigh,.,GBR,DMR
-2348977,M0ALA,A Lomas,A,United Kingdom,.,GBR,DMR
-2348978,G6ATJ,Ivor Abi,Ivor,Cullompton,.,GBR,DMR
-2348979,2E0FVK,John ,John,Witney,.,GBR,DMR
-2348980,M7AZP,Darren Ionn,Darren,Bolton,.,GBR,DMR
-2348981,2E0XMF,Pete Foster,Pete,Norton-On-Derwent,.,GBR,DMR
-2348982,G0AWM,Cr Warr,Cr,Lancaster,.,GBR,DMR
-2348984,M7GDF,David Coombs-Farnsworth,David,Rothwell,.,GBR,DMR
-2348988,2E0BVJ,Wayne (m6bwc),Wayne,Bolton,.,GBR,DMR
-2348992,M7MAP,no_name ,no_name,Wrexham,.,GBR,DMR
-2348993,M0DMP,David Pye,David,Newcastle Upon Tyne,.,GBR,DMR
-2348994,2E0MSY,Martin Smith,Martin,Great Yarmouth,.,GBR,DMR
-2348995,M7KIA,Andyl ,Andyl,Welwyn Garden City,.,GBR,DMR
-2348996,M7VBR,Andy ,Andy,Exeter,.,GBR,DMR
-2348997,G3WRA,Stuart ,Stuart,Hereford,.,GBR,DMR
-2349000,M0NXB,Nick ,Nick,Silverton,.,GBR,DMR
-2349001,M7ROR,Joshua ,Joshua,Chesterfield,.,GBR,DMR
-2349002,2E0XXI,Philwright ,Philwright,Nottingham,.,GBR,DMR
-2349006,M7NKI,Nicola ,Nicola,Wakefield,.,GBR,DMR
-2349008,M7KRE,Keith ,Keith,Exeter,.,GBR,DMR
-2349009,2E0VCK,Kevin ,Kevin,Rainhill,.,GBR,DMR
-2349010,M0ZZT,Steve ,Steve,Exeter,.,GBR,DMR
-2349011,G7AGR,Aylesburyraynet ,Aylesburyraynet,Chinnor,.,GBR,DMR
-2349012,G7MCE,Dave ,Dave,Dalton-In-Furness,.,GBR,DMR
-2353623,2W0KPF,Keith Foster,Keith,Llanidloes,.,GBR,DMR
-2353624,MW7WAD,Wayne Dabrowski,Wayne,Knighton. Powys.,.,GBR,DMR
-2353625,MW7IKH,Isambard ,Isambard,Porthcawl,.,GBR,DMR
-2353626,MW7WYN,Arwyn Williams,Arwyn,Swansea,.,GBR,DMR
-2354835,MM7BBA,Alex Harrison,Alex,Dumfries,.,GBR,DMR
-2354836,MM7WAX,Neal ,Neal,Grangemouth,.,GBR,DMR
-2354837,MM1TIG,Andy ,Andy,Aberdeen,.,GBR,DMR
-2354838,GM1LOZ,Loz Hird,Loz,Keith,.,GBR,DMR
-2354839,MM7STC,Steven ,Steven,Cruden Bay,.,GBR,DMR
-2355549,2I0FVX,Jamie Robinson,Jamie,Lurgan,.,GBR,DMR
-2380069,OZ555C,Claus ,Claus,Farum,.,DNK,DMR
-2380070,OZ5MI,Mil ,Mil,Valby,.,DNK,DMR
-2400517,SM6KXN,Leif ,Leif,Vallda,.,SWE,DMR
-2420161,LA7ONA,Bjoern Erik,Bjoern,Bverbru,.,NOR,DMR
-2420162,LA6UIA,Andersfongen ,Andersfongen,Lillehammer,.,NOR,DMR
-2441136,OH6UX,Jarkko Turunen,Jarkko,Jyvaeskylae,Keski-Suomi,FIN,DMR
-2441137,OH1CAU,Juhani Krekela,Juhani,Turku,.,FIN,DMR
-2441138,OH3FQC,no_name ,no_name,Riihimaeki,.,FIN,DMR
-2550430,UT3UDX,Maksym Shaposhnikov,Maksym,Kiev,All Regions,UKR,DMR
-2570075,EW1AEO,Denis ,Denis,Minsk,.,BLR,DMR
-2590027,ER2SDL,Dmitrii ,Dmitrii,Tiraspol,Bendery,MDA,DMR
-2600285,SP9BRP,Jan Szostak,Jan,Krakow,.,POL,DMR
-2600295,SQ8MXC,Cezary ,Cezary,Zawierzbie,.,POL,DMR
-2600311,SP0R,Robert ,Robert,Lublin,.,POL,DMR
-2600312,SP7BR,Bartosz Roalski,Bartosz,Lodz,Lodz,POL,DMR
-2600313,SP0K,Krystyna ,Krystyna,Lublin,.,POL,DMR
-2600314,SQ2PVB,Benedykt Wilczynski,Benedykt,Bydgoszcz,Koejavie-Pommeren,POL,DMR
-2600315,SP7NPZ,Wojciech ,Wojciech,Lodz,.,POL,DMR
-2600317,SP5SWR,Robert ,Robert,Ciechanow,.,POL,DMR
-2600318,SQ9IDE,Damian Tendera,Damian,Radostowice,.,POL,DMR
-2600319,SP5MGC,Marcin ,Marcin,Ciechanow,.,POL,DMR
-2600320,SP3MCO,Marek ,Marek,Lubsko,.,POL,DMR
-2600321,SP1F,Zbigniew ,Zbigniew,Kolobrzeg,.,POL,DMR
-2600322,SQ9KRIS,Krystian ,Krystian,Myslowice,.,POL,DMR
-2621570,DF4CL,Erwin Hirler,Erwin,Muenchen,BY,DEU,DMR
-2621571,DL1OLD,Roland Wollenweber,Roland,Kaarst,NW,DEU,DMR
-2621572,DF6YF,Bernhard Huegging,Bernhard,Hagen,Ni,DEU,DMR
-2621573,DD2VR,Georg Kattler,Georg,Saarwellingen,SL,DEU,DMR
-2621574,DF8AH,Michael Wienbruegge,Michael,Juehnde,NI,DEU,DMR
-2621575,DL4RBR,Juergen Bieder,Juergen,Greding,BY,DEU,DMR
-2621576,DC5LI,Norbert Binke,Norbert,Heide,SH,DEU,DMR
-2621577,DH5SW,Bernhard Wuensche,Bernhard,Wilhelmsfeld,BW,DEU,DMR
-2621578,DB8SEW,Miroslaw Godzwon,Miroslaw,Hemsbuende,NI,DEU,DMR
-2621579,DD5HW,Holger Wuensche,Holger,Wilhelmsfeld,BW,DEU,DMR
-2621580,DO3CST,Stefan Weidt,Stefan,Annaberg-Buchholz,SN,DEU,DMR
-2621581,DO6FP,Felix Pfannkuch,Felix,Waiblingen,BW,DEU,DMR
-2621582,DL1TKL,Klaus Lilienthal,Klaus,Pasewalk,MV,DEU,DMR
-2621583,DL4JM,Tim Dimic,Tim,Moenchengladbach,NW,DEU,DMR
-2621584,DK1AN,Andreas Nees,Andreas,Moembris,BY,DEU,DMR
-2621585,DG0WOL,Frank Meischner,Frank,Muenchen,BY,DEU,DMR
-2621586,DL3HDK,Dieter Kersken,Dieter,Netphen,NW,DEU,DMR
-2621587,DL7GRU,Andreas Grunwald,Andreas,Berlin,BE,DEU,DMR
-2621588,DB2TU,Erhard Blersch,Erhard,Albstadt,BW,DEU,DMR
-2621589,DD2HM,Harald Markus,Harald,Bochum,NW,DEU,DMR
-2621590,DO1HSG,Hans Blum,Hans,St. Georgen,BW,DEU,DMR
-2621591,DG0OS,Steffen Schadeberg,Steffen,Muehlhausen,TH,DEU,DMR
-2621592,DO1BJM,Benjamin Heppner,Benjamin,Hamburg,HH,DEU,DMR
-2621593,DO7RKL,Roland Klass,Roland,Darmstadt,HE,DEU,DMR
-2621594,DO7DKL,Dagmar Klass,Dagmar,Darmstadt,HE,DEU,DMR
-2621595,DO1ABL,Andy Bundt,Andy,Luebeck,SH,DEU,DMR
-2621596,DL1AVP,Alexander Freiherr Von Paleske,Alexander,Neunkirchnen,RP,DEU,DMR
-2621597,DH1BBK,Wilko Reichwein,Wilko,Hamburg,NI,DEU,DMR
-2621598,DM4EU,Thomas Blanke,Thomas,Bissendorf,NI,DEU,DMR
-2621599,DL9KBV,Guenther Zimmer,Guenther,Troisdorf,NW,DEU,DMR
-2680086,CT2JJY,Sousa ,Sousa,Olhao,.,PRT,DMR
-2680087,CT2JWM,Palma ,Palma,Olhao,.,PRT,DMR
-2680088,CT3NG,Kevinhenry ,Kevinhenry,Canico Madeira,.,PRT,DMR
-2720231,EI5IMB,David Barnes,David,Bundoran. Donegal,.,IRL,DMR
-2720232,EI4DBB,David ,David,Newbridge,.,IRL,DMR
-2862043,TB2FCT,Cagatay ,Cagatay,Kocaeli,Ankara,TUR,DMR
-2862044,TA5IBH,no_name ,no_name,Antakya,Adana,TUR,DMR
-2862045,TA4ISG,Gurcan ,Gurcan,Isparta,.,TUR,DMR
-2862046,TA3LEL,Emre Eru,Emre,Izmir,.,TUR,DMR
-2862047,TA3LKJ,Hakan Turhan,Hakan,Izmir,.,TUR,DMR
-2862048,TA5RK,Recep ,Recep,Konya,.,TUR,DMR
-2862049,TA3LFT,Fikret ,Fikret,Izmir,.,TUR,DMR
-2862050,TA3AEO,Erkandeniz ,Erkandeniz,Balikesir,.,TUR,DMR
-2930539,S57CBC,Lojz Jazbec,Lojz,Prevalje,.,SLO,DMR
-2930540,S56SB,Simon ,Simon,Skofljica,.,SLO,DMR
-2020146,SV1SAY,no_name ,no_name,no_city,Greece,GRC,DMR
-2226568,IU3GLY,Giampietro Pace,Giampietro,Arcole (VR),Veneto,ITA,DMR
-2226576,IK8HIS,Luigi Colucci,Luigi,Santa Maria Capua Vetere (CE),Campania,ITA,DMR
-2226580,IU7KIH,No_name ,No_name,No_city,,ITA,DMR
-2226582,IU3NYU,Pierantonio Brea,Pierantonio,Chiampo (VI),Veneto,ITA,DMR
-2226585,IV3ZNK,Luca Molino,Luca,Reana Del Roiale (UD),Friuli VG,ITA,DMR
-2300056,OK5XL,no_name ,no_name,no_city,.,CZE,DMR
-2348855,M7AZJ,no_name ,no_name,no_city,.,GBR,DMR
-2400518,SA6BSP,no_name ,no_name,no_city,.,SWE,DMR
-2400519,SA3AMP,no_name ,no_name,no_city,.,SWE,DMR
-2480045,ES4DBAD,no_name ,no_name,no_city,.,EST,DMR
-2621600,DM2AB,Armin Brenner,Armin,Schwetzingen,BW,DEU,DMR
-2621601,DH1OA,Olgun Altug,Olgun,Ulm,BW,DEU,DMR
-2621602,DD1JAB,Udo Hemmerling,Udo,Neuss,NW,DEU,DMR
-2862051,TA2UTD,no_name ,no_name,no_city,.,TUR,DMR
-2348986,M7WYN,Arwyn ,Arwyn,no_city,.,GBR,DMR
-2348987,M7MAP,no_name ,no_name,Wrexham,.,GBR,DMR
-2600316,SP6AIF,Podhorodecki Arkadiusz,Podhorodecki,Nysa,Opole Voivodeship,POL,DMR
-2341000,G0RDI,Iain Philipps,Iain,Bourne,England,GBR,DMR
+2020147,SY1DKC,Kosmas Raptis,Kosmas,Athens,.,GRC,DMR
+2020148,SY2DKV,Antonis ,Antonis,Thessaloniki,.,GRC,DMR
+2020149,SV1EFA,Vasilis Kalogeropoulos,Vasilis,Piraeus,.,GRC,DMR
+2020150,SV1SPJ,Kostas ,Kostas,Peristeri,.,GRC,DMR
+2040128,PD5URK,Andre Romkes,Andre,Urk,Nebraska,NLD,DMR
+2040129,PB0ANW,Ricardo Buis,Ricardo,Gouda,Zh,NLD,DMR
+2040130,PD1KA,Rene Van Slooten,Rene,Bierum,.,NLD,DMR
+2040131,PD2Y,Martijn Ragut,Martijn,Utrecht,.,NLD,DMR
+2040132,PD1RB,no_name ,no_name,Almere,.,NLD,DMR
+2040133,PE1EEC,Martin ,Martin,Beek,Lb,NLD,DMR
+2080522,F5MOX,Gerard Texier,Gerard,Paris,.,FRA,DMR
+2080523,F4IQN,Maxime Favier,Maxime,Paris,.,FRA,DMR
+2080524,F4AXT,Jean ,Jean,Cuzorn,.,FRA,DMR
+2080525,F4HJC,Sylvie No_name,Sylvie,Champigny Sur Marne,.,FRA,DMR
+2080526,F6BNX,Jeanpierre ,Jeanpierre,Nice,Provenetoce-Alpes-Cote D Azur,FRA,DMR
+2080527,F4IMV,Francois Xavier,Francois,Berck-Sur Mer,Hauts De France,FRA,DMR
+2140518,EA3HVT,Xavi ,Xavi,Barcelona,.,ESP,DMR
+2140525,EA1FGX,Rodrigo ,Rodrigo,Burgos (SS),Sardegna,ESP,DMR
+2140580,EA3IJS,Francesc Subiras,Francesc,Tortella,.,ESP,DMR
+2140581,EA7IMZ,Jose Gonzalez,Jose,Mairena Del Aljarafe Sevilla,.,ESP,DMR
+2140582,EA4ETP,Luis ,Luis,Alcala De Henares,.,ESP,DMR
+2140583,EA7JDF,Jose Emilio,Jose,Cartama,.,ESP,DMR
+2140584,EA3AFE,Miguel Bonales,Miguel,Tarrega,.,ESP,DMR
+2140585,EA3BCH,Emili Nadal,Emili,Lleida,.,ESP,DMR
+2140586,EA3HXN,Juan Aguila,Juan,Barcelona,.,ESP,DMR
+2140587,EA6VE,Alejandro Gomez,Alejandro,Mallorca(BALEARIC IS),.,ESP,DMR
+2140588,EA4HJI,Fras ,Fras,Badajoz,.,ESP,DMR
+2140589,EA8CCX,Tono Rebeco,Tono,Guia De Isora -Tenerife Canarias,Tf,ESP,DMR
+2140590,EA4AC,Cedric Puchalski,Cedric,Madrid Madrid,M,ESP,DMR
+2140591,EA4HJK,Richard Perez,Richard,Rivas-Vaciamadrid,.,ESP,DMR
+2140592,EA7AF,Marcos Garrido,Marcos,Gibraleon Huelva,.,ESP,DMR
+2140593,EA8CMY,Francisco De Adrian Hdezno_name,Francisco,San Juan De La Rambla. Tenerife,San Juan De La Rambla,ESP,DMR
+2140594,EA7CJK,Francisco ,Francisco,Lora Del Rio,.,ESP,DMR
+2190329,9A7PMV,Bety ,Bety,Kastel Gomilica,.,HRV,DMR
+2190330,9A3AXC,Sibenik ,Sibenik,Sibenik,.,HRV,DMR
+2190331,9A3AWS,Matija Suznjevic,Matija,Hrkarlovac,.,HRV,DMR
+2226586,IZ1FIG,Davide Bucci,Davide,Castagneto Po (TO),Piemonte,ITA,DMR
+2226587,IT9GSZ,Nunziato Chinnici,Nunziato,Francavilla Di Sicilia (ME),Sicilia,ITA,DMR
+2226588,IU8KMR,Vincenzo Lima,Vincenzo,Bacoli (NA),Campania,ITA,DMR
+2226589,IW8DCS,Vittorio Santoro,Vittorio,Torre Del Greco (NA),Campania,ITA,DMR
+2226590,IT9HUB,Seby Bella,Seby,Catania (CT),Sicilia,ITA,DMR
+2226591,I1DDS,Davide Cardesi,Davide,Gassino Torinese (TO),Piemonte,ITA,DMR
+2226593,IK4POT,Guido Gnani,Guido,Ravenna (RA),Emilia-Rom.,ITA,DMR
+2226594,IW3HMH,Daniele Pistollato,Daniele,Quarto D'Altino (VE),Veneto,ITA,DMR
+2226598,IU6OBP,Emanuele ,Emanuele,Camerino (MC),Marche,ITA,DMR
+2226599,IW9DJW,Luca ,Luca,Marsala (TP),Sicilia,ITA,DMR
+2281242,HB9GFV,Gregory Magnin,Gregory,Villarimboud,Fribourg,CHE,DMR
+2284244,HB9GUU,Peter Dietschi,Peter,Langendorf,.,CHE,DMR
+2285072,HB3YFT,Walter ,Walter,Gontenschwil,.,CHE,DMR
+2286261,HB3XVP,Philipp ,Philipp,Richenthal,.,CHE,DMR
+2286262,HB9TIK,Fausto ,Fausto,Bidogno,.,CHE,DMR
+2288331,HB3XUX,Andy ,Andy,Meilen,.,CHE,DMR
+2300057,OK2CTI,Jan Matuska,Jan,Zatcany,Cz,CZE,DMR
+2300058,OK2IWR,Radek ,Radek,Uherske Hradiste,.,CZE,DMR
+2300059,OK1UZT,Vitezslav Jelinek,Vitezslav,Prague  Czech Republic,.,CZE,DMR
+2300060,OK1IVU,Vlada Vesely,Vlada,Jilem Jnpe Nr. J. Hradec Ii.Qth,.,CZE,DMR
+2300061,OK2DC,Alsten ,Alsten,Horice,.,CZE,DMR
+2348871,M7JAP,Paul Whiteley,Paul,Heywood,.,GBR,DMR
+2348944,M3PMY,Trev Trev,Trev,Daventry,.,GBR,DMR
+2348955,M6XRM,Richie Mills,Richie,Leatherhead. Surrey.,.,GBR,DMR
+2348956,M0FRD,Mike ,Mike,Leicester,.,GBR,DMR
+2348960,M7SSD,Haggar11 ,Haggar11,Sheffield,.,GBR,DMR
+2348962,M7BAA,Tom ,Tom,Driffield,.,GBR,DMR
+2349013,MB6IKK,no_name ,no_name,Epsom,.,GBR,DMR
+2349014,G0WRB,Jason Walmsley,Jason,Bridgwater. Somerset,.,GBR,DMR
+2349015,M1TRC,Chris Marren,Chris,East Ardsley. Wakefield,England,GBR,DMR
+2349016,GB0CTK,The Aberge,The,Towyn. North Wales,.,GBR,DMR
+2349017,M7RLA,Rodney ,Rodney,Burnham On Crouch,.,GBR,DMR
+2349018,M7TWM,Mike R,Mike,Manchester,.,GBR,DMR
+2349020,M0VAY,Ray Bewick,Ray,Haywards Heath,.,GBR,DMR
+2349021,M5JSW,Steve Woods,Steve,Birmingham,England,GBR,DMR
+2349022,M7DSI,Dash ,Dash,Wallsend,.,GBR,DMR
+2349023,M6GDT,Grahame Thomas,Grahame,Waltham Cross,.,GBR,DMR
+2349024,M6NVC,Duane Haslam,Duane,Greater Manchester,.,GBR,DMR
+2349026,M7NCN,Nigel Nurse,Nigel,Cranfield,.,GBR,DMR
+2349028,2E0FWW,John ,John,Manchester,.,GBR,DMR
+2349030,2E0TUS,Richard Austen,Richard,Lincolnshire,.,GBR,DMR
+2349031,G6APD,Les Sawford,Les,Lee-On-The Solent,.,GBR,DMR
+2349032,M7EMW,David Pearson,David,Exeter Devon,.,GBR,DMR
+2349035,M6IQT,Kevin Carey,Kevin,Hailsham Eastsussex,.,GBR,DMR
+2349036,M7DPC,Diogo ,Diogo,Aylesbury,.,GBR,DMR
+2349037,2E0XTY,Andy Callaghan,Andy,Bromley. Kent,Kent,GBR,DMR
+2349038,G4MZH,L Grimshire,L,Barnstaple Devon,.,GBR,DMR
+2349039,MB6IPG,no_name ,no_name,Porthmadog,.,GBR,DMR
+2349040,G0DOR,Phil Davidson,Phil,Liverpool,.,GBR,DMR
+2349041,M7WEL,Stewart Weller,Stewart,East Grinstead. West Sussex,.,GBR,DMR
+2349042,G0IJN,Aj Slade,Aj,Summerhill. Althorne. Chelmsford,.,GBR,DMR
+2349044,2E0VNX,Andy2e0vnx ,Andy2e0vnx,Leeds,.,GBR,DMR
+2349047,2E0GUW,Guy ,Guy,High Wcyombe,.,GBR,DMR
+2349048,M7PRC,Simon ,Simon,Bournmouth,.,GBR,DMR
+2353614,MW6AHT,Oliver Davis,Oliver,Brackla. South Wales,.,GBR,DMR
+2354841,2M0FUP,George Crawford,George,Chirnside. Duns,.,GBR,DMR
+2354842,GM8BSQ,Alistair Shepherd,Alistair,Skene. Westhill,.,GBR,DMR
+2400520,SA5LKX,Ludde ,Ludde,Uppsala,.,SWE,DMR
+2400521,SM6STI,Johan Wessberg,Johan,Goteborg,.,SWE,DMR
+2400522,SM2WLQ,Thomas ,Thomas,Umea,.,SWE,DMR
+2400523,SM5WEB,Tobiasakatoby ,Tobiasakatoby,Skultuna,.,SWE,DMR
+2420163,LA5QJA,Johnsen Gunleiv,Johnsen,Egersund,.,NOR,DMR
+2420164,LA5GN,Heggelund Oskar,Heggelund,Tromso,.,NOR,DMR
+2420165,LB7UI,Thord Iversen,Thord,Tjodalyng,.,NOR,DMR
+2441139,OH4AB,Pieksamaen Ry,Pieksamaen,Finaarajarvi,.,FIN,DMR
+2441140,OH6MWC,Jorma Luoma,Jorma,Koskenkorva,.,FIN,DMR
+2441141,OH2CBF,Ville ,Ville,Helsinki,.,FIN,DMR
+2441142,OH1HF,Ilkka Aromaa,Ilkka,Tampere,.,FIN,DMR
+2460030,LY2LHV,Henrikas ,Henrikas,Vilnius,.,LTU,DMR
+2600323,SP5AMN,Janusz Dobrowolski,Janusz,Warszawa,.,POL,DMR
+2600324,SP9AM,Andrzej Lipik,Andrzej,Siemianowice Slaskie.,.,POL,DMR
+2600326,SP5Q,Bogdan ,Bogdan,Warszawa,.,POL,DMR
+2600327,HF3PMP,Mateusz ,Mateusz,Rozlogi,.,POL,DMR
+2600328,SP3EOL,Czeslaw ,Czeslaw,Chodziez,.,POL,DMR
+2600330,SP3VBH,Halina ,Halina,Chodziez,.,POL,DMR
+2600331,SP3ZBZ,Klub ,Klub,Chodziez,.,POL,DMR
+2600332,SP5HMM,Michal ,Michal,Warszawa,.,POL,DMR
+2600333,SQ7OCI,Piotr ,Piotr,Lodz,Lodz,POL,DMR
+2621603,DB1FH,Fabian Heymann,Fabian,Monheim,NW,DEU,DMR
+2621604,DL8JO,Joachim Schmidt,Joachim,Dettenhausen,BW,DEU,DMR
+2621605,DK5MG,Matthias Gerbet,Matthias,Dresden,SN,DEU,DMR
+2621606,DC1HR,Harry Rist,Harry,Strassberg,BY,DEU,DMR
+2621607,DF2JC,Andreas Mengel,Andreas,Rheinberg,NW,DEU,DMR
+2621608,DO9FH,Helmut Knaak,Helmut,Bad Duerkheim,RP,DEU,DMR
+2621609,DH4PH,Bernd Zeimetz,Bernd,Kastellaun,RP,DEU,DMR
+2621610,DB1BE,Bernd Blumenstein,Bernd,Kassel,HE,DEU,DMR
+2621611,DF3MY,Gerd Anolleck,Gerd,Augsburg,BY,DEU,DMR
+2621612,DO1AKM,Nigel Cox,Nigel,Iserlohn,NW,DEU,DMR
+2621613,DG5DBY,Christian Oelschlegel,Christian,Wetter,NW,DEU,DMR
+2621615,DO1TTA,Momme Maraun,Momme,Flensburg,SH,DEU,DMR
+2621616,DL7TK,Tobias Koehler,Tobias,Egeln,ST,DEU,DMR
+2621617,DK8LX,Tycho Mohn,Tycho,Flensburg,SH,DEU,DMR
+2621618,DL2NEP,Bjoern Willig,Bjoern,Erlangen,BY,DEU,DMR
+2621619,DK3IM,Ralf Gember,Ralf,Ladenburg,BW,DEU,DMR
+2621620,DL7ULZ,Reinhard Walter,Reinhard,Berlin,BE,DEU,DMR
+2621621,DO3WC,Walter Ciesny,Walter,Luebeck,SH,DEU,DMR
+2621622,DJ0MAT,Lars Tufte,Lars,Duesseldorf,NW,DEU,DMR
+2621623,DB5BX,Peter Baumung,Peter,Ibbenbueren,NW,DEU,DMR
+2680089,CT2IZF,Eduardo Pina,Eduardo,Moita And,.,PRT,DMR
+2680090,CT2GPT,Armindo Concei???ao,Armindo,Faro,.,PRT,DMR
+2830005,EK6RPT,Tigran Petrosyan,Tigran,Yerevan,.,ARM,DMR
+2840406,LZ1DJD,Denis ,Denis,Sofia,.,BGR,DMR
+2840407,LZ1AAO,no_name ,no_name,Smolyan,.,BGR,DMR
+2840408,LZ1WDS,Denislav ,Denislav,Sofia,.,BGR,DMR
+2862052,TA3N,Sezgin Kenar,Sezgin,Yldrm/bursa,.,TUR,DMR
+2862053,TB1TLX,Lkarakaya ,Lkarakaya,Tekirdag,.,TUR,DMR
+2862054,TA5AOK,Oktaykoca ,Oktaykoca,Adana,.,TUR,DMR
+2862055,TA1SEH,Erkan ,Erkan,Tekirda,.,TUR,DMR
+2862056,TA1MTR,Murat ,Murat,Istanbul,.,TUR,DMR
+2940036,Z34CDF,Stojance Zivanovski,Stojance,Skopje,Mk,MKD,DMR
+2060328,ON4TNB,Bechir Bouzaiane,Bechir,no_city,.,BEL,DMR
+2140595,EA7IJZ,no_name ,no_name,no_city,.,ESP,DMR
+2226592,IK7MXD,Giovanni Mazzone,Giovanni,Ruvo Di Puglia (BA),Puglia,ITA,DMR
+2226595,I3MKH,Mirko Boscolo,Mirko,Sottomarina (VE),Veneto,ITA,DMR
+2226597,IU3EIU,Fabiob ,Fabiob,No_city,,ITA,DMR
+2226600,IT9IEI,No_name ,No_name,No_city,,ITA,DMR
+2226601,IU8DSP,Ivan Ceruso,Ivan,Baronissi (SA),Campania,ITA,DMR
+2226602,IW6PEO,No_name ,No_name,No_city,,ITA,DMR
+2321277,OE1TSU,Peter Schimanek,Peter,Wien,WIEN,AUT,DMR
+2325186,OE5HWN,Helmut Weissenbock,Helmut,Leonding,OOE,AUT,DMR
+2325187,OE5JPP,Johannes Pammer,Johannes,Schenkenfelden,OOE,AUT,DMR
+2349050,G3OS,no_name ,no_name,no_city,.,GBR,DMR
+2349051,M7LRN,no_name ,no_name,no_city,.,GBR,DMR
+2349052,G8DIY,no_name ,no_name,no_city,.,GBR,DMR
+2349053,G6KZJ,no_name ,no_name,no_city,.,GBR,DMR
+2570076,EW8MD,no_name ,no_name,no_city,.,BLR,DMR
+2621614,DH1EE,Ernst Eipper,Ernst,Gaeufelden,BW,DEU,DMR
+2349043,2E0GLK,Terry Windsor,Terry,Stoke On Trent Staffordshire,.,GBR,DMR
+2940035,Z35UGV,Herolind Z36aec,Herolind,no_city,.,MKD,DMR
