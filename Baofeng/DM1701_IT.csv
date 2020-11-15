@@ -1103,7 +1103,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2221102,IZ1NGU,Massimiliano Malfatto,Massimiliano,Acqui Terme (AL),Piemonte,ITA,DMR
 2221103,IZ1GJK,Maurizio Gentile,Maurizio,Genova (GE),Liguria,ITA,DMR
 2221104,IK1HJT,Davide Copello,Davide,Arquata Scrivia (AL),Piemonte,ITA,DMR
-2221105,IU1DXN,Giorgio Giorgio,Giorgio,Rossiglione (GE),Liguria,ITA,DMR
+2221105,IU1DXN,Elio Rubaldo,Elio,Cuneo (CN),Piemonte,ITA,DMR
 2221106,IK1MSL,Angelo Bozzola,Angelo,Galliate (NO),Piemonte,ITA,DMR
 2221107,IZ1JXP,Fabio Pastorino,Fabio,Ovada (AL),Piemonte,ITA,DMR
 2221108,IW1GHR,Matteo Pochettini,Matteo,Alessandria (AL),Piemonte,ITA,DMR
@@ -1579,7 +1579,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2221578,IZ1JJA,Luciano Panero,Luciano,Rezzo (IM),Liguria,ITA,DMR
 2221579,IU1EQV,Piotr Zappala,Piotr,Tortona (AL),Piemonte,ITA,DMR
 2221580,IU1KGS,Carlo Garbarini,Carlo,Genova (GE),Liguria,ITA,DMR
-2221581,IU1INZ,Skinoku ,Skinoku,Tortona (AL),Piemonte,ITA,DMR
+2221581,IU1INZ,Lorenzo Corgiat Mecio,Lorenzo,Cirie' (TO,Piemonte,ITA,DMR
 2221582,IZ1REW,Fabio Marchetti,Fabio,La Spezia (SP),Liguria,ITA,DMR
 2221583,IW1GHE,Massimo Sasso,Massimo,Carmagnola (TO),Piemonte,ITA,DMR
 2221584,IZ1JZX,Gianfranco Stoppino,Gianfranco,Cavatore (AL),Piemonte,ITA,DMR
@@ -6734,6 +6734,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2226733,IU2ECT,Enzo Trapanotto,Enzo,Busto Arsizio (VA),Lombardia,ITA,DMR
 2226734,IK2MXM,Gigi Sapo,Gigi,Vedano Olona (VA),Lombardia,ITA,DMR
 2226735,IZ2SNS,Rinaldi Leopoldo,Rinaldi,Legnano (MI),Lombardia,ITA,DMR
+2226736,I2BGH,Alessandro Rovighi,Alessandro,Milano (MI),Lombardia,ITA,DMR
 2226737,IN3ACZ,Siegfried Dejaco,Siegfried,Brunico (BZ),Trentino AA,ITA,DMR
 2226738,IW2NNQ,Maurizio Gianfortuna,Maurizio,Cesano Maderno (MI),Lombardia,ITA,DMR
 2226739,IZ1UJJ,Pietro Penone,Pietro,Verbania (VB),Piemonte,ITA,DMR
@@ -6747,13 +6748,57 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2226747,IZ8SJE,Enzo Bertucci,Enzo,Serra San Bruno (VV),Calabria,ITA,DMR
 2226748,IK2IGQ,Maurizio Scalvi,Maurizio,Casorezzo (MI),Lombardia,ITA,DMR
 2226749,IW2NIA,Luca Cozzi,Luca,Mozzate (CO),Lombardia,ITA,DMR
+2226750,IU4OAM,Michele Gaiani,Michele,Bologna (BO),Emilia-Rom.,ITA,DMR
 2226751,IU3NOF,Giovanni ,Giovanni,Oderzo (TV),Veneto,ITA,DMR
+2226752,IZ4TSV,Vilmo Sarti,Vilmo,Camugnano (BO),Emilia-Rom.,ITA,DMR
 2226753,IU7CUU,Samuele D'Ancona,Samuele,Noicattaro (BA),Puglia,ITA,DMR
 2226754,IV3VNV,Nicola Sodomaco,Nicola,Sgonico (TS),Friuli VG,ITA,DMR
 2226755,IU6OGY,Piero Di Paola,Piero,Montesilvano (PE),Abruzzo,ITA,DMR
 2226756,IK0ZRR,Giuseppe Fabrizi,Giuseppe,Roma (RM),Lazio,ITA,DMR
 2226757,IZ7DTI,Walter Pinto,Walter,Monopoli (BA),Puglia,ITA,DMR
 2226758,IW9GUR,Davide Cuppone,Davide,Catania (CT),Sicilia,ITA,DMR
+2226759,IT9BOC,Giuseppe ,Giuseppe,Bronte (CT),Sicilia,ITA,DMR
+2226760,IW2NIH,Massimo Galbiati,Massimo,Boltiere (BG),Lombardia,ITA,DMR
+2226761,IZ8OGB,Maurizio Martello,Maurizio,Mercogliano (AV),Campania,ITA,DMR
+2226762,IZ4EOX,Federico ,Federico,Parma (PR),Emilia-Rom.,ITA,DMR
+2226763,IW1BR,Alberto Pirali,Alberto,Belgirate (VB),Piemonte,ITA,DMR
+2226764,IU2DIZ,Roberto ,Roberto,Bollate (MI),Lombardia,ITA,DMR
+2226765,IU3LKO,Gabriele ,Gabriele,Mirano (VE),Veneto,ITA,DMR
+2226766,IK8IJN,Bruno Pirrello,Bruno,Reggio Calabria (RC),Calabria,ITA,DMR
+2226767,IU3OIO,Andrea ,Andrea,Castelmassa (RO),Veneto,ITA,DMR
+2226768,IU0KZZ,Gianco ,Gianco,Roma (RM),Lazio,ITA,DMR
+2226769,IU4MEP,Massimo Poletti,Massimo,San Felice Sul Panaro (MO),Emilia-Rom.,ITA,DMR
+2226770,IU5DKW,Marco Zanazzi,Marco,Firenze (FI),Toscana,ITA,DMR
+2226771,IU8OCZ,Daniele Maisto,Daniele,Giugliano In Campania (NA),Campania,ITA,DMR
+2226772,IZ1KSW,Gabriele Antonini,Gabriele,Castiglione Chiavarese (GE),Liguria,ITA,DMR
+2226773,IT9SCM,Giuseppe Scibilia,Giuseppe,Catania (CT),Sicilia,ITA,DMR
+2226774,IZ4ISO,Brina Roberto,Brina,Ferrara (FE),Emilia-Rom.,ITA,DMR
+2226775,IU8HOX,Gianluca ,Gianluca,Castrolibero (CS),Calabria,ITA,DMR
+2226776,IK7HTS,Vito Loparco,Vito,Matera (MT),Basilicata,ITA,DMR
+2226777,IU8MJN,No_name ,No_name,Ponte (BN),Campania,ITA,DMR
+2226779,IZ5DQK,Mariano ,Mariano,Scandicci (FI),Toscana,ITA,DMR
+2226780,IZ0ZBD,Francesco Battista,Francesco,Fontana Liri (FR),Lazio,ITA,DMR
+2226781,IW2DLW,Carlo Oldani,Carlo,Cisliano (MI),Lombardia,ITA,DMR
+2226782,IZ2NCA,Raffaele Morelli,Raffaele,Piateda (SO),Lombardia,ITA,DMR
+2226783,IW8PPQ,Claudio Le Coche,Claudio,Marano Marchesato (CS),Calabria,ITA,DMR
+2226784,IW3IND,Antonio ,Antonio,Brugine (PD),Veneto,ITA,DMR
+2226785,IW5DZL,Massimo Danti,Massimo,Lastra A Signa (FI),Toscana,ITA,DMR
+2226786,IW0RSB,Roberto Casolari,Roberto,Trevi (PG),Umbria,ITA,DMR
+2226787,IU5MQY,Stefano Senesi,Stefano,Firenze (FI),Toscana,ITA,DMR
+2226788,IW1CPW,Guido Berra,Guido,Baldissero Torinese (TO),Piemonte,ITA,DMR
+2226789,IU7DMW,Nicola Sannicandro,Nicola,Bitonto (BA),Puglia,ITA,DMR
+2226790,IU0MBJ,Christian Pupillo,Christian,Fonte Nuova (RM),Lazio,ITA,DMR
+2226791,IZ3YGQ,Francesco ,Francesco,La Valle Agordina (BL),Veneto,ITA,DMR
+2226792,IV3GKL,Sergio Marchetti,Sergio,Terzo Di Aquileia (UD),Friuli VG,ITA,DMR
+2226793,IW3GX,Luca Marchetto,Luca,Spinea (VE),Veneto,ITA,DMR
+2226794,IZ7OJY,Francesco Marzio,Francesco,Taranto (TA),Puglia,ITA,DMR
+2226795,IU0FDO,Jack ,Jack,Anzio (RM),Lazio,ITA,DMR
+2226796,IU3OFX,Leonardo Crosara,Leonardo,Villafranca Di Verona (VR),Veneto,ITA,DMR
+2226798,IK4NME,Mauro Balboni,Mauro,Poggio Renatico (FE),Emilia-Rom.,ITA,DMR
+2226799,IZ7YFP,Christian Cernuschi,Christian,Salve (LE),Puglia,ITA,DMR
+2226800,IW2MVM,Max Parabiago,Max,Parabiago (MI),Lombardia,ITA,DMR
+2226802,IZ4AKO,Pierluigi Guerzoni,Pierluigi,Vigarano Mainarda (FE),Emilia-Rom.,ITA,DMR
+2226803,IU2OHY,Fabrizio Minneci,Fabrizio,Gorla Minore (VA),Lombardia,ITA,DMR
 2227001,IZ7OIX,Domenico Conte,Domenico,Bari (BA),Puglia,ITA,DMR
 2227002,IZ7GLL,Massimo Leonetti,Massimo,Bari (BA),Puglia,ITA,DMR
 2227003,IZ7ZFT,Silvio Martina,Silvio,Rutigliano (BA),Puglia,ITA,DMR
@@ -7312,7 +7357,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228013,IZ8JDE,Francesco Autolitano,Francesco,Melito Di Porto Salvo (RC),Campania,ITA,DMR
 2228014,IK8TGH,Antonio Colosi,Antonio,Villa San Giovanni (RC),Abruzzo,ITA,DMR
 2228015,IZ8QKP,Michele Chiarolanza,Michele,Caserta (CE),Campania,ITA,DMR
-2228016,IK8PXU,Bruno Benedetto,Bruno,Capua (CE),Campania,ITA,DMR
+2228016,IK8PXU,Bruno Di Benedetto,Bruno,Capua (CE),Campania,ITA,DMR
 2228017,IU8ALR,Americo Colella,Americo,Calvi Risorta (CE),Campania,ITA,DMR
 2228018,IZ8WYU,Bruno Santurelli,Bruno,Avellino (AV),Campania,ITA,DMR
 2228019,IC8FQV,Sara Perrotolo,Sara,Procida (NA),Campania,ITA,DMR
@@ -8041,6 +8086,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228742,IZ8DLJ,Tommaso Martignetti,Tommaso,Avellino (AV),Campania,ITA,DMR
 2228743,IU8KDW,Angelo Sodano,Angelo,Marigliano (NA),Campania,ITA,DMR
 2228744,IU8NMW,Giuseppe ,Giuseppe,Campania,Campania,ITA,DMR
+2228745,IU8NMV,Giuseppe D'Auria,Giuseppe,Castel San Giorgio (SA),Campania,ITA,DMR
 2228746,IW8AVD,Franco ,Franco,Caserta (CE),Campania,ITA,DMR
 2229001,IT9YFO,Andrea Benedetto,Andrea,Catania (CT),Sicilia,ITA,DMR
 2229002,IT9ZON,Francesco ,Francesco,Catania (CT),Sicilia,ITA,DMR
@@ -8535,32 +8581,3 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2229491,IT9MRB,Vincenzo Mirabile,Vincenzo,Cammarata (AG),Sicilia,ITA,DMR
 2229492,IT9HTB,Giuseppe Cannavo',Giuseppe,Castronovo (PA),Sicilia,ITA,DMR
 2229493,IT9JMR,Gianpiero Oberdan,Gianpiero,Nicosia (EN),Sicilia,ITA,DMR
-2226750,IU4OAM,Michele Gaiani,Michele,Bologna (BO),Emilia-Rom.,ITA,DMR
-2226752,IZ4TSV,Vilmo Sarti,Vilmo,Camugnano (BO),Emilia-Rom.,ITA,DMR
-2226759,IT9BOC,Giuseppe ,Giuseppe,Bronte (CT),Sicilia,ITA,DMR
-2226760,IW2NIH,Massimo Galbiati,Massimo,Boltiere (BG),Lombardia,ITA,DMR
-2226761,IZ8OGB,Maurizio Martello,Maurizio,Mercogliano (AV),Campania,ITA,DMR
-2226762,IZ4EOX,Federico ,Federico,Parma (PR),Emilia-Rom.,ITA,DMR
-2226763,IW1BR,Alberto Pirali,Alberto,Belgirate (VB),Piemonte,ITA,DMR
-2226764,IU2DIZ,Roberto ,Roberto,Bollate (MI),Lombardia,ITA,DMR
-2226765,IU3LKO,Gabriele ,Gabriele,Mirano (VE),Veneto,ITA,DMR
-2226766,IK8IJN,Bruno Pirrello,Bruno,Reggio Calabria (RC),Calabria,ITA,DMR
-2226767,IU3OIO,Andrea ,Andrea,Castelmassa (RO),Veneto,ITA,DMR
-2226768,IU0KZZ,Gianco ,Gianco,Roma (RM),Lazio,ITA,DMR
-2226769,IU4MEP,Massimo Poletti,Massimo,San Felice Sul Panaro (MO),Emilia-Rom.,ITA,DMR
-2226770,IU5DKW,Marco Zanazzi,Marco,Firenze (FI),Toscana,ITA,DMR
-2226771,IU8OCZ,Daniele Maisto,Daniele,Giugliano In Campania (NA),Campania,ITA,DMR
-2226772,IZ1KSW,Gabriele Antonini,Gabriele,Castiglione Chiavarese (GE),Liguria,ITA,DMR
-2226773,IT9SCM,Giuseppe Scibilia,Giuseppe,Catania (CT),Sicilia,ITA,DMR
-2226774,IZ4ISO,Brina Roberto,Brina,Ferrara (FE),Emilia-Rom.,ITA,DMR
-2226775,IU8HOX,Gianluca ,Gianluca,Castrolibero (CS),Calabria,ITA,DMR
-2226776,IK7HTS,Vito Loparco,Vito,Matera (MT),Basilicata,ITA,DMR
-2226777,IU8MJN,No_name ,No_name,Ponte (BN),Campania,ITA,DMR
-2226779,IZ5DQK,Mariano ,Mariano,Scandicci (FI),Toscana,ITA,DMR
-2226780,IZ0ZBD,Francesco Battista,Francesco,Fontana Liri (FR),Lazio,ITA,DMR
-2226781,IW2DLW,Carlo Oldani,Carlo,Cisliano (MI),Lombardia,ITA,DMR
-2226782,IZ2NCA,Raffaele Morelli,Raffaele,Piateda (SO),Lombardia,ITA,DMR
-2226783,IW8PPQ,Claudio Le Coche,Claudio,Marano Marchesato (CS),Calabria,ITA,DMR
-2226784,IW3IND,Antonio ,Antonio,Brugine (PD),Veneto,ITA,DMR
-2226786,IW0RSB,Roberto Casolari,Roberto,Trevi (PG),Umbria,ITA,DMR
-2226787,IU5MQY,Stefano Senesi,Stefano,Firenze (FI),Toscana,ITA,DMR
