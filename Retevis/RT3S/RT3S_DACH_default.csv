@@ -14,6 +14,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280012,HB9HGO,Carlos Laya,Carlos,Oberwil, Near Basel,Basel/solothurn,CHE
 2280013,HB3XWW,Roland Juen,Roland,8526 Oberneunforn,-,CHE
 2280014,HB9GYV,Paul Junod,Paul,Bienne,-,CHE
+2280015,HB3XVS,Stefan ,Stefan,Moosseedorf,Bern,CHE
 2280016,HB3XWN,Umberto Nerone,Umberto,Auw,Aargau,CHE
 2281001,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE
@@ -1613,6 +1614,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320019,OE1DAL,Harald Weidlich,Harald,Wien,WIEN,AUT
 2320020,OE3FLZ,Florian Laschitz,Florian,Giesshuebl,NOE,AUT
 2320021,OE1MSC,Wilhelm Stejskal,Wilhelm,Wien,WIEN,AUT
+2320022,OE3DOC,Susanne Ottendorfer,Susanne,Wiener Neudorf,NOE,AUT
+2320023,OE3NFS,Siegfried Weinert,Siegfried,Wiener Neudorf,NOE,AUT
+2320024,OE6BER,Bernhard Fuchs,Bernhard,Graz,STMK,AUT
+2320025,OE9PKV,Klaus Pfister,Klaus,Bludesch,VBG,AUT
+2320026,OE9PKV,Klaus Pfister,Klaus,Bludesch,VBG,AUT
+2320027,OE9PKV,Klaus Pfister,Klaus,Bludesch,VBG,AUT
 2321001,OE1KBC,Kurt Baumann ,Kurt,Wien,WIEN,AUT
 2321002,OE1KBC,Kurt Baumann ,Kurt,Wien,WIEN,AUT
 2321003,OE1KBC,Kurt Baumann ,Kurt,Wien,WIEN,AUT
@@ -6160,6 +6167,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2622831,DO2TIM,Tim Diensberg,Tim,Koeln,NW,DEU
 2622832,DL7ANK,Norbert Kruse,Norbert,Teltow,BB,DEU
 2622833,DG6AE,Peter-Clemens Petersen,Peter-Clemens,Klein Roennau,SH,DEU
+2622834,DO7ATU,Marco Schiller,Marco,Genthin,ST,DEU
+2622835,DO2MWB,Mike-William Boessmann,Mike-William,Binnen,NI,DEU
+2622836,DO9GER,Gert Schneider,Gert,Rees,NW,DEU
+2622837,DL3HCL,Michael Bangert,Michael,Hamburg,HH,DEU
+2622838,DO6FE,Eric Mueller,Eric,Rodgau,HE,DEU
+2622839,DG7PJ,Joachim Koehler,Joachim,No_city,,DEU
+2622840,DL4PZ,Philipp Brech,Philipp,Harxheim,RP,DEU
+2622841,DL8FAL,Rainer Rommel,Rainer,Grebenstein,HE,DEU
+2622842,DL2KAC,Helmut Hebert,Helmut,Kerpen,NW,DEU
 2623001,DL4BCG,Paul Hag,Paul,Jever,NI,DEU
 2623002,DG5AV,Gerd May,Gerd,Einbeck,NI,DEU
 2623003,DL5HSN,Hendrik Sjuts,Hendrik,Ihlow,NI,DEU
@@ -16607,19 +16623,26 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2644849,DO7KY,Andreas Respondek,Andreas,Koeln,NW,DEU
 2644850,DL5JA,Peter Rommerskirchen,Peter,Schwalmtal,NW,DEU
 2644851,DO3THP,Thorben Potthast,Thorben,Bochum,NW,DEU
-2280015,HB3XVS,Stefan ,Stefan,Moosseedorf,Bern,CHE
-2320022,OE3DOC,Susanne Ottendorfer,Susanne,Wiener Neudorf,NOE,AUT
-2320023,OE3NFS,Siegfried Weinert,Siegfried,Wiener Neudorf,NOE,AUT
-2320024,OE6BER,Bernhard Fuchs,Bernhard,Graz,STMK,AUT
-2320025,OE9PKV,Klaus Pfister,Klaus,Bludesch,VBG,AUT
-2320026,OE9PKV,Klaus Pfister,Klaus,Bludesch,VBG,AUT
-2320027,OE9PKV,Klaus Pfister,Klaus,Bludesch,VBG,AUT
-2622834,DO7ATU,Marco Schiller,Marco,Genthin,ST,DEU
-2622835,DO2MWB,Mike-William Boessmann,Mike-William,Binnen,NI,DEU
-2622836,DO9GER,Gert Schneider,Gert,Rees,NW,DEU
-2622837,DL3HCL,Michael Bangert,Michael,Hamburg,HH,DEU
-2622838,DO6FE,Eric Mueller,Eric,Rodgau,HE,DEU
-2622839,DG7PJ,Joachim Koehler,Joachim,No_city,,DEU
-2622840,DL4PZ,Philipp Brech,Philipp,Harxheim,RP,DEU
-2622841,DL8FAL,Rainer Rommel,Rainer,Grebenstein,HE,DEU
-2622842,DL2KAC,Helmut Hebert,Helmut,Kerpen,NW,DEU
+2320028,OE3GWA,Walter Gromek,Walter,Strasshof,OOE,AUT
+2320029,OE5JMO,Manfred Moeseneder,Manfred,Neuhofen,STMK,AUT
+2320030,OE6GLD,Alfred Gugimaier,Alfred,Mitterdorf,KTN,AUT
+2320031,OE7ICH,Thomas Bartenstein,Thomas,Breitenwang,TIROL,AUT
+2320033,OE7TRT,Thomas Riegler,Thomas,Amlach,TIROL,AUT
+2622843,DO1JJS,Jakob Schelshorn,Jakob,Irschenberg,BY,DEU
+2622844,DO4KG,Georg Kraus,Georg,Oberreichenbach,BY,DEU
+2622845,DB0FHC,Maximilian Schunk,Maximilian,Coburg,BY,DEU
+2622846,DO5FLV,Florian Voit,Florian,Landshut,BY,DEU
+2622847,DO2OPU,Riad Badr,Riad,Oberzent-Schoellenbach,HE,DEU
+2622848,DJ5UL,Udo Lauterborn,Udo,Muenster,NW,DEU
+2622849,DL2TXT,Frank Wegner,Frank,Potsdam,BB,DEU
+2622850,DL5OAD,Ingrid Bergemann,Ingrid,Lauf,BY,DEU
+2622851,DG5PI,Guido Behrendt,Guido,Mainz,RP,DEU
+2622852,DF4PD,Willfried Winterhoff,Willfried,Kalenborn,RP,DEU
+2622853,DO1ATK,Anna Keil,Anna,Kahl am Main,BY,DEU
+2622854,DO8STE,Steffen Eilts,Steffen,Hamburg,HH,DEU
+2622855,DL4NAK,Herbert Kemeth,Herbert,Hausen,BY,DEU
+2622856,DF1QU,Berthold Kalbe,Berthold,Warendorf,NW,DEU
+2320032,OE100CQB,Christian Boehm,Christian,Gars,NOE,AUT
+2622857,DG6JV,Jonas Vondran,Jonas,Dortmund,NW,DEU
+2622858,DB8DX,Rainer Pastoors,Rainer,Frankfurt,HE,DEU
+2622859,DC6DX,Jan Metz,Jan,Froendenberg,NW,DEU
