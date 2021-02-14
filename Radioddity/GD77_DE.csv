@@ -1346,7 +1346,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2621344,DL9VF,Frank Vogel,Frank,Werder (Havel),BB - DEU,,DMR
 2621345,DH3BEA,Rene Biegert,Rene,Berlin,BE - DEU,,DMR
 2621346,DL7VKH,Karl-Heinz Huebner,Karl-Heinz,Oranienburg,BB - DEU,,DMR
-2621347,DF6BM,Mario Deja,Mario,Chorin,BB - DEU,,DMR
+2621347,DF6CM,Mario Deja,Mario,Chorin,BB - DEU,,DMR
 2621348,DL7ABX,Michael Szelag,Michael,Berlin,BE - DEU,,DMR
 2621349,DD1MI,Ralf Zemann,Ralf,Seddiner See,BB - DEU,,DMR
 2621350,DL2KMK,Manfred Kramer,Manfred,Eggersdorf,BB - DEU,,DMR
@@ -1598,7 +1598,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2621596,DL1AVP,Alexander Freiherr Von Paleske,Alexander,Neunkirchnen,RP - DEU,,DMR
 2621597,DH1BBK,Wilko Reichwein,Wilko,Hamburg,NI - DEU,,DMR
 2621598,DM4EU,Thomas Blanke,Thomas,Bissendorf,NI - DEU,,DMR
-2621599,DL9KBV,Guenther Zimmer,Guenther,Troisdorf,NW - DEU,,DMR
+2621599,DL9GZ,Guenther Zimmer,Guenther,Troisdorf,NW - DEU,,DMR
 2621600,DM2AB,Armin Brenner,Armin,Schwetzingen,BW - DEU,,DMR
 2621601,DH1OA,Olgun Altug,Olgun,Ulm,BW - DEU,,DMR
 2621602,DD1JAB,Udo Hemmerling,Udo,Neuss,NW - DEU,,DMR
@@ -1864,7 +1864,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2621862,DL8NBD,Benjamin Diedrich,Benjamin,Nuernberg,BY - DEU,,DMR
 2621863,DO1TNP,Thorsten Nagel,Thorsten,Peine,NI - DEU,,DMR
 2621864,DB6XG,Herbert Heinze-Edler,Herbert,Georgsmarienhuette,NI - DEU,,DMR
-2621865,DL1KFE,Ferda Erginsoy,Ferda,Windeck,NW - DEU,,DMR
+2621865,DL3FE,Ferda Erginsoy,Ferda,Windeck,NW - DEU,,DMR
 2621866,DK5XY,Gerhard Kroening,Gerhard,Lengerich,NW - DEU,,DMR
 2621867,DM2DM,Dietmar Meinshausen,Dietmar,Moringen,NI - DEU,,DMR
 2621868,DO1SLB,Stefan Lorenz,Stefan,Bad Schwartau,SH - DEU,,DMR
@@ -2878,6 +2878,25 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2622876,DO1CAS,Jochen Schmidt,Jochen,Markneukirchen,SN - DEU,,DMR
 2622877,DO8WE,Joachim Heckrodt,Joachim,Wachstedt,TH - DEU,,DMR
 2622878,DO9ZSG,Sebastian Genosko,Sebastian,Frauenau,BY - DEU,,DMR
+2622879,DO4SD,Johann Schroers,Johann,Moenchengladbach,NW - DEU,,DMR
+2622880,DL1HO,Horst Kohlwes,Horst,Adelsdorf,BY - DEU,,DMR
+2622881,DG4ZP,Norbert Hormann,Norbert,Weilrod,HE - DEU,,DMR
+2622882,DO1NFL,Ferdinand Lenhardt,Ferdinand,Schwabach,BY - DEU,,DMR
+2622883,DD6WG,Dennis Krueger,Dennis,Am Mellensee,BB - DEU,,DMR
+2622884,DM7AP,Andreas Papandreou,Andreas,Ludwigshafen,RP - DEU,,DMR
+2622885,DL1ELZ,Joachim Hamacher,Joachim,Neuss,NW - DEU,,DMR
+2622886,DO5BI,Thomas Krueger,Thomas,Spenge,NW - DEU,,DMR
+2622887,DL1FOX,Robert Lux,Robert,Winden,RP - DEU,,DMR
+2622888,DD5IH,Wolfgang Geier,Wolfgang,Barsinghausen,NI - DEU,,DMR
+2622889,DG4NEC,Helmut Laging,Helmut,Spardorf,BY - DEU,,DMR
+2622890,DL6AJ,Alexander Hock,Alexander,Cremlingen,NI - DEU,,DMR
+2622891,DL6HRB,Herbert Lange,Herbert,Muenchen,BY - DEU,,DMR
+2622892,DG1ECG,Frank Engels,Frank,Duisburg,NW - DEU,,DMR
+2622893,DO1CSM,Sebastian-Alexander Wischer,Sebastian-Alexander,Troisdorf,NW - DEU,,DMR
+2622894,DM8TB,Thomas Becher,Thomas,Wuppertal,NW - DEU,,DMR
+2622895,DG0JBA,Jan Balzer,Jan,Chemnitz,SN - DEU,,DMR
+2622896,DL3KG,Uwe Brossmann,Uwe,Kerpen,NW - DEU,,DMR
+2622897,DK1WE,Werner Sinning,Werner,Berlin,BE - DEU,,DMR
 2623001,DL4BCG,Paul Hag,Paul,Jever,NI - DEU,,DMR
 2623002,DG5AV,Gerd May,Gerd,Einbeck,NI - DEU,,DMR
 2623003,DL5HSN,Hendrik Sjuts,Hendrik,Ihlow,NI - DEU,,DMR
@@ -13325,22 +13344,25 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2644849,DO7KY,Andreas Respondek,Andreas,Koeln,NW - DEU,,DMR
 2644850,DL5JA,Peter Rommerskirchen,Peter,Schwalmtal,NW - DEU,,DMR
 2644851,DO3THP,Thorben Potthast,Thorben,Bochum,NW - DEU,,DMR
-2622879,DO4SD,Johann Schroers,Johann,Moenchengladbach,NW - DEU,,DMR
-2622880,DL1HO,Horst Kohlwes,Horst,Adelsdorf,BY - DEU,,DMR
-2622881,DG4ZP,Norbert Hormann,Norbert,Weilrod,HE - DEU,,DMR
-2622882,DO1NFL,Ferdinand Lenhardt,Ferdinand,Schwabach,BY - DEU,,DMR
-2622883,DD6WG,Dennis Krueger,Dennis,Am Mellensee,BB - DEU,,DMR
-2622884,DM7AP,Andreas Papandreou,Andreas,Ludwigshafen,RP - DEU,,DMR
-2622885,DL1ELZ,Joachim Hamacher,Joachim,Neuss,NW - DEU,,DMR
-2622886,DO5BI,Thomas Krueger,Thomas,Spenge,NW - DEU,,DMR
-2622887,DL1FOX,Robert Lux,Robert,Winden,RP - DEU,,DMR
-2622888,DD5IH,Wolfgang Geier,Wolfgang,Barsinghausen,NI - DEU,,DMR
-2622889,DG4NEC,Helmut Laging,Helmut,Spardorf,BY - DEU,,DMR
-2622890,DL6AJ,Alexander Hock,Alexander,Cremlingen,NI - DEU,,DMR
-2622891,DL6HRB,Herbert Lange,Herbert,Muenchen,BY - DEU,,DMR
-2622892,DG1ECG,Frank Engels,Frank,Duisburg,NW - DEU,,DMR
-2622893,DO1CSM,Sebastian-Alexander Wischer,Sebastian-Alexander,Troisdorf,NW - DEU,,DMR
-2622894,DM8TB,Thomas Becher,Thomas,Wuppertal,NW - DEU,,DMR
-2622895,DG0JBA,Jan Balzer,Jan,Chemnitz,SN - DEU,,DMR
-2622896,DL3KG,Uwe Brossmann,Uwe,Kerpen,NW - DEU,,DMR
-2622897,DK1WE,Werner Sinning,Werner,Berlin,BE - DEU,,DMR
+2622898,DL1JEZ,Frank Lehner,Frank,Haertensdorf,SN - DEU,,DMR
+2622899,DL6RG,Wulf-Ruediger Goepfert,Wulf-Ruediger,Neukieritzsch,SN - DEU,,DMR
+2622900,DO1MLS,Magnus Latus,Magnus,Berlin,BE - DEU,,DMR
+2622901,DL1ACE,Axel Zawe,Axel,Germering,BY - DEU,,DMR
+2622902,DJ1JJ,Hubert Schierl,Hubert,Baldham,BY - DEU,,DMR
+2622903,DH0FAK,Achim Scheib,Achim,Huenstetten,HE - DEU,,DMR
+2622904,DH1YAQ,Lutz Nitzsche,Lutz,Gelsenkirchen,NW - DEU,,DMR
+2622905,DK9LO,Klaus Hoffmann,Klaus,Kiel,SH - DEU,,DMR
+2622906,DC4XK,Konrad Krause,Konrad,Bosau,SH - DEU,,DMR
+2622907,DK4DM,Raimund Diederich,Raimund,Hemer,NW - DEU,,DMR
+2622908,DG1BT,Peter Meyer,Peter,Hamburg,HH - DEU,,DMR
+2622909,DG9KP,Patrick Kunz,Patrick,Kerpen,NW - DEU,,DMR
+2622910,DL1AFH,Arno Frink,Arno,Hoehr-Grenzhausen,RP - DEU,,DMR
+2622911,DF1BN,Paul-Eduard Meyer,Paul-Eduard,Neuburg am Inn,BY - DEU,,DMR
+2622912,DB3JA,Juan Garcia,Juan,Neckarbischofsheim,BW - DEU,,DMR
+2622913,DG2EAH,Michael Bremer,Michael,Oberhausen,NW - DEU,,DMR
+2622914,DL8ES,Kai Jursitzka,Kai,Essen,NW - DEU,,DMR
+2622915,DL4FCT,Jens Pietsch,Jens,Rosbach,HE - DEU,,DMR
+2622916,DK1KAI,Kai Ossowski,Kai,Bramsche,NI - DEU,,DMR
+2622917,DC6DB,Detlef Borchers,Detlef,Dortmund,NW - DEU,,DMR
+2622918,DC6LB,Rainer Wienke,Rainer,Herzogenaurach,BY - DEU,,DMR
+2622919,DF9JZ,Karl Hemmrich,Karl,Bad Nauheim,HE - DEU,,DMR
