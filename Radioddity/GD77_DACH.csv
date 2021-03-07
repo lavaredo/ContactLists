@@ -25,6 +25,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2280023,HB9DAG,Bernhard Wittwer,Bernhard,L++tzelfl++h,Bern - CHE,,DMR
 2280024,HB9HDI,Martin Roth,Martin,H++ntwangen,Zurich - CHE,,DMR
 2280025,HB9HAN,Roland ,Roland,Sargans,All Regions - CHE,,DMR
+2280026,HB9HIB,Sabine Huguenin,Sabine,2057 Villiers,Neuchatel - CHE,,DMR
+2280027,HB9GUW,Richard Boger,Richard,Gais (BZ),Appenzell Outer-Rhodes - CHE,,DMR
+2280028,HB9MDU,Eugen Sibler,Eugen,Ebikon,Lucerne - CHE,,DMR
+2280029,HB9SVQ,Emmerich ,Emmerich,None (TO),Piemonte - CHE,,DMR
+2280030,HB9EDN,Michele Oberli,Michele,Orpund,Bern - CHE,,DMR
+2280031,HB9GNG,Felix Heise,Felix,Lausanne,Vaud - CHE,,DMR
 2281001,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt - CHE,,DMR
 2281002,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt - CHE,,DMR
 2281003,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt - CHE,,DMR
@@ -1647,6 +1653,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2320043,OE3YLR,Larissa Rentmeister,Larissa,Neulengbach,NOE - AUT,,DMR
 2320044,OE7HDJ,Robert Huber,Robert,Pill,TIROL - AUT,,DMR
 2320045,OE1EKG,Erwin Grabler,Erwin,Wien,WIEN - AUT,,DMR
+2320046,OE1DWD,Wolfgang Dusek,Wolfgang,Wien,WIEN - AUT,,DMR
+2320047,OE5HNG,Guenter Hangl,Guenter,Tumeltsham,OOE - AUT,,DMR
+2320048,OE9KHJ,Kurt Haemmerle,Kurt,Dornbirn,VBG - AUT,,DMR
 2321001,OE1KBC,Kurt Baumann ,Kurt,Wien,WIEN - AUT,,DMR
 2321002,OE1KBC,Kurt Baumann ,Kurt,Wien,WIEN - AUT,,DMR
 2321003,OE1KBC,Kurt Baumann ,Kurt,Wien,WIEN - AUT,,DMR
@@ -6294,7 +6303,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2622931,DO1FEH,Otto Fehre,Otto,Coswig,SN - DEU,,DMR
 2622932,DH2FAB,Holger Berghaeuser,Holger,Weinheim,BW - DEU,,DMR
 2622933,DO1HSP,Sven Hesprich,Sven,Uslar,NI - DEU,,DMR
-2622934,DO9MWZ,Martin Weitz,Martin,Zuelpich,NW - DEU,,DMR
+2622934,DL8ZAD,Juergen Herrmann,Juergen,Runkel,HE - DEU,,DMR
 2622935,DL3MDZ,Rudolf Kure,Rudolf,Kempten,BY - DEU,,DMR
 2622936,DM2PC,Christian Wagner,Christian,Lauterbach,TH - DEU,,DMR
 2622937,DL5KIM,Michael Kies,Michael,Dirmstein,RP - DEU,,DMR
@@ -6312,6 +6321,47 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2622949,DF3UC,Alfons Schreier,Alfons,Worms,RP - DEU,,DMR
 2622950,DO1AKB,Andreas Kuntz,Andreas,Niederbrechen,HE - DEU,,DMR
 2622951,DO8UWE,Uwe Bindhak,Uwe,Ostseebad Prerow,MV - DEU,,DMR
+2622952,DG8NFY,Roland Beck,Roland,Marktschorgast,BY - DEU,,DMR
+2622953,DC3PH,Peter Heep,Peter,Fuerstenfeldbruck,BY - DEU,,DMR
+2622954,DO2FK,Florian Knickenberg,Florian,Schuettorf,NI - DEU,,DMR
+2622955,DL6CHM,Thomas Fischer,Thomas,Magdeburg,ST - DEU,,DMR
+2622956,DO3KKD,Klaus Koch,Klaus,Dresden,SN - DEU,,DMR
+2622957,DF7ET,Bernhard Roesch,Bernhard,Tegernheim,BY - DEU,,DMR
+2622958,DB1BHR,Hartwig Raedeker,Hartwig,Wiefelstede,NI - DEU,,DMR
+2622959,DK1AJ,Michael-Alfred Gross,Michael-Alfred,Wietze,NI - DEU,,DMR
+2622960,DL6TP,Wolfgang Trittel,Wolfgang,Weimar,TH - DEU,,DMR
+2622961,DO2GT,Thomas Gottselig,Thomas,St. Leon-Rot,BW - DEU,,DMR
+2622962,DK0MM,Volker Sturm,Volker,Rossdorf,HE - DEU,,DMR
+2622963,DK3QH,Ulrich Hoermann,Ulrich,Karlshuld,BY - DEU,,DMR
+2622964,DG2GGP,Gerd Puschmann,Gerd,Villingen-Schwenningen,BW - DEU,,DMR
+2622965,DL1NGO,Ingo Hofmann,Ingo,Nuernberg,BY - DEU,,DMR
+2622966,DD5FC,Edward Van Veen,Edward,Vlotho,NW - DEU,,DMR
+2622967,DG5FAX,Werner Feldesz,Werner,Rotenburg,HE - DEU,,DMR
+2622968,DG1YFV,Horst-Dieter Tiemann,Horst-Dieter,Hamm,NW - DEU,,DMR
+2622969,DL7IO,Ibrahim Oezdemir,Ibrahim,Berlin,BE - DEU,,DMR
+2622970,DL4AAZ,Wolf-Markus Dinklage,Wolf-Markus,Wawern,RP - DEU,,DMR
+2622971,DL1LEV,Martin Hollweg,Martin,Leverkusen,NW - DEU,,DMR
+2622972,DH9NAD,Bernd Hacker,Bernd,Hofheim,BY - DEU,,DMR
+2622973,DH2AP,Georg Chmel,Georg,Rinteln,NI - DEU,,DMR
+2622974,DO1FDK,Oliver Hohlfeld,Oliver,Erzhausen,HE - DEU,,DMR
+2622975,DF8OA,Reemt Windhausen,Reemt,Hildesheim,NI - DEU,,DMR
+2622976,DO2RSJ,Rudolf Schiffer,Rudolf,Warstein,NW - DEU,,DMR
+2622977,DO7UWE,Uwe Mahnke,Uwe,Berlin,BE - DEU,,DMR
+2622978,DL6CLO,Claudia Murch,Claudia,Weitnau,BY - DEU,,DMR
+2622979,DL6SPG,Ulrich Metzler,Ulrich,Weitnau,BY - DEU,,DMR
+2622980,DM8BJF,Bernd Jachmann,Bernd,Falkensee,BB - DEU,,DMR
+2622981,DD5MJ,Johannes Maus,Johannes,Gelnhausen,HE - DEU,,DMR
+2622982,DL9FBI,Frank Boden,Frank,Neuss,NW - DEU,,DMR
+2622983,DB8MU,Martin Uhl,Martin,Riemerling,BY - DEU,,DMR
+2622984,DF1ZC,Jose Silva,Jose,Kelsterbach,HE - DEU,,DMR
+2622985,DL1MTT,Michael Trauner,Michael,Tuerkenfeld,BY - DEU,,DMR
+2622986,DF1HK,Klaus Schmidt,Klaus,Hamburg,HH - DEU,,DMR
+2622987,DO2XL,Sebastian Mueller,Sebastian,Lautertal,BY - DEU,,DMR
+2622988,DD0OX,Christian Haferkorn,Christian,Hannover,NI - DEU,,DMR
+2622989,DO2OA,Oliver Arnold,Oliver,Heidelberg,BW - DEU,,DMR
+2622990,DD4AD,Guenter Birth,Guenter,Wolfsburg,NI - DEU,,DMR
+2622991,DF1NPZ,Emmanouil Volyrakis,Emmanouil,Duesseldorf,NW - DEU,,DMR
+2622992,DF8GG,Gerhard Wiesenbauer,Gerhard,Muenchen,BY - DEU,,DMR
 2623001,DL4BCG,Paul Hag,Paul,Jever,NI - DEU,,DMR
 2623002,DG5AV,Gerd May,Gerd,Einbeck,NI - DEU,,DMR
 2623003,DL5HSN,Hendrik Sjuts,Hendrik,Ihlow,NI - DEU,,DMR
@@ -10264,7 +10314,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2627178,DL2SDG,Volker Heim,Volker,Ostfildern,BW - DEU,,DMR
 2627179,DO1SRT,Frank Mueller,Frank,Reutlingen,BW - DEU,,DMR
 2627180,DO2RHB,Johannes Bohns,Johannes,Reutlingen,BW - DEU,,DMR
-2627181,dc9al,Angelo Luciani,Angelo,Gaggenau,BW - DEU,,DMR
+2627181,DC9AL,Angelo Luciani,Angelo,Gaggenau,BW - DEU,,DMR
 2627182,DL3SES,Dieter Klein,Dieter,Leinfelden-Echterdingen,BW - DEU,,DMR
 2627183,DG4UAK,Ingo Miebach,Ingo,Waldbronn,BW - DEU,,DMR
 2627184,DO3WKA,Reinhold Kienle,Reinhold,Schwaebisch Gmuend,BW - DEU,,DMR
@@ -14603,7 +14653,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2637298,DL3KLM,Peter Hrenka,Peter,no_city,BW - DEU,,DMR
 2637299,DL9MC,Marcello Chieffo,Marcello,Stuttgart,BW - DEU,,DMR
 2637300,DF7NT,Tobias Woitke,Tobias,Sternenfels,BW - DEU,,DMR
-2637301,dc9al,Angelo Luciani,Angelo,Gaggenau,BW - DEU,,DMR
+2637301,DC9AL,Angelo Luciani,Angelo,Gaggenau,BW - DEU,,DMR
 2637302,DG6UI,Michael Klammer,Michael,Wiesloch,BW - DEU,,DMR
 2637303,DL9SEC,Thorsten Godau,Thorsten,Gingen,BW - DEU,,DMR
 2637304,DJ5CD,Hans-Adolf Jakobi,Hans-Adolf,Heddesbach,BW - DEU,,DMR
@@ -16759,30 +16809,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks<br/>
 2644849,DO7KY,Andreas Respondek,Andreas,Koeln,NW - DEU,,DMR
 2644850,DL5JA,Peter Rommerskirchen,Peter,Schwalmtal,NW - DEU,,DMR
 2644851,DO3THP,Thorben Potthast,Thorben,Bochum,NW - DEU,,DMR
-2280026,HB9HIB,Sabine Huguenin,Sabine,2057 Villiers,Neuchatel - CHE,,DMR
-2280027,HB9GUW,Richard Boger,Richard,Gais (BZ),Appenzell Outer-Rhodes - CHE,,DMR
-2280028,HB9MDU,Eugen Sibler,Eugen,Ebikon,Lucerne - CHE,,DMR
-2280029,HB9SVQ,Emmerich ,Emmerich,None (TO),Piemonte - CHE,,DMR
-2280030,HB9EDN,Michele Oberli,Michele,Orpund,Bern - CHE,,DMR
-2280031,HB9GNG,Felix Heise,Felix,Lausanne,Vaud - CHE,,DMR
-2320046,OE1DWD,Wolfgang Dusek,Wolfgang,Wien,WIEN - AUT,,DMR
-2622952,DG8NFY,Roland Beck,Roland,Marktschorgast,BY - DEU,,DMR
-2622953,DC3PH,Peter Heep,Peter,Fuerstenfeldbruck,BY - DEU,,DMR
-2622954,DO2FK,Florian Knickenberg,Florian,Schuettorf,NI - DEU,,DMR
-2622955,DL6CHM,Thomas Fischer,Thomas,Magdeburg,ST - DEU,,DMR
-2622956,DO3KKD,Klaus Koch,Klaus,Dresden,SN - DEU,,DMR
-2622957,DF7ET,Bernhard Roesch,Bernhard,Tegernheim,BY - DEU,,DMR
-2622958,DB1BHR,Hartwig Raedeker,Hartwig,Wiefelstede,NI - DEU,,DMR
-2622959,DK1AJ,Michael Gross,Michael,Wietze,NI - DEU,,DMR
-2622960,DL6TP,Wolfgang Trittel,Wolfgang,Weimar,TH - DEU,,DMR
-2622961,DO2GT,Thomas Gottselig,Thomas,St. Leon-Rot,BW - DEU,,DMR
-2622962,DK0MM,Clubstation ,Clubstation,Ober Ramstadt,HE - DEU,,DMR
-2622963,DK3QH,Ulrich Hoermann,Ulrich,Karlshuld,BY - DEU,,DMR
-2622964,DG2GGP,Gerd Puschmann,Gerd,Villingen-Schwenningen,BW - DEU,,DMR
-2622965,DL1NGO,Ingo Hofmann,Ingo,Nuernberg,BY - DEU,,DMR
-2622966,DD5FC,Edward Van Veen,Edward,Vlotho,NW - DEU,,DMR
-2622967,DG5FAX,Werner Feldesz,Werner,Rotenburg,HE - DEU,,DMR
-2622968,DG1YFV,Horst Tiemann,Horst,Hamm,NW - DEU,,DMR
-2622969,DL7IO,Ibrahim Oezdemir,Ibrahim,Berlin,BE - DEU,,DMR
-2622970,DL4AAZ,Wolf Dinklage,Wolf,Wawern,RP - DEU,,DMR
-2622971,DL1LEV,Martin Hollweg,Martin,Leverkusen,NW - DEU,,DMR
+2320049,OE2LRO,Robert Leyendecker,Robert,Hallwang,SBG - AUT,,DMR
+2622993,DL2KMA,Marc Alken,Marc,Erlangen,BY - DEU,,DMR
+2622994,DC1PW,Philipp Walter,Philipp,Karlsruhe,BW - DEU,,DMR
