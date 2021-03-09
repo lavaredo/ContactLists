@@ -31,6 +31,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280029,HB9SVQ,HB9SVQ Emmerich,None (TO),Piemonte,CHE,,Private Call,None
 ,2280030,HB9EDN,HB9EDN Michele,Orpund,Bern,CHE,,Private Call,None
 ,2280031,HB9GNG,HB9GNG Felix,Lausanne,Vaud,CHE,,Private Call,None
+,2280032,HB3XXB,HB3XXB Tobias,Bergdietikon,Aargau,CHE,,Private Call,None
+,2280033,HB9CKF,HB9CKF Eduard,Srb 11420 Glibovac,.,CHE,,Private Call,None
 ,2281001,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281002,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281003,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
@@ -1788,7 +1790,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2321129,OE1BAW,OE1BAW Wilfried,Wien,WIEN,AUT,,Private Call,None
 ,2321130,OE1ILW,OE1ILW Martin,Wien,WIEN,AUT,,Private Call,None
 ,2321131,OE1XBH,OE1XBH Am,Wien,WIEN,AUT,,Private Call,None
-,2321132,OE1MPR,OE1MPR Matthias,Wien,WIEN,AUT,,Private Call,None
+,2321132,OE8MPR,OE8MPR Matthias,Wien,WIEN,AUT,,Private Call,None
 ,2321133,OE1BSA,OE1BSA Heinz,Wien,WIEN,AUT,,Private Call,None
 ,2321134,OE1MBW,OE1MBW Martin,Wien,WIEN,AUT,,Private Call,None
 ,2321135,OE1WRS,OE1WRS Werner,Wien,WIEN,AUT,,Private Call,None
@@ -6365,6 +6367,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2622992,DF8GG,DF8GG Gerhard,Muenchen,BY,DEU,,Private Call,None
 ,2622993,DL2KMA,DL2KMA Marc,Erlangen,BY,DEU,,Private Call,None
 ,2622994,DC1PW,DC1PW Philipp,Karlsruhe,BW,DEU,,Private Call,None
+,2622995,DM5TE,DM5TE Oliver,Braunschweig,NI,DEU,,Private Call,None
+,2622996,DB7KW,DB7KW Kai,No_city,,DEU,,Private Call,None
+,2622997,DO4HJ,DO4HJ Heinz-Juergen,Kerpen,NW,DEU,,Private Call,None
+,2622998,DF9TS,DF9TS Gerd,Muenchen,BY,DEU,,Private Call,None
+,2622999,DO1PWN,DO1PWN Bastian,No_city,,DEU,,Private Call,None
+,2623000,DD6WG,DD6WG Dennis,Am Mellensee,BB,DEU,,Private Call,None
 ,2623001,DL4BCG,DL4BCG Paul,Jever,NI,DEU,,Private Call,None
 ,2623002,DG5AV,DG5AV Gerd,Einbeck,NI,DEU,,Private Call,None
 ,2623003,DL5HSN,DL5HSN Hendrik,Ihlow,NI,DEU,,Private Call,None
@@ -6448,7 +6456,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2623081,DO9BAU,DO9BAU Alexander,Zeuthen,BB,DEU,,Private Call,None
 ,2623082,DL2MF,DL2MF Meinhard-Frank,Ahnsbeck,NI,DEU,,Private Call,None
 ,2623083,DL9OBM,DL9OBM Thorsten,Wathlingen,NI,DEU,,Private Call,None
-,2623084,DO1BMK,DO1BMK Mike,Wingst,NI,DEU,,Private Call,None
+,2623084,DO2FWS,DO2FWS Friedrich-Wilhelm,Bad Schwartau,SH,DEU,,Private Call,None
 ,2623085,DA0LCC,DA0LCC Hans,Cuxhaven,NI,DEU,,Private Call,None
 ,2623086,DG9OY,DG9OY Helmut,Peine,NI,DEU,,Private Call,None
 ,2623087,DB9WY,DB9WY Manfred,Riede,NI,DEU,,Private Call,None
@@ -6460,7 +6468,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2623093,DJ6OL,DJ6OL Ralf,Celle,NI,DEU,,Private Call,None
 ,2623094,DL1BD,DL1BD Daniele,Braunschweig,NI,DEU,,Private Call,None
 ,2623095,DL2MB,DL2MB Rolf,Osnabrueck,NI,DEU,,Private Call,None
-,2623096,DO1TRI,DO1TRI Tristan,Lengede,NI,DEU,,Private Call,None
+,2623096,DJ0MDJ,DJ0MDJ Christoph,Koeln,NW,DEU,,Private Call,None
 ,2623097,DG9OBW,DG9OBW Michael,Hannover,NI,DEU,,Private Call,None
 ,2623098,DL8BBZ,DL8BBZ Horst,Haren (Ems),NI,DEU,,Private Call,None
 ,2623099,DO1FRK,DO1FRK Frank,Hannover,NI,DEU,,Private Call,None
@@ -16812,11 +16820,3 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2644849,DO7KY,DO7KY Andreas,Koeln,NW,DEU,,Private Call,None
 ,2644850,DL5JA,DL5JA Peter,Schwalmtal,NW,DEU,,Private Call,None
 ,2644851,DO3THP,DO3THP Thorben,Bochum,NW,DEU,,Private Call,None
-,2280032,HB3XXB,HB3XXB Tobias,Bergdietikon,Aargau,CHE,,Private Call,None
-,2280033,HB9CKF,HB9CKF Eduard,Srb 11420 Glibovac,.,CHE,,Private Call,None
-,2622995,DM5TE,DM5TE Oliver,Braunschweig,NI,DEU,,Private Call,None
-,2622996,DB7KW,DB7KW Kai,No_city,,DEU,,Private Call,None
-,2622997,DO4HJ,DO4HJ Heinz,Kerpen,NW,DEU,,Private Call,None
-,2622998,DF9TS,DF9TS Gerd,Muenchen,BY,DEU,,Private Call,None
-,2622999,DO1PWN,DO1PWN Bastian,No_city,,DEU,,Private Call,None
-,2623000,DD6WG,DD6WG Dennis,Am Mellensee,BB,DEU,,Private Call,None
