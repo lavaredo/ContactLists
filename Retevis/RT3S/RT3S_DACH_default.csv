@@ -1656,6 +1656,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320046,OE1DWD,Wolfgang Dusek,Wolfgang,Wien,WIEN,AUT
 2320047,OE5HNG,Guenter Hangl,Guenter,Tumeltsham,OOE,AUT
 2320048,OE9KHJ,Kurt Haemmerle,Kurt,Dornbirn,VBG,AUT
+2320049,OE2LRO,Robert Leyendecker,Robert,Hallwang,SBG,AUT
 2321001,OE1KBC,Kurt Baumann ,Kurt,Wien,WIEN,AUT
 2321002,OE1KBC,Kurt Baumann ,Kurt,Wien,WIEN,AUT
 2321003,OE1KBC,Kurt Baumann ,Kurt,Wien,WIEN,AUT
@@ -6362,6 +6363,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2622990,DD4AD,Guenter Birth,Guenter,Wolfsburg,NI,DEU
 2622991,DF1NPZ,Emmanouil Volyrakis,Emmanouil,Duesseldorf,NW,DEU
 2622992,DF8GG,Gerhard Wiesenbauer,Gerhard,Muenchen,BY,DEU
+2622993,DL2KMA,Marc Alken,Marc,Erlangen,BY,DEU
+2622994,DC1PW,Philipp Walter,Philipp,Karlsruhe,BW,DEU
 2623001,DL4BCG,Paul Hag,Paul,Jever,NI,DEU
 2623002,DG5AV,Gerd May,Gerd,Einbeck,NI,DEU
 2623003,DL5HSN,Hendrik Sjuts,Hendrik,Ihlow,NI,DEU
@@ -6379,8 +6382,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2623015,DL4BBD,Rene Baucke,Rene,Oerel,NI,DEU
 2623016,DL1BGF,Klaus-Hermann Bardenhagen,Klaus-Hermann,Bremervoerde,NI,DEU
 2623017,DH2XA,Hans-Ulrich Gremmel,Hans-Ulrich,Hamburg,HH,DEU
-2623018,DJ9BT,Reinhold Spreckels,Reinhold,Achim,NI,DEU
-2623019,DJ9BT,Reinhold Spreckels,Reinhold,Achim,NI,DEU
+2623018,DG4GAO,Karl-Theo Guenther,Karl-Theo,Wangen im Allgaeu,BW,DEU
+2623019,DJ2KUA,Rolf Brecht,Rolf,Graben-Neudorf,BW,DEU
 2623020,DK9BTX,Thomas Bruens,Thomas,Achim,NI,DEU
 2623021,DO5BGL,Bernd Gleisberg,Bernd,Delmenhorst,NI,DEU
 2623022,DG7BST,Torsten Hauschild,Torsten,Weyhe,NI,DEU
@@ -6389,7 +6392,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2623025,DL5BG,Rainer Victoria,Rainer,Bremervoerde,NI,DEU
 2623026,DG9BFP,Tobias Ahrens,Tobias,Delmenhorst,NI,DEU
 2623027,DL8BDR,Niels Grote,Niels,Oldenburg,NI,DEU
-2623028,DL2BCK,Martin Kohl,Martin,Martfeld,NI,DEU
+2623028,DO5OCY,Patrick Pagano,Patrick,Frankfurt,HE,DEU
 2623029,DG5OAC,Christian Kuhr,Christian,Hannover,NI,DEU
 2623030,DD4BV,Sabrina Behrens,Sabrina,Bremervoerde,NI,DEU
 2623031,DK7UB,Wolfgang Muthmann,Wolfgang,Uetze,NI,DEU
@@ -6404,14 +6407,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2623040,DD4MB,Michael Becker,Michael,no_city,,DEU
 2623041,DL8MWA,Waldemar Matheja,Waldemar,Hannover,NI,DEU
 2623042,DH6OAK,Friedrich Purwin,Friedrich,Hameln,NI,DEU
-2623043,DO4MLG,Matthias Luckassen,Matthias,Haren,NI,DEU
+2623043,DD4TS,Thomas Schreiber,Thomas,Schmalfeld,SH,DEU
 2623044,DO1DOA,Wolfgang Vogt,Wolfgang,Obernkirchen,NI,DEU
 2623045,DJ1BB,Olaf Uhrbach,Olaf,Braunschweig,NI,DEU
 2623046,DK3IU,Klaus Pahnke,Klaus,Cuxhaven,NI,DEU
 2623047,DG7BW,Gerrit Warsen,Gerrit,Wilsum,NI,DEU
 2623048,DH5EE,Andreas Kramer,Andreas,Heinsen,NI,DEU
 2623049,DC2HC,Christian Koch,Christian,Wendisch Evern,NI,DEU
-2623050,DL0OSN,Henning Stille,Henning,Osnabrueck,NI,DEU
+2623050,DL1YGH,Matthias Guntenhoener,Matthias,Bielefeld,NW,DEU
 2623051,DC1BQ,Stefan Oeverhaus,Stefan,Ankum,NI,DEU
 2623052,DJ3FS,Dieter Thomas,Dieter,Alfeld,NI,DEU
 2623053,DF9BE,Detlef Brackmann,Detlef,Georgsmarienhuette,NI,DEU
@@ -6442,7 +6445,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2623078,DG2AAV,Norman Czora,Norman,Braunschweig,NI,DEU
 2623079,DL9OC,Marcus Busch,Marcus,Isernhagen,NI,DEU
 2623080,DF5WXF,Michael Bielicke,Michael,Stade,NI,DEU
-2623081,DB4AI,Harald Lupa,Harald,Braunschweig,NI,DEU
+2623081,DO9BAU,Alexander Urban,Alexander,Zeuthen,BB,DEU
 2623082,DL2MF,Meinhard-Frank Guenther,Meinhard-Frank,Ahnsbeck,NI,DEU
 2623083,DL9OBM,Thorsten Wulff,Thorsten,Wathlingen,NI,DEU
 2623084,DO1BMK,Mike Kapplusch,Mike,Wingst,NI,DEU
@@ -16809,6 +16812,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2644849,DO7KY,Andreas Respondek,Andreas,Koeln,NW,DEU
 2644850,DL5JA,Peter Rommerskirchen,Peter,Schwalmtal,NW,DEU
 2644851,DO3THP,Thorben Potthast,Thorben,Bochum,NW,DEU
-2320049,OE2LRO,Robert Leyendecker,Robert,Hallwang,SBG,AUT
-2622993,DL2KMA,Marc Alken,Marc,Erlangen,BY,DEU
-2622994,DC1PW,Philipp Walter,Philipp,Karlsruhe,BW,DEU
+2280032,HB3XXB,Tobias Ruff,Tobias,Bergdietikon,Aargau,CHE
+2280033,HB9CKF,Eduard Meister,Eduard,Srb 11420 Glibovac,.,CHE
+2622995,DM5TE,Oliver Kleinke,Oliver,Braunschweig,NI,DEU
+2622996,DB7KW,Kai Wilke,Kai,No_city,,DEU
+2622997,DO4HJ,Heinz Holz,Heinz,Kerpen,NW,DEU
+2622998,DF9TS,Gerd Groos,Gerd,Muenchen,BY,DEU
+2622999,DO1PWN,Bastian Schlecht,Bastian,No_city,,DEU
+2623000,DD6WG,Dennis Krueger,Dennis,Am Mellensee,BB,DEU
