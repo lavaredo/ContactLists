@@ -45,6 +45,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280043,HB9HJH,Mitko ,Mitko,Basel,Basel-City,CHE,DMR
 2280044,HB9COQ,Jaime Nogues,Jaime,Basilea,Basel-City,CHE,DMR
 2280045,HB9FNN,Matthias Erhardt,Matthias,Lyss,Bern,CHE,DMR
+2280046,HB9FZF,Matthias Pobig,Matthias,Weiach,Zurich,CHE,DMR
 2281001,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE,DMR
 2281002,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE,DMR
 2281003,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE,DMR
@@ -1690,6 +1691,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320066,OE6ALK,Aleksander Koprivnjak,Aleksander,Graz,STMK,AUT,DMR
 2320067,OE9BKJ,Klaus Battlogg,Klaus,Lauterach,VBG,AUT,DMR
 2320068,OE6EBF,Erwin Baeck,Erwin,Neudau,STMK,AUT,DMR
+2320069,OE3SGU,Hannes Gruensteidl,Hannes,St. Georgen am Reith,NOE,AUT,DMR
+2320070,OE2WHP,Holger Weiss,Holger,Hallwang,SBG,AUT,DMR
+2320071,OE1ZZZ,Andrey Sparky,Andrey,Wien,WIEN,AUT,DMR
+2320072,4U1A,Un Dx Club Arcdxc,Un Dx Club,Wien,WIEN,AUT,DMR
 2321001,OE1KBC,Kurt Baumann,Kurt,Wien,Wien,AUT,DMR
 2321002,OE1KBC,Kurt Baumann,Kurt,Wien,Wien,AUT,DMR
 2321003,OE1KBC,Kurt Baumann,Kurt,Wien,Wien,AUT,DMR
@@ -6120,7 +6125,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2622714,DO5WR,Rolf Westphalen,Rolf,Kiel,Sh,DEU,DMR
 2622715,DG4LD,Dirk Thomsen,Dirk,Harrislee,Sh,DEU,DMR
 2622716,DL5HBO,Olaf Hoyer,Olaf,Hamburg,Hh,DEU,DMR
-2622717,DL8ZBQ,Sarah Tesmann,Sarah,Luebeck,Sh,DEU,DMR
+2622717,DL1QS,Sarah Tesmann,Sarah,Luebeck,SH,DEU,DMR
 2622718,DG3EK,Christian Essig,Christian,Eckernfoerde,Sh,DEU,DMR
 2622719,DG3TF,Thomas Matthes,Thomas,Luebeck,Sh,DEU,DMR
 2622720,DG2SUM,Matthias Rump,Matthias,Ludwigslust,Mv,DEU,DMR
@@ -8850,7 +8855,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625444,DO5FRM,Frank Mueller,Frank,Mertesdorf,RP,DEU,DMR
 2625445,DO2AT,Ansgar Taflinski,Ansgar,Koblenz,Rp,DEU,DMR
 2625446,DK7JS,John Schuett,John,Voelklingen,Sl,DEU,DMR
-2625447,DF4PW,Helmut Klein,Helmut,Idar-Oberstein,Rp,DEU,DMR
+2625447,DB3NU,Norbert Pehlke,Norbert,Bad Neustadt,BY,DEU,DMR
 2625448,DL1MMA,Frank Anschuetz,Frank,Bexbach,Sl,DEU,DMR
 2625449,DC8DO,Gerhard Schnur,Gerhard,Marpingen,Sl,DEU,DMR
 2625450,DD9VR,Ralf Anschuetz,Ralf,Neunkirchen,Sl,DEU,DMR
@@ -8869,7 +8874,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625463,DK6PR,Hans-Gerd Reuber,Hans-Gerd,Zornheim,Rp,DEU,DMR
 2625464,DC1UI,Norbert Strohmaier,Norbert,Morschheim,Rp,DEU,DMR
 2625465,DL4VAC,Markus Bernardi,Markus,Eppelborn-Wiesbach,Sl,DEU,DMR
-2625466,DL8AMS,Andreas Motsch,Andreas,Saarbruecken,Sl,DEU,DMR
+2625466,DM6FF,Frank Rosenbaum,Frank,Neuhaus,TH,DEU,DMR
 2625467,DG1SR,Stefan Reiss,Stefan,Worms,Rp,DEU,DMR
 2625468,DK9PS,Ralf Kaucher,Ralf,Hettenrodt,Rp,DEU,DMR
 2625469,DF6WZ,Heinrich Storr,Heinrich,Bingen,Rp,DEU,DMR
@@ -8943,7 +8948,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625537,DF6GJ,Eva Hummel,Eva,Freckenfeld,Rp,DEU,DMR
 2625538,DD1VD,Andreas Marx,Andreas,Heusweiler,Sl,DEU,DMR
 2625539,DB8PAH,Arnulf Hickmann,Arnulf,Boppard,Rp,DEU,DMR
-2625540,DL8AMS,Andreas Motsch,Andreas,Saarbruecken,Sl,DEU,DMR
+2625540,DG7LL,Juergen Hansen,Juergen,Hamburg,HH,DEU,DMR
 2625541,DB5VZ,Hans-Dieter Geid,Hans-Dieter,Merchweiler,Sl,DEU,DMR
 2625542,DF1PI,Juergen Nisius,Juergen,Schweich,Rp,DEU,DMR
 2625543,DG7KH,Juergen Kurth,Juergen,Saulheim,Rp,DEU,DMR
@@ -8967,7 +8972,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625561,DK4US,Axel Schindler,Axel,Ludwigshafen,Rp,DEU,DMR
 2625562,DL3VS,Manfred Schmidt,Manfred,Ottweiler,Sl,DEU,DMR
 2625563,DL5VG,Franz-Josef Rechin,Franz-Josef,St. Ingbert,Sl,DEU,DMR
-2625564,DA1DX,Bruno Marado,Bruno,No_city,,DEU,DMR
+2625564,DD0CN,Wolfgang Kurth,Wolfgang,Puchheim,BY,DEU,DMR
 2625565,DB1CE,Christoph Erdel,Christoph,Illingen,Sl,DEU,DMR
 2625566,DK8VX,Hans-Juergen Schmidt,Hans-Juergen,Grossrosseln,Sl,DEU,DMR
 2625567,DJ4TW,Wolf Wenisch,Wolf,No_city,,DEU,DMR
@@ -8975,9 +8980,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625569,DB9VZ,Henning Zimmer,Henning,Nonnweiler,Sl,DEU,DMR
 2625570,DL4VT,Thomas Schaefer,Thomas,Schiffweiler,Sl,DEU,DMR
 2625571,DO2JK,Joerg Kasper,Joerg,Boppard,Rp,DEU,DMR
-2625572,DG2GEP,Markus Epting,Markus,Ruelzheim,Rp,DEU,DMR
+2625572,DL3MS,Michael Symanski,Michael,Poettmes,BY,DEU,DMR
 2625573,DD8VJ,Joerg Ruck,Joerg,Illingen,Sl,DEU,DMR
-2625574,DO4PV,Michael Krauss,Michael,Kaiserslautern,Rp,DEU,DMR
+2625574,DL2SDR,Sebastian Mrozek,Sebastian,Horst,SH,DEU,DMR
 2625575,DL1KG,Joerg Gebhardt,Joerg,Hahnstaetten,Rp,DEU,DMR
 2625576,DJ5CT,Thomas Schifferens,Thomas,Bettenfeld,Rp,DEU,DMR
 2625577,DB1BO,Oliver Ballas,Oliver,St. Ingbert,Sl,DEU,DMR
@@ -9015,7 +9020,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625609,DO6FD,Udo Schulz,Udo,Kaiserslautern,Rp,DEU,DMR
 2625610,DL4PQ,Alexander Kaminski,Alexander,St. Ingbert,Sl,DEU,DMR
 2625611,DL2DMC,Tim Rauhut,Tim,Merzig,Sl,DEU,DMR
-2625612,DA6RAM,Alberto Reina,Alberto,No_city,,DEU,DMR
+2625612,DL7SO,Serif Osmanovic,Serif,Witten,NW,DEU,DMR
 2625613,DF4WB,Hans Baulig,Hans,Ulmen,Rp,DEU,DMR
 2625614,DH2VC,Michael Gauer,Michael,Puettlingen,Sl,DEU,DMR
 2625615,DL2JK,Jochen Kunz,Jochen,Puttlingen,Sl,DEU,DMR
@@ -9029,11 +9034,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625623,DO1JC,Thomas Remmet,Thomas,Bingen,Rp,DEU,DMR
 2625624,DA1JH,Jennifer Heinen,Jennifer,Herforst,Rp,DEU,DMR
 2625625,DL9UP,Patrick Unbehend,Patrick,St. Ingbert,Sl,DEU,DMR
-2625626,DO3GLM,Gordian Heer,Gordian,Ockenheim,Rp,DEU,DMR
+2625626,DL1TFI,Tobias Fischer,Tobias,Koenigsbrunn,BY,DEU,DMR
 2625627,DH8VH,Teodor Anca,Teodor,Schmelz,Sl,DEU,DMR
 2625628,DL7RZ,Carl Rheinlaender,Carl,No_city,,DEU,DMR
 2625629,DL3CL,Marco Greinwald,Marco,No_city,,DEU,DMR
-2625630,DA6RAM,Alberto Reina,Alberto,No_city,,DEU,DMR
+2625630,DB2TR,Thomas Kratzsch,Thomas,Nuernberg,BY,DEU,DMR
 2625631,DL3VM,Volker Mailaender,Volker,Mainz,Rp,DEU,DMR
 2625632,DO6WN,Joerg Borzer,Joerg,Worms,Rp,DEU,DMR
 2625633,DC9VU,Frank Bonitz,Frank,Neunkirchen,Sl,DEU,DMR
@@ -9041,7 +9046,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625635,DJ4PF,Erhard Dupont,Erhard,Rodalben,Rp,DEU,DMR
 2625636,DJ4ST,Thomas Stellner,Thomas,Gau-Bischofsheim,Rp,DEU,DMR
 2625637,DG6FMA,Manuel Follmann,Manuel,Koblenz,Rp,DEU,DMR
-2625638,DO9JF,Julian Fischer,Julian,Saarbruecken,Sl,DEU,DMR
+2625638,DL4BBE,Dieter Hoff,Dieter,Rotenburg,NI,DEU,DMR
 2625639,DG1HP,Christian Kern,Christian,Offenbach A.D. Queich,Rp,DEU,DMR
 2625640,DO1EP,Patrik Edinger,Patrik,Landau In der Pfalz,Rp,DEU,DMR
 2625641,DJ2ZK,Klaus Zusann,Klaus,Ludwigshafen,Rp,DEU,DMR
@@ -9141,7 +9146,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625735,DD4EZ,Claus Buechter,Claus,Steyerberg,Ni,DEU,DMR
 2625736,DL3WA,Eberhard Ehret,Eberhard,Dienheim,Rp,DEU,DMR
 2625737,DL0NK,Daniel Thome,Daniel,Friedrichsthal,Sl,DEU,DMR
-2625738,DO1DMS,Manuel Szkop,Manuel,Katzenelnbogen,Rp,DEU,DMR
+2625738,DP7D,Holger Hammerschlag,Holger,Essen,NW,DEU,DMR
 2625739,DO6NM,Marco Nola,Marco,Losheim am See,Rp,DEU,DMR
 2625740,DJ7WA,Albert Weis,Albert,Plaidt,Rp,DEU,DMR
 2625741,DG1IAH,Uwe Linker,Uwe,Theisbergstegen,Rp,DEU,DMR
