@@ -1,7 +1,7 @@
 2220001,IK0YYY,Ferrara Roma (RM),Lazio,ITA,222
 2220002,IK0YYY,Ferrara Roma (RM),Lazio,ITA,222
 2220003,IW0BEC,Suriano Roma (RM),Lazio,ITA,222
-2220004,IT9LRZ,Bruno Sparta  (ME),Sicilia,ITA,222
+2220004,IT9LRZ,Bruno Sparta (ME),Sicilia,ITA,222
 2220005,IZ0XBM,Mazzucchelli Roma (RM),Lazio,ITA,222
 2220006,IK0RTA,Chierici Roma (RM),Lazio,ITA,222
 2220007,IZ0OWE,Mastrorilli Roma (RM),Lazio,ITA,222
@@ -42,7 +42,7 @@
 2220042,IW0GAC,Milio Roma (RM),Lazio,ITA,222
 2220043,IK0PRC,Muro Borgo S.Michele (LT),Lazio,ITA,222
 2220044,IZ0HSE,Vitolo Latina (LT),Lazio,ITA,222
-2220045,IZ0BEC,Santoro Aprilia (LT),Latina,ITA,222
+2220045,IZ0BEC,Santoro Aprilia (LT),Lazio,ITA,222
 2220046,IZ0YHO,Zinno Roma (RM),Lazio,ITA,222
 2220047,IU0AXK,Pavoni Roma (RM),Lazio,ITA,222
 2220048,IW0HKS,Fergola Ariccia (RM),Lazio,ITA,222
@@ -221,9 +221,9 @@
 2220221,IZ0RTU,Romano Mentana (RM),Lazio,ITA,222
 2220222,IS0FFQ,Solinas Usini (SS),Sardegna,ITA,222
 2220223,IZ0SGA,Angelis Viterbo (VT),Lazio,ITA,222
-2220224,IZ0MYH,Bianconi Citta Di Castello,Umbria,ITA,222
+2220224,IZ0MYH,Bianconi no_city,Umbria,ITA,222
 2220225,IZ0UXE,Rea Cerveteri (RM),Lazio,ITA,222
-2220226,IW0QDU,Falleri Citta Di Castello,Umbria,ITA,222
+2220226,IW0QDU,Falleri no_city,Umbria,ITA,222
 2220227,IZ0TKI,Pellegrini Aquino (FR),Lazio,ITA,222
 2220228,IK0JAY,Violante Narni (TR),Umbria,ITA,222
 2220229,IZ0ZGT,Donato Rocca Di Papa (RM),Lazio,ITA,222
@@ -235,7 +235,7 @@
 2220235,IZ0DFP,Ramazzotti Roma (RM),Lazio,ITA,222
 2220236,IZ0OZS,Trombetti Roma (RM),Lazio,ITA,222
 2220237,IW0BNH,Susca Roma (RM),Lazio,ITA,222
-2220238,IU3OIU,Toniolo Vo  (PD),Veneto,ITA,222
+2220238,IU3OIU,Toniolo Vo (PD),Veneto,ITA,222
 2220239,IZ0IEN,Maranci Frosino_city (FR),Lazio,ITA,222
 2220240,IZ0IIY,Tersigni Frosino_city (FR),Lazio,ITA,222
 2220241,IW0FZM,Cavaliere Roma (RM),Lazio,ITA,222
@@ -1168,11 +1168,11 @@
 2221168,IZ1MLB,Caltran Tortona (AL),Piemonte,ITA,222
 2221169,IZ1GMA,Boglione Poirino (TO),Piemonte,ITA,222
 2221170,IZ1XAL,Enrico Corio (TO),Piemonte,ITA,222
-2221171,IZ1YUK,Impieri Leini  (TO),Piemonte,ITA,222
+2221171,IZ1YUK,Impieri Leini (TO),Piemonte,ITA,222
 2221172,IW1BOC,Adduasio Nichelino (TO),Piemonte,ITA,222
 2221173,IZ1YKQ,Foti Venaria Reale (TO),Piemonte,ITA,222
 2221174,IK1MVX,Gonella Sanremo (IM),Liguria,ITA,222
-2221175,I1NOL,Noceti Sestrilevante,Liguria,ITA,222
+2221175,I1NOL,Noceti no_city,Liguria,ITA,222
 2221176,IZ1YUA,Bonin Torino (TO),Piemonte,ITA,222
 2221177,IW1ENZ,Chinotto Vignole Borbera (AL),Piemonte,ITA,222
 2221178,IW1ES,Massimo Giaveno (TO),Piemonte,ITA,222
@@ -1348,7 +1348,7 @@
 2221348,IZ1HIB,Erli Genova (GE),Liguria,ITA,222
 2221349,IU1HHP,Bielli Valdengo (BI),Piemonte,ITA,222
 2221350,IU1CVL,Nolasco Genova (GE),Liguria,ITA,222
-2221351,IZ1CCH,Maria Sanfre  (CN),Piemonte,ITA,222
+2221351,IZ1CCH,Maria Sanfre (CN),Piemonte,ITA,222
 2221352,IW1DLL,Cerrito S.Benigno Canavese (TO),Piemonte,ITA,222
 2221353,I1YTO,Distefano Roatto (AT),Piemonte,ITA,222
 2221354,IK1QAE,Rago Genova (GE),Liguria,ITA,222
@@ -1375,7 +1375,7 @@
 2221375,IZ1KHS,Spingola Caramagna (CN),Piemonte,ITA,222
 2221376,IW1GAL,Paolo Arquata Scrivia (AL),Piemonte,ITA,222
 2221377,I1GEX,Gessolo Isola D Asti (AT),Piemonte,ITA,222
-2221378,IZ1TND,Alice Cuorgne  (TO),Piemonte,ITA,222
+2221378,IZ1TND,Alice Cuorgne (TO),Piemonte,ITA,222
 2221379,IZ1DSI,Giuseppe Lanzo Torinese (TO),Piemonte,ITA,222
 2221380,IZ1ZJN,Gazzo Terzo (AL),Piemonte,ITA,222
 2221381,IZ1UMG,Giuseppe Grugliasco (TO),Piemonte,ITA,222
@@ -1557,7 +1557,7 @@
 2221557,IW1DKC, Visone (AL),Piemonte,ITA,222
 2221558,IU1ANR, Lerici (SP),Liguria,ITA,222
 2221559,IZ1KGF, Terzo (AL),Piemonte,ITA,222
-2221560,IW1FZR,Nerva Cavaglia  (BI),Piemonte,ITA,222
+2221560,IW1FZR,Nerva Cavaglia (BI),Piemonte,ITA,222
 2221561,IZ1MWX,Boero Vinchio (AT),Piemonte,ITA,222
 2221562,IU1HKD,Cotronei Piossasco (TO),Piemonte,ITA,222
 2221563,IU1HIZ, Torino (TO),Piemonte,ITA,222
@@ -1578,7 +1578,7 @@
 2221578,IZ1JJA,Panero Rezzo (IM),Liguria,ITA,222
 2221579,IU1EQV,Zappala Tortona (AL),Piemonte,ITA,222
 2221580,IU1KGS,Garbarini Genova (GE),Liguria,ITA,222
-2221581,IU1INZ,Corgiat Mecio Cirie  (to,Piemonte,ITA,222
+2221581,IU1INZ,Corgiat Mecio Cirie (to,Piemonte,ITA,222
 2221582,IZ1REW,Marchetti La Spezia (SP),Liguria,ITA,222
 2221583,IW1GHE,Sasso Carmagnola (TO),Piemonte,ITA,222
 2221584,IZ1JZX,Stoppino Cavatore (AL),Piemonte,ITA,222
@@ -1660,7 +1660,7 @@
 2221660,IK1UBC,Massaglia San Mauro Torinese (TO),Piemonte,ITA,222
 2221661,IZ1CCF,Tosetti Torino (TO),Piemonte,ITA,222
 2221662,IK1ZOU,Tondini Chiavari (GE),Liguria,ITA,222
-2221663,IU1HGY,Massone Mazze  (TO),Piemonte,ITA,222
+2221663,IU1HGY,Massone Mazze (TO),Piemonte,ITA,222
 2221664,IW1FSQ,Bulgarello Chieri (TO),Piemonte,ITA,222
 2221665,IZ1CIT,Brotto Genova (GE),Liguria,ITA,222
 2221666,IZ1TWH, Premana (LC),Lombardia,ITA,222
@@ -1673,7 +1673,7 @@
 2221673,IU1JSN, Cisano Sul Neva (SV),Liguria,ITA,222
 2221674,IU1JYM,Fachino Sanremo (IM),Liguria,ITA,222
 2221675,IW1QOE,Delmonte Casarza Ligure (GE),Liguria,ITA,222
-2221676,IW1FVP, Santhia  (VC),Piemonte,ITA,222
+2221676,IW1FVP, Santhia (VC),Piemonte,ITA,222
 2221677,IZ1JZU,Rossa Oleggio (NO),Piemonte,ITA,222
 2221678,IU1BKT,Firpo Uscio (GE),Liguria,ITA,222
 2221679,IU1JSZ, Carbonara Scrivia (AL),Piemonte,ITA,222
@@ -1795,7 +1795,7 @@
 2221795,IU1JDE, no_city,Piemonte,ITA,222
 2221796,IU1LST,Attilio no_city,Piemonte,ITA,222
 2221797,IK1OOM,Orlandini Rivoli (TO),Piemonte,ITA,222
-2221798,IK1CER,Parodi Serra Ricco  (GE),Liguria,ITA,222
+2221798,IK1CER,Parodi Serra Ricco (GE),Liguria,ITA,222
 2221799,IZ1RHG,Maffeo Occhieppo Superiore (BI),Piemonte,ITA,222
 2221800,IZ1PTA,Parnisari Beura (VB),Piemonte,ITA,222
 2221801,IZ1POP,Cordola Chianocco (TO),Piemonte,ITA,222
@@ -1852,7 +1852,7 @@
 2221852,IK0XKP,Vegni Grottaferrata (RM),Lazio,ITA,222
 2221853,IZ1LAT,Angelini Bagnolo Piemonte (CN),Piemonte,ITA,222
 2221854,IZ1TMO,Remino Torino (TO),Piemonte,ITA,222
-2221855,IZ0AYD,Chiappini Frosino_city,Lazio,ITA,222
+2221855,IZ0AYD,Chiappini no_city,Lazio,ITA,222
 2221856,IU1FZZ,Gibellini Genova (GE),Liguria,ITA,222
 2221857,IK0RNR,Sabellico Fiuggi (FR),Lazio,ITA,222
 2221858,IZ1LBA,Frisina Venaria Reale (TO),Piemonte,ITA,222
@@ -1941,7 +1941,7 @@
 2221941,IZ1JJB,Olivieri Albissola Marina (SV),Liguria,ITA,222
 2221942,IW0BMC,Carta Guidonia (RM),Lazio,ITA,222
 2221943,IU1NEB,Savarese Cogorno (GE),Liguria,ITA,222
-2221944,IZ1VCX,Severini Mondovi  (CN),Piemonte,ITA,222
+2221944,IZ1VCX,Severini Mondovi (CN),Piemonte,ITA,222
 2221945,IW0HPT,Formisani Frascati (RM),Lazio,ITA,222
 2221946,IZ0TWI,Mancini Terni (TR),Umbria,ITA,222
 2221947,IZ0TWK,Castelletti Terni (TR),Umbria,ITA,222
@@ -1972,7 +1972,7 @@
 2221972,IK1WGT, Volvera (TO),Piemonte,ITA,222
 2221973,I1GIK,Giaccardi Savigliano (CN),Piemonte,ITA,222
 2221974,IZ1TMN, no_city,No_name,ITA,222
-2221975,IZ1RGS, Agli,Piemonte,ITA,222
+2221975,IZ1RGS, no_city,Piemonte,ITA,222
 2221976,IU0NDT,Paglia Roma (RM),Lazio,ITA,222
 2221977,IU1NEA,Gianquinto no_city,No_name,ITA,222
 2221978,IW1DGI,Passalacqua Arquata Scrivia (AL),Piemonte,ITA,222
@@ -2177,8 +2177,8 @@
 2222177,IW2CDD,Vanoli Laveno-Mombello (VA),Lombardia,ITA,222
 2222178,IW2NSB,Torri Cerete (BG),Lombardia,ITA,222
 2222179,IZ2ZSE,Garavaglia Rozzano (MI),Lombardia,ITA,222
-2222180,IZ2QDH,Rusconi Fenegro  (CO),Lombardia,ITA,222
-2222181,IZ2MSW,Rusconi Fenegro  (CO),Lombardia,ITA,222
+2222180,IZ2QDH,Rusconi Fenegro (CO),Lombardia,ITA,222
+2222181,IZ2MSW,Rusconi Fenegro (CO),Lombardia,ITA,222
 2222182,IW2DFU,Costa Cesano Maderno (MB),Lombardia,ITA,222
 2222183,IW2DR,Carra San Benedetto Po (MN),Lombardia,ITA,222
 2222184,IU2BGQ,Colombo Cadorago (CO),Lombardia,ITA,222
@@ -2324,7 +2324,7 @@
 2222324,IW2HQV,Porta Cornate D Adda (MB),Lombardia,ITA,222
 2222325,IW2DIW,Ripamonti Carnate (MB),Lombardia,ITA,222
 2222326,IW2NPP,Bonfanti Merate (LC),Lombardia,ITA,222
-2222327,IW2CYS,Sironi Santa Maria Ho  (LC),Lombardia,ITA,222
+2222327,IW2CYS,Sironi Santa Maria Ho (LC),Lombardia,ITA,222
 2222328,I2UYB,Simonazzi Pegognaga (MN),Lombardia,ITA,222
 2222329,I2LKT,Terra Cologno Monzese (MI),Lombardia,ITA,222
 2222330,IK2XYK,Sartirana Cremona (CR),Lombardia,ITA,222
@@ -2437,7 +2437,7 @@
 2222437,IW2KWV,None Milano (MI),Lombardia,ITA,222
 2222438,IZ2ZRJ,Farci Milano (MI),Lombardia,ITA,222
 2222439,IW2LZC,Damato Milano (MI),Lombardia,ITA,222
-2222440,IW2CYS,Sironi Santa Maria Ho  (LC),Lombardia,ITA,222
+2222440,IW2CYS,Sironi Santa Maria Ho (LC),Lombardia,ITA,222
 2222441,IZ2LPH,Persavalli Prevalle (BS),Lombardia,ITA,222
 2222442,IZ2UQC,Zambelli Brescia (BS),Lombardia,ITA,222
 2222443,IZ2WSQ,Sala Arcore (MB),Lombardia,ITA,222
@@ -2594,7 +2594,7 @@
 2222594,IZ2WXN,Pezzoli Villa Di Tirano (SO),Lombardia,ITA,222
 2222595,IU2IHD,Pedersoli Bienno (BS),Lombardia,ITA,222
 2222596,IU2IAT,Piromalli Ferrera Di Varese (VA),Lombardia,ITA,222
-2222597,IZ2WFJ,Marinello Gambolo  (PV),Lombardia,ITA,222
+2222597,IZ2WFJ,Marinello Gambolo (PV),Lombardia,ITA,222
 2222598,IK2SVI,Remotti S.Donato Milanese (MI),Lombardia,ITA,222
 2222599,IW2NZT,Migliavacca Lacchiarella (MI),Lombardia,ITA,222
 2222600,I2RBM,Mezzoli Milano (MI),Lombardia,ITA,222
@@ -2685,7 +2685,7 @@
 2222685,I2JWU,Brambilla Travaco Siccomario (PV),Lombardia,ITA,222
 2222686,IZ2HTI, Como (CO),Lombardia,ITA,222
 2222687,IU2HCL,Ferdinando Grantola (VA),Lombardia,ITA,222
-2222688,IW2EMD,Ninno Muggio  (MB),Lombardia,ITA,222
+2222688,IW2EMD,Ninno Muggio (MB),Lombardia,ITA,222
 2222689,IW2GQE,Boffelli Milano (MI),Lombardia,ITA,222
 2222690,IU2DWG,Calanna Montello (BG),Lombardia,ITA,222
 2222691,IU2GGC, Bergamo (BG),Lombardia,ITA,222
@@ -2918,7 +2918,7 @@
 2222918,I2BRT,Bertoli Milano (MI),Lombardia,ITA,222
 2222919,IU2KDR, Casorate Sempione (VA),Lombardia,ITA,222
 2222920,IW2HFU,Longo Senago (MI),Lombardia,ITA,222
-2222921,IW2EMD,Ninno Muggio  (MB),Lombardia,ITA,222
+2222921,IW2EMD,Ninno Muggio (MB),Lombardia,ITA,222
 2222922,IZ2OAX, Castel Goffredo (MN),Lombardia,ITA,222
 2222923,IU2IFK,Claudio Desenzano D. Garda (BS),Lombardia,ITA,222
 2222924,IU2JZR,Lugetti Cassina De Pecci (MI),Lombardia,ITA,222
@@ -2932,7 +2932,7 @@
 2222932,IZ2ZTP,Rota Bergamo (BG),Lombardia,ITA,222
 2222933,IZ2VWT,Anelli Somaglia (LO),Lombardia,ITA,222
 2222934,IZ2UPJ,Gasparini Castello Dagogna (PV),Lombardia,ITA,222
-2222935,IZ2XDM,Simpatizzante Cantu  (CO),Lombardia,ITA,222
+2222935,IZ2XDM,Simpatizzante Cantu (CO),Lombardia,ITA,222
 2222936,IZ2UQI, Milano (MI),Lombardia,ITA,222
 2222937,IU2AIV,Carlo Rescaldina (MI),Lombardia,ITA,222
 2222938,IK2UGG,Gabriele Cremona (CR),Lombardia,ITA,222
@@ -3230,7 +3230,7 @@
 2223230,IZ3SPH,Berzacola Verona (VR),Veneto,ITA,222
 2223231,IZ3QOL,Nardo Legnaro (PD),Veneto,ITA,222
 2223232,IU3GMB,Mario Montegrotto Terme (PD),Veneto,ITA,222
-2223233,IZ3QQW,Bastianello Rosa  (VI),Veneto,ITA,222
+2223233,IZ3QQW,Bastianello Rosa (VI),Veneto,ITA,222
 2223234,IU3GKQ,Lostumbo Preganziol (TV),Veneto,ITA,222
 2223235,IK3TCH,Meneghini San Giovanni Lupatoto (VR),Veneto,ITA,222
 2223236,IW3FEE,Ruffoni Verona (VR),Veneto,ITA,222
@@ -3343,7 +3343,7 @@
 2223343,IK3FXK,Schiavon Padova (PD),Veneto,ITA,222
 2223344,IN3GME,Amort Bressano_info (BZ),Trentino Aa,ITA,222
 2223345,IK3PDD,Querenghi Vicenza (VI),Veneto,ITA,222
-2223346,IU3BUW,Zorzetto Scorze  (VE),Veneto,ITA,222
+2223346,IU3BUW,Zorzetto Scorze (VE),Veneto,ITA,222
 2223347,IK3FXC,Serafini Pozzoleone (VI),Veneto,ITA,222
 2223348,IV3EVJ,Pastor S.Daniele Del Friuli (UD),Friuli Vg,ITA,222
 2223349,I3SWR,Sartori Treviso (TV),Veneto,ITA,222
@@ -3420,7 +3420,7 @@
 2223420,IV3MIE,Crisma Duino (TS),Friuli Vg,ITA,222
 2223421,IN3GHS,Agosti Livo (TN),Lombardia,ITA,222
 2223422,IN3AXA,Pavcovich Ora (BZ),Trentino Aa,ITA,222
-2223423,IZ3QLR,Lucchetta Scorze  (VE),Veneto,ITA,222
+2223423,IZ3QLR,Lucchetta Scorze (VE),Veneto,ITA,222
 2223424,IW3GGO,De Lucia Verona (VR),Veneto,ITA,222
 2223425,IV3VTJ,Zanchetta Brugnera (PN),Friuli Vg,ITA,222
 2223426,IZ3KLZ,Nardin Rubano (PD),Veneto,ITA,222
@@ -3450,7 +3450,7 @@
 2223450,IZ3ZQW,Moritsch Belluno (BL),Veneto,ITA,222
 2223451,IN3LQB,Egger Rovereto (TN),Trentino Aa,ITA,222
 2223452,IN3GID,Mastrojeni Bolzano (BZ),Trentino Aa,ITA,222
-2223453,IU3BTV,Ebegela Scorze  (VE),Veneto,ITA,222
+2223453,IU3BTV,Ebegela Scorze (VE),Veneto,ITA,222
 2223454,IZ3SQY,Conz Villabruna Di Feltre (BL),Veneto,ITA,222
 2223455,IN3DQW,Iannelli Trento (TN),Trentino Aa,ITA,222
 2223456,IN3EYI,Faraglia Villa Lagarina (TN),Trentino Aa,ITA,222
@@ -3703,7 +3703,7 @@
 2223703,IZ3UOF,Severin Roncade (TV),Veneto,ITA,222
 2223704,IV3GDE,Minin Turriaco (GO),Friuli Vg,ITA,222
 2223705,IZ3ZMK,Zanzi Villafranca Di Verona (VE),Veneto,ITA,222
-2223706,IU3FZK,Spolaor Scorze  (VE),Veneto,ITA,222
+2223706,IU3FZK,Spolaor Scorze (VE),Veneto,ITA,222
 2223707,IV3FPU,Paruta Ronchi Dei Legionari (GO),Friuli Vg,ITA,222
 2223708,IU3GNB,Giudici Verona (VR),Veneto,ITA,222
 2223709,IZ3HGF, Belluno (BL),Veneto,ITA,222
@@ -4139,7 +4139,7 @@
 2224139,IU4DKB,Cocco Noceto (PR),Emilia-Rom.,ITA,222
 2224140,IN3EMI,Giongo Trento (TN),Trentino Aa,ITA,222
 2224141,IW4EGH,Michinelli Toscanella Di Dozza (BO),Emilia-Rom.,ITA,222
-2224142,IW4DGS,Manzecchi Forli  (FC),Emilia-Rom.,ITA,222
+2224142,IW4DGS,Manzecchi Forli (FC),Emilia-Rom.,ITA,222
 2224143,IZ4RWP,Ferrari Bazzano (BO),Emilia-Rom.,ITA,222
 2224144,IK4CPZ,Beltrami Carpi (MO),Emilia-Rom.,ITA,222
 2224145,IW4CEZ,Roffi Piacenza (PC),Emilia-Rom.,ITA,222
@@ -4219,7 +4219,7 @@
 2224219,IW4EJI,Ferrara Bologna (BO),Emilia-Rom.,ITA,222
 2224220,IK2JMU,Rociola Corrido (CO),Lombardia,ITA,222
 2224221,IW4ENS,Zinelli Modena (MO),Emilia-Rom.,ITA,222
-2224222,IZ4OKN,Olivetti Forli  (FC),Emilia-Rom.,ITA,222
+2224222,IZ4OKN,Olivetti Forli (FC),Emilia-Rom.,ITA,222
 2224223,IZ4RCU,Diversi Faenza (RA),Emilia-Rom.,ITA,222
 2224224,IU4HMY,Argilli Rimini (RN),Emilia-Rom.,ITA,222
 2224225,IZ4XRD,Braga Cavezzo (MO),Emilia-Rom.,ITA,222
@@ -4227,7 +4227,7 @@
 2224227,IZ4NEB,Comati Fidenza (PR),Emilia-Rom.,ITA,222
 2224228,IK4RQE,Ricci Marzabotto (BO),Emilia-Rom.,ITA,222
 2224229,IK4IDY,Vacondio Correggio (RE),Emilia-Rom.,ITA,222
-2224230,IZ4XAI,Tranchina Forli  (FC),Emilia-Rom.,ITA,222
+2224230,IZ4XAI,Tranchina Forli (FC),Emilia-Rom.,ITA,222
 2224231,IZ4RTB,Morigi Santarcangelo Di Romagna (RN),Emilia-Rom.,ITA,222
 2224232,IZ4ISK,Cocconcelli Reggio Emilia (RE),Emilia-Rom.,ITA,222
 2224233,IU4GBM,Battaglia Medelana (BO),Emilia-Rom.,ITA,222
@@ -4257,7 +4257,7 @@
 2224257,IU4FJF,Franceschini Sala Bolognese (BO),Emilia-Rom.,ITA,222
 2224258,IZ4IPI,Fagnoni Carpaneto (PC),Emilia-Rom.,ITA,222
 2224259,IZ4XXZ, Carpaneto Piacentino (PC),Emilia-Rom.,ITA,222
-2224260,IU4FKF, Forli  (FC),Emilia-Rom.,ITA,222
+2224260,IU4FKF, Forli (FC),Emilia-Rom.,ITA,222
 2224261,IK4MTL,Beltrandi Riolo Terme (RA),Emilia-Rom.,ITA,222
 2224262,IZ4NCN,Miserazzi Monterenzio (BO),Emilia-Rom.,ITA,222
 2224263,IZ4YEP,Bravi Piacenza (PC),Emilia-Rom.,ITA,222
@@ -4279,7 +4279,7 @@
 2224279,IZ4BOV,Fabbri Faenza (RA),Emilia-Rom.,ITA,222
 2224280,IZ4SJB,Buldrini Bologna (BO),Emilia-Rom.,ITA,222
 2224281,IK4RUI,Torreggiani Gavasseto (RE),Emilia-Rom.,ITA,222
-2224282,IU4HMS,Casula Forli  (FC),Emilia-Rom.,ITA,222
+2224282,IU4HMS,Casula Forli (FC),Emilia-Rom.,ITA,222
 2224283,IZ4MUG,Matteo Reggio Emilia (RE),Emilia-Rom.,ITA,222
 2224284,IU4IET, Carpi (MO),Emilia-Rom.,ITA,222
 2224285,IW4CPP,Respi Salsomaggiore Terme (PR),Emilia-Rom.,ITA,222
@@ -4331,8 +4331,8 @@
 2224331,IW4DBU,Pazzini Santarcangelo Di Romagna (RN),Emilia-Rom.,ITA,222
 2224332,IZ4DPW,Bertolotti Colorno (PR),Emilia-Rom.,ITA,222
 2224333,IZ4TOD,D Alessandro S.Martino In Rio (RE),Emilia-Rom.,ITA,222
-2224334,IZ4RVH,Giovannini Forli  (FC),Emilia-Rom.,ITA,222
-2224335,IZ4YYB,Bosco Forli  (FC),Emilia-Rom.,ITA,222
+2224334,IZ4RVH,Giovannini Forli (FC),Emilia-Rom.,ITA,222
+2224335,IZ4YYB,Bosco Forli (FC),Emilia-Rom.,ITA,222
 2224336,IZ4IRQ,Belforti S.Giorgio Piacentino (PC),Emilia-Rom.,ITA,222
 2224337,IK4RVJ,Ricci Faenza (RA),Emilia-Rom.,ITA,222
 2224338,IW4CAW,Tagliaferri Faenza (RA),Emilia-Rom.,ITA,222
@@ -4392,7 +4392,7 @@
 2224392,IK4HPS,Buldrini Argenta (FE),Emilia-Rom.,ITA,222
 2224393,IU4JZY, Comacchio (FE),Emilia-Rom.,ITA,222
 2224394,I4VJC,Vicari Noceto (PR),Emilia-Rom.,ITA,222
-2224395,I4IFL,Flamigni Forli  (FC),Emilia-Rom.,ITA,222
+2224395,I4IFL,Flamigni Forli (FC),Emilia-Rom.,ITA,222
 2224396,IW4BWD,Barone Casalecchio Reno (BO),Emilia-Rom.,ITA,222
 2224397,IK4MBO,Tampieri Lugo (RA),Emilia-Rom.,ITA,222
 2224398,IK4MSX,Ferrari Parma (PR),Emilia-Rom.,ITA,222
@@ -4475,7 +4475,7 @@
 2224475,IV3EXN,Crapigna Cervignano (UD),Friuli Vg,ITA,222
 2224476,IU4JBX,Sarappo Poggio Renatico (FE),Emilia-Rom.,ITA,222
 2224477,IZ3PYE,Querci Venezia (VE),Veneto,ITA,222
-2224478,IW2JMO, Golgi,Lombardia,ITA,222
+2224478,IW2JMO, no_city,Lombardia,ITA,222
 2224479,IU2LGL, Castiglione Olona (VA),Lombardia,ITA,222
 2224480,IK2EXI,Gianetti Saronno (VA),Lombardia,ITA,222
 2224481,IU2JHH, Buccinasco (MI),Lombardia,ITA,222
@@ -4607,7 +4607,7 @@
 2224607,IW2NPQ,Roccon Cornaredo (MI),Lombardia,ITA,222
 2224608,IZ3VCM, Lendinara (RO),Veneto,ITA,222
 2224609,IZ6OVE,Bianco Padova (PD),Veneto,ITA,222
-2224610,IU3MHL, Rosa  (VI),Veneto,ITA,222
+2224610,IU3MHL, Rosa (VI),Veneto,ITA,222
 2224611,IU2LXJ, Segrate (MI),Lombardia,ITA,222
 2224612,IN3HUS,Veuhoff San Paolo Di Appiano (BZ),Trentino Aa,ITA,222
 2224613,IU3IQA,Dell Bona Vinigo (BL),Veneto,ITA,222
@@ -4771,7 +4771,7 @@
 2224771,IV3GWK, Trieste (TS),Friuli Vg,ITA,222
 2224772,IV3XSP,Corte Trieste (TS),Friuli Vg,ITA,222
 2224773,IK4OLQ,Abati Bologna (BO),Emilia-Rom.,ITA,222
-2224774,IU4EBH, Forli`(FC),Emilia-Rom.,ITA,222
+2224774,IU4EBH, no_city,Emilia-Rom.,ITA,222
 2224775,IV3NLG,Stradolini Campolongo Al Torre (UD),Friuli Vg,ITA,222
 2224776,IZ2XYA,Baccilieri Pozzuolo Martesana (MI),Lombardia,ITA,222
 2224777,IU2LWA,Vignali Carbonate (CO),Lombardia,ITA,222
@@ -4790,14 +4790,14 @@
 2224790,IN3HIV,Gasser Merano (BZ),Trentino Aa,ITA,222
 2224791,IQ2BJ,Varese Varese (VA),Lombardia,ITA,222
 2224792,IZ2PFV,Stefano Botticino Sera (BS),Lombardia,ITA,222
-2224793,IU4MUV,Franchini Forli  (FC),Emilia-Rom.,ITA,222
+2224793,IU4MUV,Franchini Forli (FC),Emilia-Rom.,ITA,222
 2224794,IW2CKM,Massoni Milano (MI),Lombardia,ITA,222
 2224795,IZ3QFI, Bassano Del Grappa (VI),Veneto,ITA,222
 2224796,IN3IDQ, Predazzo (TN),Trentino Aa,ITA,222
 2224797,IZ3DBB,Danesin Carbonera (TV),Veneto,ITA,222
 2224798,IZ2ZRT,Pizzolato Leggiuno (VA),Lombardia,ITA,222
 2224799,IZ2QDC, Varese (VA),Lombardia,ITA,222
-2224800,IV3IBN,Fabiani Dierico,Friuli Vg,ITA,222
+2224800,IV3IBN,Fabiani no_city,Friuli Vg,ITA,222
 2224801,IZ2RJH,Bedin Valganna (VA),Lombardia,ITA,222
 2224802,IU2MZM,Scorpaniti Desenzano Del Garda (BS),Lombardia,ITA,222
 2224803,IU2MZL, no_city,Lombardia,ITA,222
@@ -4898,7 +4898,7 @@
 2224898,IZ2LRU,Bassetti Medolago (BG),Lombardia,ITA,222
 2224899,IW2ISO,Chiodo Azzio (VA),Lombardia,ITA,222
 2224900,IZ2ZVA,Rodino Bergamo (BG),Lombardia,ITA,222
-2224901,IW2FPK,Maretti Cornate D Adda Mb,Lombardia,ITA,222
+2224901,IW2FPK,Maretti no_city,Lombardia,ITA,222
 2224902,IW2ICW,Consonni Madone (BG),Lombardia,ITA,222
 2224903,IU4DJZ, Loiano (BO),Emilia-Rom.,ITA,222
 2224904,IU3ELI,Barbisan Camposampiero (PD),Veneto,ITA,222
@@ -4989,7 +4989,7 @@
 2224989,IZ1DMA,Fiore Genova (GE),Liguria,ITA,222
 2224990,IZ3ZVM,Mattiolo Albaredo D Adige (VR),Veneto,ITA,222
 2224991,IK2BSJ,Boaga Cassinetta Di Lugagnano (MI),Lombardia,ITA,222
-2224992,IU3KUW,Negrello Ponte S.Nicolo  (PD),Veneto,ITA,222
+2224992,IU3KUW,Negrello Ponte S.Nicolo (PD),Veneto,ITA,222
 2224993,IZ1ERV,Degrandi Torino (TO),Piemonte,ITA,222
 2224994,IW1GCL,Pasquale Torino (TO),Piemonte,ITA,222
 2224995,IW2HVQ,Del Viscio no_city,Lombardia,ITA,222
@@ -5144,7 +5144,7 @@
 2225144,IU5FTX,Cortini Pelago (FI),Toscana,ITA,222
 2225145,IZ5YEO,Benedetti Orbetello (GR),Toscana,ITA,222
 2225146,IZ5ZOA,Genova Massa E Cozzile (PT),Toscana,ITA,222
-2225147,IZ5HLP,Guidi San Momme  (PT),Toscana,ITA,222
+2225147,IZ5HLP,Guidi San Momme (PT),Toscana,ITA,222
 2225148,IU5HIW,Gualdoni Castelnuovo Berardenga (SI),Toscana,ITA,222
 2225149,IW5AMB,Magretti Pontedera (PI),Toscana,ITA,222
 2225150,I5IIL,Cucurnia Fossola (MS),Toscana,ITA,222
@@ -5157,7 +5157,7 @@
 2225157,IK5BCM,Ticci Prato (PO),Toscana,ITA,222
 2225158,IZ5MJQ,Panconi Lucca (LU),Toscana,ITA,222
 2225159,IU5FXW,Marinai Livorno (LI),Toscana,ITA,222
-2225160,IZ5EIS,Depiero Orbetello (GR),Grosseto,ITA,222
+2225160,IZ5EIS,Depiero Orbetello (GR),Toscana,ITA,222
 2225161,IW5EFM,Buselli Montecatini Val Di Cecina (PI),Toscana,ITA,222
 2225162,IZ5RFW,Ceccatelli Prato (PO),Toscana,ITA,222
 2225163,IU5FHF,Rizzardi Porto S.Stefano (GR),Toscana,ITA,222
@@ -5443,7 +5443,7 @@
 2225443,IK5ZTY,Chiti Empoli (FI),Toscana,ITA,222
 2225444,IW5EFX,Bartalucci Siena (SI),Toscana,ITA,222
 2225445,IU5LQS,Durigon Viareggio (LU),Toscana,ITA,222
-2225446,IU5JIJ,Fieraru Versilia,Toscana,ITA,222
+2225446,IU5JIJ,Fieraru no_city,Toscana,ITA,222
 2225447,IZ5TLA,Bulleri Piombino (LI),Toscana,ITA,222
 2225448,IU5MPV,Farese Ponsacco (PI),Toscana,ITA,222
 2225449,IU5MPK,Luca Ponsacco (PI),Toscana,ITA,222
@@ -5573,8 +5573,8 @@
 2225573,IU1NOD,Bortolin Airasca (TO),Piemonte,ITA,222
 2225574,IK1TTD,Benini Arma Di Taggia (IM),Liguria,ITA,222
 2225575,IU2NPX,Calvi Milano (MI),Lombardia,ITA,222
-2225576,IW2OBA, no_city,No_name,ITA,222
-2225577,IT9GOT,Bimbi Paterno  (CT),Sicilia,ITA,222
+2225576,IW2OBA, no_city,Lombardia,ITA,222
+2225577,IT9GOT,Bimbi Paterno (CT),Sicilia,ITA,222
 2225578,IU3NOC,Pozzobon Treviso (TV),Veneto,ITA,222
 2225579,IU5MOY,Godi Tavarnelle Val Di Pesa (FI),Toscana,ITA,222
 2225580,IU2GDD, Cinisello Balsamo (MI),Lombardia,ITA,222
@@ -5588,9 +5588,9 @@
 2225588,IT9IVT,Giunta Leonforte (EN),Sicilia,ITA,222
 2225589,IW1QPQ,Federico Genova (GE),Liguria,ITA,222
 2225590,IU1NSW,Pautasso Valdellatorre (TO),Piemonte,ITA,222
-2225591,IW0HDF, no_city,No_name,ITA,222
+2225591,IW0HDF, no_city,Lazio,ITA,222
 2225592,IW0DYD,Cataldo Fonte Nuova (RM),Lazio,ITA,222
-2225593,IK3CLT,Milani Ponte S.Nicolo  (PD),Veneto,ITA,222
+2225593,IK3CLT,Milani Ponte S.Nicolo (PD),Veneto,ITA,222
 2225594,IU7NMM, Alessano (LE),Puglia,ITA,222
 2225595,IZ4MTH,Baldini Cervia (RA),Emilia-Rom.,ITA,222
 2225596,IZ0YQH,Savelli Terracina (LT),Lazio,ITA,222
@@ -5618,7 +5618,7 @@
 2225618,IK1PYL,Pasqualin Finale Ligure (SV),Liguria,ITA,222
 2225619,IV3BGW,Casco Pasian Di Prato (UD),Friuli Vg,ITA,222
 2225620,IZ0MIJ,Bagnasco Cassino (FR),Lazio,ITA,222
-2225621,IZ8SRV, Santa Maria La Carita  (NA),Campania,ITA,222
+2225621,IZ8SRV, Santa Maria La Carita (NA),Campania,ITA,222
 2225622,IZ1MDC,Bottone Tortona (AL),Piemonte,ITA,222
 2225623,IW4DYR,Guidetti Felina (RE),Emilia-Rom.,ITA,222
 2225624,IZ4BEQ,Ferrarini Castenovo Ne Monti (RE),Emilia-Rom.,ITA,222
@@ -5645,9 +5645,9 @@
 2225645,IZ6JHO,Rausei Grottammare (AP),Marche,ITA,222
 2225646,IZ8TZU,Caivano Potenza (PZ),Basilicata,ITA,222
 2225647,IZ3ZUM,Guarnieri Rovigo (RO),Veneto,ITA,222
-2225648,IZ5WRC,Menchetti Arezzo,Toscana,ITA,222
+2225648,IZ5WRC,Menchetti no_city,Toscana,ITA,222
 2225649,IU5MWX, Grosseto (GR),Toscana,ITA,222
-2225650,IK8FKP,Greco Cosenza,Calabria,ITA,222
+2225650,IK8FKP,Greco no_city,Calabria,ITA,222
 2225651,IW3HKM,Dainese Marghera (VE),Veneto,ITA,222
 2225652,IU2NRZ,Dainese Roncello (MB),Lombardia,ITA,222
 2225653,IZ6TSJ,Artis Falconara Marittima (AN),Marche,ITA,222
@@ -5658,10 +5658,10 @@
 2225658,IK5LWE,Tarli Prato (PO),Toscana,ITA,222
 2225659,IW5DNT,Motolese Barberino Del Mugello (FI),Toscana,ITA,222
 2225660,IW2MMX,Rizzi Brescia (BS),Lombardia,ITA,222
-2225661,IZ4HBF,Maltoni Forli  (FC),Emilia-Rom.,ITA,222
+2225661,IZ4HBF,Maltoni Forli (FC),Emilia-Rom.,ITA,222
 2225662,IZ8NNY,Caivano Avigliano (PZ),Basilicata,ITA,222
-2225663,IZ6RAF,Caivano Campli (TE),Abruzzo,ITA,222
-2225664,IU5MQM,Caivano Monte Argentario (GR),Toscana,ITA,222
+2225663,IZ6RAF, Campli (TE),Abruzzo,ITA,222
+2225664,IU5MQM,Benedetti Monte Argentario (GR),Toscana,ITA,222
 2225665,IU7CMS, Bari (BA),Puglia,ITA,222
 2225666,IZ2SXZ,Trinca Grosotto (SO),Lombardia,ITA,222
 2225667,IW5BUD,Bedessi Scandicci (FI),Toscana,ITA,222
@@ -5672,7 +5672,7 @@
 2225672,IW2LPC,Boldrini Botticino (BS),Lombardia,ITA,222
 2225673,IU0DSZ, no_city,Lazio,ITA,222
 2225674,IW6PIC,Pizzola Pratola Peligna (AQ),Abruzzo,ITA,222
-2225675,IU3MAQ,Berton Fosso  (VE),Veneto,ITA,222
+2225675,IU3MAQ,Berton Fosso (VE),Veneto,ITA,222
 2225676,IK8WTK,Ruggiero Nocera Inferiore (SA),Campania,ITA,222
 2225677,IT9IFD,Ragona Alcamo (TP),Sicilia,ITA,222
 2225678,IU3MCP,Faccin Saonara (PD),Veneto,ITA,222
@@ -5744,7 +5744,7 @@
 2225744,I4AWX,Belvederi Ferrara (FE),Emilia-Rom.,ITA,222
 2225745,IW8RVX,D Aniello Castellammare Di Stabia (NA),Campania,ITA,222
 2225746,IS0LIO,Lissia Cagliari (CA),Sardegna,ITA,222
-2225747,IW0CFZ,Lissia no_city,Sardegna,ITA,222
+2225747,IW0CFZ, no_city,Sardegna,ITA,222
 2225748,IU3NOZ, Mogliano Veneto (TV),Veneto,ITA,222
 2225749,IZ7ECR,Ferrazzano Foggia (FG),Puglia,ITA,222
 2225750,I8VLW, Avellino (AV),Campania,ITA,222
@@ -5752,7 +5752,7 @@
 2225752,IZ8LLT,Mirto Cervinara (AV),Campania,ITA,222
 2225753,IZ8XLY,Chiaro Santarpino (CE),Campania,ITA,222
 2225754,IU7NKX,Bellofatto Candela (FG),Puglia,ITA,222
-2225755,IZ0UHL,Bellofatto no_city,Puglia,ITA,222
+2225755,IZ0UHL,Bellofatto Civitavecchia (RM),Puglia,ITA,222
 2225756,IZ5FJS,Fasser Poppi (AR),Toscana,ITA,222
 2225757,IU2NUO, Cernusco Sul Naviglio (MI),Lombardia,ITA,222
 2225758,IU6DAZ,Luciani Lanciano (CH),Abruzzo,ITA,222
@@ -5771,13 +5771,13 @@
 2225771,IU8NUB,Rosabella Napoli (NA),Campania,ITA,222
 2225772,IW4ASA,Finotti Ferrara (FE),Emilia-Rom.,ITA,222
 2225773,IU3NOJ,Crestani Biella (BI),Piemonte,ITA,222
-2225774,IU3NOI,Crestani no_city,Piemonte,ITA,222
+2225774,IU3NOI,Albarello San Bonifacio (VR),Veneto,ITA,222
 2225775,IK2ZEM,Saponaro Merate (LC),Lombardia,ITA,222
 2225776,IZ8XQY,Mastrobuoni Cerreto Sannita (BN),Campania,ITA,222
 2225777,IZ6MFG, Francavilla Al Mare (CH),Abruzzo,ITA,222
 2225778,IK8YTA,Zampa Napoli (NA),Campania,ITA,222
 2225779,IU5LXN,Donelli Ronchi (MS),Toscana,ITA,222
-2225780,IW3III,Donelli no_city,Toscana,ITA,222
+2225780,IW3III, no_city,Toscana,ITA,222
 2225781,IW2HBW,Scattina Merate (LC),Lombardia,ITA,222
 2225782,IZ0JUB,Hunt Perugia (PG),Umbria,ITA,222
 2225783,IW5DWP,Giraldi Pisa (PI),Toscana,ITA,222
@@ -5792,7 +5792,7 @@
 2225792,IW2DJA,Mondellini Milano (MI),Lombardia,ITA,222
 2225793,IW1CFL,Debandi Givoletto (TO),Piemonte,ITA,222
 2225794,IK1ZYX,Daffara Valenza Po (AL),Piemonte,ITA,222
-2225795,IW2LSA,Daffara Bergamo (BG),Lombardia,ITA,222
+2225795,IW2LSA, Bergamo (BG),Lombardia,ITA,222
 2225796,IT9STG,Antico Trabia (PA),Sicilia,ITA,222
 2225797,IZ0NKA,Botticelli Roma (RM),Lazio,ITA,222
 2225798,IW6NLZ,Ricci Bellante (TE),Abruzzo,ITA,222
@@ -5852,7 +5852,7 @@
 2225852,IK8BPY,Carbonari Caserta (CE),Campania,ITA,222
 2225853,IU3LWK,Fortuna Creazzo (VI),Veneto,ITA,222
 2225854,IU0MXX,Pacicco Perugia (PG),Umbria,ITA,222
-2225855,IZ4DJC,Castellani Forli  (FC),Emilia-Rom.,ITA,222
+2225855,IZ4DJC,Castellani Forli (FC),Emilia-Rom.,ITA,222
 2225856,I1EPJ,Perotti Casale Monferrato (AL),Piemonte,ITA,222
 2225857,I3WXX,Greco Villafranca (VR),Veneto,ITA,222
 2225858,IT9GAW,Fiore Porto Empedocle (AG),Sicilia,ITA,222
@@ -5892,7 +5892,7 @@
 2225892,IW1GFI, Novi Ligure (AL),Piemonte,ITA,222
 2225893,IW6MTO,Angelozzi Teramo (TE),Abruzzo,ITA,222
 2225894,IU2NSF,Capuozzo Curno (BG),Lombardia,ITA,222
-2225895,IU0NIF,Capuozzo no_city,Lombardia,ITA,222
+2225895,IU0NIF, no_city,Lombardia,ITA,222
 2225896,IK2MLV,Lucarelli Gorgonzola (MI),Lombardia,ITA,222
 2225897,IS0FYG, Posada (NU),Sardegna,ITA,222
 2225898,IU6MQL, Montorio Al Vomano (TE),Abruzzo,ITA,222
@@ -5943,7 +5943,7 @@
 2225943,IW9GGY,Fria Mineo (CT),Sicilia,ITA,222
 2225944,IW2IFF,Fria no_city,Sicilia,ITA,222
 2225945,IU3NMF,Molteni Adria (RO),Veneto,ITA,222
-2225946,IU5NGR,Molteni Pescia (PT),Toscana,ITA,222
+2225946,IU5NGR,Dini Pescia (PT),Toscana,ITA,222
 2225947,IZ7GIT,Simonetti Talsano (TA),Puglia,ITA,222
 2225948,IU8JPO,Agati Pozzuoli (NA),Campania,ITA,222
 2225949,IU3ISP,De Dona Belluno (BL),Veneto,ITA,222
@@ -5954,7 +5954,7 @@
 2225954,IZ1HPY, Perosa Argentina (TO),Piemonte,ITA,222
 2225955,IZ4MEH, Sorbolo (PR),Emilia-Rom.,ITA,222
 2225956,IZ1XEE,Ferrua Fossano (CN),Piemonte,ITA,222
-2225957,IU6KQP,Fiordelmondo Jesi(AN),Marche,ITA,222
+2225957,IU6KQP,Fiordelmondo no_city,Marche,ITA,222
 2225958,IW2DKV,Mingozzi Covo (BG),Lombardia,ITA,222
 2225959,IZ5TLQ, Pistoia (PT),Toscana,ITA,222
 2225960,IU2GFH,Gasparri Milano (MI),Lombardia,ITA,222
@@ -5967,7 +5967,7 @@
 2225967,IZ2RPP,Zeni Sumirago (VA),Lombardia,ITA,222
 2225968,IU2NRH, Cilavegna (PV),Lombardia,ITA,222
 2225969,IU3NMO,Filippi Valli Del Pasubio (VI),Veneto,ITA,222
-2225970,IT9ETX,Santagati Motta S. Agata  (CT),Sicilia,ITA,222
+2225970,IT9ETX,Santagati Motta S. Agata (CT),Sicilia,ITA,222
 2225971,IK2TQI,Caimi Villanterio (PV),Lombardia,ITA,222
 2225972,IV3EPC,Lizzi San Daniele Del Friuli (UD),Friuli Vg,ITA,222
 2225973,IU4JGI,Stefano Ferrara (FE),Emilia-Rom.,ITA,222
@@ -5983,7 +5983,7 @@
 2225983,IU7NKN,Masini Lizzano (TA),Puglia,ITA,222
 2225984,IW2NTD,Ursino Milano (MI),Lombardia,ITA,222
 2225985,IK0YKM,Catalano Roma (RM),Lazio,ITA,222
-2225986,IU3NPP, Ponte San Nicolo  (PD),Veneto,ITA,222
+2225986,IU3NPP, Ponte San Nicolo (PD),Veneto,ITA,222
 2225987,IS0MAM,Gobbi Tempio Pausania (SS),Sardegna,ITA,222
 2225988,IZ5DKN,Ciacci Siena (SI),Toscana,ITA,222
 2225989,IT9FZT,Bennici Caltagirone (CT),Sicilia,ITA,222
@@ -6431,7 +6431,7 @@
 2226431,IT9DQF, Palermo (PA),Sicilia,ITA,222
 2226432,IU7KQS,Pennacchio Castellaneta (TA),Puglia,ITA,222
 2226433,IU3NQX,Zarantonello Padova (PD),Veneto,ITA,222
-2226434,IT9ILU,Zarantonello Catania (CT),Sicilia,ITA,222
+2226434,IT9ILU, Catania (CT),Sicilia,ITA,222
 2226435,IT9GQT,Leone Palermo (PA),Sicilia,ITA,222
 2226436,IQ6RS,Roseto Roseto Degli Abruzzi (TE),Abruzzo,ITA,222
 2226437,IT9FEG,Camilleri Catania (CT),Sicilia,ITA,222
@@ -6472,7 +6472,7 @@
 2226472,IU4MRF,Ghiselli Argenta (FE),Emilia-Rom.,ITA,222
 2226473,IU8JUG,Flammia Frigento (AV),Campania,ITA,222
 2226474,IZ5TLK, Firenze (FI),Toscana,ITA,222
-2226475,IZ2WHL,Arena Gambolo  (PV),Lombardia,ITA,222
+2226475,IZ2WHL,Arena Gambolo (PV),Lombardia,ITA,222
 2226476,IZ2KWS,La Torre no_city,Lombardia,ITA,222
 2226477,IZ5RRY, Firenze (FI),Toscana,ITA,222
 2226478,IU3NFO, no_city,Veneto,ITA,222
@@ -6511,7 +6511,7 @@
 2226511,IU5OAW,Bruni Albinia (GR),Toscana,ITA,222
 2226512,IU1MVJ,Calvo Andora (SV),Liguria,ITA,222
 2226513,IU6MUI,Buresta Pesaro (PU),Marche,ITA,222
-2226514,IS0IMA,Buresta Cagliari (CA),Sardegna,ITA,222
+2226514,IS0IMA, Cagliari (CA),Sardegna,ITA,222
 2226515,IW8CYC,Renis Salerno (SA),Campania,ITA,222
 2226516,IT9GJV,Di Blasi San Piero Patti (ME),Sicilia,ITA,222
 2226517,IU3IUZ, Saonara (PD),Veneto,ITA,222
@@ -6599,7 +6599,7 @@
 2226599,IW9DJW, Marsala (TP),Sicilia,ITA,222
 2226600,IT9IEI, no_city,Sicilia,ITA,222
 2226601,IU8DSP,Ceruso Baronissi (SA),Campania,ITA,222
-2226602,IW6PEO,Ceruso no_city,Campania,ITA,222
+2226602,IW6PEO,De Stephanis no_city,Campania,ITA,222
 2226603,I5GVQ,Sabbatini Siena (SI),Toscana,ITA,222
 2226604,IT9OPR,La Rosa Peter Riposto (CT),Sicilia,ITA,222
 2226605,IU3GNQ,Giancarlo Selva Di Progno (VR),Veneto,ITA,222
@@ -6630,7 +6630,7 @@
 2226630,IX1DSY,Bovard Valgrisenche (AO),Valle D Aosta,ITA,222
 2226631,IT9HJH,Di Bartolo Furci Siculo (ME),Sicilia,ITA,222
 2226632,IK1XPK,Bianco Asti (AT),Piemonte,ITA,222
-2226633,IU2OFF,Bianco Milano (MI),Lombardia,ITA,222
+2226633,IU2OFF,Lazzarini Milano (MI),Lombardia,ITA,222
 2226634,IW6PLC,Di Giacomo Citta   Sant Angelo (PE),Abruzzo,ITA,222
 2226635,IU8CWN,Palma Montecorvino Pugliano (SA),Campania,ITA,222
 2226636,IW4EMI,Veronesi Ferrara (FE),Emilia-Rom.,ITA,222
@@ -6666,12 +6666,12 @@
 2226666,IS0GYV,Camedda Cabras (OR),Sardegna,ITA,222
 2226667,IU7DKL, Palo Del Colle (BA),Puglia,ITA,222
 2226668,IZ2JNX,Lauria Milano (MI),Lombardia,ITA,222
-2226669,IW7DR,Lauria Conversano (BA),Puglia,ITA,222
+2226669,IW7DR, Conversano (BA),Puglia,ITA,222
 2226670,IW6MKH, Chieti (CH),Abruzzo,ITA,222
 2226671,IK6STP,Scarponi Pescasseroli (AQ),Abruzzo,ITA,222
 2226672,IW7DNZ, Conversano (BA),Puglia,ITA,222
 2226673,IU8OGE,Tango Napoli (NA),Campania,ITA,222
-2226674,IN3HKF,Tango Albiano (TN),Trentino Aa,ITA,222
+2226674,IN3HKF,Carraro Albiano (TN),Trentino AA,ITA,222
 2226675,IZ2ZQP,Gallo Bergamo (BG),Lombardia,ITA,222
 2226676,IZ1MMV,Bello Torino (TO),Piemonte,ITA,222
 2226677,IU3MOD,Gulli Conegliano (TV),Veneto,ITA,222
@@ -6774,7 +6774,7 @@
 2226774,IZ4ISO,Roberto Ferrara (FE),Emilia-Rom.,ITA,222
 2226775,IU8HOX, Castrolibero (CS),Calabria,ITA,222
 2226776,IK7HTS,Loparco Matera (MT),Basilicata,ITA,222
-2226777,IU8MJN,Loparco Ponte (BN),Campania,ITA,222
+2226777,IU8MJN,Piccirillo Ponte (BN),Campania,ITA,222
 2226778,IU8ALI,De Martino Piano Di Sorrento (NA),Campania,ITA,222
 2226779,IZ5DQK, Scandicci (FI),Toscana,ITA,222
 2226780,IZ0ZBD,Battista Fontana Liri (FR),Lazio,ITA,222
@@ -6798,7 +6798,7 @@
 2226798,IK4NME,Balboni Poggio Renatico (FE),Emilia-Rom.,ITA,222
 2226799,IZ7YFP,Cernuschi Salve (LE),Puglia,ITA,222
 2226800,IW2MVM,Parabiago Parabiago (MI),Lombardia,ITA,222
-2226801,IU3MOO,Parabiago Venezia (VE),Veneto,ITA,222
+2226801,IU3MOO, Venezia (VE),Veneto,ITA,222
 2226802,IZ4AKO,Guerzoni Vigarano Mainarda (FE),Emilia-Rom.,ITA,222
 2226803,IU2OHY,Minneci Gorla Minore (VA),Lombardia,ITA,222
 2226804,IZ4EOX, Parma (PR),Emilia-Rom.,ITA,222
@@ -6809,8 +6809,8 @@
 2226809,IK8SQQ,Buonocore Meta (NA),Campania,ITA,222
 2226810,IK1YFC,Vallone Novi Ligure (AL),Piemonte,ITA,222
 2226811,IZ8VGD,Capasso Mercogliano (AV),Campania,ITA,222
-2226812,IU5OHC,Capasso Firenze (FI),Toscana,ITA,222
-2226813,IU0IAX,Capasso no_city,Toscana,ITA,222
+2226812,IU5OHC,Pucci Firenze (FI),Toscana,ITA,222
+2226813,IU0IAX,Lo Monaco Roma (RM),Lazio,ITA,222
 2226814,IW1BYB,Prati Castellazzo Bormida (AL),Piemonte,ITA,222
 2226815,IK8ULF,Uliano Pompei (NA),Campania,ITA,222
 2226816,IZ5VYR,Agostino Firenze (FI),Toscana,ITA,222
@@ -6822,7 +6822,7 @@
 2226822,IW6PTN,Martini Montesilvano (PE),Abruzzo,ITA,222
 2226823,IW8FAX,Santarcangelo Sant Angelo A Cupolo (BN),Campania,ITA,222
 2226824,IW2NJY,Calabro Calvisano (BS),Lombardia,ITA,222
-2226825,IZ5GYE,Calabro Firenze (FI),Toscana,ITA,222
+2226825,IZ5GYE, Firenze (FI),Toscana,ITA,222
 2226826,IZ5FYC,Nobile Podenzana (MS),Toscana,ITA,222
 2226827,IK5EHI,Tesconi Pietrasanta (LU),Toscana,ITA,222
 2226828,IK4NYV,Camaggi Imola (BO),Emilia-Rom.,ITA,222
@@ -6883,7 +6883,7 @@
 2226883,IU3ELN,Visman Quarto D Altino (VE),Veneto,ITA,222
 2226884,IK2WPZ,Molla Bustro Arsizio (VA),Lombardia,ITA,222
 2226885,IU0ODJ,Veloccia Roma (RM),Lazio,ITA,222
-2226886,IU3OER,Veloccia no_city,Lazio,ITA,222
+2226886,IU3OER, no_city,Veneto,ITA,222
 2226887,IW8PGB,Iaconianni Roggiano Gravina (CS),Calabria,ITA,222
 2226888,IZ8VGY,Ferrara Cardito (NA),Campania,ITA,222
 2226889,IU5MGF,Poggesi San Giovanni Valdarno (AR),Toscana,ITA,222
@@ -6909,7 +6909,7 @@
 2226909,IK8VRO,Lavino Roccarainola (NA),Campania,ITA,222
 2226910,IK7UKJ,Stella Barletta (BT),Puglia,ITA,222
 2226911,IU7IWT,Scarongella Ruvo Di Puglia (BA),Puglia,ITA,222
-2226912,IU5CZS,Tiezzi Chiusi Citta  (SI),Toscana,ITA,222
+2226912,IU5CZS,Tiezzi Chiusi Citta (SI),Toscana,ITA,222
 2226913,IK8YOQ,Mancusi Pompei (NA),Campania,ITA,222
 2226914,IU8OMJ,Pica Trecase (NA),Campania,ITA,222
 2226915,IK8OHC,De Simone Casoria (NA),Campania,ITA,222
@@ -7163,7 +7163,7 @@
 2227163,IW7ECC,Pinto Monopoli (BA),Puglia,ITA,222
 2227164,IW7DVM, Talsano (TA),Puglia,ITA,222
 2227165,IZ7QNH,Losito Gioia Del Colle (BA),Puglia,ITA,222
-2227166,IZ7ZIT,Davide Nardo  (LE),Puglia,ITA,222
+2227166,IZ7ZIT,Davide Nardo (LE),Puglia,ITA,222
 2227167,IZ7NMD,Priore Bitonto (BA),Puglia,ITA,222
 2227168,IZ7DCU,Carlomagno Foggia (FG),Puglia,ITA,222
 2227169,IK7LKD,Barcone Brindisi (BR),Puglia,ITA,222
@@ -7174,9 +7174,9 @@
 2227174,IZ7AUH,Giacoia Taranto (TA),Puglia,ITA,222
 2227175,IU7IFB,Paparella Bari (BA),Puglia,ITA,222
 2227176,IZ7RJT,Aversa Mola Di Bari (BA),Puglia,ITA,222
-2227177,IU7IHG,Margheriti Nardo  (LE),Puglia,ITA,222
+2227177,IU7IHG,Margheriti Nardo (LE),Puglia,ITA,222
 2227178,IW7DBM,Modugno Bitonto (BA),Puglia,ITA,222
-2227179,IZ7ZKB,Nestola Nardo  (LE),Puglia,ITA,222
+2227179,IZ7ZKB,Nestola Nardo (LE),Puglia,ITA,222
 2227180,IZ8GUR,Sguazzo Potenza (PZ),Basilicata,ITA,222
 2227181,IU7HZP,Damiano Canosa Di Puglia (BT),Puglia,ITA,222
 2227182,IZ7BAS,Ruvo Bitonto (BA),Puglia,ITA,222
@@ -7204,7 +7204,7 @@
 2227204,IK7EJT,Moro Taranto (TA),Puglia,ITA,222
 2227205,IK7SUI,Lamanna Taranto (TA),Puglia,ITA,222
 2227206,IZ7UEE,Filippis Taranto (TA),Puglia,ITA,222
-2227207,IU7IQS,Cazzato Nardo  (LE),Puglia,ITA,222
+2227207,IU7IQS,Cazzato Nardo (LE),Puglia,ITA,222
 2227208,I7TTV,Tamburrano Carosino (TA),Puglia,ITA,222
 2227209,IU7IGC,Lopinto Bari (BA),Puglia,ITA,222
 2227210,IK7HPG,Dimitri Talsano (TA),Puglia,ITA,222
@@ -7478,18 +7478,18 @@
 2227478,IU7KKK,Nobile Monteparano (TA),Puglia,ITA,222
 2227479,IZ7RJY,Cicero Martina Franca (TA),Puglia,ITA,222
 2227480,I7XUW,Faggioni Taranto (TA),Puglia,ITA,222
-2227481,IZ7HZU,Zacchino Nardo  (LE),Puglia,ITA,222
+2227481,IZ7HZU,Zacchino Nardo (LE),Puglia,ITA,222
 2227482,IU7LVA,Modugno Bisceglie (BT),Puglia,ITA,222
 2227483,IU7IGO, no_city,Puglia,ITA,222
 2227484,IZ7YKW,Bonvino Bari (BA),Puglia,ITA,222
 2227485,IU7BSH,Carnevale San Severo (FG),Puglia,ITA,222
 2227486,IU7EDW,Corcelli Palese (BA),Puglia,ITA,222
 2227487,IZ7TZG,Daga Cellino San Marco (BR),Puglia,ITA,222
-2227488,IZ7ULA,Pergola Nardo  (LE),Puglia,ITA,222
+2227488,IZ7ULA,Pergola Nardo (LE),Puglia,ITA,222
 2227489,IK7FBK,Donno Maglie (LE),Puglia,ITA,222
 2227490,IZ7OHH,Pascali Castri Di Lecce (LE),Puglia,ITA,222
 2227491,IU7GXL,Favia Bari Palese (BA),Puglia,ITA,222
-2227492,IK7DAS,Bonuso Nardo  (LE),Puglia,ITA,222
+2227492,IK7DAS,Bonuso Nardo (LE),Puglia,ITA,222
 2227493,IZ7XZJ,Zompi Casarano (LE),Puglia,ITA,222
 2227494,IW7AZG,Torres Polignano A Mare (BA),Puglia,ITA,222
 2227495,IK7YZB,Camardi Taranto (TA),Puglia,ITA,222
@@ -7716,7 +7716,7 @@
 2227716,IK8GCU,Gallucci Nola (NA),Campania,ITA,222
 2227717,IU8LNT,Zucaro Caserta (CE),Campania,ITA,222
 2227718,IU0OWQ,Guarino Roma (RM),Lazio,ITA,222
-2227719,IZ2MGN,Meneguz Codogno  (LO),Lombardia,ITA,222
+2227719,IZ2MGN,Meneguz Codogno (LO),Lombardia,ITA,222
 2227720,IU2KMA,Piras Magenta (MI),Lombardia,ITA,222
 2227721,IT9DIL,Redina Palermo (PA),Sicilia,ITA,222
 2227722,IU7FDT,Barbieri Casamassima (BA),Puglia,ITA,222
@@ -7726,7 +7726,7 @@
 2227726,IU2OZE,Bergonzi Pavia (PV),Lombardia,ITA,222
 2227727,IU3OVP,Regio Mestre (VE),Veneto,ITA,222
 2227728,IU0JIK,Moretti Labico (RM),Lazio,ITA,222
-2227729,IZ3KVI,Zanon Lido Di Jesolo  (VE),Veneto,ITA,222
+2227729,IZ3KVI,Zanon Lido Di Jesolo (VE),Veneto,ITA,222
 2227730,IT9DML,Taormina Palermo (PA),Sicilia,ITA,222
 2227731,IZ2RVY,De Filippi Laveno Mombello (VA),Lombardia,ITA,222
 2227732,IK2VOV,Hassan Milano (MI),Lombardia,ITA,222
@@ -7860,7 +7860,7 @@
 2227860,IV3JAC,Girotto Travesio (PN),Friuli Vg,ITA,222
 2227861,IU8OPH,Gioiello Fisciano (SA),Campania,ITA,222
 2227862,IU7OGW,Leoci Monopoli (BA),Puglia,ITA,222
-2227863,IU4NUC,Cangini Forli  (FC),Emilia-Rom.,ITA,222
+2227863,IU4NUC,Cangini Forli (FC),Emilia-Rom.,ITA,222
 2227864,IW0FZP,Colarieti Rieti (RI),Lazio,ITA,222
 2227865,IW7ECA,Lacitignola Monopoli (BA),Puglia,ITA,222
 2227866,IZ6FKV,De Marco Monteprandone (AP),Marche,ITA,222
@@ -7898,7 +7898,7 @@
 2227898,IZ7SIA,Loiodice Bari (BA),Puglia,ITA,222
 2227899,IT9AKJ,Sciuto Palermo (PA),Sicilia,ITA,222
 2227900,IU2ABZ,Grandi Bregnano (CO),Lombardia,ITA,222
-2227901,IW9BZW,Di Girolamo Santa Flavia  (PA),Sicilia,ITA,222
+2227901,IW9BZW,Di Girolamo Santa Flavia (PA),Sicilia,ITA,222
 2227902,IZ8CKX,Giallamine Sessa Aurunca (CE),Campania,ITA,222
 2227903,IK0TLR,Bottone Poggio Moiano (RI),Lazio,ITA,222
 2227904,IU8FUO,Montanaro Napoli (NA),Campania,ITA,222
@@ -7977,7 +7977,7 @@
 2227977,IU0HSP,Scarpelli Roma (RM),Lazio,ITA,222
 2227978,IU2LXR,Ivancic Milano (MI),Lombardia,ITA,222
 2227979,IT9ASQ,Donia San Pier Niceto (ME),Sicilia,ITA,222
-2227980,IW2ISC,Tino Cantu  (CO),Lombardia,ITA,222
+2227980,IW2ISC,Tino Cantu (CO),Lombardia,ITA,222
 2227981,IW9HHR,Santoro Menfi (AG),Sicilia,ITA,222
 2227982,IU7PHR,Doccini Bari (BA),Puglia,ITA,222
 2227983,IW2JBB,Pappalettera Vaprio D Adda (MI),Lombardia,ITA,222
@@ -8550,7 +8550,7 @@
 2228550,IZ8BIB,Mangiola Reggio Calabria (RC),Calabria,ITA,222
 2228551,IZ8AXJ,Pascuzzo Crotone (KR),Calabria,ITA,222
 2228552,IW8PQU,Mancuso Vibo Valentia (VV),Calabria,ITA,222
-2228553,IC8FJX,Buono Serrara,Campania,ITA,222
+2228553,IC8FJX,Buono no_city,Campania,ITA,222
 2228554,IK8VKW,Cupolillo Paola (CS),Calabria,ITA,222
 2228555,IU8LQW,Neemia no_city,Campania,ITA,222
 2228556,IZ8ZZH,Ricucci Rovito (CS),Calabria,ITA,222
@@ -8650,7 +8650,7 @@
 2228650,IZ8EWB,Ferrara Nocera Inferiore (SA),Campania,ITA,222
 2228651,IZ8SZY,Larizza Reggio Calabria (RC),Campania,ITA,222
 2228652,IW8EHK,Formisano Castellammare Di Stabia (NA),Campania,ITA,222
-2228653,IU8FWT, no_city,No_name,ITA,222
+2228653,IU8FWT,Marchio no_city,No_name,ITA,222
 2228654,IW8RSW,Geria Reggio Calabria (RC),Campania,ITA,222
 2228655,IZ8GEX,Ferrentino Castel San Giorgio (SA),Campania,ITA,222
 2228656,IU8AQN,Mignogna Campobasso (CB),Campania,ITA,222
@@ -8710,9 +8710,9 @@
 2228710,IK8TPB,Brancaleone Cosenza (CS),Calabria,ITA,222
 2228711,IU8NFN, Napoli (NA),Campania,ITA,222
 2228712,IW8EDA,Simonetti Piazzolla Di Nola (NA),Campania,ITA,222
-2228713,IK8FLW,Napolitano Crotone Kr,Calabria,ITA,222
+2228713,IK8FLW,Napolitano no_city,Calabria,ITA,222
 2228714,IU8HTG,Ferrigno Acerra (NA),Campania,ITA,222
-2228715,IZ8GEL,De Nicola Palma Campania Naples,Campania,ITA,222
+2228715,IZ8GEL,De Nicola no_city,Campania,ITA,222
 2228716,IU8GTI,Madeo Trebisacce (CS),Calabria,ITA,222
 2228717,IZ8WLZ,Molinari Cosenza (CS),Calabria,ITA,222
 2228718,IW8EXE,Antonio Palma Campania (NA),Campania,ITA,222
@@ -8738,7 +8738,7 @@
 2228738,IU8NLB,Vincenzo Cesa (CE),Campania,ITA,222
 2228739,IU8AEY,Zanni Teano (CE),Campania,ITA,222
 2228740,IZ8STO,Massa Gragnano (NA),Campania,ITA,222
-2228741,IK8OZV,Mone Atripalda,Campania,ITA,222
+2228741,IK8OZV,Mone no_city,Campania,ITA,222
 2228742,IZ8DLJ,Martignetti Avellino (AV),Campania,ITA,222
 2228743,IU8KDW,Sodano Marigliano (NA),Campania,ITA,222
 2228744,IW8EUJ,Di Guida Chiaiano (NA),Campania,ITA,222
@@ -8758,7 +8758,7 @@
 2228758,IU1OLJ,Gallizia Borghetto Santo Spirito (SV),Liguria,ITA,222
 2228759,IZ1ZJD,Nicora Arona (NO),Piemonte,ITA,222
 2228760,IZ1FIK,Bertello Bra (CN),Piemonte,ITA,222
-2228761,IU3OYH,Segala Spinea  (VE),Veneto,ITA,222
+2228761,IU3OYH,Segala Spinea (VE),Veneto,ITA,222
 2228762,I2OIM,Molina Vigevano (PV),Lombardia,ITA,222
 2228763,IU0PFN,Sotgiu Roma (RM),Lazio,ITA,222
 2228764,IZ8FCR,Antonio Locri (RC),Calabria,ITA,222
@@ -8778,7 +8778,7 @@
 2228778,IZ5TJJ,Mori Empoli (FI),Toscana,ITA,222
 2228779,IU2ECN,Dellepiane Lomagna (LC),Lombardia,ITA,222
 2228780,IU2BDZ,Citterio Galbiate (LC),Lombardia,ITA,222
-2228781,IU2ORC,no_name Coccaglio (BS),Lombardia,ITA,222
+2228781,IU2ORC, Coccaglio (BS),Lombardia,ITA,222
 2228782,IZ1NBJ,Renzetti Genova (GE),Liguria,ITA,222
 2228783,IW3RKZ,Tofful Mossa (GO),Friuli Vg,ITA,222
 2228784,IT9XXS,Mazzola Palermo (PA),Sicilia,ITA,222
@@ -8787,6 +8787,19 @@
 2228787,IZ3TCE,Carnielli Spinea (VE),Veneto,ITA,222
 2228788,IU0IAM,Fusco Roma (RM),Lazio,ITA,222
 2228789,IW8FDK,Piano Tufino (NA),Campania,ITA,222
+2228790,IU2PHL, Brescia (BS),Lombardia,ITA,222
+2228791,IU2KBP,Muttoni Lecco (LC),Lombardia,ITA,222
+2228792,IZ7QUI,Francioso Racale (LE),Puglia,ITA,222
+2228793,IZ4VUS,Casetta Ferrara (FE),Emilia-Rom.,ITA,222
+2228794,IU7EKS,Benedetto Alberobello (BA),Puglia,ITA,222
+2228795,IU7EJA,Ciocia Bisceglie (BT),Puglia,ITA,222
+2228796,IU1MUL,Grazzini Torino (TO),Piemonte,ITA,222
+2228797,IU2LXV,Oriani Milano (MI),Lombardia,ITA,222
+2228798,IU0PIE,Cardigni Albano Laziale (RM),Lazio,ITA,222
+2228799,IU4LBS,Giacobbi Novafeltria (PU),Marche,ITA,222
+2228800,IW2LBO,Richiusa Uboldo (VA),Lombardia,ITA,222
+2228801,IZ0IRC,Lombardi Sora (FR),Lazio,ITA,222
+2228802,IZ1TML,Sambri Torino (TO),Piemonte,ITA,222
 2229001,IT9YFO,Benedetto Catania (CT),Sicilia,ITA,222
 2229002,IT9ZON, Catania (CT),Sicilia,ITA,222
 2229003,IT9UUT,Santoro Ispica (RG),Sicilia,ITA,222
@@ -8904,11 +8917,11 @@
 2229115,IW9EPR,Cipolla Catania (CT),Sicilia,ITA,222
 2229116,IQ9YO, Catania (CT),Sicilia,ITA,222
 2229117,IT9GWP,Spasaro Tremestieri Etneo (CT),Sicilia,ITA,222
-2229118,IW9FLS,Distefano Paterno  (CT),Sicilia,ITA,222
+2229118,IW9FLS,Distefano Paterno (CT),Sicilia,ITA,222
 2229119,IT9AOI,Palascino Caltanissetta (CL),Sicilia,ITA,222
 2229120,IT9QIO, Agrigento (AG),Sicilia,ITA,222
 2229121,IT9AGD,Cannoletta Catania (CT),Sicilia,ITA,222
-2229122,IT9FRW,Greco Canicatti  (AG),Sicilia,ITA,222
+2229122,IT9FRW,Greco Canicatti (AG),Sicilia,ITA,222
 2229123,IT9GHW,Bonaventura Fiumefreddo Di Sicilia (CT),Sicilia,ITA,222
 2229124,IW9CJI,Rizzo Palagonia (CT),Sicilia,ITA,222
 2229125,IT9BFZ,Cavallaro Catania (CT),Sicilia,ITA,222
@@ -9096,7 +9109,7 @@
 2229307,IT9LEW,Mastrantonio Palermo (PA),Sicilia,ITA,222
 2229308,IW9GIA,Castelliti Altofonte (PA),Sicilia,ITA,222
 2229309,IQ9IL,R.N.R.E. Carini (PA),Sicilia,ITA,222
-2229310,IT9CIF, Capaci (PA),Sicilia,ITA,222
+2229310,IT9CIF,Pagano Capaci (PA),Sicilia,ITA,222
 2229311,IT9TUL, Caltabellotta (AG),Sicilia,ITA,222
 2229312,IT9BCW,Gaetano Bagheria (PA),Sicilia,ITA,222
 2229313,IT9BOV,Bulla Catania (CT),Sicilia,ITA,222
@@ -9203,7 +9216,7 @@
 2229414,IT9DEA, Palermo (PA),Sicilia,ITA,222
 2229415,IT9DEH, Palermo (PA),Sicilia,ITA,222
 2229416,ID9HFU, Lipari (ME),Sicilia,ITA,222
-2229417,IT9HVU, Canicatti  (AG),Sicilia,ITA,222
+2229417,IT9HVU, Canicatti (AG),Sicilia,ITA,222
 2229418,IT9GUF,Raimondo Modica (RG),Sicilia,ITA,222
 2229419,IT9HOV,Modica Ragusa (RA),Sicilia,ITA,222
 2229420,IT9ICZ, Casteltermini (AG),Sicilia,ITA,222
@@ -9244,7 +9257,7 @@
 2229455,IT9ACC,Donato Messina (ME),Sicilia,ITA,222
 2229456,IT9BDG,Vancardo Palermo (PA),Sicilia,ITA,222
 2229457,IT9FKD,Saetta S.Agata Li Battiati (CT),Sicilia,ITA,222
-2229458,IT9IFM,Ragona Alcamo. Tp,Sicilia,ITA,222
+2229458,IT9IFM,Ragona no_city,Sicilia,ITA,222
 2229459,IT9HHF, Palermo (PA),Sicilia,ITA,222
 2229460,IT9IMJ,Zappala Mascalucia (CT),Sicilia,ITA,222
 2229461,IT9OPJ,Tiralongo Avola (SR),Sicilia,ITA,222
