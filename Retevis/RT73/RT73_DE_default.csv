@@ -341,7 +341,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2620339,DH2OT,Tobias Oest,Koblenz,RP,DEU
 2620340,DO5OLP,Sabine Steinert,Lottorf,SH,DEU
 2620341,DG4FDU,Stefan Klem,Frankenberg,HE,DEU
-2620342,DL5MA,Marcus Goettler,Stuttgart ()),BW,DEU
+2620342,DL5MA,Marcus Goettler,Stuttgart ())),BW,DEU
 2620343,DC2ZC,Karsten Wendland,Bensheim,HE,DEU
 2620344,DK3MC,Mathias Claussen,Alsdorf,NW,DEU
 2620345,DB4HU,Ulrich Cassebohm,Norderstedt,SH,DEU
@@ -1102,7 +1102,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2621100,DK0MOT,Walter-Ulrich Mentzel,Berlin,BE,DEU
 2621101,DM5JS,Achim Schmidt,Hintersee,MV,DEU
 2621102,DO7JMG,Mirko Gotschlich,Berlin,BE,DEU
-2621103,DO5MCE,Thomas Preuss,Frankfurt/o.,BB,DEU
+2621103,DL5MCE,Thomas Preuss,Frankfurt Oder,BB,DEU
 2621104,DL7TRW,Christian Heiler,Beelitz,BB,DEU
 2621105,DO6TOB,Oliver Bracke,Seddiner See,BB,DEU
 2621106,DL2BWO,Wolfgang Bothur,Bernau,BB,DEU
@@ -2059,7 +2059,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2622057,DF3LZ,Roland Proesch,Hamburg,HH,DEU
 2622058,DD8AA,Andreas Alfke,Otterstedt,NI,DEU
 2622059,DG4JC,Juergen Contopidis,Krempermoor,SH,DEU
-2622060,DK7XX,Joerg Lahmann,Feldhorst,SH,DEU
+2622060,DK7XX,No_name ,no_city,,DEU
 2622061,DL1HDL,Hans-Detlef Linke,Luebeck,SH,DEU
 2622062,DD1XV,Manfred Vandersee,Luebeck,SH,DEU
 2622063,DL6XB,Bernhard Klaucke,Hamburg,HH,DEU
@@ -2178,7 +2178,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2622176,DL1SET,Roland Doehring,Husum,SH,DEU
 2622177,DL2HAO,Martin Fritz,Hamburg,HH,DEU
 2622178,DL1END,Nicole Doehring,Eckernfoerde,SH,DEU
-2622179,DK7XX,Joerg Lahmann,Feldhorst,SH,DEU
+2622179,DK7XX,No_name ,no_city,,DEU
 2622180,DK3MD,Andre Boje,Hohenlockstedt,SH,DEU
 2622181,DG6OAY,Frank Pliquett,Kiel,SH,DEU
 2622182,DB5NU,Peter Stangl,Bredstedt,SH,DEU
@@ -2711,7 +2711,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2622709,DJ0MDQ,Erich Kueng,Bad Oldesloe,SH,DEU
 2622710,DC1LV,Torben Andresen,Niebuell,SH,DEU
 2622711,DB9LL,Jens Goerke,Rendsburg,SH,DEU
-2622712,DO1PF,Pascal Pfau,Selent,SH,DEU
+2622712,DH1PV,Pascal Pfau,Selent,SH,DEU
 2622713,DO1DHK,David Hengst,Kiel,SH,DEU
 2622714,DO5WR,Rolf Westphalen,Kiel,SH,DEU
 2622715,DG4LD,Dirk Thomsen,Harrislee,SH,DEU
@@ -4697,7 +4697,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2624695,DL8JM,Ralf Konzelmann,Essen,NW,DEU
 2624696,DL8CF,Christian Freyer,Ahlen,NW,DEU
 2624697,DO1EMC,Mario Ciarrettino,Essen,NW,DEU
-2624698,DO5VS,Volker Schmidt,Marl,NW,DEU
+2624698,DK9BO,Volker Schmidt,Marl,NI,DEU
 2624699,DL2YCP,Heinrich Mueller,Gelsenkirchen,NW,DEU
 2624700,DL2FM,Rudolf Vortkamp,Horstmar,NW,DEU
 2624701,DK8KQ,Otto Dittmar,Siegburg,NW,DEU
@@ -7126,7 +7126,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627124,DL8OBZ,Anton Gold,Biberach,BW,DEU
 2627125,DK5GU,Juergen Borm,Laupheim-Bihlafingen,BW,DEU
 2627126,DO4GME,Michael Elsner,Fluorn-Winzeln,BW,DEU
-2627127,DL1ECN,Hendrik Vink,Bippen ()),NI,DEU
+2627127,DL1ECN,Hendrik Vink,Bippen ())),NI,DEU
 2627128,DO8SRS,Stephan Riedel,Welzheim,BW,DEU
 2627129,DG2GML,Michael Mohn,Riedlingen,BW,DEU
 2627130,DL6TT,Klaus Frietsch,Buehl,BW,DEU
@@ -7320,7 +7320,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627318,DK7UK,Klaus Uecker,Remshalden,BW,DEU
 2627319,DH1GB,Martin Kimmig,Wieden,BW,DEU
 2627320,DG6GU,Oskar Preg,Neuenburg,BW,DEU
-2627321,DO1SPA,Stefan Peiker,Buehl ()),BW,DEU
+2627321,DO1SPA,Stefan Peiker,Buehl ())),BW,DEU
 2627322,DL1UL,Dietmar Krebber,Keltern,BW,DEU
 2627323,DJ7IT,Imre Szabo,Karlsruhe,BW,DEU
 2627324,DG2GC,Christine Gortat,Villingen-Schwenningen,BW,DEU
@@ -7485,7 +7485,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627483,DK4IR,Roland Pfeifle,Pforzheim,BW,DEU
 2627484,DL0HLT,Stefan Baelz,Stuttgart,BW,DEU
 2627485,DL4SAB,Martin Fischer,Plochingen,BW,DEU
-2627486,DK7VK,Ingo Kircher,Gross Krams ()),MV,DEU
+2627486,DK7VK,Ingo Kircher,Gross Krams ())),MV,DEU
 2627487,DL7WEB,Andreas Weber,Allensbach,BW,DEU
 2627488,DJ4PX,Henner Hofmann,Villingen-Schwenningen,BW,DEU
 2627489,DG5SAY,Ralf Irion,Schwaebisch Hall,BW,DEU
@@ -7570,7 +7570,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627568,DO7GK,Daniel Kostritza,Aitern,BW,DEU
 2627569,DF1PK,Herbert Braun,Bad Duerrheim,BW,DEU
 2627570,DL6UO,Joachim Braun,Oehringen,BW,DEU
-2627571,DC1PM,Matthieu Braun,Monschau ()),NW,DEU
+2627571,DC1PM,Matthieu Braun,Monschau ())),NW,DEU
 2627572,DG9SEC,Bernd Gamm,Buehlerzimmern,BW,DEU
 2627573,DG8WM,Werner Mauser,Reutlingen,BW,DEU
 2627574,DG4IT,Herbert Bauer,Karlsruhe,BW,DEU
@@ -7605,7 +7605,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627603,DL1WE,Wolfgang Ellsaesser,Kuenzelsau,BW,DEU
 2627604,DL1IO,Klaus Huebner,Pforzheim,BW,DEU
 2627605,DK7SS,Rudolf Krauss,Gaeufelden,BW,DEU
-2627606,DF2NC,Walter Duschek,Gaertringen,BW,DEU
+2627606,DO7ALX,Alexander Neumann,Ascheberg,NW,DEU
 2627607,DO6RB,Rolf Buerle,Kornwestheim,BW,DEU
 2627608,DC9IK,Richard Groehl,Iffezheim,BW,DEU
 2627609,DF1DA,Gerhard Wagner,Mainhardt-Huetten,BW,DEU
@@ -7635,12 +7635,12 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627633,DO8TIG,Tillmann Gastner,Neckargemuend,BW,DEU
 2627634,DO7WHP,Willy Weinmann,Oberstadion,BW,DEU
 2627635,DK4BX,Erwin Barsch,Hirschberg,BW,DEU
-2627636,DO2KJ,Jannik Kreucher,no_city,,DEU
+2627636,DL4EAM,Wolfgang Wekx,Nettetal ()),NW,DEU
 2627637,DL7KHB,Karl-Heinz Boehm,Wernau,BW,DEU
 2627638,DL5IAL,Siegfried Goelz,Weinheim,BW,DEU
 2627639,DO7ASL,Alexander Schneider,Laufenburg - Grunhol,BW,DEU
 2627640,DJ2WL,Wolfgang Lang,Stuehlingen,BW,DEU
-2627641,DL9SDN,Werner Haas,Kornwestheim,BW,DEU
+2627641,DJ4CC,Markus Epting,Lingenfeld,RP,DEU
 2627642,DB5MW,Matthias Wustlich,Herrenberg,BW,DEU
 2627643,DK5VO,Volker Rehm,no_city,,DEU
 2627644,DL6PP,Andreas Wimmer,Herbrechtingen,BW,DEU
@@ -7670,7 +7670,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627668,DL5SEX,Peter Eichler,Stuttgart,BW,DEU
 2627669,DL4IAZ,Wolfgang Nattermann,Pforzheim,BW,DEU
 2627670,DD7SY,Heinz Geiger,Ludwigsburg,BW,DEU
-2627671,DO2CR,Christoph Richter,Friesenheim,BW,DEU
+2627671,DD7AB,Klaus Wittor,Sickte,NI,DEU
 2627672,DL3SCY,Bernd Schweikert,Heidenheim,BW,DEU
 2627673,DH1GD,Daniel Orb,Biberach,BW,DEU
 2627674,DL1GWR,Wolfgang Riehle,Koenigsfeld,BW,DEU
@@ -7774,14 +7774,14 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627772,DL2DOC,Sebastian Blaesing,Waiblingen,BW,DEU
 2627773,DL8SDC,Manfred Watmann,Benningen,BW,DEU
 2627774,DD1SW,Juergen Stuber,Esslingen,BW,DEU
-2627775,DL9SAW,Erich Stueber,Vaihingen,BW,DEU
+2627775,DO4XX,Manfred Pichel,Bassen,NI,DEU
 2627776,DL0VI,Markus Grimminger,Moegglingen,BW,DEU
 2627777,DK7IT,Manfred Meyer-Burgstahler,Stuttgart,BW,DEU
 2627778,DG4GP,Uwe Ganter,Oberndorf,BW,DEU
 2627779,DL6SW,Wolfgang Hertkorn,Stuttgart,BW,DEU
 2627780,DF3IS,Michael Glaeser,Kuernbach,BW,DEU
 2627781,DL9SFE,Elmar Stein,Lossburg,BW,DEU
-2627782,DO9LT,Oliver no_name,Voehringen,BW,DEU
+2627782,DL2HBJ,Jan Schommer,Luebeck,SH,DEU
 2627783,DO1GTO,Thomas Oldag,Rheinfelden,BW,DEU
 2627784,DL3SDF,Ralf Hellener,Schorndorf,BW,DEU
 2627785,DL1SEV,Axel Conradt,Vaihingen,BW,DEU
@@ -7809,7 +7809,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627807,DG3AL,Axel Lehmann,Freiburg,BW,DEU
 2627808,DL9UM,Bruno Bleier,Karlsruhe,BW,DEU
 2627809,DL1GCD,Michael Braun,Lichtenau,BW,DEU
-2627810,DO5ST,Soeren Timm,Bramsche,NI,DEU
+2627810,DK9MF,Bernhard Fryba,Finsing,BY,DEU
 2627811,DG9GB,Hilmar Bauer,Offenburg,BW,DEU
 2627812,DO3EGI,Eginhard Stumpf,Stuttgart,BW,DEU
 2627813,DG3SGH,Herbert Rupp,Rottenburg,BW,DEU
@@ -7822,7 +7822,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627820,DL5SDI,Harald Kizler,Sachsenheim,BW,DEU
 2627821,DK0HA,Bernd Strobel,Herbrechtingen,BW,DEU
 2627822,DL5SFI,Steffen Kaiser,Leonberg,BW,DEU
-2627823,DO9IZ,Zeki Incedalkesen,Stuttgart,BW,DEU
+2627823,DL2COM,Leopold Von Bismarck,Berlin,BE,DEU
 2627824,DO3HSO,Hartwig Schanzel,Heidenheim,BW,DEU
 2627825,DB7SQ,Thomas Todt,Heidenheim,BW,DEU
 2627826,DF9TZ,Michael Wohlfarth,Schorndorf,BW,DEU
@@ -7878,7 +7878,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627876,DO7IC,Christoph Heinecke,Egenhausen,BW,DEU
 2627877,DB0TOD,Manfred Wissler,Todtnau,BW,DEU
 2627878,DF8GH,Claus Waldraff,Mengen,BW,DEU
-2627879,DO2CR,Christoph Richter,Friesenheim,BW,DEU
+2627879,DG7CMF,Christian Boehnlein,Breitenguessbach,BY,DEU
 2627880,DL3SAO,Gerhard Buck,Ofterdingen,BW,DEU
 2627881,DC1SHM,Michael Hayler,Weinsberg,BW,DEU
 2627882,DO1SF,Franz Senn,Oestringen,BW,DEU
@@ -7928,7 +7928,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627926,DO9WW,Willi Wolber,Donaueschingen,BW,DEU
 2627927,DL2KJ,Juergen Kraft,Schoenwald,BW,DEU
 2627928,DO1PPS,Pierre Sarter,Keltern,BW,DEU
-2627929,DL9SBD,Hans Wieland,Karlsbad,BW,DEU
+2627929,DO1CHR,Christian Wich,Legau,BY,DEU
 2627930,DL2SEK,Michael Matthes,Igersheim,BW,DEU
 2627931,DB9TI,Dieter Theel,Deisslingen,BW,DEU
 2627932,DO4ABC,Andreas Baiker,Illmensee,BW,DEU
@@ -7951,11 +7951,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627949,DL6SCT,Thomas Stocker,Pfullingen,BW,DEU
 2627950,DJ1ST,Sepp Troissler,Seckach,BW,DEU
 2627951,DG4SDS,Dieter Zinser,Gaertringen,BW,DEU
-2627952,DF8TX,Hans-Joachim Kopsch,Pfullingen,BW,DEU
+2627952,DL7SIR,Simon Richter,Berlin,BE,DEU
 2627953,DL5BAK,Ansgar Aubreville,Rohrdorf,BW,DEU
 2627954,DL5EK,Eric Kittel,Rottenburg,BW,DEU
 2627955,DL1YCJ,Robert Macke,Stuttgart,BW,DEU
-2627956,DK0RV,Andreas Gille,Buehl,BW,DEU
+2627956,DO4SKY,Lukas Nowotny,Iserlohn,NW,DEU
 2627957,DF7HH,Horst Hoppe,Ludwigsburg,BW,DEU
 2627958,DD9GC,Brunhilde Dettling,Rottenburg,BW,DEU
 2627959,DD1GT,Karl Dettling,Rottenburg,BW,DEU
@@ -7973,7 +7973,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627971,DH1SBB,Bernd Bross,Westerheim,BW,DEU
 2627972,DL1TXT,Tamara Tetzner,Heidenheim,BW,DEU
 2627973,DL2FHO,Felix Hormuth,Leimen,BW,DEU
-2627974,DO5WF,Wolfgang Freymueller,Neidenstein,BW,DEU
+2627974,DL3FTZ,Andreas Frantzen,Wiesbaden ()),HE,DEU
 2627975,DJ7TH,Rolf Lehmann,Schwanau,BW,DEU
 2627976,DH1GPA,Arno Person,Ringsheim,BW,DEU
 2627977,DB1SO,Franz Reiner,Heidenheim,BW,DEU
@@ -7990,6 +7990,10 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2627988,DL4PIT,Peter Rhein,Calw,BW,DEU
 2627989,DO6HN,Thomas Heiligenmann,Heilbronn,BW,DEU
 2627990,DL7GAQ,Dieter Scherer,Ettenheim,BW,DEU
+2627991,DM6AA,Alan Di Giovanni,Kempen ()),NW,DEU
+2627992,DL1HBT,Thomas Milde,Hamburg,HH,DEU
+2627993,DH2LM,Lukas Michael,Schlettau,SN,DEU
+2627994,DG2MFB,Franz Luft,Bretten,BW,DEU
 2628001,DL1BNO,Bernhard Nordemann,Geiselbach,BY,DEU
 2628002,DL5NBZ,Rainer Floesser,Nuernberg,BY,DEU
 2628003,DK7NKR,Ralf Karbaum,Nuernberg,BY,DEU
@@ -12349,7 +12353,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2638516,DJ6RY,Rudolf Huettner,Amberg,BY,DEU
 2638517,DG5MH,Thomas Haas,Kempten,BY,DEU
 2638518,DJ3MU,Kurt Loupal,Forstern,BY,DEU
-2638519,DL5MA,Marcus Goettler,Stuttgart ()),BW,DEU
+2638519,DL5MA,Marcus Goettler,Stuttgart ())),BW,DEU
 2638520,DD7RN,Bernhard Mayer,Rottenburg,BY,DEU
 2638521,DO9KMM,Emil Kulisch,Regensburg,BY,DEU
 2638522,DL9IGL,Karl-Heinz Fucker,no_city,,DEU

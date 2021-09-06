@@ -28,7 +28,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280026,HB9HIB,Huguenin Villiers,Huguenin,Neuchatel,CHE,228,DMR
 2280027,HB9GUW,Boger Gais (BZ),Boger,Appenzell Outer-Rhodes,CHE,228,DMR
 2280028,HB9MDU,Sibler Ebikon,Sibler,Lucerne,CHE,228,DMR
-2280029,HB9SVQ,Sibler None (TO),Sibler,Piedmont,CHE,228,DMR
+2280029,HB9SVQ,Sibler None,Sibler,,CHE,228,DMR
 2280030,HB9EDN,Oberli Orpund,Oberli,Bern,CHE,228,DMR
 2280031,HB9GNG,Heise Lausanne,Heise,Vaud,CHE,228,DMR
 2280032,HB3XXB,Ruff Bergdietikon,Ruff,Aargau,CHE,228,DMR
@@ -95,6 +95,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280093,HB9HIW,Valle Lian Les Ponts De Martel,Valle Lian,Neuchatel,CHE,228,DMR
 2280094,HB9HIO,Berri Gordola,Berri,Ticino,CHE,228,DMR
 2280095,HB9FGK,Ferrari Chezard St Martin,Ferrari,Neuchatel,CHE,228,DMR
+2280096,HB9EXX,Conus 1418 Vuarrens,Conus,Vaud,CHE,228,DMR
+2280097,HB9TKT,Greber Schaffhausen,Greber,Schaffhausen,CHE,228,DMR
+2280098,HB3XWB,Nussbaum Meilen,Nussbaum,Zurich,CHE,228,DMR
 2281001,HB3YNV,No_name Saint-Cergue,No_name,Waadt,CHE,228,DMR
 2281002,HB3YNV,No_name Saint-Cergue,No_name,Waadt,CHE,228,DMR
 2281003,HB3YNV,No_name Saint-Cergue,No_name,Waadt,CHE,228,DMR
@@ -593,7 +596,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2283207,HB9GUX,Grotemeyer Muensingen / Bern,Grotemeyer,Bern,CHE,228,DMR
 2283208,HB9TKB,Trachsel Steffisburg,Trachsel,Bern,CHE,228,DMR
 2283209,HB9BMR,No_name Gurmels,No_name,No_name,CHE,228,DMR
-2283210,HB9HGU,Gertsch Innertkirchen,Gertsch,Berlin,CHE,228,DMR
+2283210,HB9HGU,Gertsch Innertkirchen,Gertsch,,CHE,228,DMR
 2283211,HB9AOO,Von Escher Ch-3267 Seedorf,Von Escher,No_name,CHE,228,DMR
 2283212,HB9HID,Schnapauff Spiegel Be,Schnapauff,No_name,CHE,228,DMR
 2284001,HB9EMQ,Wetzikon Oberbuchsitten,Wetzikon,Olten,CHE,228,DMR
@@ -1682,154 +1685,155 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2289106,HB9HJQ,Egger Moerschwil,Egger,Stno_info Gallen,CHE,228,DMR
 2289107,HB3XWP,No_name Ganterschwil,No_name,No_name,CHE,228,DMR
 2320010,OE1XAR,Lv Wien Wien,Lv Wien,WIEN,AUT,232,DMR
-2320011,OE5XWM,Wels Wels,Wels,KAERNTEN,AUT,232,DMR
-2320012,OE8WUK,Unterberger Klagenfurt,Unterberger,KAERNTEN,AUT,232,DMR
-2320013,OE9MNR,Mohr Wolfurt,Mohr,VORARLBERG,AUT,232,DMR
+2320011,OE5XWM,Wels Wels,Wels,KTN,AUT,232,DMR
+2320012,OE8WUK,Unterberger Klagenfurt,Unterberger,KTN,AUT,232,DMR
+2320013,OE9MNR,Mohr Wolfurt,Mohr,VBG,AUT,232,DMR
 2320014,OE1VAP,Varga Wien,Varga,WIEN,AUT,232,DMR
-2320015,OE4EWN,Wagner Buchschachen,Wagner,BURGENLAND,AUT,232,DMR
-2320016,OE3KUS,Stueckler Litschau,Stueckler,NIEDEROESTERREICH,AUT,232,DMR
-2320017,OE3KJO,Klug Krems,Klug,NIEDEROESTERREICH,AUT,232,DMR
-2320018,OE3FXN,Bauer St. Pantaleon,Bauer,NIEDEROESTERREICH,AUT,232,DMR
+2320015,OE4EWN,Wagner Buchschachen,Wagner,BGLD,AUT,232,DMR
+2320016,OE3KUS,Stueckler Litschau,Stueckler,NOE,AUT,232,DMR
+2320017,OE3KJO,Klug Krems,Klug,NOE,AUT,232,DMR
+2320018,OE3FXN,Bauer St. Pantaleon,Bauer,NOE,AUT,232,DMR
 2320019,OE1DAL,Weidlich Wien,Weidlich,WIEN,AUT,232,DMR
-2320020,OE3FLZ,Laschitz Giesshuebl,Laschitz,NIEDEROESTERREICH,AUT,232,DMR
+2320020,OE3FLZ,Laschitz Giesshuebl,Laschitz,NOE,AUT,232,DMR
 2320021,OE1MSC,Stejskal Wien,Stejskal,WIEN,AUT,232,DMR
-2320022,OE3DOC,Ottendorfer Wiener Neudorf,Ottendorfer,NIEDEROESTERREICH,AUT,232,DMR
-2320023,OE3NFS,Weinert Wiener Neudorf,Weinert,NIEDEROESTERREICH,AUT,232,DMR
-2320024,OE6BER,Fuchs Graz,Fuchs,STEIERMARK,AUT,232,DMR
-2320025,OE9PKV,Pfister Bludesch,Pfister,VORARLBERG,AUT,232,DMR
-2320026,OE9PKV,Pfister Bludesch,Pfister,VORARLBERG,AUT,232,DMR
-2320027,OE9PKV,Pfister Bludesch,Pfister,VORARLBERG,AUT,232,DMR
-2320028,OE3GWA,Gromek Strasshof,Gromek,OBEROESTERREICH,AUT,232,DMR
-2320029,OE5JMO,Moeseneder Neuhofen,Moeseneder,STEIERMARK,AUT,232,DMR
-2320030,OE6GLD,Gugimaier Mitterdorf,Gugimaier,KAERNTEN,AUT,232,DMR
+2320022,OE3DOC,Ottendorfer Wiener Neudorf,Ottendorfer,NOE,AUT,232,DMR
+2320023,OE3NFS,Weinert Wiener Neudorf,Weinert,NOE,AUT,232,DMR
+2320024,OE6BER,Fuchs Graz,Fuchs,STMK,AUT,232,DMR
+2320025,OE9PKV,Pfister Bludesch,Pfister,VBG,AUT,232,DMR
+2320026,OE9PKV,Pfister Bludesch,Pfister,VBG,AUT,232,DMR
+2320027,OE9PKV,Pfister Bludesch,Pfister,VBG,AUT,232,DMR
+2320028,OE3GWA,Gromek Strasshof,Gromek,OOE,AUT,232,DMR
+2320029,OE5JMO,Moeseneder Neuhofen,Moeseneder,STMK,AUT,232,DMR
+2320030,OE6GLD,Gugimaier Mitterdorf,Gugimaier,KTN,AUT,232,DMR
 2320031,OE7ICH,Bartenstein Breitenwang,Bartenstein,TIROL,AUT,232,DMR
-2320032,OE100CQB,Boehm Gars,Boehm,NIEDEROESTERREICH,AUT,232,DMR
+2320032,OE100CQB,Boehm Gars,Boehm,NOE,AUT,232,DMR
 2320033,OE7TRT,Riegler Amlach,Riegler,TIROL,AUT,232,DMR
-2320034,OE6TZD,Ziegler Mitterdorf An der Raab,Ziegler,STEIERMARK,AUT,232,DMR
-2320035,OE5URM,Flattinger Neumarkt,Flattinger,OBEROESTERREICH,AUT,232,DMR
+2320034,OE6TZD,Ziegler Mitterdorf An der Raab,Ziegler,STMK,AUT,232,DMR
+2320035,OE5URM,Flattinger Neumarkt,Flattinger,OOE,AUT,232,DMR
 2320036,OE1KLA,Veigl Wien,Veigl,WIEN,AUT,232,DMR
 2320037,OE7MAH,Ambach Schwaz,Ambach,TIROL,AUT,232,DMR
 2320038,OE1GIU,Rohringer Wien,Rohringer,WIEN,AUT,232,DMR
-2320039,OE3BMW,Mayr Maria Enzersdorf,Mayr,NIEDEROESTERREICH,AUT,232,DMR
-2320040,OE5GKL,Koblmiller Schoerfling,Koblmiller,OBEROESTERREICH,AUT,232,DMR
-2320041,OE2AXL,Martens Groedig,Martens,SALZBURG,AUT,232,DMR
-2320042,OE3VYB,Mick Bad Voeslau,Mick,NIEDEROESTERREICH,AUT,232,DMR
-2320043,OE3YLR,Rentmeister Neulengbach,Rentmeister,NIEDEROESTERREICH,AUT,232,DMR
+2320039,OE3BMW,Mayr Maria Enzersdorf,Mayr,NOE,AUT,232,DMR
+2320040,OE5GKL,Koblmiller Schoerfling,Koblmiller,OOE,AUT,232,DMR
+2320041,OE2AXL,Martens Groedig,Martens,SBG,AUT,232,DMR
+2320042,OE3VYB,Mick Bad Voeslau,Mick,NOE,AUT,232,DMR
+2320043,OE3YLR,Rentmeister Neulengbach,Rentmeister,NOE,AUT,232,DMR
 2320044,OE7HDJ,Huber Pill,Huber,TIROL,AUT,232,DMR
-2320045,OE1EKG,Grabler Wien,Grabler,NIEDEROESTERREICH,AUT,232,DMR
+2320045,OE1EKG,Grabler Wien,Grabler,NOE,AUT,232,DMR
 2320046,OE1DWD,Dusek Wien,Dusek,WIEN,AUT,232,DMR
-2320047,OE5HNG,Hangl Tumeltsham,Hangl,OBEROESTERREICH,AUT,232,DMR
-2320048,OE9KHJ,Haemmerle Dornbirn,Haemmerle,VORARLBERG,AUT,232,DMR
-2320049,OE2LRO,Leyendecker Hallwang,Leyendecker,SALZBURG,AUT,232,DMR
-2320050,OE3TFA,Fuchs Sigmundsherberg,Fuchs,NIEDEROESTERREICH,AUT,232,DMR
-2320051,OE5DXR,Neumueller Hochburg,Neumueller,OBEROESTERREICH,AUT,232,DMR
-2320052,OE6MBG,Schwab Mooskirchen,Schwab,STEIERMARK,AUT,232,DMR
+2320047,OE5HNG,Hangl Tumeltsham,Hangl,OOE,AUT,232,DMR
+2320048,OE9KHJ,Haemmerle Dornbirn,Haemmerle,VBG,AUT,232,DMR
+2320049,OE2LRO,Leyendecker Hallwang,Leyendecker,SBG,AUT,232,DMR
+2320050,OE3TFA,Fuchs Sigmundsherberg,Fuchs,NOE,AUT,232,DMR
+2320051,OE5DXR,Neumueller Hochburg,Neumueller,OOE,AUT,232,DMR
+2320052,OE6MBG,Schwab Mooskirchen,Schwab,STMK,AUT,232,DMR
 2320053,OE1HSX,Schuetzner Wien,Schuetzner,WIEN,AUT,232,DMR
-2320054,OE5XLM,Oberoesterreichischer Amateurfunkverband Leonding,Oberoesterreichischer Amateurfunkverband,OBEROESTERREICH,AUT,232,DMR
+2320054,OE5XLM,Oberoesterreichischer Amateurfunkverband Leonding,Oberoesterreichischer Amateurfunkverband,OOE,AUT,232,DMR
 2320055,OE1OGU,Ofner Wien,Ofner,WIEN,AUT,232,DMR
 2320056,OE1SGU,Gruensteidl Wien,Gruensteidl,WIEN,AUT,232,DMR
 2320057,OE1DTS,Wittmann Wien,Wittmann,WIEN,AUT,232,DMR
-2320058,OE6JCG,Ecker Kirchberg/raab,Ecker,STEIERMARK,AUT,232,DMR
-2320059,OE9XFP,Vorarlberg Bludesch,Vorarlberg,VORARLBERG,AUT,232,DMR
-2320060,OE4NKP,Klatt Purbach am Neusiedlersee,Klatt,BURGENLAND,AUT,232,DMR
+2320058,OE6JCG,Ecker Kirchberg/raab,Ecker,STMK,AUT,232,DMR
+2320059,OE9XFP,Vorarlberg Bludesch,Vorarlberg,VBG,AUT,232,DMR
+2320060,OE4NKP,Klatt Purbach am Neusiedlersee,Klatt,BGLD,AUT,232,DMR
 2320061,OE1LEJ,Lewin Wien,Lewin,WIEN,AUT,232,DMR
-2320062,OE5XKO,Oberoesterreichischer Amateurfunkverband Leonding,Oberoesterreichischer Amateurfunkverband,OBEROESTERREICH,AUT,232,DMR
-2320063,OE3ECR,Eckl Ebreichsdorf,Eckl,NIEDEROESTERREICH,AUT,232,DMR
-2320064,OE5JML,Marschitz Enns,Marschitz,OBEROESTERREICH,AUT,232,DMR
-2320065,OE5DMM,Melcher Leonstein,Melcher,OBEROESTERREICH,AUT,232,DMR
-2320066,OE6ALK,Koprivnjak Graz,Koprivnjak,STEIERMARK,AUT,232,DMR
-2320067,OE9BKJ,Battlogg Lauterach,Battlogg,VORARLBERG,AUT,232,DMR
-2320068,OE6EBF,Baeck Neudau,Baeck,STEIERMARK,AUT,232,DMR
-2320069,OE3SGU,Gruensteidl St. Georgen am Reith,Gruensteidl,NIEDEROESTERREICH,AUT,232,DMR
-2320070,OE2WHP,Weiss Hallwang,Weiss,SALZBURG,AUT,232,DMR
+2320062,OE5XKO,Oberoesterreichischer Amateurfunkverband Leonding,Oberoesterreichischer Amateurfunkverband,OOE,AUT,232,DMR
+2320063,OE3ECR,Eckl Ebreichsdorf,Eckl,NOE,AUT,232,DMR
+2320064,OE5JML,Marschitz Enns,Marschitz,OOE,AUT,232,DMR
+2320065,OE5DMM,Melcher Leonstein,Melcher,OOE,AUT,232,DMR
+2320066,OE6ALK,Koprivnjak Graz,Koprivnjak,STMK,AUT,232,DMR
+2320067,OE9BKJ,Battlogg Lauterach,Battlogg,VBG,AUT,232,DMR
+2320068,OE6EBF,Baeck Neudau,Baeck,STMK,AUT,232,DMR
+2320069,OE3SGU,Gruensteidl St. Georgen am Reith,Gruensteidl,NOE,AUT,232,DMR
+2320070,OE2WHP,Weiss Hallwang,Weiss,SBG,AUT,232,DMR
 2320071,OE1ZZZ,Sparky Wien,Sparky,WIEN,AUT,232,DMR
 2320072,4U1A,Club Wien,Club,WIEN,AUT,232,DMR
 2320073,OE7REG,Werlberger Kufstein,Werlberger,TIROL,AUT,232,DMR
-2320074,OE9KBV,Koch Bludenz ())),Koch,VORARLBERG,AUT,232,DMR
-2320075,OE5SEG,Schirghuber Steyr,Schirghuber,OBEROESTERREICH,AUT,232,DMR
-2320076,OE5EIL,Meindl Steyr ())),Meindl,OBEROESTERREICH,AUT,232,DMR
-2320077,OE9XXK,Feldkirch Feldkirch ())),Feldkirch,VORARLBERG,AUT,232,DMR
-2320078,OE9XRK,Vorarlberg Feldkirch ())),Vorarlberg,VORARLBERG,AUT,232,DMR
+2320074,OE9KBV,Koch Bludenz ())),Koch,VBG,AUT,232,DMR
+2320075,OE5SEG,Schirghuber Steyr,Schirghuber,OOE,AUT,232,DMR
+2320076,OE5EIL,Meindl Steyr ())),Meindl,OOE,AUT,232,DMR
+2320077,OE9XXK,Feldkirch Feldkirch ())),Feldkirch,VBG,AUT,232,DMR
+2320078,OE9XRK,Vorarlberg Feldkirch ())),Vorarlberg,VBG,AUT,232,DMR
 2320079,OE7MFI,Millinger Sankt Ulrich am Pillersee,Millinger,TIROL,AUT,232,DMR
-2320080,OE4DJN,Jeitler Neustift An der Lafnitz ())),Jeitler,BURGENLAND,AUT,232,DMR
-2320081,OE3SMA,Maderner Poysbrunn,Maderner,NIEDEROESTERREICH,AUT,232,DMR
-2320082,OE3DWE,Wesseli Laaben,Wesseli,NIEDEROESTERREICH,AUT,232,DMR
+2320080,OE4DJN,Jeitler Neustift An der Lafnitz ())),Jeitler,BGLD,AUT,232,DMR
+2320081,OE3SMA,Maderner Poysbrunn,Maderner,NOE,AUT,232,DMR
+2320082,OE3DWE,Wesseli Laaben,Wesseli,NOE,AUT,232,DMR
 2320083,OE1UHA,Hirsch Wien,Hirsch,WIEN,AUT,232,DMR
-2320084,OE3ANC,Schmidberger Traisen,Schmidberger,NIEDEROESTERREICH,AUT,232,DMR
-2320085,OE3KAR,Kreutzwiesner Korneuburg ())),Kreutzwiesner,NIEDEROESTERREICH,AUT,232,DMR
-2320086,OE2PDR,Berger Neumarkt am Wallersee,Berger,SALZBURG,AUT,232,DMR
-2320087,OE6WPR,Predikaka Raaba-Grambach,Predikaka,STEIERMARK,AUT,232,DMR
-2320088,OE6CPJ,Predikaka Raaba-Grambach,Predikaka,STEIERMARK,AUT,232,DMR
-2320089,OE3SHH,Holzer Strasshof An der Nordbahn,Holzer,NIEDEROESTERREICH,AUT,232,DMR
+2320084,OE3ANC,Schmidberger Traisen,Schmidberger,NOE,AUT,232,DMR
+2320085,OE3KAR,Kreutzwiesner Korneuburg ())),Kreutzwiesner,NOE,AUT,232,DMR
+2320086,OE2PDR,Berger Neumarkt am Wallersee,Berger,SBG,AUT,232,DMR
+2320087,OE6WPR,Predikaka Raaba-Grambach,Predikaka,STMK,AUT,232,DMR
+2320088,OE6CPJ,Predikaka Raaba-Grambach,Predikaka,STMK,AUT,232,DMR
+2320089,OE3SHH,Holzer Strasshof An der Nordbahn,Holzer,NOE,AUT,232,DMR
 2320090,OE1KGR,Koderhold Wien ())),Koderhold,WIEN,AUT,232,DMR
-2320091,OE3GUA,Mauerkirchner Neulengbach,Mauerkirchner,NIEDEROESTERREICH,AUT,232,DMR
+2320091,OE3GUA,Mauerkirchner Neulengbach,Mauerkirchner,NOE,AUT,232,DMR
 2320092,OE1FWU,Wendl Wien ())),Wendl,WIEN,AUT,232,DMR
-2320093,OE6ELY,Kanitsch Gratwein,Kanitsch,STEIERMARK,AUT,232,DMR
+2320093,OE6ELY,Kanitsch Gratwein,Kanitsch,STMK,AUT,232,DMR
 2320094,OE1PBR,Brader Wien,Brader,WIEN,AUT,232,DMR
-2320095,OE5HRP,Schneider Bad Hall ())),Schneider,OBEROESTERREICH,AUT,232,DMR
-2320096,OE6XRH,Helsinki Graz ())),Helsinki,STEIERMARK,AUT,232,DMR
-2320097,OE5FAQ,Falkner Linz,Falkner,KAERNTEN,AUT,232,DMR
-2320098,OE8SSR,Schumach Voelkermarkt,Schumach,KAERNTEN,AUT,232,DMR
-2320099,OE6NOA,Krasser Graz,Krasser,STEIERMARK,AUT,232,DMR
-2320100,OE8III,Kraushofer Feldkirchen,Kraushofer,KAERNTEN,AUT,232,DMR
+2320095,OE5HRP,Schneider Bad Hall ())),Schneider,OOE,AUT,232,DMR
+2320096,OE6XRH,Helsinki Graz ())),Helsinki,STMK,AUT,232,DMR
+2320097,OE5FAQ,Falkner Linz,Falkner,KTN,AUT,232,DMR
+2320098,OE8SSR,Schumach Voelkermarkt,Schumach,KTN,AUT,232,DMR
+2320099,OE6NOA,Krasser Graz,Krasser,STMK,AUT,232,DMR
+2320100,OE8III,Kraushofer Feldkirchen,Kraushofer,KTN,AUT,232,DMR
 2320101,OE1ARR,Adamczyk Wien,Adamczyk,WIEN,AUT,232,DMR
-2320102,OE5DMF,Flattinger Hofkirchen An der Trattnach,Flattinger,OBEROESTERREICH,AUT,232,DMR
+2320102,OE5DMF,Flattinger Hofkirchen An der Trattnach,Flattinger,OOE,AUT,232,DMR
 2320103,OE1EMP,Ertl Wien,Ertl,WIEN,AUT,232,DMR
-2320104,OE5FLG,Greindl Gallspach,Greindl,OBEROESTERREICH,AUT,232,DMR
-2320105,OE8CRK,Camaur Spittal An der Drau,Camaur,KAERNTEN,AUT,232,DMR
-2320106,OE4GKB,Goeringer Eisenstadt,Goeringer,BURGENLAND,AUT,232,DMR
+2320104,OE5FLG,Greindl Gallspach,Greindl,OOE,AUT,232,DMR
+2320105,OE8CRK,Camaur Spittal An der Drau,Camaur,KTN,AUT,232,DMR
+2320106,OE4GKB,Goeringer Eisenstadt,Goeringer,BGLD,AUT,232,DMR
 2320107,OE7BMR,Moser Abfaltersbach,Moser,TIROL,AUT,232,DMR
-2320108,OE6XFX,Graz Graz,Graz,STEIERMARK,AUT,232,DMR
-2320109,OE8YCK,Kamnik Klagenfurt,Kamnik,KAERNTEN,AUT,232,DMR
-2320110,OE8YMW,Wallner no_city,Wallner,KAERNTEN,AUT,232,DMR
-2320111,OE8KFS,Remschnig no_city,Remschnig,KAERNTEN,AUT,232,DMR
-2320112,OE6UPH,Koller Lassnitzthal,Koller,STEIERMARK,AUT,232,DMR
+2320108,OE6XFX,Graz Graz,Graz,STMK,AUT,232,DMR
+2320109,OE8YCK,Kamnik Klagenfurt,Kamnik,KTN,AUT,232,DMR
+2320110,OE8YMW,Wallner no_city,Wallner,KTN,AUT,232,DMR
+2320111,OE8KFS,Remschnig no_city,Remschnig,KTN,AUT,232,DMR
+2320112,OE6UPH,Koller Lassnitzthal,Koller,STMK,AUT,232,DMR
 2320113,OE1RSP,Scheuringer Wien ())),Scheuringer,WIEN,AUT,232,DMR
-2320114,OE3RCB,Bergmann Tulln,Bergmann,NIEDEROESTERREICH,AUT,232,DMR
-2320115,OE5GVE,Pridal Timelkam,Pridal,OBEROESTERREICH,AUT,232,DMR
-2320116,OE5GQQ,Scherrer Steyr,Scherrer,OBEROESTERREICH,AUT,232,DMR
+2320114,OE3RCB,Bergmann Tulln,Bergmann,NOE,AUT,232,DMR
+2320115,OE5GVE,Pridal Timelkam,Pridal,OOE,AUT,232,DMR
+2320116,OE5GQQ,Scherrer Steyr,Scherrer,OOE,AUT,232,DMR
 2320117,OE1ASC,Tonda Vienna,Tonda,WIEN,AUT,232,DMR
-2320118,OE5FFE,Hager Eggelsberg,Hager,OBEROESTERREICH,AUT,232,DMR
-2320119,OE6AOF,Fischer Mureck,Fischer,STEIERMARK,AUT,232,DMR
-2320120,OE3BIO,Mitterer Brunn am Gebirge,Mitterer,NIEDEROESTERREICH,AUT,232,DMR
-2320121,OE4HUF,Hausenbiegl Raiding,Hausenbiegl,BURGENLAND,AUT,232,DMR
-2320122,OE3RKR,Kargl Enikelberg,Kargl,NIEDEROESTERREICH,AUT,232,DMR
-2320123,OE3HLR,Loibner Grosrust,Loibner,NOEH,AUT,232,DMR
-2320124,OE3SGQ,Sattler Traisen,Sattler,NIEDEROESTERREICH,AUT,232,DMR
+2320118,OE5FFE,Hager Eggelsberg,Hager,OOE,AUT,232,DMR
+2320119,OE6AOF,Fischer Mureck,Fischer,STMK,AUT,232,DMR
+2320120,OE3BIO,Mitterer Brunn am Gebirge,Mitterer,NOE,AUT,232,DMR
+2320121,OE4HUF,Hausenbiegl Raiding,Hausenbiegl,BGLD,AUT,232,DMR
+2320122,OE3RKR,Kargl Enikelberg,Kargl,NOE,AUT,232,DMR
+2320123,OE3HLR,Loibner Grosrust,Loibner,NOE,AUT,232,DMR
+2320124,OE3SGQ,Sattler Traisen,Sattler,NOE,AUT,232,DMR
 2320125,OE7LUP,Possenig Nussdorf-Debant,Possenig,TIROL,AUT,232,DMR
-2320126,OE2LBC,Starlinger Dienten,Starlinger,SALZBURG,AUT,232,DMR
-2320127,OE6AOD,Anderle Sankt Stefan,Anderle,STEIERMARK,AUT,232,DMR
-2320128,OE6PAY,Payer Kalsdorf,Payer,STEIERMARK,AUT,232,DMR
-2320129,OE5HOR,Hoertenhummer Ohlsdorf,Hoertenhummer,OBEROESTERREICH,AUT,232,DMR
+2320126,OE2LBC,Starlinger Dienten,Starlinger,SBG,AUT,232,DMR
+2320127,OE6AOD,Anderle Sankt Stefan,Anderle,STMK,AUT,232,DMR
+2320128,OE6PAY,Payer Kalsdorf,Payer,STMK,AUT,232,DMR
+2320129,OE5HOR,Hoertenhummer Ohlsdorf,Hoertenhummer,OOE,AUT,232,DMR
 2320130,OE6CHD,Dallermassl Graz,Dallermassl,NO_NAME,AUT,232,DMR
-2320131,OE5WEO,Wessely Voecklabruck,Wessely,OBEROESTERREICH,AUT,232,DMR
+2320131,OE5WEO,Wessely Voecklabruck,Wessely,OOE,AUT,232,DMR
 2320132,OE7PHT,Plank Silz,Plank,TIROL,AUT,232,DMR
-2320133,OE5PBO,Baumgartl Pinsdorf,Baumgartl,OBEROESTERREICH,AUT,232,DMR
-2320134,OE8AIF,Hackl Spittal An der Drau,Hackl,KAERNTEN,AUT,232,DMR
-2320135,OE5WAQ,Weinzierl Wels,Weinzierl,KAERNTEN,AUT,232,DMR
-2320136,OE5GZM,Grabensteiner Linz,Grabensteiner,KAERNTEN,AUT,232,DMR
-2320137,OE6TNO,Amlacher Graz,Amlacher,STEIERMARK,AUT,232,DMR
-2320138,OE6SCE,Schweinzger Heimschuh,Schweinzger,STEIERMARK,AUT,232,DMR
-2320139,OE5BNM,Brade Linz,Brade,OBEROESTERREICH,AUT,232,DMR
-2320140,OE5VLM,Lorenz Kirchheim,Lorenz,OBEROESTERREICH,AUT,232,DMR
+2320133,OE5PBO,Baumgartl Pinsdorf,Baumgartl,OOE,AUT,232,DMR
+2320134,OE8AIF,Hackl Spittal An der Drau,Hackl,KTN,AUT,232,DMR
+2320135,OE5WAQ,Weinzierl Wels,Weinzierl,KTN,AUT,232,DMR
+2320136,OE5GZM,Grabensteiner Linz,Grabensteiner,KTN,AUT,232,DMR
+2320137,OE6TNO,Amlacher Graz,Amlacher,STMK,AUT,232,DMR
+2320138,OE6SCE,Schweinzger Heimschuh,Schweinzger,STMK,AUT,232,DMR
+2320139,OE5BNM,Brade Linz,Brade,OOE,AUT,232,DMR
+2320140,OE5VLM,Lorenz Kirchheim,Lorenz,OOE,AUT,232,DMR
 2320141,OE1TOW,Angermayer Wien,Angermayer,WIEN,AUT,232,DMR
-2320142,OE6NPC,Pratl Rohrbach An der Lafnitz,Pratl,STEIERMARK,AUT,232,DMR
-2320143,OE3WNS,Weidinger Fischamend Markt,Weidinger,NIEDEROESTERREICH,AUT,232,DMR
+2320142,OE6NPC,Pratl Rohrbach An der Lafnitz,Pratl,STMK,AUT,232,DMR
+2320143,OE3WNS,Weidinger Fischamend Markt,Weidinger,NOE,AUT,232,DMR
 2320144,OE1JTW,Turner Wien,Turner,WIEN,AUT,232,DMR
-2320145,OE3MLA,Martini Neu-Oberhausen,Martini,NIEDEROESTERREICH,AUT,232,DMR
+2320145,OE3MLA,Martini Neu-Oberhausen,Martini,NOE,AUT,232,DMR
 2320146,OE1MPX,Pusch Wien,Pusch,WIEN,AUT,232,DMR
 2320147,OE1WTR,Trauner Wien,Trauner,WIEN,AUT,232,DMR
-2320148,OE2SLR,Lettmann Salzburg,Lettmann,SALZBURG,AUT,232,DMR
-2320149,OE8MKQ,Kornhoff Feldkirchen ())),Kornhoff,KAERNTEN,AUT,232,DMR
-2320150,OE2DOK,Egger Piesendorf,Egger,SALZBURG,AUT,232,DMR
-2320151,OE3CVC,Vasak Brunn am Gebirge ())),Vasak,NIEDEROESTERREICH,AUT,232,DMR
-2320152,OE5EBI,Pulz Bad Hall,Pulz,OBEROESTERREICH,AUT,232,DMR
-2320153,OE5BUC,Buchegger Linz ())),Buchegger,OBEROESTERREICH,AUT,232,DMR
-2320154,OE5CSF,Schauer Holzhausen,Schauer,SALZBURG,AUT,232,DMR
-2320155,OE5DJU,Jungwirth Friedburg,Jungwirth,OBEROESTERREICH,AUT,232,DMR
-2320156,OE3DEU,Ujvari Sankt Poelten ()),Ujvari,NOE,AUT,232,DMR
+2320148,OE2SLR,Lettmann Salzburg,Lettmann,SBG,AUT,232,DMR
+2320149,OE8MKQ,Kornhoff Feldkirchen ())),Kornhoff,KTN,AUT,232,DMR
+2320150,OE2DOK,Egger Piesendorf,Egger,SBG,AUT,232,DMR
+2320151,OE3CVC,Vasak Brunn am Gebirge ())),Vasak,NOE,AUT,232,DMR
+2320152,OE5EBI,Pulz Bad Hall,Pulz,OOE,AUT,232,DMR
+2320153,OE5BUC,Buchegger Linz ())),Buchegger,OOE,AUT,232,DMR
+2320154,OE5CSF,Schauer Holzhausen,Schauer,SBG,AUT,232,DMR
+2320155,OE5DJU,Jungwirth Friedburg,Jungwirth,OOE,AUT,232,DMR
+2320156,OE3DEU,Ujvari Sankt Poelten ())),Ujvari,NOE,AUT,232,DMR
 2320157,OE7SCT,Scheiber Laengenfeld,Scheiber,TIROL,AUT,232,DMR
 2320158,OE1DXS,Schoen Wien,Schoen,WIEN,AUT,232,DMR
+2320159,OE2SZP,Szelp Puch Bei Hallein,Szelp,SBG,AUT,232,DMR
 2321001,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321002,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321003,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
@@ -1926,7 +1930,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321094,OE1HAW,Alberer Hans Wien,Alberer Hans,WIEN,AUT,232,DMR
 2321095,OE1ABS,Boehler Wien,Boehler,WIEN,AUT,232,DMR
 2321096,OE1YXS,Bachschwell Wien,Bachschwell,WIEN,AUT,232,DMR
-2321097,OE4DEA,No_name no_city,No_name,BURGENLAND,AUT,232,DMR
+2321097,OE4DEA,No_name no_city,No_name,BGLD,AUT,232,DMR
 2321098,OE1PSW,no_name Wien,no_name,WIEN,AUT,232,DMR
 2321099,OE1AMA,no_name Wien,no_name,WIEN,AUT,232,DMR
 2321100,OE1ROC,Raul Wien,Raul,WIEN,AUT,232,DMR
@@ -2099,7 +2103,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321267,OE1WAA,Wacek Wien,Wacek,WIEN,AUT,232,DMR
 2321268,OE1UNS,Ungar Wien,Ungar,WIEN,AUT,232,DMR
 2321269,OE1MHZ,No_name no_city,No_name,WIEN,AUT,232,DMR
-2321270,OE1OEE,Majcher Wien,Majcher,NIEDEROESTERREICH,AUT,232,DMR
+2321270,OE1OEE,Majcher Wien,Majcher,NOE,AUT,232,DMR
 2321271,OE1VEP,Veress Wien,Veress,WIEN,AUT,232,DMR
 2321272,OE1ITE,No_name no_city,No_name,WIEN,AUT,232,DMR
 2321273,OE1WDH,No_name no_city,No_name,WIEN,AUT,232,DMR
@@ -2120,936 +2124,936 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2321305,OE1IFM,Frauscher Wien,Frauscher,WIEN,AUT,232,DMR
 2321306,OE1VRA,Romberger Wien,Romberger,WIEN,AUT,232,DMR
 2321333,OE1TRB,Titz Wien,Titz,WIEN,AUT,232,DMR
-2322001,OE2AIP,Aigner Salzburg,Aigner,SALZBURG,AUT,232,DMR
-2322002,OE2WAO,Wedl Michael Obertrum am See,Wedl Michael,SALZBURG,AUT,232,DMR
-2322003,OE2KLM,Klima Saalfelden am Steinernen Meer,Klima,SALZBURG,AUT,232,DMR
-2322004,OE2IKN,Koenig St.Gilgen,Koenig,SALZBURG,AUT,232,DMR
+2322001,OE2AIP,Aigner Salzburg,Aigner,SBG,AUT,232,DMR
+2322002,OE2WAO,Wedl Michael Obertrum am See,Wedl Michael,SBG,AUT,232,DMR
+2322003,OE2KLM,Klima Saalfelden am Steinernen Meer,Klima,SBG,AUT,232,DMR
+2322004,OE2IKN,Koenig St.Gilgen,Koenig,SBG,AUT,232,DMR
 2322005,OE2XIL,no_name St. Gilgen,no_name,SBG,AUT,232,DMR
 2322006,OE2XXM,no_name St. Gilgen,no_name,SBG,AUT,232,DMR
-2322007,OE2WIO,Wittig Werfen,Wittig,SALZBURG,AUT,232,DMR
-2322008,OE2CER,Ekkerman Ronald Johannes Lungoetz,Ekkerman Ronald Johannes,SALZBURG,AUT,232,DMR
-2322009,OE2RPL,Rubenzer Salzburg,Rubenzer,SALZBURG,AUT,232,DMR
+2322007,OE2WIO,Wittig Werfen,Wittig,SBG,AUT,232,DMR
+2322008,OE2CER,Ekkerman Ronald Johannes Lungoetz,Ekkerman Ronald Johannes,SBG,AUT,232,DMR
+2322009,OE2RPL,Rubenzer Salzburg,Rubenzer,SBG,AUT,232,DMR
 2322010,OE2CEN,no_name Obertrum am See,no_name,SBG,AUT,232,DMR
-2322011,OE2JHN,Neulinger Salzburg,Neulinger,SALZBURG,AUT,232,DMR
-2322012,OE2FKM,Krahbichler Maishofen,Krahbichler,SALZBURG,AUT,232,DMR
-2322013,OE2HPO,Ploderer Bad Gastein,Ploderer,SALZBURG,AUT,232,DMR
-2322014,OE2HPO,Ploderer Bad Gastein,Ploderer,SALZBURG,AUT,232,DMR
+2322011,OE2JHN,Neulinger Salzburg,Neulinger,SBG,AUT,232,DMR
+2322012,OE2FKM,Krahbichler Maishofen,Krahbichler,SBG,AUT,232,DMR
+2322013,OE2HPO,Ploderer Bad Gastein,Ploderer,SBG,AUT,232,DMR
+2322014,OE2HPO,Ploderer Bad Gastein,Ploderer,SBG,AUT,232,DMR
 2322015,OE2WPX,no_name no_city,no_name,SBG,AUT,232,DMR
-2322016,OE2MLP,Laubichler Salzburg,Laubichler,SALZBURG,AUT,232,DMR
-2322017,OE2MKR,Krainer Sankt Johann im Pongau,Krainer,SALZBURG,AUT,232,DMR
-2322018,OE2TRM,Rothschopf Wolfgang St.Michael/lg.,Rothschopf Wolfgang,SALZBURG,AUT,232,DMR
-2322019,OE2HRO,Rescher Salzburg,Rescher,SALZBURG,AUT,232,DMR
-2322020,OE2WAM,Willinger Salzburg,Willinger,SALZBURG,AUT,232,DMR
-2322021,OE2ANP,Naissar Saalfelden am Steinernen Meer,Naissar,SALZBURG,AUT,232,DMR
-2322022,OE2IGL,Ihninger Salzburg,Ihninger,SALZBURG,AUT,232,DMR
-2322023,OE2TXN,Scheuringer Thomas Salzburg,Scheuringer Thomas,SALZBURG,AUT,232,DMR
-2322024,OE2MAL,Liebminger Markus Seeham,Liebminger Markus,SALZBURG,AUT,232,DMR
+2322016,OE2MLP,Laubichler Salzburg,Laubichler,SBG,AUT,232,DMR
+2322017,OE2MKR,Krainer Sankt Johann im Pongau,Krainer,SBG,AUT,232,DMR
+2322018,OE2TRM,Rothschopf Wolfgang St.Michael/lg.,Rothschopf Wolfgang,SBG,AUT,232,DMR
+2322019,OE2HRO,Rescher Salzburg,Rescher,SBG,AUT,232,DMR
+2322020,OE2WAM,Willinger Salzburg,Willinger,SBG,AUT,232,DMR
+2322021,OE2ANP,Naissar Saalfelden am Steinernen Meer,Naissar,SBG,AUT,232,DMR
+2322022,OE2IGL,Ihninger Salzburg,Ihninger,SBG,AUT,232,DMR
+2322023,OE2TXN,Scheuringer Thomas Salzburg,Scheuringer Thomas,SBG,AUT,232,DMR
+2322024,OE2MAL,Liebminger Markus Seeham,Liebminger Markus,SBG,AUT,232,DMR
 2322025,OE2TXO,no_name no_city,no_name,SBG,AUT,232,DMR
-2322026,OE2XAL,Lv Wals,Lv,SALZBURG,AUT,232,DMR
-2322027,OE2ANP,Naissar Saalfelden am Steinernen Meer,Naissar,SALZBURG,AUT,232,DMR
-2322028,OE2KTO,Krznar Muhr,Krznar,SALZBURG,AUT,232,DMR
-2322029,OE2KTO,Krznar Muhr,Krznar,SALZBURG,AUT,232,DMR
-2322030,OE2GXL,Schwank Thalgau,Schwank,SALZBURG,AUT,232,DMR
-2322031,OE2AYM,Lassacher St.Martin,Lassacher,SALZBURG,AUT,232,DMR
-2322032,OE2XOD,Lv Sankt Michael im Lungau,Lv,SALZBURG,AUT,232,DMR
-2322033,OE2ROL,Kaiser Hallein,Kaiser,SALZBURG,AUT,232,DMR
-2322034,OE2KGO,Kofler Salzburg,Kofler,SALZBURG,AUT,232,DMR
-2322035,OE2EZM,Ernsting Salzburg,Ernsting,SALZBURG,AUT,232,DMR
-2322036,OE2TST,Stahf Salzburg,Stahf,SALZBURG,AUT,232,DMR
-2322037,OE2JKN,Kainz Bischofshofen,Kainz,SALZBURG,AUT,232,DMR
-2322038,OE2RXN,Hoffmann Wagrain,Hoffmann,SALZBURG,AUT,232,DMR
+2322026,OE2XAL,Lv Wals,Lv,SBG,AUT,232,DMR
+2322027,OE2ANP,Naissar Saalfelden am Steinernen Meer,Naissar,SBG,AUT,232,DMR
+2322028,OE2KTO,Krznar Muhr,Krznar,SBG,AUT,232,DMR
+2322029,OE2KTO,Krznar Muhr,Krznar,SBG,AUT,232,DMR
+2322030,OE2GXL,Schwank Thalgau,Schwank,SBG,AUT,232,DMR
+2322031,OE2AYM,Lassacher St.Martin,Lassacher,SBG,AUT,232,DMR
+2322032,OE2XOD,Lv Sankt Michael im Lungau,Lv,SBG,AUT,232,DMR
+2322033,OE2ROL,Kaiser Hallein,Kaiser,SBG,AUT,232,DMR
+2322034,OE2KGO,Kofler Salzburg,Kofler,SBG,AUT,232,DMR
+2322035,OE2EZM,Ernsting Salzburg,Ernsting,SBG,AUT,232,DMR
+2322036,OE2TST,Stahf Salzburg,Stahf,SBG,AUT,232,DMR
+2322037,OE2JKN,Kainz Bischofshofen,Kainz,SBG,AUT,232,DMR
+2322038,OE2RXN,Hoffmann Wagrain,Hoffmann,SBG,AUT,232,DMR
 2322039,OE2FGP,no_name Salzburg,no_name,SBG,AUT,232,DMR
 2322040,OE2HIT,no_name no_city,no_name,SBG,AUT,232,DMR
 2322041,OE2TXO,no_name no_city,no_name,SBG,AUT,232,DMR
-2322042,OE2YYL,Kaiser Andrea Hallein,Kaiser Andrea,SALZBURG,AUT,232,DMR
+2322042,OE2YYL,Kaiser Andrea Hallein,Kaiser Andrea,SBG,AUT,232,DMR
 2322043,OE2CRP,no_name no_city,no_name,SBG,AUT,232,DMR
-2322044,OE2FEP,Einboeck Wals,Einboeck,SALZBURG,AUT,232,DMR
-2322045,OE2FAO,Freudenschuss Salzburg,Freudenschuss,SALZBURG,AUT,232,DMR
-2322046,OE2CRT,Auer Bsichofshofen,Auer,SALZBURG,AUT,232,DMR
-2322047,OE2HEM,Eckel Kuchl,Eckel,SALZBURG,AUT,232,DMR
-2322048,OE2IJL,Illmer Hallein,Illmer,SALZBURG,AUT,232,DMR
-2322049,OE2RNM,Ranggetiner Salzburg,Ranggetiner,SALZBURG,AUT,232,DMR
-2322050,OE2KNN,Kreuzer Uttendorf,Kreuzer,SALZBURG,AUT,232,DMR
-2322051,OE2ADE,Andreas Schwarzach,Andreas,SALZBURG,AUT,232,DMR
-2322052,OE2AKO,Messner Salzburg,Messner,SALZBURG,AUT,232,DMR
+2322044,OE2FEP,Einboeck Wals,Einboeck,SBG,AUT,232,DMR
+2322045,OE2FAO,Freudenschuss Salzburg,Freudenschuss,SBG,AUT,232,DMR
+2322046,OE2CRT,Auer Bsichofshofen,Auer,SBG,AUT,232,DMR
+2322047,OE2HEM,Eckel Kuchl,Eckel,SBG,AUT,232,DMR
+2322048,OE2IJL,Illmer Hallein,Illmer,SBG,AUT,232,DMR
+2322049,OE2RNM,Ranggetiner Salzburg,Ranggetiner,SBG,AUT,232,DMR
+2322050,OE2KNN,Kreuzer Uttendorf,Kreuzer,SBG,AUT,232,DMR
+2322051,OE2ADE,Andreas Schwarzach,Andreas,SBG,AUT,232,DMR
+2322052,OE2AKO,Messner Salzburg,Messner,SBG,AUT,232,DMR
 2322053,OE2PAX,no_name no_city,no_name,SBG,AUT,232,DMR
-2322054,OE2SCJ,Schoenauer Golling An der Salzach,Schoenauer,SALZBURG,AUT,232,DMR
-2322055,OE2TVL,Weissenbacher Altenmarkt/pg,Weissenbacher,SALZBURG,AUT,232,DMR
-2322056,OE2LAT,Klima Saalfelden am Steinernen Meer,Klima,SALZBURG,AUT,232,DMR
-2322057,OE2RDO,Damisch Wals-Siezenheim,Damisch,SALZBURG,AUT,232,DMR
-2322058,OE2PFN,Poehr Salzburg,Poehr,SALZBURG,AUT,232,DMR
-2322059,OE2VPK,Pflugbeil Zederhaus,Pflugbeil,SALZBURG,AUT,232,DMR
-2322060,OE2FGI,Fuchs Saalfelden am Steinernen Meer,Fuchs,SALZBURG,AUT,232,DMR
-2322061,OE2SPN,Schlieff Obertrum,Schlieff,SALZBURG,AUT,232,DMR
-2323001,OE3OLU,Lang Klosterneuburg,Lang,NIEDEROESTERREICH,AUT,232,DMR
-2323002,OE3OLU,Lang Klosterneuburg,Lang,NIEDEROESTERREICH,AUT,232,DMR
-2323003,OE3RGB,Gangl Heidenreichstein,Gangl,NIEDEROESTERREICH,AUT,232,DMR
-2323004,OE3MFC,Gangl Heidenreichstein,Gangl,NIEDEROESTERREICH,AUT,232,DMR
-2323005,OE3OLU,Lang Klosterneuburg,Lang,NIEDEROESTERREICH,AUT,232,DMR
-2323006,OE3OLU,Lang Klosterneuburg,Lang,NIEDEROESTERREICH,AUT,232,DMR
-2323007,OE3XHA,Amateurfunkclub - Heidenreichstein Heidenreichstein,Amateurfunkclub - Heidenreichstein,NIEDEROESTERREICH,AUT,232,DMR
-2323008,OE3BUB,Buchta Gerasdorf,Buchta,NIEDEROESTERREICH,AUT,232,DMR
-2323009,OE3DAS,Schlager Deutsch-Wagram,Schlager,NIEDEROESTERREICH,AUT,232,DMR
-2323010,OE3LKW,Ludwig Krems An der Donau,Ludwig,NIEDEROESTERREICH,AUT,232,DMR
-2323011,OE3BLS,Janc Bruck An der Leitha,Janc,NIEDEROESTERREICH,AUT,232,DMR
-2323012,OE3ANW,Ebert Waidhofen An der Ybbs,Ebert,NIEDEROESTERREICH,AUT,232,DMR
-2323013,OE3MNS,Nimpfer Kreuth,Nimpfer,NIEDEROESTERREICH,AUT,232,DMR
-2323014,OE3VPA,Poik Gmuend,Poik,NIEDEROESTERREICH,AUT,232,DMR
-2323015,OE3AKB,Schlicksbier Oberwoelbling,Schlicksbier,NIEDEROESTERREICH,AUT,232,DMR
-2323016,OE3WGU,Weber Schloss Rosenau,Weber,NIEDEROESTERREICH,AUT,232,DMR
-2323017,OE3CVS,Vuleta Korneuburg,Vuleta,NIEDEROESTERREICH,AUT,232,DMR
-2323018,OE3MAS,Medek Sankt Poelten,Medek,NIEDEROESTERREICH,AUT,232,DMR
+2322054,OE2SCJ,Schoenauer Golling An der Salzach,Schoenauer,SBG,AUT,232,DMR
+2322055,OE2TVL,Weissenbacher Altenmarkt/pg,Weissenbacher,SBG,AUT,232,DMR
+2322056,OE2LAT,Klima Saalfelden am Steinernen Meer,Klima,SBG,AUT,232,DMR
+2322057,OE2RDO,Damisch Wals-Siezenheim,Damisch,SBG,AUT,232,DMR
+2322058,OE2PFN,Poehr Salzburg,Poehr,SBG,AUT,232,DMR
+2322059,OE2VPK,Pflugbeil Zederhaus,Pflugbeil,SBG,AUT,232,DMR
+2322060,OE2FGI,Fuchs Saalfelden am Steinernen Meer,Fuchs,SBG,AUT,232,DMR
+2322061,OE2SPN,Schlieff Obertrum,Schlieff,SBG,AUT,232,DMR
+2323001,OE3OLU,Lang Klosterneuburg,Lang,NOE,AUT,232,DMR
+2323002,OE3OLU,Lang Klosterneuburg,Lang,NOE,AUT,232,DMR
+2323003,OE3RGB,Gangl Heidenreichstein,Gangl,NOE,AUT,232,DMR
+2323004,OE3MFC,Gangl Heidenreichstein,Gangl,NOE,AUT,232,DMR
+2323005,OE3OLU,Lang Klosterneuburg,Lang,NOE,AUT,232,DMR
+2323006,OE3OLU,Lang Klosterneuburg,Lang,NOE,AUT,232,DMR
+2323007,OE3XHA,Amateurfunkclub - Heidenreichstein Heidenreichstein,Amateurfunkclub - Heidenreichstein,NOE,AUT,232,DMR
+2323008,OE3BUB,Buchta Gerasdorf,Buchta,NOE,AUT,232,DMR
+2323009,OE3DAS,Schlager Deutsch-Wagram,Schlager,NOE,AUT,232,DMR
+2323010,OE3LKW,Ludwig Krems An der Donau,Ludwig,NOE,AUT,232,DMR
+2323011,OE3BLS,Janc Bruck An der Leitha,Janc,NOE,AUT,232,DMR
+2323012,OE3ANW,Ebert Waidhofen An der Ybbs,Ebert,NOE,AUT,232,DMR
+2323013,OE3MNS,Nimpfer Kreuth,Nimpfer,NOE,AUT,232,DMR
+2323014,OE3VPA,Poik Gmuend,Poik,NOE,AUT,232,DMR
+2323015,OE3AKB,Schlicksbier Oberwoelbling,Schlicksbier,NOE,AUT,232,DMR
+2323016,OE3WGU,Weber Schloss Rosenau,Weber,NOE,AUT,232,DMR
+2323017,OE3CVS,Vuleta Korneuburg,Vuleta,NOE,AUT,232,DMR
+2323018,OE3MAS,Medek Sankt Poelten,Medek,NOE,AUT,232,DMR
 2323019,OE3RVU,no_name no_city,no_name,NOE,AUT,232,DMR
-2323020,OE3ANU,Karner Moedling,Karner,NIEDEROESTERREICH,AUT,232,DMR
-2323021,OE3NEC,Nechvatal Gedersdorf,Nechvatal,NIEDEROESTERREICH,AUT,232,DMR
+2323020,OE3ANU,Karner Moedling,Karner,NOE,AUT,232,DMR
+2323021,OE3NEC,Nechvatal Gedersdorf,Nechvatal,NOE,AUT,232,DMR
 2323022,OE3NAU,no_name Perchtoldsdorf,no_name,NOE,AUT,232,DMR
-2323023,OE3CDW,Digruber Sankt Poelten,Digruber,NIEDEROESTERREICH,AUT,232,DMR
-2323024,OE3FHU,Hochwallner Ulmerfeld-Hausmening-Neufurth,Hochwallner,NIEDEROESTERREICH,AUT,232,DMR
-2323025,OE3CHC,Hammerl Klosterneuburg,Hammerl,NIEDEROESTERREICH,AUT,232,DMR
-2323026,OE3JOA,Sodeck Sankt Poelten,Sodeck,NIEDEROESTERREICH,AUT,232,DMR
-2323027,OE3SUW,Riesenhuber Rotheau,Riesenhuber,NIEDEROESTERREICH,AUT,232,DMR
-2323028,OE3MHU,Hladil Klosterneuburg,Hladil,NIEDEROESTERREICH,AUT,232,DMR
-2323029,OE3KNC,Leonhartsberger-Kneth Gedersdorf,Leonhartsberger-Kneth,NIEDEROESTERREICH,AUT,232,DMR
+2323023,OE3CDW,Digruber Sankt Poelten,Digruber,NOE,AUT,232,DMR
+2323024,OE3FHU,Hochwallner Ulmerfeld-Hausmening-Neufurth,Hochwallner,NOE,AUT,232,DMR
+2323025,OE3CHC,Hammerl Klosterneuburg,Hammerl,NOE,AUT,232,DMR
+2323026,OE3JOA,Sodeck Sankt Poelten,Sodeck,NOE,AUT,232,DMR
+2323027,OE3SUW,Riesenhuber Rotheau,Riesenhuber,NOE,AUT,232,DMR
+2323028,OE3MHU,Hladil Klosterneuburg,Hladil,NOE,AUT,232,DMR
+2323029,OE3KNC,Leonhartsberger-Kneth Gedersdorf,Leonhartsberger-Kneth,NOE,AUT,232,DMR
 2323030,OE3ZK,no_name Klosterneuburg,no_name,NOE,AUT,232,DMR
-2323031,OE3OSB,Varga Obersiebenbrunn,Varga,NIEDEROESTERREICH,AUT,232,DMR
+2323031,OE3OSB,Varga Obersiebenbrunn,Varga,NOE,AUT,232,DMR
 2323032,OE3SBU,no_name no_city,no_name,NOE,AUT,232,DMR
-2323033,OE3FPA,Popp Heidenreichstein,Popp,NIEDEROESTERREICH,AUT,232,DMR
-2323034,OE3IGW,Gabler Litschau,Gabler,NIEDEROESTERREICH,AUT,232,DMR
+2323033,OE3FPA,Popp Heidenreichstein,Popp,NOE,AUT,232,DMR
+2323034,OE3IGW,Gabler Litschau,Gabler,NOE,AUT,232,DMR
 2323035,OE3AAG,no_name Heidenreichstein,no_name,NOE,AUT,232,DMR
-2323036,OE3DJB,Jagsch Zwettl,Jagsch,NIEDEROESTERREICH,AUT,232,DMR
-2323037,OE3SCC,Schoerg Korneuburg,Schoerg,NIEDEROESTERREICH,AUT,232,DMR
-2323038,OE3SCC,Schoerg Korneuburg,Schoerg,NIEDEROESTERREICH,AUT,232,DMR
-2323039,OE3WFC,Fallmann Stockerau,Fallmann,NIEDEROESTERREICH,AUT,232,DMR
+2323036,OE3DJB,Jagsch Zwettl,Jagsch,NOE,AUT,232,DMR
+2323037,OE3SCC,Schoerg Korneuburg,Schoerg,NOE,AUT,232,DMR
+2323038,OE3SCC,Schoerg Korneuburg,Schoerg,NOE,AUT,232,DMR
+2323039,OE3WFC,Fallmann Stockerau,Fallmann,NOE,AUT,232,DMR
 2323040,OE3XMB,no_name Stockerau,no_name,NOE,AUT,232,DMR
-2323041,OE3AAS,Gheorghe Korneuburg,Gheorghe,NIEDEROESTERREICH,AUT,232,DMR
-2323042,OE3PVC,Halvorsen Peter Schwechat,Halvorsen Peter,NIEDEROESTERREICH,AUT,232,DMR
-2323043,OE3AKB,Schlicksbier Oberwoelbling,Schlicksbier,NIEDEROESTERREICH,AUT,232,DMR
-2323044,OE3KNU,Neubauer Allentsteig,Neubauer,NIEDEROESTERREICH,AUT,232,DMR
-2323045,OE3MUC,Dirlinger Krems-Egelsee,Dirlinger,NIEDEROESTERREICH,AUT,232,DMR
-2323046,OE3JOA,Sodeck Sankt Poelten,Sodeck,NIEDEROESTERREICH,AUT,232,DMR
-2323047,OE3BHC,Hahn Herzogenburg,Hahn,NIEDEROESTERREICH,AUT,232,DMR
-2323048,OE3JBS,Bibrlik St Poelten-Har,Bibrlik,NIEDEROESTERREICH,AUT,232,DMR
-2323049,OE3RPU,Pfeffer Moenichkirchen,Pfeffer,NIEDEROESTERREICH,AUT,232,DMR
-2323050,OE3JBS,Bibrlik St Poelten-Har,Bibrlik,NIEDEROESTERREICH,AUT,232,DMR
-2323051,OE3ERR,Erlmoser Leopoldsdorf im Marchfelde,Erlmoser,NIEDEROESTERREICH,AUT,232,DMR
-2323052,OE3FPA,Popp Heidenreichstein,Popp,NIEDEROESTERREICH,AUT,232,DMR
-2323053,OE3KDS,Schweighofer Enzersfeld,Schweighofer,NIEDEROESTERREICH,AUT,232,DMR
-2323054,OE3BSU,Stoecklmayr Kritzendorf,Stoecklmayr,NIEDEROESTERREICH,AUT,232,DMR
-2323055,OE3NOB,Novak Sankt Poelten,Novak,NIEDEROESTERREICH,AUT,232,DMR
-2323056,OE3FRU,Rodinger Nagelberg,Rodinger,NIEDEROESTERREICH,AUT,232,DMR
+2323041,OE3AAS,Gheorghe Korneuburg,Gheorghe,NOE,AUT,232,DMR
+2323042,OE3PVC,Halvorsen Peter Schwechat,Halvorsen Peter,NOE,AUT,232,DMR
+2323043,OE3AKB,Schlicksbier Oberwoelbling,Schlicksbier,NOE,AUT,232,DMR
+2323044,OE3KNU,Neubauer Allentsteig,Neubauer,NOE,AUT,232,DMR
+2323045,OE3MUC,Dirlinger Krems-Egelsee,Dirlinger,NOE,AUT,232,DMR
+2323046,OE3JOA,Sodeck Sankt Poelten,Sodeck,NOE,AUT,232,DMR
+2323047,OE3BHC,Hahn Herzogenburg,Hahn,NOE,AUT,232,DMR
+2323048,OE3JBS,Bibrlik St Poelten-Har,Bibrlik,NOE,AUT,232,DMR
+2323049,OE3RPU,Pfeffer Moenichkirchen,Pfeffer,NOE,AUT,232,DMR
+2323050,OE3JBS,Bibrlik St Poelten-Har,Bibrlik,NOE,AUT,232,DMR
+2323051,OE3ERR,Erlmoser Leopoldsdorf im Marchfelde,Erlmoser,NOE,AUT,232,DMR
+2323052,OE3FPA,Popp Heidenreichstein,Popp,NOE,AUT,232,DMR
+2323053,OE3KDS,Schweighofer Enzersfeld,Schweighofer,NOE,AUT,232,DMR
+2323054,OE3BSU,Stoecklmayr Kritzendorf,Stoecklmayr,NOE,AUT,232,DMR
+2323055,OE3NOB,Novak Sankt Poelten,Novak,NOE,AUT,232,DMR
+2323056,OE3FRU,Rodinger Nagelberg,Rodinger,NOE,AUT,232,DMR
 2323057,OE3CMW,no_name Grosebersdorf,no_name,NOE,AUT,232,DMR
-2323058,OE3PKB,Krammer Mario Kleinhadersdorf,Krammer Mario,NIEDEROESTERREICH,AUT,232,DMR
-2323059,OE3PGU,Pfandler Gerasdorf,Pfandler,NIEDEROESTERREICH,AUT,232,DMR
-2323060,OE3REC,Hemerka Probstdorf,Hemerka,NIEDEROESTERREICH,AUT,232,DMR
-2323061,OE3CTS,Spannagl Roland Krems An der Donau,Spannagl Roland,NIEDEROESTERREICH,AUT,232,DMR
-2323062,OE3GWU,Weninger Karlstift,Weninger,NIEDEROESTERREICH,AUT,232,DMR
-2323063,OE3PQA,Prantl Klein-Poechlarn,Prantl,NIEDEROESTERREICH,AUT,232,DMR
-2323064,OE3GWU,Weninger Karlstift,Weninger,NIEDEROESTERREICH,AUT,232,DMR
-2323065,OE3WLC,Lunte Perchtoldsdorf,Lunte,NIEDEROESTERREICH,AUT,232,DMR
-2323066,OE3KSS,Sysel Kirchberg An der Pielach,Sysel,NIEDEROESTERREICH,AUT,232,DMR
-2323067,OE3MUC,Dirlinger Krems-Egelsee,Dirlinger,NIEDEROESTERREICH,AUT,232,DMR
-2323068,OE3XOB,Lv Noe Des Bad Voeslau,Lv Noe Des,NIEDEROESTERREICH,AUT,232,DMR
-2323069,OE3HPU,Puehringer Streifing,Puehringer,NIEDEROESTERREICH,AUT,232,DMR
-2323070,OE3WGW,Gruber Stockerau,Gruber,NIEDEROESTERREICH,AUT,232,DMR
-2323071,OE3MUS,Medek Sankt Poelten,Medek,NIEDEROESTERREICH,AUT,232,DMR
-2323072,OE3RSW,Sohar Moedling,Sohar,NIEDEROESTERREICH,AUT,232,DMR
-2323073,OE3CJB,Bauer Sankt Poelten,Bauer,NIEDEROESTERREICH,AUT,232,DMR
-2323074,OE3CGG,Schloemmer Brunn am Gebirge,Schloemmer,NIEDEROESTERREICH,AUT,232,DMR
-2323075,OE3LCR,Raith Christian Wiener Neustadt,Raith Christian,NIEDEROESTERREICH,AUT,232,DMR
-2323076,OE3OKS,Kager Ternitz,Kager,NIEDEROESTERREICH,AUT,232,DMR
-2323077,OE3YCB,Zwingl Neulengbach,Zwingl,NIEDEROESTERREICH,AUT,232,DMR
-2323078,OE3CQB,Boehm Gars am Kamp,Boehm,NIEDEROESTERREICH,AUT,232,DMR
-2323079,OE3THU,Haslauer Pfaffstaetten,Haslauer,NIEDEROESTERREICH,AUT,232,DMR
-2323080,OE3KAS,Kainrath Traiskirchen,Kainrath,NIEDEROESTERREICH,AUT,232,DMR
-2323081,OE3XNR,Waldviertel St. Poelten,Waldviertel,NIEDEROESTERREICH,AUT,232,DMR
-2323082,OE3SEU,Schebesta Altlengbach,Schebesta,NIEDEROESTERREICH,AUT,232,DMR
-2323083,OE3VVU,Schebesta Altlengbach,Schebesta,NIEDEROESTERREICH,AUT,232,DMR
-2323084,OE3GXW,Grienauer Breitenfurt,Grienauer,NIEDEROESTERREICH,AUT,232,DMR
-2323085,OE3CDW,Digruber Sankt Poelten,Digruber,NIEDEROESTERREICH,AUT,232,DMR
-2323086,OE3FMU,Floiger Moedling,Floiger,NIEDEROESTERREICH,AUT,232,DMR
-2323087,OE3OMF,Fritz Warth,Fritz,NIEDEROESTERREICH,AUT,232,DMR
-2323088,OE3TDW,Deticek Enzersdorf An der Fischa,Deticek,NIEDEROESTERREICH,AUT,232,DMR
-2323089,OE3FVU,Van Velzen Franz Kirchstetten,Van Velzen Franz,NIEDEROESTERREICH,AUT,232,DMR
-2323090,OE3JSU,Schuh Stockerau,Schuh,NIEDEROESTERREICH,AUT,232,DMR
-2323091,OE3FQU,Muttenthaler Sankt Georgen am Ybbsfelde,Muttenthaler,NIEDEROESTERREICH,AUT,232,DMR
-2323092,OE3MTB,Strobl Sankt Poelten,Strobl,NIEDEROESTERREICH,AUT,232,DMR
-2323093,OE3RNA,Nykodem Gaming,Nykodem,NIEDEROESTERREICH,AUT,232,DMR
-2323094,OE3JJS,Jahn Boeheimkirchen,Jahn,NIEDEROESTERREICH,AUT,232,DMR
-2323095,OE3LOA,Loetsch Berndorf,Loetsch,NIEDEROESTERREICH,AUT,232,DMR
-2323096,OE3MBU,Bednar Pitten,Bednar,NIEDEROESTERREICH,AUT,232,DMR
-2323097,OE3VSW,Schnelzer Wiener Neustadt,Schnelzer,NIEDEROESTERREICH,AUT,232,DMR
-2323098,OE3CFC,Fock Brunn am Gebirge,Fock,NIEDEROESTERREICH,AUT,232,DMR
-2323099,OE3EBS,Bair Waidhofen An der Ybbs,Bair,NIEDEROESTERREICH,AUT,232,DMR
-2323100,OE3NQA,Tattyrek Stockerau,Tattyrek,NIEDEROESTERREICH,AUT,232,DMR
-2323101,OE3GRU,Froehlich Guenselsdorf,Froehlich,NIEDEROESTERREICH,AUT,232,DMR
-2323102,OE3BOB,Rosenberger Baden,Rosenberger,NIEDEROESTERREICH,AUT,232,DMR
-2323103,OE3EHS,Huebel Enzesfeld,Huebel,NIEDEROESTERREICH,AUT,232,DMR
-2323104,OE3GKB,Goeringer Landegg,Goeringer,NIEDEROESTERREICH,AUT,232,DMR
-2323105,OE3MSU,Schmoll Perchtoldsdorf,Schmoll,NIEDEROESTERREICH,AUT,232,DMR
-2323106,OE3LFC,Friedrich Weigelsdorf,Friedrich,NIEDEROESTERREICH,AUT,232,DMR
-2323107,OE3PAS,Ackermann Traiskirchen,Ackermann,NIEDEROESTERREICH,AUT,232,DMR
-2323108,OE3MKU,Krenn Wiener Neustadt,Krenn,NIEDEROESTERREICH,AUT,232,DMR
-2323109,OE3RDW,Radl Bad Voeslau,Radl,NIEDEROESTERREICH,AUT,232,DMR
+2323058,OE3PKB,Krammer Mario Kleinhadersdorf,Krammer Mario,NOE,AUT,232,DMR
+2323059,OE3PGU,Pfandler Gerasdorf,Pfandler,NOE,AUT,232,DMR
+2323060,OE3REC,Hemerka Probstdorf,Hemerka,NOE,AUT,232,DMR
+2323061,OE3CTS,Spannagl Roland Krems An der Donau,Spannagl Roland,NOE,AUT,232,DMR
+2323062,OE3GWU,Weninger Karlstift,Weninger,NOE,AUT,232,DMR
+2323063,OE3PQA,Prantl Klein-Poechlarn,Prantl,NOE,AUT,232,DMR
+2323064,OE3GWU,Weninger Karlstift,Weninger,NOE,AUT,232,DMR
+2323065,OE3WLC,Lunte Perchtoldsdorf,Lunte,NOE,AUT,232,DMR
+2323066,OE3KSS,Sysel Kirchberg An der Pielach,Sysel,NOE,AUT,232,DMR
+2323067,OE3MUC,Dirlinger Krems-Egelsee,Dirlinger,NOE,AUT,232,DMR
+2323068,OE3XOB,Lv Noe Des Bad Voeslau,Lv Noe Des,NOE,AUT,232,DMR
+2323069,OE3HPU,Puehringer Streifing,Puehringer,NOE,AUT,232,DMR
+2323070,OE3WGW,Gruber Stockerau,Gruber,NOE,AUT,232,DMR
+2323071,OE3MUS,Medek Sankt Poelten,Medek,NOE,AUT,232,DMR
+2323072,OE3RSW,Sohar Moedling,Sohar,NOE,AUT,232,DMR
+2323073,OE3CJB,Bauer Sankt Poelten,Bauer,NOE,AUT,232,DMR
+2323074,OE3CGG,Schloemmer Brunn am Gebirge,Schloemmer,NOE,AUT,232,DMR
+2323075,OE3LCR,Raith Christian Wiener Neustadt,Raith Christian,NOE,AUT,232,DMR
+2323076,OE3OKS,Kager Ternitz,Kager,NOE,AUT,232,DMR
+2323077,OE3YCB,Zwingl Neulengbach,Zwingl,NOE,AUT,232,DMR
+2323078,OE3CQB,Boehm Gars am Kamp,Boehm,NOE,AUT,232,DMR
+2323079,OE3THU,Haslauer Pfaffstaetten,Haslauer,NOE,AUT,232,DMR
+2323080,OE3KAS,Kainrath Traiskirchen,Kainrath,NOE,AUT,232,DMR
+2323081,OE3XNR,Waldviertel St. Poelten,Waldviertel,NOE,AUT,232,DMR
+2323082,OE3SEU,Schebesta Altlengbach,Schebesta,NOE,AUT,232,DMR
+2323083,OE3VVU,Schebesta Altlengbach,Schebesta,NOE,AUT,232,DMR
+2323084,OE3GXW,Grienauer Breitenfurt,Grienauer,NOE,AUT,232,DMR
+2323085,OE3CDW,Digruber Sankt Poelten,Digruber,NOE,AUT,232,DMR
+2323086,OE3FMU,Floiger Moedling,Floiger,NOE,AUT,232,DMR
+2323087,OE3OMF,Fritz Warth,Fritz,NOE,AUT,232,DMR
+2323088,OE3TDW,Deticek Enzersdorf An der Fischa,Deticek,NOE,AUT,232,DMR
+2323089,OE3FVU,Van Velzen Franz Kirchstetten,Van Velzen Franz,NOE,AUT,232,DMR
+2323090,OE3JSU,Schuh Stockerau,Schuh,NOE,AUT,232,DMR
+2323091,OE3FQU,Muttenthaler Sankt Georgen am Ybbsfelde,Muttenthaler,NOE,AUT,232,DMR
+2323092,OE3MTB,Strobl Sankt Poelten,Strobl,NOE,AUT,232,DMR
+2323093,OE3RNA,Nykodem Gaming,Nykodem,NOE,AUT,232,DMR
+2323094,OE3JJS,Jahn Boeheimkirchen,Jahn,NOE,AUT,232,DMR
+2323095,OE3LOA,Loetsch Berndorf,Loetsch,NOE,AUT,232,DMR
+2323096,OE3MBU,Bednar Pitten,Bednar,NOE,AUT,232,DMR
+2323097,OE3VSW,Schnelzer Wiener Neustadt,Schnelzer,NOE,AUT,232,DMR
+2323098,OE3CFC,Fock Brunn am Gebirge,Fock,NOE,AUT,232,DMR
+2323099,OE3EBS,Bair Waidhofen An der Ybbs,Bair,NOE,AUT,232,DMR
+2323100,OE3NQA,Tattyrek Stockerau,Tattyrek,NOE,AUT,232,DMR
+2323101,OE3GRU,Froehlich Guenselsdorf,Froehlich,NOE,AUT,232,DMR
+2323102,OE3BOB,Rosenberger Baden,Rosenberger,NOE,AUT,232,DMR
+2323103,OE3EHS,Huebel Enzesfeld,Huebel,NOE,AUT,232,DMR
+2323104,OE3GKB,Goeringer Landegg,Goeringer,NOE,AUT,232,DMR
+2323105,OE3MSU,Schmoll Perchtoldsdorf,Schmoll,NOE,AUT,232,DMR
+2323106,OE3LFC,Friedrich Weigelsdorf,Friedrich,NOE,AUT,232,DMR
+2323107,OE3PAS,Ackermann Traiskirchen,Ackermann,NOE,AUT,232,DMR
+2323108,OE3MKU,Krenn Wiener Neustadt,Krenn,NOE,AUT,232,DMR
+2323109,OE3RDW,Radl Bad Voeslau,Radl,NOE,AUT,232,DMR
 2323110,OE3NSU,no_name Perchtoldsdorf,no_name,NOE,AUT,232,DMR
-2323111,OE3RHS,Hinterleitner Sollenau,Hinterleitner,NIEDEROESTERREICH,AUT,232,DMR
-2323112,OE3ORW,Rohm Eibesbrunn,Rohm,NIEDEROESTERREICH,AUT,232,DMR
-2323113,OE3VBC,Hinterleitner Sollenau,Hinterleitner,NIEDEROESTERREICH,AUT,232,DMR
-2323114,OE3ARB,Redl Moedling,Redl,NIEDEROESTERREICH,AUT,232,DMR
-2323115,OE3VBA,Mazan Gansbach,Mazan,NIEDEROESTERREICH,AUT,232,DMR
-2323116,OE3VBA,Mazan Gansbach,Mazan,NIEDEROESTERREICH,AUT,232,DMR
-2323117,OE3FGB,Grill Sollenau,Grill,NIEDEROESTERREICH,AUT,232,DMR
+2323111,OE3RHS,Hinterleitner Sollenau,Hinterleitner,NOE,AUT,232,DMR
+2323112,OE3ORW,Rohm Eibesbrunn,Rohm,NOE,AUT,232,DMR
+2323113,OE3VBC,Hinterleitner Sollenau,Hinterleitner,NOE,AUT,232,DMR
+2323114,OE3ARB,Redl Moedling,Redl,NOE,AUT,232,DMR
+2323115,OE3VBA,Mazan Gansbach,Mazan,NOE,AUT,232,DMR
+2323116,OE3VBA,Mazan Gansbach,Mazan,NOE,AUT,232,DMR
+2323117,OE3FGB,Grill Sollenau,Grill,NOE,AUT,232,DMR
 2323118,OE3GJB,no_name Gainfarn,no_name,NOE,AUT,232,DMR
-2323119,OE3BMA,Belak Leopoldsdorf,Belak,NIEDEROESTERREICH,AUT,232,DMR
+2323119,OE3BMA,Belak Leopoldsdorf,Belak,NOE,AUT,232,DMR
 2323120,OE3VGC,no_name Leopoldsdorf,no_name,NOE,AUT,232,DMR
-2323121,OE3MKU,Krenn Wiener Neustadt,Krenn,NIEDEROESTERREICH,AUT,232,DMR
-2323122,OE3FEC,Fass Mollram,Fass,NIEDEROESTERREICH,AUT,232,DMR
-2323123,OE3KLU,Lichtenecker Schwechat,Lichtenecker,NIEDEROESTERREICH,AUT,232,DMR
-2323124,OE3KLU,Lichtenecker Schwechat,Lichtenecker,NIEDEROESTERREICH,AUT,232,DMR
-2323125,OE3KLU,Lichtenecker Schwechat,Lichtenecker,NIEDEROESTERREICH,AUT,232,DMR
-2323126,OE3ARB,Redl Moedling,Redl,NIEDEROESTERREICH,AUT,232,DMR
-2323127,OE3PAS,Ackermann Traiskirchen,Ackermann,NIEDEROESTERREICH,AUT,232,DMR
+2323121,OE3MKU,Krenn Wiener Neustadt,Krenn,NOE,AUT,232,DMR
+2323122,OE3FEC,Fass Mollram,Fass,NOE,AUT,232,DMR
+2323123,OE3KLU,Lichtenecker Schwechat,Lichtenecker,NOE,AUT,232,DMR
+2323124,OE3KLU,Lichtenecker Schwechat,Lichtenecker,NOE,AUT,232,DMR
+2323125,OE3KLU,Lichtenecker Schwechat,Lichtenecker,NOE,AUT,232,DMR
+2323126,OE3ARB,Redl Moedling,Redl,NOE,AUT,232,DMR
+2323127,OE3PAS,Ackermann Traiskirchen,Ackermann,NOE,AUT,232,DMR
 2323128,OE3LSC,no_name no_city,no_name,NOE,AUT,232,DMR
-2323129,OE3CDS,Dworak Harmannsdorf-Rueckersdorf,Dworak,NIEDEROESTERREICH,AUT,232,DMR
+2323129,OE3CDS,Dworak Harmannsdorf-Rueckersdorf,Dworak,NOE,AUT,232,DMR
 2323130,OE3NSU,no_name Perchtoldsdorf,no_name,NOE,AUT,232,DMR
-2323131,OE3CRD,Steger Ebreichsdorf,Steger,NIEDEROESTERREICH,AUT,232,DMR
-2323132,OE3CRD,Steger Ebreichsdorf,Steger,NIEDEROESTERREICH,AUT,232,DMR
-2323133,OE3DMB,Malek Muenchendorf,Malek,NIEDEROESTERREICH,AUT,232,DMR
-2323134,OE3MTC,Mutter Sankt Andrae-Woerdern,Mutter,NIEDEROESTERREICH,AUT,232,DMR
-2323135,OE3VAW,Brezina Leopoldsdorf,Brezina,NIEDEROESTERREICH,AUT,232,DMR
-2323136,OE3TWA,Woelfl Korneuburg,Woelfl,NIEDEROESTERREICH,AUT,232,DMR
-2323137,OE3PDB,Kanera Purkersdorf,Kanera,NIEDEROESTERREICH,AUT,232,DMR
-2323138,OE3CDL,Scheiblbrandner Ma Lanzendorf,Scheiblbrandner,NIEDEROESTERREICH,AUT,232,DMR
+2323131,OE3CRD,Steger Ebreichsdorf,Steger,NOE,AUT,232,DMR
+2323132,OE3CRD,Steger Ebreichsdorf,Steger,NOE,AUT,232,DMR
+2323133,OE3DMB,Malek Muenchendorf,Malek,NOE,AUT,232,DMR
+2323134,OE3MTC,Mutter Sankt Andrae-Woerdern,Mutter,NOE,AUT,232,DMR
+2323135,OE3VAW,Brezina Leopoldsdorf,Brezina,NOE,AUT,232,DMR
+2323136,OE3TWA,Woelfl Korneuburg,Woelfl,NOE,AUT,232,DMR
+2323137,OE3PDB,Kanera Purkersdorf,Kanera,NOE,AUT,232,DMR
+2323138,OE3CDL,Scheiblbrandner Ma Lanzendorf,Scheiblbrandner,NOE,AUT,232,DMR
 2323139,OE3TKT,no_name no_city,no_name,NOE,AUT,232,DMR
-2323140,OE3MBZ,Brettraeger Absdorf,Brettraeger,NIEDEROESTERREICH,AUT,232,DMR
-2323141,OE3WWE,Winkelhofer Grossweikersdorf,Winkelhofer,NIEDEROESTERREICH,AUT,232,DMR
-2323142,OE3JDW,Dietrich Kaltenleutgeben,Dietrich,NIEDEROESTERREICH,AUT,232,DMR
-2323143,OE3AFA,Haider Krumau am Kamp,Haider,NIEDEROESTERREICH,AUT,232,DMR
-2323144,OE3JKS,Klecanjohann Sulz/wienerwd,Klecanjohann,NIEDEROESTERREICH,AUT,232,DMR
-2323145,OE3DXW,Weismayer Sierndorf,Weismayer,NIEDEROESTERREICH,AUT,232,DMR
-2323146,OE3HRE,Haiden Reinhard Wiener Neudorf,Haiden Reinhard,NIEDEROESTERREICH,AUT,232,DMR
-2323147,OE3BPC,Akhras Klosterneuburg,Akhras,NIEDEROESTERREICH,AUT,232,DMR
-2323148,OE3DSU,Simhirt Perschling,Simhirt,NIEDEROESTERREICH,AUT,232,DMR
-2323149,OE3MWJ,Wimmer Tulln An der Donau,Wimmer,NIEDEROESTERREICH,AUT,232,DMR
-2323150,OE3VGW,Veitsmeier Neustift-Innermanzing,Veitsmeier,NIEDEROESTERREICH,AUT,232,DMR
-2323151,OE3RPU,Pfeffer Moenichkirchen,Pfeffer,NIEDEROESTERREICH,AUT,232,DMR
-2323152,OE3AWU,Wandl Markersdorf-Haindorf,Wandl,NIEDEROESTERREICH,AUT,232,DMR
-2323153,OE3ASA,Elian Gruenbach am Schneeberg,Elian,NIEDEROESTERREICH,AUT,232,DMR
+2323140,OE3MBZ,Brettraeger Absdorf,Brettraeger,NOE,AUT,232,DMR
+2323141,OE3WWE,Winkelhofer Grossweikersdorf,Winkelhofer,NOE,AUT,232,DMR
+2323142,OE3JDW,Dietrich Kaltenleutgeben,Dietrich,NOE,AUT,232,DMR
+2323143,OE3AFA,Haider Krumau am Kamp,Haider,NOE,AUT,232,DMR
+2323144,OE3JKS,Klecanjohann Sulz/wienerwd,Klecanjohann,NOE,AUT,232,DMR
+2323145,OE3DXW,Weismayer Sierndorf,Weismayer,NOE,AUT,232,DMR
+2323146,OE3HRE,Haiden Reinhard Wiener Neudorf,Haiden Reinhard,NOE,AUT,232,DMR
+2323147,OE3BPC,Akhras Klosterneuburg,Akhras,NOE,AUT,232,DMR
+2323148,OE3DSU,Simhirt Perschling,Simhirt,NOE,AUT,232,DMR
+2323149,OE3MWJ,Wimmer Tulln An der Donau,Wimmer,NOE,AUT,232,DMR
+2323150,OE3VGW,Veitsmeier Neustift-Innermanzing,Veitsmeier,NOE,AUT,232,DMR
+2323151,OE3RPU,Pfeffer Moenichkirchen,Pfeffer,NOE,AUT,232,DMR
+2323152,OE3AWU,Wandl Markersdorf-Haindorf,Wandl,NOE,AUT,232,DMR
+2323153,OE3ASA,Elian Gruenbach am Schneeberg,Elian,NOE,AUT,232,DMR
 2323154,OE3JFW,no_name Herzogenburg,no_name,NOE,AUT,232,DMR
-2323155,OE3RFW,Frimmel Brunn am Gebirge,Frimmel,NIEDEROESTERREICH,AUT,232,DMR
-2323156,OE3BLS,Janc Bruck An der Leitha,Janc,NIEDEROESTERREICH,AUT,232,DMR
-2323157,OE3MTC,Mutter Sankt Andrae-Woerdern,Mutter,NIEDEROESTERREICH,AUT,232,DMR
-2323158,OE3HOI,Bischof Laxenburg,Bischof,NIEDEROESTERREICH,AUT,232,DMR
+2323155,OE3RFW,Frimmel Brunn am Gebirge,Frimmel,NOE,AUT,232,DMR
+2323156,OE3BLS,Janc Bruck An der Leitha,Janc,NOE,AUT,232,DMR
+2323157,OE3MTC,Mutter Sankt Andrae-Woerdern,Mutter,NOE,AUT,232,DMR
+2323158,OE3HOI,Bischof Laxenburg,Bischof,NOE,AUT,232,DMR
 2323159,OE3FKR,no_name Moellersdorf,no_name,NOE,AUT,232,DMR
-2323160,OE3NIM,Mehofer Frauendorf An der Schmida,Mehofer,NIEDEROESTERREICH,AUT,232,DMR
-2323161,OE3EIW,Eichberger Puchberg am Schneeberg,Eichberger,NIEDEROESTERREICH,AUT,232,DMR
-2323162,OE3FZB,Zajicek Wiener Neudorf,Zajicek,NIEDEROESTERREICH,AUT,232,DMR
-2323163,OE3STU,Steinhammer Wieselburg,Steinhammer,NIEDEROESTERREICH,AUT,232,DMR
-2323164,OE3HCW,Wieseneder Sankt Poelten,Wieseneder,NIEDEROESTERREICH,AUT,232,DMR
-2323165,OE3LMA,Leister Neunkirchen,Leister,NIEDEROESTERREICH,AUT,232,DMR
-2323166,OE3BHB,Binder Heidenreichstn,Binder,NIEDEROESTERREICH,AUT,232,DMR
-2323167,OE3FQR,Russ Waidhofen An der Thaya,Russ,NIEDEROESTERREICH,AUT,232,DMR
-2323168,OE3FOA,Offenberger Ferschnitz,Offenberger,NIEDEROESTERREICH,AUT,232,DMR
+2323160,OE3NIM,Mehofer Frauendorf An der Schmida,Mehofer,NOE,AUT,232,DMR
+2323161,OE3EIW,Eichberger Puchberg am Schneeberg,Eichberger,NOE,AUT,232,DMR
+2323162,OE3FZB,Zajicek Wiener Neudorf,Zajicek,NOE,AUT,232,DMR
+2323163,OE3STU,Steinhammer Wieselburg,Steinhammer,NOE,AUT,232,DMR
+2323164,OE3HCW,Wieseneder Sankt Poelten,Wieseneder,NOE,AUT,232,DMR
+2323165,OE3LMA,Leister Neunkirchen,Leister,NOE,AUT,232,DMR
+2323166,OE3BHB,Binder Heidenreichstn,Binder,NOE,AUT,232,DMR
+2323167,OE3FQR,Russ Waidhofen An der Thaya,Russ,NOE,AUT,232,DMR
+2323168,OE3FOA,Offenberger Ferschnitz,Offenberger,NOE,AUT,232,DMR
 2323169,OE3ULA,no_name no_city,no_name,NOE,AUT,232,DMR
 2323170,OE3VNA,no_name Trumau,no_name,NOE,AUT,232,DMR
-2323171,OE3VSS,Straubinger Sankt Peter In der Au,Straubinger,NIEDEROESTERREICH,AUT,232,DMR
-2323172,OE3TWH,Thaler Bsc Msc Voesendorf,Thaler Bsc Msc,NIEDEROESTERREICH,AUT,232,DMR
-2323173,OE3LWC,Leuthner Koenigsbrunn am Wagram,Leuthner,NIEDEROESTERREICH,AUT,232,DMR
-2323174,OE3KAU,Kuerner Ferschnitz,Kuerner,NIEDEROESTERREICH,AUT,232,DMR
+2323171,OE3VSS,Straubinger Sankt Peter In der Au,Straubinger,NOE,AUT,232,DMR
+2323172,OE3TWH,Thaler Bsc Msc Voesendorf,Thaler Bsc Msc,NOE,AUT,232,DMR
+2323173,OE3LWC,Leuthner Koenigsbrunn am Wagram,Leuthner,NOE,AUT,232,DMR
+2323174,OE3KAU,Kuerner Ferschnitz,Kuerner,NOE,AUT,232,DMR
 2323175,OE3MQK,no_name no_city,no_name,NOE,AUT,232,DMR
-2323176,OE3RLQ,Lindorfer Blindenmarkt,Lindorfer,NIEDEROESTERREICH,AUT,232,DMR
-2323177,OE3MRA,Rohrer Oberwaltersdorf,Rohrer,NIEDEROESTERREICH,AUT,232,DMR
-2323178,OE3RAS,Auernig Trautmannsdorf An der Leitha,Auernig,NIEDEROESTERREICH,AUT,232,DMR
-2323179,OE3IPU,Poeltinger Bockfliess,Poeltinger,NIEDEROESTERREICH,AUT,232,DMR
-2323180,OE3EZU,Zeitlhofer Rosenau,Zeitlhofer,NIEDEROESTERREICH,AUT,232,DMR
-2323181,OE3JOT,Turner Enzersdorf An der Fischa,Turner,NIEDEROESTERREICH,AUT,232,DMR
-2323182,OE3AHU,Hoechtl Eggendorf im Thale,Hoechtl,NIEDEROESTERREICH,AUT,232,DMR
-2323183,OE3GBB,Burian Wartmannstetten,Burian,NIEDEROESTERREICH,AUT,232,DMR
-2323184,OE3PMS,Mayr Wiener Neustadt,Mayr,NIEDEROESTERREICH,AUT,232,DMR
-2323185,OE3MEN,Mayerhofer Herzogenburg,Mayerhofer,NIEDEROESTERREICH,AUT,232,DMR
-2323186,OE3HGB,Hochgatterer Mautern An der Donau,Hochgatterer,NIEDEROESTERREICH,AUT,232,DMR
+2323176,OE3RLQ,Lindorfer Blindenmarkt,Lindorfer,NOE,AUT,232,DMR
+2323177,OE3MRA,Rohrer Oberwaltersdorf,Rohrer,NOE,AUT,232,DMR
+2323178,OE3RAS,Auernig Trautmannsdorf An der Leitha,Auernig,NOE,AUT,232,DMR
+2323179,OE3IPU,Poeltinger Bockfliess,Poeltinger,NOE,AUT,232,DMR
+2323180,OE3EZU,Zeitlhofer Rosenau,Zeitlhofer,NOE,AUT,232,DMR
+2323181,OE3JOT,Turner Enzersdorf An der Fischa,Turner,NOE,AUT,232,DMR
+2323182,OE3AHU,Hoechtl Eggendorf im Thale,Hoechtl,NOE,AUT,232,DMR
+2323183,OE3GBB,Burian Wartmannstetten,Burian,NOE,AUT,232,DMR
+2323184,OE3PMS,Mayr Wiener Neustadt,Mayr,NOE,AUT,232,DMR
+2323185,OE3MEN,Mayerhofer Herzogenburg,Mayerhofer,NOE,AUT,232,DMR
+2323186,OE3HGB,Hochgatterer Mautern An der Donau,Hochgatterer,NOE,AUT,232,DMR
 2323187,OE3ZJC,no_name Strasshof An der Nordbahn,no_name,NOE,AUT,232,DMR
 2323188,OE3JTB,no_name Gfoehl,no_name,NOE,AUT,232,DMR
-2323189,OE3OZA,Mitterbauer Gaming,Mitterbauer,NIEDEROESTERREICH,AUT,232,DMR
+2323189,OE3OZA,Mitterbauer Gaming,Mitterbauer,NOE,AUT,232,DMR
 2323190,OE3DZW,no_name no_city,no_name,NOE,AUT,232,DMR
-2323191,OE3RFA,Fuchs Pyhra St Poelten,Fuchs,NIEDEROESTERREICH,AUT,232,DMR
+2323191,OE3RFA,Fuchs Pyhra St Poelten,Fuchs,NOE,AUT,232,DMR
 2323192,OE3DMW,no_name Wien,no_name,NOE,AUT,232,DMR
-2323193,OE3EHU,Huttmann St Poelten-Spr,Huttmann,NIEDEROESTERREICH,AUT,232,DMR
-2323194,OE3BWW,Boeck Waidhofen/ybbs,Boeck,NIEDEROESTERREICH,AUT,232,DMR
-2323195,OE3ELJ,El-Awadi Josef Schoenau An der Triesting,El-Awadi Josef,NIEDEROESTERREICH,AUT,232,DMR
-2323196,OE3TWB,Wagnsonner Oedt An der Wild,Wagnsonner,NIEDEROESTERREICH,AUT,232,DMR
-2323197,OE3DWA,Figl Duernrohr,Figl,NIEDEROESTERREICH,AUT,232,DMR
-2323198,OE3HCH,Hoeltl Leopoldsdorf,Hoeltl,NIEDEROESTERREICH,AUT,232,DMR
-2323199,OE3IGW,Gabler Litschau,Gabler,NIEDEROESTERREICH,AUT,232,DMR
-2323200,OE3AEU,Geppert Laa/thaya,Geppert,NIEDEROESTERREICH,AUT,232,DMR
+2323193,OE3EHU,Huttmann St Poelten-Spr,Huttmann,NOE,AUT,232,DMR
+2323194,OE3BWW,Boeck Waidhofen/ybbs,Boeck,NOE,AUT,232,DMR
+2323195,OE3ELJ,El-Awadi Josef Schoenau An der Triesting,El-Awadi Josef,NOE,AUT,232,DMR
+2323196,OE3TWB,Wagnsonner Oedt An der Wild,Wagnsonner,NOE,AUT,232,DMR
+2323197,OE3DWA,Figl Duernrohr,Figl,NOE,AUT,232,DMR
+2323198,OE3HCH,Hoeltl Leopoldsdorf,Hoeltl,NOE,AUT,232,DMR
+2323199,OE3IGW,Gabler Litschau,Gabler,NOE,AUT,232,DMR
+2323200,OE3AEU,Geppert Laa/thaya,Geppert,NOE,AUT,232,DMR
 2323201,OE3JIU,no_name Ulrichskirchen,no_name,NOE,AUT,232,DMR
-2323202,OE3FLU,Lammeranner Baden,Lammeranner,NIEDEROESTERREICH,AUT,232,DMR
-2323203,OE3FLU,Lammeranner Baden,Lammeranner,NIEDEROESTERREICH,AUT,232,DMR
-2323204,OE3GAU,Gabler Deutsch/wagram,Gabler,NIEDEROESTERREICH,AUT,232,DMR
-2323205,OE3HZW,Zwickl Hainfeld,Zwickl,NIEDEROESTERREICH,AUT,232,DMR
-2323206,OE3SJA,Sattler Deutsch-Wagram,Sattler,NIEDEROESTERREICH,AUT,232,DMR
-2323207,OE3LTB,Thorn Klosterneuburg,Thorn,NIEDEROESTERREICH,AUT,232,DMR
-2323208,OE3UKW,Beck Gross-Schweinbarth,Beck,NIEDEROESTERREICH,AUT,232,DMR
-2323209,OE3HZW,Zwickl Hainfeld,Zwickl,NIEDEROESTERREICH,AUT,232,DMR
+2323202,OE3FLU,Lammeranner Baden,Lammeranner,NOE,AUT,232,DMR
+2323203,OE3FLU,Lammeranner Baden,Lammeranner,NOE,AUT,232,DMR
+2323204,OE3GAU,Gabler Deutsch/wagram,Gabler,NOE,AUT,232,DMR
+2323205,OE3HZW,Zwickl Hainfeld,Zwickl,NOE,AUT,232,DMR
+2323206,OE3SJA,Sattler Deutsch-Wagram,Sattler,NOE,AUT,232,DMR
+2323207,OE3LTB,Thorn Klosterneuburg,Thorn,NOE,AUT,232,DMR
+2323208,OE3UKW,Beck Gross-Schweinbarth,Beck,NOE,AUT,232,DMR
+2323209,OE3HZW,Zwickl Hainfeld,Zwickl,NOE,AUT,232,DMR
 2323210,OE3OMC,no_name Klosterneuburg,no_name,NOE,AUT,232,DMR
-2323211,OE3HCH,Hoeltl Leopoldsdorf,Hoeltl,NIEDEROESTERREICH,AUT,232,DMR
-2323212,OE3NRC,Nothmueller Dietmanns,Nothmueller,NIEDEROESTERREICH,AUT,232,DMR
-2323213,OE3NJA,Jell Hadersdorf am Kamp,Jell,NIEDEROESTERREICH,AUT,232,DMR
-2323214,OE3JOP,Puschmann Baden,Puschmann,NIEDEROESTERREICH,AUT,232,DMR
-2323215,OE3KYS,Speckmayr Obergrafendorf,Speckmayr,NIEDEROESTERREICH,AUT,232,DMR
-2323216,OE3CRW,Rippler Christian Brunn am Gebirge,Rippler Christian,NIEDEROESTERREICH,AUT,232,DMR
-2323217,OE3DHS,Hoedl Stockerau,Hoedl,NIEDEROESTERREICH,AUT,232,DMR
-2323218,OE3FRE,Freh Wiener Neudorf,Freh,NIEDEROESTERREICH,AUT,232,DMR
-2323219,OE3YTA,Fock Brunn am Gebirge,Fock,NIEDEROESTERREICH,AUT,232,DMR
-2323220,OE3HNJ,Nehiba Steinabrueckl,Nehiba,NIEDEROESTERREICH,AUT,232,DMR
-2323221,OE3FRE,Freh Wiener Neudorf,Freh,NIEDEROESTERREICH,AUT,232,DMR
-2323222,OE3MUS,Medek Sankt Poelten,Medek,NIEDEROESTERREICH,AUT,232,DMR
-2323223,OE3HWU,Hoch Langenlois,Hoch,NIEDEROESTERREICH,AUT,232,DMR
-2323224,OE3ORA,Weber Hohe Wand-Stollhof,Weber,NIEDEROESTERREICH,AUT,232,DMR
-2323225,OE3UEA,Eitler Stockerau,Eitler,NIEDEROESTERREICH,AUT,232,DMR
-2323226,OE3WLS,Levin Stockerau,Levin,NIEDEROESTERREICH,AUT,232,DMR
-2323227,OE3MAS,Medek Sankt Poelten,Medek,NIEDEROESTERREICH,AUT,232,DMR
-2323228,OE3JOK,Kramer Traismauer,Kramer,NIEDEROESTERREICH,AUT,232,DMR
-2323229,OE3HVH,Holzer Engabrunn,Holzer,NIEDEROESTERREICH,AUT,232,DMR
-2323230,OE3MWS,Wimmer Krems An der Donau,Wimmer,NIEDEROESTERREICH,AUT,232,DMR
-2323231,OE3GJS,Schwarz Grossriedenthal,Schwarz,NIEDEROESTERREICH,AUT,232,DMR
-2323232,OE3ESA,Schwarz Mautern,Schwarz,NIEDEROESTERREICH,AUT,232,DMR
-2323233,OE3RRW,Rotthaler Pfaffstaetten,Rotthaler,NIEDEROESTERREICH,AUT,232,DMR
-2323234,OE3TVJ,Jurcik Neidling,Jurcik,NIEDEROESTERREICH,AUT,232,DMR
-2323235,OE3FIB,Spindler Aggsbach Markt,Spindler,NIEDEROESTERREICH,AUT,232,DMR
+2323211,OE3HCH,Hoeltl Leopoldsdorf,Hoeltl,NOE,AUT,232,DMR
+2323212,OE3NRC,Nothmueller Dietmanns,Nothmueller,NOE,AUT,232,DMR
+2323213,OE3NJA,Jell Hadersdorf am Kamp,Jell,NOE,AUT,232,DMR
+2323214,OE3JOP,Puschmann Baden,Puschmann,NOE,AUT,232,DMR
+2323215,OE3KYS,Speckmayr Obergrafendorf,Speckmayr,NOE,AUT,232,DMR
+2323216,OE3CRW,Rippler Christian Brunn am Gebirge,Rippler Christian,NOE,AUT,232,DMR
+2323217,OE3DHS,Hoedl Stockerau,Hoedl,NOE,AUT,232,DMR
+2323218,OE3FRE,Freh Wiener Neudorf,Freh,NOE,AUT,232,DMR
+2323219,OE3YTA,Fock Brunn am Gebirge,Fock,NOE,AUT,232,DMR
+2323220,OE3HNJ,Nehiba Steinabrueckl,Nehiba,NOE,AUT,232,DMR
+2323221,OE3FRE,Freh Wiener Neudorf,Freh,NOE,AUT,232,DMR
+2323222,OE3MUS,Medek Sankt Poelten,Medek,NOE,AUT,232,DMR
+2323223,OE3HWU,Hoch Langenlois,Hoch,NOE,AUT,232,DMR
+2323224,OE3ORA,Weber Hohe Wand-Stollhof,Weber,NOE,AUT,232,DMR
+2323225,OE3UEA,Eitler Stockerau,Eitler,NOE,AUT,232,DMR
+2323226,OE3WLS,Levin Stockerau,Levin,NOE,AUT,232,DMR
+2323227,OE3MAS,Medek Sankt Poelten,Medek,NOE,AUT,232,DMR
+2323228,OE3JOK,Kramer Traismauer,Kramer,NOE,AUT,232,DMR
+2323229,OE3HVH,Holzer Engabrunn,Holzer,NOE,AUT,232,DMR
+2323230,OE3MWS,Wimmer Krems An der Donau,Wimmer,NOE,AUT,232,DMR
+2323231,OE3GJS,Schwarz Grossriedenthal,Schwarz,NOE,AUT,232,DMR
+2323232,OE3ESA,Schwarz Mautern,Schwarz,NOE,AUT,232,DMR
+2323233,OE3RRW,Rotthaler Pfaffstaetten,Rotthaler,NOE,AUT,232,DMR
+2323234,OE3TVJ,Jurcik Neidling,Jurcik,NOE,AUT,232,DMR
+2323235,OE3FIB,Spindler Aggsbach Markt,Spindler,NOE,AUT,232,DMR
 2323236,OE3HYC,no_name Langenlois,no_name,NOE,AUT,232,DMR
-2323237,OE3FIB,Spindler Aggsbach Markt,Spindler,NIEDEROESTERREICH,AUT,232,DMR
-2323238,OE3YUR,Hoser Sankt Valentin,Hoser,NIEDEROESTERREICH,AUT,232,DMR
-2323239,OE3GBC,Blaschke Pellendorf,Blaschke,NIEDEROESTERREICH,AUT,232,DMR
-2323240,OE3DPA,Prinz Alt-Nagelberg,Prinz,NIEDEROESTERREICH,AUT,232,DMR
-2323241,OE3TPB,Panhofer Purkersdorf,Panhofer,NIEDEROESTERREICH,AUT,232,DMR
-2323242,OE3WXW,Roethel Schwechat,Roethel,NIEDEROESTERREICH,AUT,232,DMR
-2323243,OE3GBC,Blaschke Pellendorf,Blaschke,NIEDEROESTERREICH,AUT,232,DMR
-2323244,OE3IFB,Bauer Sankt Valentin,Bauer,NIEDEROESTERREICH,AUT,232,DMR
-2323245,OE3OPA,Oberbauer Voesendorf,Oberbauer,NIEDEROESTERREICH,AUT,232,DMR
-2323246,OE3CQB,Boehm Gars am Kamp,Boehm,NIEDEROESTERREICH,AUT,232,DMR
-2323247,OE3AGH,Gall Sankt Poelten,Gall,NIEDEROESTERREICH,AUT,232,DMR
-2323248,OE3CVR,Veith Gablitz,Veith,NIEDEROESTERREICH,AUT,232,DMR
-2323249,OE3CQS,Schrefl Sankt Poelten,Schrefl,NIEDEROESTERREICH,AUT,232,DMR
-2323250,OE3YJM,Maringer Heidenreichstein,Maringer,NIEDEROESTERREICH,AUT,232,DMR
-2323251,OE3VPA,Poik Gmuend,Poik,NIEDEROESTERREICH,AUT,232,DMR
-2323252,OE3YHC,Poik Gmuend,Poik,NIEDEROESTERREICH,AUT,232,DMR
+2323237,OE3FIB,Spindler Aggsbach Markt,Spindler,NOE,AUT,232,DMR
+2323238,OE3YUR,Hoser Sankt Valentin,Hoser,NOE,AUT,232,DMR
+2323239,OE3GBC,Blaschke Pellendorf,Blaschke,NOE,AUT,232,DMR
+2323240,OE3DPA,Prinz Alt-Nagelberg,Prinz,NOE,AUT,232,DMR
+2323241,OE3TPB,Panhofer Purkersdorf,Panhofer,NOE,AUT,232,DMR
+2323242,OE3WXW,Roethel Schwechat,Roethel,NOE,AUT,232,DMR
+2323243,OE3GBC,Blaschke Pellendorf,Blaschke,NOE,AUT,232,DMR
+2323244,OE3IFB,Bauer Sankt Valentin,Bauer,NOE,AUT,232,DMR
+2323245,OE3OPA,Oberbauer Voesendorf,Oberbauer,NOE,AUT,232,DMR
+2323246,OE3CQB,Boehm Gars am Kamp,Boehm,NOE,AUT,232,DMR
+2323247,OE3AGH,Gall Sankt Poelten,Gall,NOE,AUT,232,DMR
+2323248,OE3CVR,Veith Gablitz,Veith,NOE,AUT,232,DMR
+2323249,OE3CQS,Schrefl Sankt Poelten,Schrefl,NOE,AUT,232,DMR
+2323250,OE3YJM,Maringer Heidenreichstein,Maringer,NOE,AUT,232,DMR
+2323251,OE3VPA,Poik Gmuend,Poik,NOE,AUT,232,DMR
+2323252,OE3YHC,Poik Gmuend,Poik,NOE,AUT,232,DMR
 2323253,OE3MVW,no_name no_city,no_name,NOE,AUT,232,DMR
-2323254,OE3WYC,Meyrath Klosterneuburg,Meyrath,NIEDEROESTERREICH,AUT,232,DMR
+2323254,OE3WYC,Meyrath Klosterneuburg,Meyrath,NOE,AUT,232,DMR
 2323255,OE3CQJ,no_name no_city,no_name,NOE,AUT,232,DMR
-2323256,OE3APM,Maringer Heidenreichstein,Maringer,NIEDEROESTERREICH,AUT,232,DMR
-2323257,OE3KPC,Krall Haringsee,Krall,NIEDEROESTERREICH,AUT,232,DMR
-2323258,OE3GWW,Wildmann Neu-Purkersdorf,Wildmann,NIEDEROESTERREICH,AUT,232,DMR
-2323259,OE3TFL,Flatschart Bergern,Flatschart,NIEDEROESTERREICH,AUT,232,DMR
-2323260,OE3JKA,Koller Schrems,Koller,NIEDEROESTERREICH,AUT,232,DMR
-2323261,OE3KAI,Kaineder Leobersdorf,Kaineder,NIEDEROESTERREICH,AUT,232,DMR
+2323256,OE3APM,Maringer Heidenreichstein,Maringer,NOE,AUT,232,DMR
+2323257,OE3KPC,Krall Haringsee,Krall,NOE,AUT,232,DMR
+2323258,OE3GWW,Wildmann Neu-Purkersdorf,Wildmann,NOE,AUT,232,DMR
+2323259,OE3TFL,Flatschart Bergern,Flatschart,NOE,AUT,232,DMR
+2323260,OE3JKA,Koller Schrems,Koller,NOE,AUT,232,DMR
+2323261,OE3KAI,Kaineder Leobersdorf,Kaineder,NOE,AUT,232,DMR
 2323262,OE3RPR,no_name no_city,no_name,NOE,AUT,232,DMR
-2323263,OE3BCB,Baier Neulengbach,Baier,NIEDEROESTERREICH,AUT,232,DMR
-2323264,OE3LKB,Kern Neu-Mitterndorf,Kern,NIEDEROESTERREICH,AUT,232,DMR
-2323265,OE3ABA,Benda Nagelberg,Benda,NIEDEROESTERREICH,AUT,232,DMR
-2323266,OE3PCB,Plasser Enzersdorf An der Fischa,Plasser,NIEDEROESTERREICH,AUT,232,DMR
+2323263,OE3BCB,Baier Neulengbach,Baier,NOE,AUT,232,DMR
+2323264,OE3LKB,Kern Neu-Mitterndorf,Kern,NOE,AUT,232,DMR
+2323265,OE3ABA,Benda Nagelberg,Benda,NOE,AUT,232,DMR
+2323266,OE3PCB,Plasser Enzersdorf An der Fischa,Plasser,NOE,AUT,232,DMR
 2323267,OE3DOS,no_name no_city,no_name,NOE,AUT,232,DMR
-2323268,OE3GWC,Wuerdinger Woellersdorf,Wuerdinger,NIEDEROESTERREICH,AUT,232,DMR
-2323269,OE3AGH,Gall Sankt Poelten,Gall,NIEDEROESTERREICH,AUT,232,DMR
-2323270,OE3WRB,Rummer Sankt Poelten,Rummer,NIEDEROESTERREICH,AUT,232,DMR
-2323271,OE3AJA,Aufgewekt Haugsdorf,Aufgewekt,NIEDEROESTERREICH,AUT,232,DMR
-2323272,OE3YMB,Matuschek Ravelsbach,Matuschek,NIEDEROESTERREICH,AUT,232,DMR
+2323268,OE3GWC,Wuerdinger Woellersdorf,Wuerdinger,NOE,AUT,232,DMR
+2323269,OE3AGH,Gall Sankt Poelten,Gall,NOE,AUT,232,DMR
+2323270,OE3WRB,Rummer Sankt Poelten,Rummer,NOE,AUT,232,DMR
+2323271,OE3AJA,Aufgewekt Haugsdorf,Aufgewekt,NOE,AUT,232,DMR
+2323272,OE3YMB,Matuschek Ravelsbach,Matuschek,NOE,AUT,232,DMR
 2323273,OE3DOS,no_name no_city,no_name,NOE,AUT,232,DMR
-2323274,OE3MES,Esslinger Klosterneuburg,Esslinger,NIEDEROESTERREICH,AUT,232,DMR
-2323275,OE3MLC,Mestnik Limberg,Mestnik,NIEDEROESTERREICH,AUT,232,DMR
-2323276,OE3BRU,Binder Grossweikersdorf,Binder,NIEDEROESTERREICH,AUT,232,DMR
-2323277,OE3DES,Deutsch Hagenbrunn,Deutsch,NIEDEROESTERREICH,AUT,232,DMR
-2323278,OE3SAD,Haussperger Wiener Neustadt,Haussperger,NIEDEROESTERREICH,AUT,232,DMR
-2323279,OE3CHA,Adamec Puchberg am Schneeberg,Adamec,NIEDEROESTERREICH,AUT,232,DMR
-2323280,OE3ODF,Hojus Bad Deutsch-Altenburg,Hojus,NIEDEROESTERREICH,AUT,232,DMR
-2323281,OE3HAU,Strauss Tulln,Strauss,NIEDEROESTERREICH,AUT,232,DMR
-2323282,OE3GEW,Grohs Gerasdorf,Grohs,NIEDEROESTERREICH,AUT,232,DMR
-2323283,OE3KNS,Newald Tulln,Newald,NIEDEROESTERREICH,AUT,232,DMR
-2323284,OE3CDA,Deimbacher Grund,Deimbacher,NIEDEROESTERREICH,AUT,232,DMR
-2323285,OE3JSI,Sinhuber Sieghartskirchen,Sinhuber,NIEDEROESTERREICH,AUT,232,DMR
-2323286,OE3HCA,Holzer Grund,Holzer,NIEDEROESTERREICH,AUT,232,DMR
-2323287,OE3WWC,Wimmer Wullersdorf,Wimmer,NIEDEROESTERREICH,AUT,232,DMR
-2323288,OE3RZT,Zeitlhofer Ollersbach,Zeitlhofer,NIEDEROESTERREICH,AUT,232,DMR
-2323289,OE3URW,Richter Gerasdorf,Richter,NIEDEROESTERREICH,AUT,232,DMR
-2323290,OE3MYR,Renner Horn,Renner,NIEDEROESTERREICH,AUT,232,DMR
-2323291,OE3NHW,Hartl Hans Sankt Andrae/woerdern,Hartl Hans,NIEDEROESTERREICH,AUT,232,DMR
-2323292,OE3AEA,Sattler Grossmugl,Sattler,NIEDEROESTERREICH,AUT,232,DMR
+2323274,OE3MES,Esslinger Klosterneuburg,Esslinger,NOE,AUT,232,DMR
+2323275,OE3MLC,Mestnik Limberg,Mestnik,NOE,AUT,232,DMR
+2323276,OE3BRU,Binder Grossweikersdorf,Binder,NOE,AUT,232,DMR
+2323277,OE3DES,Deutsch Hagenbrunn,Deutsch,NOE,AUT,232,DMR
+2323278,OE3SAD,Haussperger Wiener Neustadt,Haussperger,NOE,AUT,232,DMR
+2323279,OE3CHA,Adamec Puchberg am Schneeberg,Adamec,NOE,AUT,232,DMR
+2323280,OE3ODF,Hojus Bad Deutsch-Altenburg,Hojus,NOE,AUT,232,DMR
+2323281,OE3HAU,Strauss Tulln,Strauss,NOE,AUT,232,DMR
+2323282,OE3GEW,Grohs Gerasdorf,Grohs,NOE,AUT,232,DMR
+2323283,OE3KNS,Newald Tulln,Newald,NOE,AUT,232,DMR
+2323284,OE3CDA,Deimbacher Grund,Deimbacher,NOE,AUT,232,DMR
+2323285,OE3JSI,Sinhuber Sieghartskirchen,Sinhuber,NOE,AUT,232,DMR
+2323286,OE3HCA,Holzer Grund,Holzer,NOE,AUT,232,DMR
+2323287,OE3WWC,Wimmer Wullersdorf,Wimmer,NOE,AUT,232,DMR
+2323288,OE3RZT,Zeitlhofer Ollersbach,Zeitlhofer,NOE,AUT,232,DMR
+2323289,OE3URW,Richter Gerasdorf,Richter,NOE,AUT,232,DMR
+2323290,OE3MYR,Renner Horn,Renner,NOE,AUT,232,DMR
+2323291,OE3NHW,Hartl Hans Sankt Andrae/woerdern,Hartl Hans,NOE,AUT,232,DMR
+2323292,OE3AEA,Sattler Grossmugl,Sattler,NOE,AUT,232,DMR
 2323293,OE3RQF,no_name no_city,no_name,NOE,AUT,232,DMR
-2323294,OE3XRC,Amrs Allentsteig,Amrs,NIEDEROESTERREICH,AUT,232,DMR
-2323295,OE3KDC,Kraft Goestling/ybbs,Kraft,NIEDEROESTERREICH,AUT,232,DMR
-2323296,OE3UZA,Rausch Schrick,Rausch,NIEDEROESTERREICH,AUT,232,DMR
-2323297,OE3CBS,Braun Zwoelfaxing,Braun,NIEDEROESTERREICH,AUT,232,DMR
-2323298,OE3BHW,Hejna Felixdorf,Hejna,NIEDEROESTERREICH,AUT,232,DMR
-2323299,OE3FAP,Farcher Sankt Poelten,Farcher,NIEDEROESTERREICH,AUT,232,DMR
-2323300,OE3DNA,Neubauer Amstetten,Neubauer,NIEDEROESTERREICH,AUT,232,DMR
-2323301,OE3WFA,Franta Eichgraben,Franta,NIEDEROESTERREICH,AUT,232,DMR
-2323302,OE3MVM,Schnepf Stockerau,Schnepf,NIEDEROESTERREICH,AUT,232,DMR
-2323303,OE3BGB,Baeumler Blindenmarkt,Baeumler,NIEDEROESTERREICH,AUT,232,DMR
-2323304,OE3GHB,Hickl Gaweinstal,Hickl,NIEDEROESTERREICH,AUT,232,DMR
+2323294,OE3XRC,Amrs Allentsteig,Amrs,NOE,AUT,232,DMR
+2323295,OE3KDC,Kraft Goestling/ybbs,Kraft,NOE,AUT,232,DMR
+2323296,OE3UZA,Rausch Schrick,Rausch,NOE,AUT,232,DMR
+2323297,OE3CBS,Braun Zwoelfaxing,Braun,NOE,AUT,232,DMR
+2323298,OE3BHW,Hejna Felixdorf,Hejna,NOE,AUT,232,DMR
+2323299,OE3FAP,Farcher Sankt Poelten,Farcher,NOE,AUT,232,DMR
+2323300,OE3DNA,Neubauer Amstetten,Neubauer,NOE,AUT,232,DMR
+2323301,OE3WFA,Franta Eichgraben,Franta,NOE,AUT,232,DMR
+2323302,OE3MVM,Schnepf Stockerau,Schnepf,NOE,AUT,232,DMR
+2323303,OE3BGB,Baeumler Blindenmarkt,Baeumler,NOE,AUT,232,DMR
+2323304,OE3GHB,Hickl Gaweinstal,Hickl,NOE,AUT,232,DMR
 2323305,OE3PLF,no_name no_city,no_name,NOE,AUT,232,DMR
-2323306,OE3CKS,Kuntscher Matzendorf,Kuntscher,NIEDEROESTERREICH,AUT,232,DMR
-2323307,OE3PCS,Pernerstorfer Hadersdorf am Kamp,Pernerstorfer,NIEDEROESTERREICH,AUT,232,DMR
-2323308,OE3YOS,Huber Bruck An der Leitha,Huber,NIEDEROESTERREICH,AUT,232,DMR
+2323306,OE3CKS,Kuntscher Matzendorf,Kuntscher,NOE,AUT,232,DMR
+2323307,OE3PCS,Pernerstorfer Hadersdorf am Kamp,Pernerstorfer,NOE,AUT,232,DMR
+2323308,OE3YOS,Huber Bruck An der Leitha,Huber,NOE,AUT,232,DMR
 2323309,OE3PWT,no_name no_city,no_name,NOE,AUT,232,DMR
-2323310,OE3MVM,Schnepf Stockerau,Schnepf,NIEDEROESTERREICH,AUT,232,DMR
-2323311,OE3EMC,Engel Bad Grosspertholz,Engel,NIEDEROESTERREICH,AUT,232,DMR
-2323312,OE3YSC,Stouy Bad Grosspertholz,Stouy,NIEDEROESTERREICH,AUT,232,DMR
-2323313,OE3JAL,Jalits Brunn am Gebirge,Jalits,NIEDEROESTERREICH,AUT,232,DMR
-2323314,OE3GKQ,Kiesl Seifritz,Kiesl,NIEDEROESTERREICH,AUT,232,DMR
-2323315,OE3BRW,Wild Sankt Poelten,Wild,NIEDEROESTERREICH,AUT,232,DMR
-2323316,OE3TDF,Fuchs Oberwaltersdorf,Fuchs,NIEDEROESTERREICH,AUT,232,DMR
-2323317,OE3MWB,Weis Amstetten,Weis,NIEDEROESTERREICH,AUT,232,DMR
-2323318,OE3HLU,Kellner Mank,Kellner,NIEDEROESTERREICH,AUT,232,DMR
-2323319,OE3PEA,Elster Gaubitsch,Elster,NIEDEROESTERREICH,AUT,232,DMR
-2323320,OE3JSH,Schnepf Stockerau,Schnepf,NIEDEROESTERREICH,AUT,232,DMR
-2323321,OE3RNW,Nutz Gloggnitz,Nutz,NIEDEROESTERREICH,AUT,232,DMR
-2323322,OE3HUS,Haumer Himberg,Haumer,NIEDEROESTERREICH,AUT,232,DMR
-2323323,OE3GVB,Vogt Himberg,Vogt,STEIERMARK,AUT,232,DMR
-2323324,OE3CKS,Kuntscher Matzendorf,Kuntscher,NIEDEROESTERREICH,AUT,232,DMR
-2323325,OE3DMA,Wagner Altenburg,Wagner,NIEDEROESTERREICH,AUT,232,DMR
-2323326,OE3CRA,Reps Sieghartskirchen,Reps,NIEDEROESTERREICH,AUT,232,DMR
-2323327,OE3RQA,Rafenstein Brunn am Gebirge,Rafenstein,NIEDEROESTERREICH,AUT,232,DMR
-2323328,OE3FTC,Gaerber Moedling,Gaerber,NIEDEROESTERREICH,AUT,232,DMR
-2323329,OE3KCC,Koczan Baden,Koczan,NIEDEROESTERREICH,AUT,232,DMR
-2323330,OE3MNU,No_name no_city,No_name,NIEDEROESTERREICH,AUT,232,DMR
-2323331,OE3AJS,Hagmann Krems An der Donau,Hagmann,NIEDEROESTERREICH,AUT,232,DMR
-2323332,OE3AKI,No_name Berndorf,No_name,STEIERMARK,AUT,232,DMR
+2323310,OE3MVM,Schnepf Stockerau,Schnepf,NOE,AUT,232,DMR
+2323311,OE3EMC,Engel Bad Grosspertholz,Engel,NOE,AUT,232,DMR
+2323312,OE3YSC,Stouy Bad Grosspertholz,Stouy,NOE,AUT,232,DMR
+2323313,OE3JAL,Jalits Brunn am Gebirge,Jalits,NOE,AUT,232,DMR
+2323314,OE3GKQ,Kiesl Seifritz,Kiesl,NOE,AUT,232,DMR
+2323315,OE3BRW,Wild Sankt Poelten,Wild,NOE,AUT,232,DMR
+2323316,OE3TDF,Fuchs Oberwaltersdorf,Fuchs,NOE,AUT,232,DMR
+2323317,OE3MWB,Weis Amstetten,Weis,NOE,AUT,232,DMR
+2323318,OE3HLU,Kellner Mank,Kellner,NOE,AUT,232,DMR
+2323319,OE3PEA,Elster Gaubitsch,Elster,NOE,AUT,232,DMR
+2323320,OE3JSH,Schnepf Stockerau,Schnepf,NOE,AUT,232,DMR
+2323321,OE3RNW,Nutz Gloggnitz,Nutz,NOE,AUT,232,DMR
+2323322,OE3HUS,Haumer Himberg,Haumer,NOE,AUT,232,DMR
+2323323,OE3GVB,Vogt Himberg,Vogt,STMK,AUT,232,DMR
+2323324,OE3CKS,Kuntscher Matzendorf,Kuntscher,NOE,AUT,232,DMR
+2323325,OE3DMA,Wagner Altenburg,Wagner,NOE,AUT,232,DMR
+2323326,OE3CRA,Reps Sieghartskirchen,Reps,NOE,AUT,232,DMR
+2323327,OE3RQA,Rafenstein Brunn am Gebirge,Rafenstein,NOE,AUT,232,DMR
+2323328,OE3FTC,Gaerber Moedling,Gaerber,NOE,AUT,232,DMR
+2323329,OE3KCC,Koczan Baden,Koczan,NOE,AUT,232,DMR
+2323330,OE3MNU,No_name no_city,No_name,NOE,AUT,232,DMR
+2323331,OE3AJS,Hagmann Krems An der Donau,Hagmann,NOE,AUT,232,DMR
+2323332,OE3AKI,No_name Berndorf,No_name,STMK,AUT,232,DMR
 2323333,OE3TRB,no_name Berndorf,no_name,NOE,AUT,232,DMR
-2323334,OE3MTA,Schaffer Perchtoldsdorf,Schaffer,NIEDEROESTERREICH,AUT,232,DMR
-2323335,OE3PBS,Peinsipp no_city,Peinsipp,NIEDEROESTERREICH,AUT,232,DMR
-2323336,OE3TSH,Schreiber Poysdorf,Schreiber,NIEDEROESTERREICH,AUT,232,DMR
-2323337,OE3RFR,Fuchsbauer Ruprechtshofen,Fuchsbauer,NIEDEROESTERREICH,AUT,232,DMR
-2323338,OE3EGH,Haiderer Gross Enzersdorf,Haiderer,NIEDEROESTERREICH,AUT,232,DMR
-2323339,OE3THX,No_name no_city,No_name,NIEDEROESTERREICH,AUT,232,DMR
-2323340,OE3WWP,Wesseli Laaben,Wesseli,NIEDEROESTERREICH,AUT,232,DMR
-2323341,OE3WEK,Wesseli Laaben,Wesseli,NIEDEROESTERREICH,AUT,232,DMR
-2323342,OE3OMR,Mitter no_city,Mitter,NIEDEROESTERREICH,AUT,232,DMR
-2323343,OE3RBT,Biegel Pyhra,Biegel,NIEDEROESTERREICH,AUT,232,DMR
-2323344,OE3WDK,Keles Hafnerbach,Keles,NIEDEROESTERREICH,AUT,232,DMR
-2323345,OE3HPT,Hillepold Reichenau An der Rax,Hillepold,NIEDEROESTERREICH,AUT,232,DMR
-2323346,OE3OEW,Oesterreicher Sankt Poelten,Oesterreicher,NIEDEROESTERREICH,AUT,232,DMR
-2323347,OE3KMZ,Zaruba Tresdorf,Zaruba,KAERNTEN,AUT,232,DMR
-2323348,OE3WHS,No_name no_city,No_name,NIEDEROESTERREICH,AUT,232,DMR
-2323349,OE3OEX,Weinberger Eggendorf am Wagram,Weinberger,NIEDEROESTERREICH,AUT,232,DMR
-2323350,OE3FKN,Kleindl Goestling An der Ybbs,Kleindl,NIEDEROESTERREICH,AUT,232,DMR
-2323351,OE3AMA,Roetsch Sollenau,Roetsch,NIEDEROESTERREICH,AUT,232,DMR
-2323352,OE3LIT,Linner Wilfersdorf,Linner,NIEDEROESTERREICH,AUT,232,DMR
-2323353,OE3MJA,Mathae Seitenstetten,Mathae,NIEDEROESTERREICH,AUT,232,DMR
-2323354,OE3RVA,Vymyslicky Leopoldsdorf/m,Vymyslicky,NIEDEROESTERREICH,AUT,232,DMR
-2323355,OE3YZC,Zehetner Wolfsbach,Zehetner,NIEDEROESTERREICH,AUT,232,DMR
-2323356,OE3AJS,Hagmann Krems An der Donau,Hagmann,NIEDEROESTERREICH,AUT,232,DMR
-2323357,OE3AMA,Roetsch Sollenau,Roetsch,NIEDEROESTERREICH,AUT,232,DMR
-2323358,OE3TLA,Lehner Perchtoldsdorf,Lehner,NIEDEROESTERREICH,AUT,232,DMR
-2323359,OE3MCC,Rechberger Rohrbach / Goelsen,Rechberger,NIEDEROESTERREICH,AUT,232,DMR
-2323360,OE3MMX,Mayer St. Poelten,Mayer,NIEDEROESTERREICH,AUT,232,DMR
-2323361,OE3LEG,Eder Gallbrunn,Eder,NIEDEROESTERREICH,AUT,232,DMR
-2323362,OE3KTH,Katona Gramatneusiedl,Katona,NIEDEROESTERREICH,AUT,232,DMR
-2323363,OE3VET,Tocaciu Baden,Tocaciu,NIEDEROESTERREICH,AUT,232,DMR
-2323364,OE3SMV,Schnabl Puchberg am Schneeberg,Schnabl,NIEDEROESTERREICH,AUT,232,DMR
-2323365,OE3BMT,Mangel Traisen,Mangel,NIEDEROESTERREICH,AUT,232,DMR
-2323401,OE3MZC,Zwingl Neulengbach,Zwingl,NIEDEROESTERREICH,AUT,232,DMR
-2323402,OE3MZC,Zwingl Neulengbach,Zwingl,NIEDEROESTERREICH,AUT,232,DMR
-2323403,OE3FTA,Zwingl Neulengbach,Zwingl,NIEDEROESTERREICH,AUT,232,DMR
-2323405,OE3KSS,Sysel Kirchberg An der Pielach,Sysel,NIEDEROESTERREICH,AUT,232,DMR
-2323410,OE3NRS,Nefischer Mauer-Oehling,Nefischer,NIEDEROESTERREICH,AUT,232,DMR
-2323411,OE3ICU,Vogl Kirchberg An der Pielach,Vogl,NIEDEROESTERREICH,AUT,232,DMR
-2323412,OE3OCC,Wagner Sankt Valentin,Wagner,NIEDEROESTERREICH,AUT,232,DMR
-2323413,OE3SZA,Zillinger Amstetten,Zillinger,NIEDEROESTERREICH,AUT,232,DMR
-2323414,OE3JWC,Waser Neuhofen/ybbs,Waser,NIEDEROESTERREICH,AUT,232,DMR
-2323415,OE3JDA,Donschachner Mauer-Oehling,Donschachner,NIEDEROESTERREICH,AUT,232,DMR
-2323416,OE3GNB,Gruber Neumarkt An der Ybbs,Gruber,NIEDEROESTERREICH,AUT,232,DMR
+2323334,OE3MTA,Schaffer Perchtoldsdorf,Schaffer,NOE,AUT,232,DMR
+2323335,OE3PBS,Peinsipp no_city,Peinsipp,NOE,AUT,232,DMR
+2323336,OE3TSH,Schreiber Poysdorf,Schreiber,NOE,AUT,232,DMR
+2323337,OE3RFR,Fuchsbauer Ruprechtshofen,Fuchsbauer,NOE,AUT,232,DMR
+2323338,OE3EGH,Haiderer Gross Enzersdorf,Haiderer,NOE,AUT,232,DMR
+2323339,OE3THX,No_name no_city,No_name,NOE,AUT,232,DMR
+2323340,OE3WWP,Wesseli Laaben,Wesseli,NOE,AUT,232,DMR
+2323341,OE3WEK,Wesseli Laaben,Wesseli,NOE,AUT,232,DMR
+2323342,OE3OMR,Mitter no_city,Mitter,NOE,AUT,232,DMR
+2323343,OE3RBT,Biegel Pyhra,Biegel,NOE,AUT,232,DMR
+2323344,OE3WDK,Keles Hafnerbach,Keles,NOE,AUT,232,DMR
+2323345,OE3HPT,Hillepold Reichenau An der Rax,Hillepold,NOE,AUT,232,DMR
+2323346,OE3OEW,Oesterreicher Sankt Poelten,Oesterreicher,NOE,AUT,232,DMR
+2323347,OE3KMZ,Zaruba Tresdorf,Zaruba,KTN,AUT,232,DMR
+2323348,OE3WHS,No_name no_city,No_name,NOE,AUT,232,DMR
+2323349,OE3OEX,Weinberger Eggendorf am Wagram,Weinberger,NOE,AUT,232,DMR
+2323350,OE3FKN,Kleindl Goestling An der Ybbs,Kleindl,NOE,AUT,232,DMR
+2323351,OE3AMA,Roetsch Sollenau,Roetsch,NOE,AUT,232,DMR
+2323352,OE3LIT,Linner Wilfersdorf,Linner,NOE,AUT,232,DMR
+2323353,OE3MJA,Mathae Seitenstetten,Mathae,NOE,AUT,232,DMR
+2323354,OE3RVA,Vymyslicky Leopoldsdorf/m,Vymyslicky,NOE,AUT,232,DMR
+2323355,OE3YZC,Zehetner Wolfsbach,Zehetner,NOE,AUT,232,DMR
+2323356,OE3AJS,Hagmann Krems An der Donau,Hagmann,NOE,AUT,232,DMR
+2323357,OE3AMA,Roetsch Sollenau,Roetsch,NOE,AUT,232,DMR
+2323358,OE3TLA,Lehner Perchtoldsdorf,Lehner,NOE,AUT,232,DMR
+2323359,OE3MCC,Rechberger Rohrbach / Goelsen,Rechberger,NOE,AUT,232,DMR
+2323360,OE3MMX,Mayer St. Poelten,Mayer,NOE,AUT,232,DMR
+2323361,OE3LEG,Eder Gallbrunn,Eder,NOE,AUT,232,DMR
+2323362,OE3KTH,Katona Gramatneusiedl,Katona,NOE,AUT,232,DMR
+2323363,OE3VET,Tocaciu Baden,Tocaciu,NOE,AUT,232,DMR
+2323364,OE3SMV,Schnabl Puchberg am Schneeberg,Schnabl,NOE,AUT,232,DMR
+2323365,OE3BMT,Mangel Traisen,Mangel,NOE,AUT,232,DMR
+2323401,OE3MZC,Zwingl Neulengbach,Zwingl,NOE,AUT,232,DMR
+2323402,OE3MZC,Zwingl Neulengbach,Zwingl,NOE,AUT,232,DMR
+2323403,OE3FTA,Zwingl Neulengbach,Zwingl,NOE,AUT,232,DMR
+2323405,OE3KSS,Sysel Kirchberg An der Pielach,Sysel,NOE,AUT,232,DMR
+2323410,OE3NRS,Nefischer Mauer-Oehling,Nefischer,NOE,AUT,232,DMR
+2323411,OE3ICU,Vogl Kirchberg An der Pielach,Vogl,NOE,AUT,232,DMR
+2323412,OE3OCC,Wagner Sankt Valentin,Wagner,NOE,AUT,232,DMR
+2323413,OE3SZA,Zillinger Amstetten,Zillinger,NOE,AUT,232,DMR
+2323414,OE3JWC,Waser Neuhofen/ybbs,Waser,NOE,AUT,232,DMR
+2323415,OE3JDA,Donschachner Mauer-Oehling,Donschachner,NOE,AUT,232,DMR
+2323416,OE3GNB,Gruber Neumarkt An der Ybbs,Gruber,NOE,AUT,232,DMR
 2323417,OE3OHS,no_name Waidhofen Ybbs,no_name,NOE,AUT,232,DMR
-2323418,OE3VWU,Bergen Oehling,Bergen,NIEDEROESTERREICH,AUT,232,DMR
-2323419,OE3LEB,Eder Oed,Eder,NIEDEROESTERREICH,AUT,232,DMR
-2323420,OE3NRU,Nefischer Mauer-Oehling,Nefischer,NIEDEROESTERREICH,AUT,232,DMR
-2323421,OE3VGU,Hoedelsberger Ruprechtshofen,Hoedelsberger,NIEDEROESTERREICH,AUT,232,DMR
-2323425,OE3JDA,Donschachner Mauer-Oehling,Donschachner,NIEDEROESTERREICH,AUT,232,DMR
-2323430,OE3NRS,Nefischer Mauer-Oehling,Nefischer,NIEDEROESTERREICH,AUT,232,DMR
-2323431,OE3JPA,Jagetsberger Amstetten,Jagetsberger,NIEDEROESTERREICH,AUT,232,DMR
-2323432,OE3VWW,Wagner Neuhofen An der Ybbs,Wagner,NIEDEROESTERREICH,AUT,232,DMR
-2323433,OE3VMW,Wagner Neuhofen An der Ybbs,Wagner,NIEDEROESTERREICH,AUT,232,DMR
-2323434,OE3TAN,Neu Ardagger,Neu,NIEDEROESTERREICH,AUT,232,DMR
-2323435,OE3VKA,Kern Ybbs An der Donau,Kern,NIEDEROESTERREICH,AUT,232,DMR
-2323436,OE3ATC,Taranetz Ardagger Markt,Taranetz,NIEDEROESTERREICH,AUT,232,DMR
-2323500,OE3XHQ,Oevsv Wiener Neudorf,Oevsv,NIEDEROESTERREICH,AUT,232,DMR
+2323418,OE3VWU,Bergen Oehling,Bergen,NOE,AUT,232,DMR
+2323419,OE3LEB,Eder Oed,Eder,NOE,AUT,232,DMR
+2323420,OE3NRU,Nefischer Mauer-Oehling,Nefischer,NOE,AUT,232,DMR
+2323421,OE3VGU,Hoedelsberger Ruprechtshofen,Hoedelsberger,NOE,AUT,232,DMR
+2323425,OE3JDA,Donschachner Mauer-Oehling,Donschachner,NOE,AUT,232,DMR
+2323430,OE3NRS,Nefischer Mauer-Oehling,Nefischer,NOE,AUT,232,DMR
+2323431,OE3JPA,Jagetsberger Amstetten,Jagetsberger,NOE,AUT,232,DMR
+2323432,OE3VWW,Wagner Neuhofen An der Ybbs,Wagner,NOE,AUT,232,DMR
+2323433,OE3VMW,Wagner Neuhofen An der Ybbs,Wagner,NOE,AUT,232,DMR
+2323434,OE3TAN,Neu Ardagger,Neu,NOE,AUT,232,DMR
+2323435,OE3VKA,Kern Ybbs An der Donau,Kern,NOE,AUT,232,DMR
+2323436,OE3ATC,Taranetz Ardagger Markt,Taranetz,NOE,AUT,232,DMR
+2323500,OE3XHQ,Oevsv Wiener Neudorf,Oevsv,NOE,AUT,232,DMR
 2323701,OE3DNW,no_name Ebreichsdorf,no_name,NOE,AUT,232,DMR
 2323702,OE3DNW,no_name Ebreichsdorf,no_name,NOE,AUT,232,DMR
 2323710,OE3DNW,no_name Ebreichsdorf,no_name,NOE,AUT,232,DMR
-2324001,OE4KMU,Musser Markt Allhau,Musser,BURGENLAND,AUT,232,DMR
-2324002,OE4KMU,Musser Markt Allhau,Musser,BURGENLAND,AUT,232,DMR
-2324003,OE4NAU,Autengruber Weiden am See,Autengruber,BURGENLAND,AUT,232,DMR
-2324004,OE4NKB,Kiss Bruck/l,Kiss,BURGENLAND,AUT,232,DMR
-2324005,OE4ENU,Nussbaum Klingenbach,Nussbaum,BURGENLAND,AUT,232,DMR
-2324006,OE4GBZ,Binder-Zinsmeister Parndorf,Binder-Zinsmeister,BURGENLAND,AUT,232,DMR
-2324007,OE4RGD,Gallob Neudoerfl,Gallob,BURGENLAND,AUT,232,DMR
-2324008,OE4SLC,Berger Klingenbach,Berger,BURGENLAND,AUT,232,DMR
-2324009,OE4TEA,Enz Weiden am See,Enz,BURGENLAND,AUT,232,DMR
-2324010,OE4ATS,Stangl Podersdorf am See,Stangl,BURGENLAND,AUT,232,DMR
-2324011,OE4CQF,Fiedler Moerbisch am See,Fiedler,BURGENLAND,AUT,232,DMR
-2324012,OE4OJB,Janovic Bad Sauerbrunn,Janovic,BURGENLAND,AUT,232,DMR
-2324013,OE4FHS,Horvath Kukmirn,Horvath,BURGENLAND,AUT,232,DMR
-2324014,OE4GMU,Hammerl Oberpullendorf,Hammerl,BURGENLAND,AUT,232,DMR
-2324015,OE4AMW,Wagner Guettenbach,Wagner,BURGENLAND,AUT,232,DMR
-2324016,OE4CEN,Blechinger Deutsch Kaltenbrunn,Blechinger,BURGENLAND,AUT,232,DMR
-2324017,OE4EUA,Putz Andau,Putz,BURGENLAND,AUT,232,DMR
-2324018,OE4HZB,Hammer Guessing,Hammer,BURGENLAND,AUT,232,DMR
-2324019,OE4BAQ,Balluf Wimpassing An der Leitha,Balluf,BURGENLAND,AUT,232,DMR
+2324001,OE4KMU,Musser Markt Allhau,Musser,BGLD,AUT,232,DMR
+2324002,OE4KMU,Musser Markt Allhau,Musser,BGLD,AUT,232,DMR
+2324003,OE4NAU,Autengruber Weiden am See,Autengruber,BGLD,AUT,232,DMR
+2324004,OE4NKB,Kiss Bruck/l,Kiss,BGLD,AUT,232,DMR
+2324005,OE4ENU,Nussbaum Klingenbach,Nussbaum,BGLD,AUT,232,DMR
+2324006,OE4GBZ,Binder-Zinsmeister Parndorf,Binder-Zinsmeister,BGLD,AUT,232,DMR
+2324007,OE4RGD,Gallob Neudoerfl,Gallob,BGLD,AUT,232,DMR
+2324008,OE4SLC,Berger Klingenbach,Berger,BGLD,AUT,232,DMR
+2324009,OE4TEA,Enz Weiden am See,Enz,BGLD,AUT,232,DMR
+2324010,OE4ATS,Stangl Podersdorf am See,Stangl,BGLD,AUT,232,DMR
+2324011,OE4CQF,Fiedler Moerbisch am See,Fiedler,BGLD,AUT,232,DMR
+2324012,OE4OJB,Janovic Bad Sauerbrunn,Janovic,BGLD,AUT,232,DMR
+2324013,OE4FHS,Horvath Kukmirn,Horvath,BGLD,AUT,232,DMR
+2324014,OE4GMU,Hammerl Oberpullendorf,Hammerl,BGLD,AUT,232,DMR
+2324015,OE4AMW,Wagner Guettenbach,Wagner,BGLD,AUT,232,DMR
+2324016,OE4CEN,Blechinger Deutsch Kaltenbrunn,Blechinger,BGLD,AUT,232,DMR
+2324017,OE4EUA,Putz Andau,Putz,BGLD,AUT,232,DMR
+2324018,OE4HZB,Hammer Guessing,Hammer,BGLD,AUT,232,DMR
+2324019,OE4BAQ,Balluf Wimpassing An der Leitha,Balluf,BGLD,AUT,232,DMR
 2324020,OE4GUB,no_name no_city,no_name,BGLD,AUT,232,DMR
-2324021,OE4LQK,Windisch Purbach am Neusiedler See,Windisch,BURGENLAND,AUT,232,DMR
-2324022,OE4RWD,Rauter Hornstein,Rauter,BURGENLAND,AUT,232,DMR
-2324023,OE4HDS,Steinberger Stoettera,Steinberger,BURGENLAND,AUT,232,DMR
+2324021,OE4LQK,Windisch Purbach am Neusiedler See,Windisch,BGLD,AUT,232,DMR
+2324022,OE4RWD,Rauter Hornstein,Rauter,BGLD,AUT,232,DMR
+2324023,OE4HDS,Steinberger Stoettera,Steinberger,BGLD,AUT,232,DMR
 2324024,OE4GZC,no_name Stinatz,no_name,BGLD,AUT,232,DMR
-2324025,OE4RUK,Kirchmayer Frauenkirchen,Kirchmayer,BURGENLAND,AUT,232,DMR
-2324026,OE4AFW,Wilfinger Deutsch Kaltenbrunn,Wilfinger,BURGENLAND,AUT,232,DMR
-2324027,OE4SZS,Schuch Guettenbach,Schuch,BURGENLAND,AUT,232,DMR
+2324025,OE4RUK,Kirchmayer Frauenkirchen,Kirchmayer,BGLD,AUT,232,DMR
+2324026,OE4AFW,Wilfinger Deutsch Kaltenbrunn,Wilfinger,BGLD,AUT,232,DMR
+2324027,OE4SZS,Schuch Guettenbach,Schuch,BGLD,AUT,232,DMR
 2324028,OE4VIE,no_name no_city,no_name,BGLD,AUT,232,DMR
 2324029,OE4GZZ,no_name Stinatz,no_name,BGLD,AUT,232,DMR
-2324030,OE4KZU,Zach Ritzing,Zach,BURGENLAND,AUT,232,DMR
-2324031,OE4CHZ,Zsilla Grosshoeflein,Zsilla,BURGENLAND,AUT,232,DMR
-2324032,OE4ENU,Nussbaum Klingenbach,Nussbaum,BURGENLAND,AUT,232,DMR
+2324030,OE4KZU,Zach Ritzing,Zach,BGLD,AUT,232,DMR
+2324031,OE4CHZ,Zsilla Grosshoeflein,Zsilla,BGLD,AUT,232,DMR
+2324032,OE4ENU,Nussbaum Klingenbach,Nussbaum,BGLD,AUT,232,DMR
 2324033,OE4GTU,no_name Steinbach,no_name,BGLD,AUT,232,DMR
-2324034,OE4RUM,Stelzer Bernstein,Stelzer,BURGENLAND,AUT,232,DMR
-2324035,OE4VNA,Biedermann Schandorf,Biedermann,BURGENLAND,AUT,232,DMR
-2324036,OE4AZU,Zak Parndorf,Zak,BURGENLAND,AUT,232,DMR
+2324034,OE4RUM,Stelzer Bernstein,Stelzer,BGLD,AUT,232,DMR
+2324035,OE4VNA,Biedermann Schandorf,Biedermann,BGLD,AUT,232,DMR
+2324036,OE4AZU,Zak Parndorf,Zak,BGLD,AUT,232,DMR
 2324037,OE4EIE,no_name no_city,no_name,BGLD,AUT,232,DMR
-2324038,OE4SMS,Maritsch Siegfried Pinkafeld,Maritsch Siegfried,BURGENLAND,AUT,232,DMR
+2324038,OE4SMS,Maritsch Siegfried Pinkafeld,Maritsch Siegfried,BGLD,AUT,232,DMR
 2324039,OE4UFB,no_name no_city,no_name,BGLD,AUT,232,DMR
-2324040,OE4WUA,Zunke Gattendorf,Zunke,BURGENLAND,AUT,232,DMR
-2324041,OE4AHG,Hadl Oberwart,Hadl,BURGENLAND,AUT,232,DMR
-2324042,OE4EWA,Empacher Lackenbach,Empacher,BURGENLAND,AUT,232,DMR
-2324101,OE4KMU,Musser Markt Allhau,Musser,BURGENLAND,AUT,232,DMR
-2324102,OE4RLC,Stangl Markt Allhau,Stangl,BURGENLAND,AUT,232,DMR
-2324103,OE4MUB,Urbauer Buchschachen,Urbauer,BURGENLAND,AUT,232,DMR
-2324104,OE4VMB,Martinek Woerterberg,Martinek,BURGENLAND,AUT,232,DMR
-2324111,OE4CRC,Rockrohr Jois,Rockrohr,BURGENLAND,AUT,232,DMR
-2324112,OE4CRC,Rockrohr Jois,Rockrohr,BURGENLAND,AUT,232,DMR
+2324040,OE4WUA,Zunke Gattendorf,Zunke,BGLD,AUT,232,DMR
+2324041,OE4AHG,Hadl Oberwart,Hadl,BGLD,AUT,232,DMR
+2324042,OE4EWA,Empacher Lackenbach,Empacher,BGLD,AUT,232,DMR
+2324101,OE4KMU,Musser Markt Allhau,Musser,BGLD,AUT,232,DMR
+2324102,OE4RLC,Stangl Markt Allhau,Stangl,BGLD,AUT,232,DMR
+2324103,OE4MUB,Urbauer Buchschachen,Urbauer,BGLD,AUT,232,DMR
+2324104,OE4VMB,Martinek Woerterberg,Martinek,BGLD,AUT,232,DMR
+2324111,OE4CRC,Rockrohr Jois,Rockrohr,BGLD,AUT,232,DMR
+2324112,OE4CRC,Rockrohr Jois,Rockrohr,BGLD,AUT,232,DMR
 2324115,OE4KNA,no_name Grosshoeflein,no_name,BGLD,AUT,232,DMR
 2324121,OE4SSE,no_name Stegersbach,no_name,BGLD,AUT,232,DMR
-2324127,OE4MXB,Halvax Neufeld/l,Halvax,BURGENLAND,AUT,232,DMR
-2324321,OE4JHW,Heissenberger Neufeld An der Leitha,Heissenberger,BURGENLAND,AUT,232,DMR
-2324759,OE4KOB,Kirner Oggau,Kirner,BURGENLAND,AUT,232,DMR
-2325001,OE5KBO,Brandstoetter Steinerkirchen,Brandstoetter,OBEROESTERREICH,AUT,232,DMR
-2325002,OE5RCO,Klein Rohrbach,Klein,OBEROESTERREICH,AUT,232,DMR
-2325003,OE5XXL,Radio Amateur Club Linz,Radio Amateur Club,OBEROESTERREICH,AUT,232,DMR
-2325004,OE5SZL,Duftschmied Linz,Duftschmied,OBEROESTERREICH,AUT,232,DMR
-2325005,OE5SFN,Stadler Linz,Stadler,OBEROESTERREICH,AUT,232,DMR
-2325006,OE5TDO,Ortner Linz,Ortner,OBEROESTERREICH,AUT,232,DMR
-2325007,OE5EUL,Feichtinger Gmunden,Feichtinger,OBEROESTERREICH,AUT,232,DMR
-2325008,OE5RDL,Reisenbichler Ebensee,Reisenbichler,OBEROESTERREICH,AUT,232,DMR
-2325009,OE5KVM,Kues Gampern,Kues,OBEROESTERREICH,AUT,232,DMR
-2325010,OE5DSP,Deininger Leonding,Deininger,OBEROESTERREICH,AUT,232,DMR
-2325011,OE5ROM,Mittermayr Kirchschlag Bei Linz,Mittermayr,OBEROESTERREICH,AUT,232,DMR
-2325012,OE5SFN,Stadler Linz,Stadler,OBEROESTERREICH,AUT,232,DMR
-2325013,OE5VFM,Wimmer Bad Ischl,Wimmer,OBEROESTERREICH,AUT,232,DMR
-2325014,OE5MCM,Mayr Ried/innkreis,Mayr,OBEROESTERREICH,AUT,232,DMR
-2325015,OE5UAL,Ullmann Mauerkirchen,Ullmann,OBEROESTERREICH,AUT,232,DMR
-2325016,OE5VCO,Haslberger Uttendorf,Haslberger,OBEROESTERREICH,AUT,232,DMR
-2325017,OE5VIP,Wiesmueller Alkoven,Wiesmueller,OBEROESTERREICH,AUT,232,DMR
-2325018,OE5KPN,Kuehnl Freistadt,Kuehnl,OBEROESTERREICH,AUT,232,DMR
-2325019,OE5MIL,Gruber Hallstatt,Gruber,OBEROESTERREICH,AUT,232,DMR
-2325020,OE5MCM,Mayr Ried/innkreis,Mayr,OBEROESTERREICH,AUT,232,DMR
-2325021,OE5MIL,Gruber Hallstatt,Gruber,OBEROESTERREICH,AUT,232,DMR
-2325022,OE5RCO,Klein Rohrbach,Klein,OBEROESTERREICH,AUT,232,DMR
+2324127,OE4MXB,Halvax Neufeld/l,Halvax,BGLD,AUT,232,DMR
+2324321,OE4JHW,Heissenberger Neufeld An der Leitha,Heissenberger,BGLD,AUT,232,DMR
+2324759,OE4KOB,Kirner Oggau,Kirner,BGLD,AUT,232,DMR
+2325001,OE5KBO,Brandstoetter Steinerkirchen,Brandstoetter,OOE,AUT,232,DMR
+2325002,OE5RCO,Klein Rohrbach,Klein,OOE,AUT,232,DMR
+2325003,OE5XXL,Radio Amateur Club Linz,Radio Amateur Club,OOE,AUT,232,DMR
+2325004,OE5SZL,Duftschmied Linz,Duftschmied,OOE,AUT,232,DMR
+2325005,OE5SFN,Stadler Linz,Stadler,OOE,AUT,232,DMR
+2325006,OE5TDO,Ortner Linz,Ortner,OOE,AUT,232,DMR
+2325007,OE5EUL,Feichtinger Gmunden,Feichtinger,OOE,AUT,232,DMR
+2325008,OE5RDL,Reisenbichler Ebensee,Reisenbichler,OOE,AUT,232,DMR
+2325009,OE5KVM,Kues Gampern,Kues,OOE,AUT,232,DMR
+2325010,OE5DSP,Deininger Leonding,Deininger,OOE,AUT,232,DMR
+2325011,OE5ROM,Mittermayr Kirchschlag Bei Linz,Mittermayr,OOE,AUT,232,DMR
+2325012,OE5SFN,Stadler Linz,Stadler,OOE,AUT,232,DMR
+2325013,OE5VFM,Wimmer Bad Ischl,Wimmer,OOE,AUT,232,DMR
+2325014,OE5MCM,Mayr Ried/innkreis,Mayr,OOE,AUT,232,DMR
+2325015,OE5UAL,Ullmann Mauerkirchen,Ullmann,OOE,AUT,232,DMR
+2325016,OE5VCO,Haslberger Uttendorf,Haslberger,OOE,AUT,232,DMR
+2325017,OE5VIP,Wiesmueller Alkoven,Wiesmueller,OOE,AUT,232,DMR
+2325018,OE5KPN,Kuehnl Freistadt,Kuehnl,OOE,AUT,232,DMR
+2325019,OE5MIL,Gruber Hallstatt,Gruber,OOE,AUT,232,DMR
+2325020,OE5MCM,Mayr Ried/innkreis,Mayr,OOE,AUT,232,DMR
+2325021,OE5MIL,Gruber Hallstatt,Gruber,OOE,AUT,232,DMR
+2325022,OE5RCO,Klein Rohrbach,Klein,OOE,AUT,232,DMR
 2325023,OE5KNT,no_name no_city,no_name,OOE,AUT,232,DMR
-2325024,OE5FKL,Feichtenschlager Wippenham,Feichtenschlager,OBEROESTERREICH,AUT,232,DMR
-2325025,OE5WHN,Wimmer Bad Ischl,Wimmer,OBEROESTERREICH,AUT,232,DMR
-2325026,OE5GOL,Gstoettenmayr Linz,Gstoettenmayr,OBEROESTERREICH,AUT,232,DMR
-2325027,OE5EUL,Feichtinger Gmunden,Feichtinger,OBEROESTERREICH,AUT,232,DMR
-2325028,OE5DEI,Dunzinger Voecklabruck,Dunzinger,OBEROESTERREICH,AUT,232,DMR
-2325029,OE5OMP,Obermueller Berg Bei Rohrbach,Obermueller,OBEROESTERREICH,AUT,232,DMR
-2325030,OE5MMM,Mairinger Linz,Mairinger,OBEROESTERREICH,AUT,232,DMR
-2325031,OE5SFM,Spitzer Eberschwang,Spitzer,OBEROESTERREICH,AUT,232,DMR
-2325032,OE5KKP,Kitzmantel Klaus Weilbach,Kitzmantel Klaus,OBEROESTERREICH,AUT,232,DMR
-2325033,OE5AON,Floh Gusen,Floh,OBEROESTERREICH,AUT,232,DMR
-2325034,OE5VVM,Vidra Gmunden,Vidra,OBEROESTERREICH,AUT,232,DMR
-2325035,OE5VCM,Vichtbaur Gmunden,Vichtbaur,OBEROESTERREICH,AUT,232,DMR
-2325036,OE5VCO,Haslberger Uttendorf,Haslberger,OBEROESTERREICH,AUT,232,DMR
-2325037,OE5RSZ,Schoefecker Traun,Schoefecker,OBEROESTERREICH,AUT,232,DMR
-2325038,OE5DRM,Mayr Richard Attersee,Mayr Richard,OBEROESTERREICH,AUT,232,DMR
+2325024,OE5FKL,Feichtenschlager Wippenham,Feichtenschlager,OOE,AUT,232,DMR
+2325025,OE5WHN,Wimmer Bad Ischl,Wimmer,OOE,AUT,232,DMR
+2325026,OE5GOL,Gstoettenmayr Linz,Gstoettenmayr,OOE,AUT,232,DMR
+2325027,OE5EUL,Feichtinger Gmunden,Feichtinger,OOE,AUT,232,DMR
+2325028,OE5DEI,Dunzinger Voecklabruck,Dunzinger,OOE,AUT,232,DMR
+2325029,OE5OMP,Obermueller Berg Bei Rohrbach,Obermueller,OOE,AUT,232,DMR
+2325030,OE5MMM,Mairinger Linz,Mairinger,OOE,AUT,232,DMR
+2325031,OE5SFM,Spitzer Eberschwang,Spitzer,OOE,AUT,232,DMR
+2325032,OE5KKP,Kitzmantel Klaus Weilbach,Kitzmantel Klaus,OOE,AUT,232,DMR
+2325033,OE5AON,Floh Gusen,Floh,OOE,AUT,232,DMR
+2325034,OE5VVM,Vidra Gmunden,Vidra,OOE,AUT,232,DMR
+2325035,OE5VCM,Vichtbaur Gmunden,Vichtbaur,OOE,AUT,232,DMR
+2325036,OE5VCO,Haslberger Uttendorf,Haslberger,OOE,AUT,232,DMR
+2325037,OE5RSZ,Schoefecker Traun,Schoefecker,OOE,AUT,232,DMR
+2325038,OE5DRM,Mayr Richard Attersee,Mayr Richard,OOE,AUT,232,DMR
 2325039,OE5MDD,no_name no_city,no_name,OOE,AUT,232,DMR
-2325040,OE5RCA,Curik Linz,Curik,OBEROESTERREICH,AUT,232,DMR
-2325041,OE5TGM,Thurner Sankt Marienkirchen An der Pols,Thurner,OBEROESTERREICH,AUT,232,DMR
-2325042,OE5XSN,Oberoesterreichischer Amateurfunkverband Vorderweissenbach,Oberoesterreichischer Amateurfunkverband,OBEROESTERREICH,AUT,232,DMR
+2325040,OE5RCA,Curik Linz,Curik,OOE,AUT,232,DMR
+2325041,OE5TGM,Thurner Sankt Marienkirchen An der Pols,Thurner,OOE,AUT,232,DMR
+2325042,OE5XSN,Oberoesterreichischer Amateurfunkverband Vorderweissenbach,Oberoesterreichischer Amateurfunkverband,OOE,AUT,232,DMR
 2325043,OE5GNB,no_name Waldhausen im Strude,no_name,OOE,AUT,232,DMR
-2325044,OE5LBO,Lazarevic Braunau am Inn,Lazarevic,OBEROESTERREICH,AUT,232,DMR
-2325045,OE5GTN,Gruber Sankt Marienkirchen An der Pols,Gruber,OBEROESTERREICH,AUT,232,DMR
-2325046,OE5HEL,Hell St. Martin im Innkreis,Hell,OBEROESTERREICH,AUT,232,DMR
-2325047,OE5XOF,Landes-Feuerwehrkomm. Linz,Landes-Feuerwehrkomm.,OBEROESTERREICH,AUT,232,DMR
-2325048,OE5HDN,Huber Heinz Linz,Huber Heinz,OBEROESTERREICH,AUT,232,DMR
-2325049,OE5ACN,Schausberger Voecklamarkt,Schausberger,OBEROESTERREICH,AUT,232,DMR
-2325050,OE5RYM,Rogl Pinsdorf,Rogl,OBEROESTERREICH,AUT,232,DMR
-2325051,OE5PFM,Foisner Sipbachzell,Foisner,OBEROESTERREICH,AUT,232,DMR
-2325052,OE5AFP,Fierlinger Leonding,Fierlinger,OBEROESTERREICH,AUT,232,DMR
-2325053,OE5TTL,Reiterer Johann Linz,Reiterer Johann,OBEROESTERREICH,AUT,232,DMR
-2325054,OE5EVM,Frauscher Gunskirchen,Frauscher,OBEROESTERREICH,AUT,232,DMR
-2325055,OE5ROM,Mittermayr Kirchschlag Bei Linz,Mittermayr,OBEROESTERREICH,AUT,232,DMR
-2325056,OE5OMP,Obermueller Berg Bei Rohrbach,Obermueller,OBEROESTERREICH,AUT,232,DMR
-2325057,OE5TGM,Thurner Sankt Marienkirchen An der Pols,Thurner,OBEROESTERREICH,AUT,232,DMR
-2325058,OE5MXL,Max Steyr,Max,OBEROESTERREICH,AUT,232,DMR
-2325059,OE5PSO,Stockenreitner Pettenbach,Stockenreitner,OBEROESTERREICH,AUT,232,DMR
-2325060,OE5OEM,Greindl Linz,Greindl,OBEROESTERREICH,AUT,232,DMR
-2325061,OE5KIL,Hader Schwertberg,Hader,OBEROESTERREICH,AUT,232,DMR
+2325044,OE5LBO,Lazarevic Braunau am Inn,Lazarevic,OOE,AUT,232,DMR
+2325045,OE5GTN,Gruber Sankt Marienkirchen An der Pols,Gruber,OOE,AUT,232,DMR
+2325046,OE5HEL,Hell St. Martin im Innkreis,Hell,OOE,AUT,232,DMR
+2325047,OE5XOF,Landes-Feuerwehrkomm. Linz,Landes-Feuerwehrkomm.,OOE,AUT,232,DMR
+2325048,OE5HDN,Huber Heinz Linz,Huber Heinz,OOE,AUT,232,DMR
+2325049,OE5ACN,Schausberger Voecklamarkt,Schausberger,OOE,AUT,232,DMR
+2325050,OE5RYM,Rogl Pinsdorf,Rogl,OOE,AUT,232,DMR
+2325051,OE5PFM,Foisner Sipbachzell,Foisner,OOE,AUT,232,DMR
+2325052,OE5AFP,Fierlinger Leonding,Fierlinger,OOE,AUT,232,DMR
+2325053,OE5TTL,Reiterer Johann Linz,Reiterer Johann,OOE,AUT,232,DMR
+2325054,OE5EVM,Frauscher Gunskirchen,Frauscher,OOE,AUT,232,DMR
+2325055,OE5ROM,Mittermayr Kirchschlag Bei Linz,Mittermayr,OOE,AUT,232,DMR
+2325056,OE5OMP,Obermueller Berg Bei Rohrbach,Obermueller,OOE,AUT,232,DMR
+2325057,OE5TGM,Thurner Sankt Marienkirchen An der Pols,Thurner,OOE,AUT,232,DMR
+2325058,OE5MXL,Max Steyr,Max,OOE,AUT,232,DMR
+2325059,OE5PSO,Stockenreitner Pettenbach,Stockenreitner,OOE,AUT,232,DMR
+2325060,OE5OEM,Greindl Linz,Greindl,OOE,AUT,232,DMR
+2325061,OE5KIL,Hader Schwertberg,Hader,OOE,AUT,232,DMR
 2325062,OE5DLH,no_name no_city,no_name,OOE,AUT,232,DMR
-2325063,OE5WIK,Kleinlechner Linz,Kleinlechner,OBEROESTERREICH,AUT,232,DMR
-2325064,OE5DZL,Zechleitner Mehrnbach,Zechleitner,OBEROESTERREICH,AUT,232,DMR
-2325065,OE5STM,Schneider Timm Voecklabruck,Schneider Timm,OBEROESTERREICH,AUT,232,DMR
-2325066,OE5MXL,Max Steyr,Max,OBEROESTERREICH,AUT,232,DMR
-2325067,OE5TET,Landl Eidenberg,Landl,OBEROESTERREICH,AUT,232,DMR
-2325068,OE5KZM,Zehetner St.Marien B.N.,Zehetner,OBEROESTERREICH,AUT,232,DMR
+2325063,OE5WIK,Kleinlechner Linz,Kleinlechner,OOE,AUT,232,DMR
+2325064,OE5DZL,Zechleitner Mehrnbach,Zechleitner,OOE,AUT,232,DMR
+2325065,OE5STM,Schneider Timm Voecklabruck,Schneider Timm,OOE,AUT,232,DMR
+2325066,OE5MXL,Max Steyr,Max,OOE,AUT,232,DMR
+2325067,OE5TET,Landl Eidenberg,Landl,OOE,AUT,232,DMR
+2325068,OE5KZM,Zehetner St.Marien B.N.,Zehetner,OOE,AUT,232,DMR
 2325069,OE5YEE,no_name Linz,no_name,OOE,AUT,232,DMR
-2325070,OE5EIN,Wagner Linz,Wagner,OBEROESTERREICH,AUT,232,DMR
-2325071,OE5ENL,Eggl Frankenburg am Hausruck,Eggl,OBEROESTERREICH,AUT,232,DMR
-2325072,OE5HHP,Holzmann Rutzenmoos,Holzmann,OBEROESTERREICH,AUT,232,DMR
-2325073,OE5UAM,Schoebel Timelkam,Schoebel,OBEROESTERREICH,AUT,232,DMR
-2325074,OE5FKO,Kerschbaumer Waldhausen im Strudengau,Kerschbaumer,OBEROESTERREICH,AUT,232,DMR
-2325075,OE5LAZ,Lanzl Thalheim Bei Wels,Lanzl,OBEROESTERREICH,AUT,232,DMR
-2325076,OE5KLI,Klee Frankenburg am Hausruck,Klee,OBEROESTERREICH,AUT,232,DMR
-2325077,OE5XYZ,Amateurfunkverein Linz,Amateurfunkverein,OBEROESTERREICH,AUT,232,DMR
-2325078,OE5USB,Seifriedsberger Eberschwang,Seifriedsberger,OBEROESTERREICH,AUT,232,DMR
-2325079,OE5LAL,Loidl Ebensee,Loidl,OBEROESTERREICH,AUT,232,DMR
-2325080,OE5SLN,Lettner Mehrnbach,Lettner,OBEROESTERREICH,AUT,232,DMR
-2325081,OE5ONS,Hoffmann Linz,Hoffmann,OBEROESTERREICH,AUT,232,DMR
-2325082,OE5TUN,Entress Ottensheim,Entress,OBEROESTERREICH,AUT,232,DMR
-2325083,OE5EGN,Eichinger Gmunden,Eichinger,OBEROESTERREICH,AUT,232,DMR
-2325084,OE5FZO,Fasthuber St.Willibald,Fasthuber,OBEROESTERREICH,AUT,232,DMR
-2325085,OE5FPP,Proell Timelkam,Proell,OBEROESTERREICH,AUT,232,DMR
-2325086,OE5WRO,Roubik Linz,Roubik,OBEROESTERREICH,AUT,232,DMR
-2325087,OE5FHM,Fosodeder Helmut Ampflwang,Fosodeder Helmut,OBEROESTERREICH,AUT,232,DMR
-2325088,OE5RI,Reinprecht Steyr,Reinprecht,OBEROESTERREICH,AUT,232,DMR
-2325089,OE5OVL,Kaufmann Arbing,Kaufmann,OBEROESTERREICH,AUT,232,DMR
-2325090,OE5KLI,Klee Frankenburg am Hausruck,Klee,OBEROESTERREICH,AUT,232,DMR
-2325091,OE5KRO,Kroeswagn Natternbach,Kroeswagn,OBEROESTERREICH,AUT,232,DMR
-2325092,OE5PLM,Panholzer Linz,Panholzer,OBEROESTERREICH,AUT,232,DMR
-2325093,OE5SRG,Schausberger Linz,Schausberger,OBEROESTERREICH,AUT,232,DMR
-2325094,OE5HAR,Hanner Marchtrenk,Hanner,OBEROESTERREICH,AUT,232,DMR
-2325095,OE5FRL,Schoendorfer Rottenbach,Schoendorfer,OBEROESTERREICH,AUT,232,DMR
-2325096,OE5MKL,Kasteneder Wippenham,Kasteneder,OBEROESTERREICH,AUT,232,DMR
-2325097,OE5GJN,Jungbauer Linz,Jungbauer,OBEROESTERREICH,AUT,232,DMR
-2325098,OE5MKE,Koppensteiner Ansfelden,Koppensteiner,OBEROESTERREICH,AUT,232,DMR
+2325070,OE5EIN,Wagner Linz,Wagner,OOE,AUT,232,DMR
+2325071,OE5ENL,Eggl Frankenburg am Hausruck,Eggl,OOE,AUT,232,DMR
+2325072,OE5HHP,Holzmann Rutzenmoos,Holzmann,OOE,AUT,232,DMR
+2325073,OE5UAM,Schoebel Timelkam,Schoebel,OOE,AUT,232,DMR
+2325074,OE5FKO,Kerschbaumer Waldhausen im Strudengau,Kerschbaumer,OOE,AUT,232,DMR
+2325075,OE5LAZ,Lanzl Thalheim Bei Wels,Lanzl,OOE,AUT,232,DMR
+2325076,OE5KLI,Klee Frankenburg am Hausruck,Klee,OOE,AUT,232,DMR
+2325077,OE5XYZ,Amateurfunkverein Linz,Amateurfunkverein,OOE,AUT,232,DMR
+2325078,OE5USB,Seifriedsberger Eberschwang,Seifriedsberger,OOE,AUT,232,DMR
+2325079,OE5LAL,Loidl Ebensee,Loidl,OOE,AUT,232,DMR
+2325080,OE5SLN,Lettner Mehrnbach,Lettner,OOE,AUT,232,DMR
+2325081,OE5ONS,Hoffmann Linz,Hoffmann,OOE,AUT,232,DMR
+2325082,OE5TUN,Entress Ottensheim,Entress,OOE,AUT,232,DMR
+2325083,OE5EGN,Eichinger Gmunden,Eichinger,OOE,AUT,232,DMR
+2325084,OE5FZO,Fasthuber St.Willibald,Fasthuber,OOE,AUT,232,DMR
+2325085,OE5FPP,Proell Timelkam,Proell,OOE,AUT,232,DMR
+2325086,OE5WRO,Roubik Linz,Roubik,OOE,AUT,232,DMR
+2325087,OE5FHM,Fosodeder Helmut Ampflwang,Fosodeder Helmut,OOE,AUT,232,DMR
+2325088,OE5RI,Reinprecht Steyr,Reinprecht,OOE,AUT,232,DMR
+2325089,OE5OVL,Kaufmann Arbing,Kaufmann,OOE,AUT,232,DMR
+2325090,OE5KLI,Klee Frankenburg am Hausruck,Klee,OOE,AUT,232,DMR
+2325091,OE5KRO,Kroeswagn Natternbach,Kroeswagn,OOE,AUT,232,DMR
+2325092,OE5PLM,Panholzer Linz,Panholzer,OOE,AUT,232,DMR
+2325093,OE5SRG,Schausberger Linz,Schausberger,OOE,AUT,232,DMR
+2325094,OE5HAR,Hanner Marchtrenk,Hanner,OOE,AUT,232,DMR
+2325095,OE5FRL,Schoendorfer Rottenbach,Schoendorfer,OOE,AUT,232,DMR
+2325096,OE5MKL,Kasteneder Wippenham,Kasteneder,OOE,AUT,232,DMR
+2325097,OE5GJN,Jungbauer Linz,Jungbauer,OOE,AUT,232,DMR
+2325098,OE5MKE,Koppensteiner Ansfelden,Koppensteiner,OOE,AUT,232,DMR
 2325099,OE5ASO,no_name no_city,no_name,OOE,AUT,232,DMR
-2325100,OE5CGL,Kranzl Perg,Kranzl,OBEROESTERREICH,AUT,232,DMR
-2325101,OE5GOL,Gstoettenmayr Linz,Gstoettenmayr,OBEROESTERREICH,AUT,232,DMR
+2325100,OE5CGL,Kranzl Perg,Kranzl,OOE,AUT,232,DMR
+2325101,OE5GOL,Gstoettenmayr Linz,Gstoettenmayr,OOE,AUT,232,DMR
 2325102,OE5ELL,no_name Trattnach,no_name,OOE,AUT,232,DMR
-2325103,OE5LOH,Handl Lothar Reinhard no_city,Handl Lothar Reinhard,OBEROESTERREICH,AUT,232,DMR
-2325104,OE5SLS,Lugschitz Stefan Schaerding,Lugschitz Stefan,OBEROESTERREICH,AUT,232,DMR
-2325105,OE5HNF,Just Gregor Linz,Just Gregor,OBEROESTERREICH,AUT,232,DMR
-2325106,OE5AGM,Gallistl Wels,Gallistl,OBEROESTERREICH,AUT,232,DMR
-2325107,OE5KNE,Neumann Linz,Neumann,OBEROESTERREICH,AUT,232,DMR
-2325108,OE5ADO,Wieser Steyr,Wieser,OBEROESTERREICH,AUT,232,DMR
-2325109,OE5JWO,Winroither Marchtrenk,Winroither,OBEROESTERREICH,AUT,232,DMR
-2325110,OE5MUT,Strolz Martin Steyr,Strolz Martin,OBEROESTERREICH,AUT,232,DMR
-2325111,OE5JSM,Schroeder Traun,Schroeder,OBEROESTERREICH,AUT,232,DMR
-2325112,OE5BAN,Bamberger Altmuenster,Bamberger,OBEROESTERREICH,AUT,232,DMR
-2325113,OE5DOM,Donabauer Linz,Donabauer,OBEROESTERREICH,AUT,232,DMR
-2325114,OE5SZN,Zahler Siegfried Bad Goisern am Hallstaettersee,Zahler Siegfried,OBEROESTERREICH,AUT,232,DMR
-2325115,OE5KCO,Koubek Linz,Koubek,OBEROESTERREICH,AUT,232,DMR
-2325116,OE5HRN,Hochmuth Esternberg,Hochmuth,OBEROESTERREICH,AUT,232,DMR
-2325117,OE5HCE,Hacker Eberstalzell,Hacker,OBEROESTERREICH,AUT,232,DMR
-2325118,OE5ESO,Eibl Roitham,Eibl,OBEROESTERREICH,AUT,232,DMR
-2325119,OE5SZN,Zahler Siegfried Bad Goisern am Hallstaettersee,Zahler Siegfried,OBEROESTERREICH,AUT,232,DMR
-2325120,OE5HAR,Hanner Marchtrenk,Hanner,OBEROESTERREICH,AUT,232,DMR
-2325121,OE5VBM,Vorhauer Waizenkirchen,Vorhauer,OBEROESTERREICH,AUT,232,DMR
-2325122,OE5MBP,Mayrbaeurl Leonding,Mayrbaeurl,OBEROESTERREICH,AUT,232,DMR
-2325123,OE5ANN,Schober Tiefgraben,Schober,OBEROESTERREICH,AUT,232,DMR
-2325124,OE5SLE,Leitner Leonding,Leitner,OBEROESTERREICH,AUT,232,DMR
-2325125,OE5CSL,Siess Altmuenster,Siess,OBEROESTERREICH,AUT,232,DMR
-2325126,OE5RPP,Hauke Rudolf Sankt Georgen im Attergau,Hauke Rudolf,OBEROESTERREICH,AUT,232,DMR
-2325127,OE5OZL,Zeilinger Frankenmarkt,Zeilinger,OBEROESTERREICH,AUT,232,DMR
-2325128,OE5JJC,Jagetsberger Linz,Jagetsberger,OBEROESTERREICH,AUT,232,DMR
-2325129,OE5HRN,Hochmuth Esternberg,Hochmuth,OBEROESTERREICH,AUT,232,DMR
-2325130,OE5ITH,Herbrik Wilhering,Herbrik,OBEROESTERREICH,AUT,232,DMR
-2325131,OE5FME,Karl Engerwitzdorf,Karl,OBEROESTERREICH,AUT,232,DMR
-2325132,OE5PWO,Pertl Ansfelden,Pertl,OBEROESTERREICH,AUT,232,DMR
-2325133,OE5OOA,Zeller Pettenbach,Zeller,OBEROESTERREICH,AUT,232,DMR
-2325134,OE5RSE,Schott Richard Linz,Schott Richard,OBEROESTERREICH,AUT,232,DMR
-2325135,OE5NIP,Gschwandtner Juergen Kronstorf,Gschwandtner Juergen,OBEROESTERREICH,AUT,232,DMR
-2325136,OE5AGP,Gschwandtner Kronstorf,Gschwandtner,OBEROESTERREICH,AUT,232,DMR
-2325137,OE5AOO,Wagner Pasching,Wagner,OBEROESTERREICH,AUT,232,DMR
-2325138,OE5IUM,Jakob Atzbach,Jakob,OBEROESTERREICH,AUT,232,DMR
-2325139,OE5EIR,Doppelhofer Bad Leonfelden,Doppelhofer,OBEROESTERREICH,AUT,232,DMR
-2325140,OE5BWN,Bauer Linz,Bauer,OBEROESTERREICH,AUT,232,DMR
-2325141,OE5ERN,Reisinger Linz,Reisinger,OBEROESTERREICH,AUT,232,DMR
-2325142,OE5ANO,Huber Waldzell,Huber,OBEROESTERREICH,AUT,232,DMR
-2325143,OE5FSQ,Schinagl Lochen,Schinagl,OBEROESTERREICH,AUT,232,DMR
-2325144,OE5YAP,Bauchinger Andrea Patrizia Sauldorf 18,Bauchinger Andrea Patrizia,OBEROESTERREICH,AUT,232,DMR
-2325145,OE5SKE,Kohlmayer Aspach,Kohlmayer,OBEROESTERREICH,AUT,232,DMR
-2325146,OE5ANL,Eckl Linz,Eckl,OBEROESTERREICH,AUT,232,DMR
-2325147,OE5HPM,Schmelzer Burgkirchen,Schmelzer,OBEROESTERREICH,AUT,232,DMR
-2325148,OE5PJN,Janos Wels,Janos,OBEROESTERREICH,AUT,232,DMR
-2325149,OE5LEP,Poesinger Schwand I.I.,Poesinger,OBEROESTERREICH,AUT,232,DMR
-2325150,OE5RLP,Lappi Untergruenburg,Lappi,OBEROESTERREICH,AUT,232,DMR
-2325151,OE5UNO,Grill Neufelden,Grill,OBEROESTERREICH,AUT,232,DMR
-2325152,OE5UNO,Grill Neufelden,Grill,OBEROESTERREICH,AUT,232,DMR
-2325153,OE5DRO,Dorn Traun,Dorn,OBEROESTERREICH,AUT,232,DMR
-2325154,OE5DRO,Dorn Traun,Dorn,OBEROESTERREICH,AUT,232,DMR
-2325155,OE5AZG,Zehetner Haid/ansfelden,Zehetner,OBEROESTERREICH,AUT,232,DMR
-2325156,OE5AMR,Arnetseder Wels,Arnetseder,OBEROESTERREICH,AUT,232,DMR
-2325157,OE5BPA,Buchegger Linz,Buchegger,OBEROESTERREICH,AUT,232,DMR
-2325158,OE5GMO,Mueller Sankt Martin im Muehlkreis,Mueller,OBEROESTERREICH,AUT,232,DMR
-2325159,OE5NEO,Jachs Pinsdorf,Jachs,OBEROESTERREICH,AUT,232,DMR
-2325160,OE5EIR,Doppelhofer Bad Leonfelden,Doppelhofer,OBEROESTERREICH,AUT,232,DMR
-2325161,OE5RNL,Autengruber Linz,Autengruber,OBEROESTERREICH,AUT,232,DMR
-2325162,OE5HKQ,Krammer Traun,Krammer,OBEROESTERREICH,AUT,232,DMR
+2325103,OE5LOH,Handl Lothar Reinhard no_city,Handl Lothar Reinhard,OOE,AUT,232,DMR
+2325104,OE5SLS,Lugschitz Stefan Schaerding,Lugschitz Stefan,OOE,AUT,232,DMR
+2325105,OE5HNF,Just Gregor Linz,Just Gregor,OOE,AUT,232,DMR
+2325106,OE5AGM,Gallistl Wels,Gallistl,OOE,AUT,232,DMR
+2325107,OE5KNE,Neumann Linz,Neumann,OOE,AUT,232,DMR
+2325108,OE5ADO,Wieser Steyr,Wieser,OOE,AUT,232,DMR
+2325109,OE5JWO,Winroither Marchtrenk,Winroither,OOE,AUT,232,DMR
+2325110,OE5MUT,Strolz Martin Steyr,Strolz Martin,OOE,AUT,232,DMR
+2325111,OE5JSM,Schroeder Traun,Schroeder,OOE,AUT,232,DMR
+2325112,OE5BAN,Bamberger Altmuenster,Bamberger,OOE,AUT,232,DMR
+2325113,OE5DOM,Donabauer Linz,Donabauer,OOE,AUT,232,DMR
+2325114,OE5SZN,Zahler Siegfried Bad Goisern am Hallstaettersee,Zahler Siegfried,OOE,AUT,232,DMR
+2325115,OE5KCO,Koubek Linz,Koubek,OOE,AUT,232,DMR
+2325116,OE5HRN,Hochmuth Esternberg,Hochmuth,OOE,AUT,232,DMR
+2325117,OE5HCE,Hacker Eberstalzell,Hacker,OOE,AUT,232,DMR
+2325118,OE5ESO,Eibl Roitham,Eibl,OOE,AUT,232,DMR
+2325119,OE5SZN,Zahler Siegfried Bad Goisern am Hallstaettersee,Zahler Siegfried,OOE,AUT,232,DMR
+2325120,OE5HAR,Hanner Marchtrenk,Hanner,OOE,AUT,232,DMR
+2325121,OE5VBM,Vorhauer Waizenkirchen,Vorhauer,OOE,AUT,232,DMR
+2325122,OE5MBP,Mayrbaeurl Leonding,Mayrbaeurl,OOE,AUT,232,DMR
+2325123,OE5ANN,Schober Tiefgraben,Schober,OOE,AUT,232,DMR
+2325124,OE5SLE,Leitner Leonding,Leitner,OOE,AUT,232,DMR
+2325125,OE5CSL,Siess Altmuenster,Siess,OOE,AUT,232,DMR
+2325126,OE5RPP,Hauke Rudolf Sankt Georgen im Attergau,Hauke Rudolf,OOE,AUT,232,DMR
+2325127,OE5OZL,Zeilinger Frankenmarkt,Zeilinger,OOE,AUT,232,DMR
+2325128,OE5JJC,Jagetsberger Linz,Jagetsberger,OOE,AUT,232,DMR
+2325129,OE5HRN,Hochmuth Esternberg,Hochmuth,OOE,AUT,232,DMR
+2325130,OE5ITH,Herbrik Wilhering,Herbrik,OOE,AUT,232,DMR
+2325131,OE5FME,Karl Engerwitzdorf,Karl,OOE,AUT,232,DMR
+2325132,OE5PWO,Pertl Ansfelden,Pertl,OOE,AUT,232,DMR
+2325133,OE5OOA,Zeller Pettenbach,Zeller,OOE,AUT,232,DMR
+2325134,OE5RSE,Schott Richard Linz,Schott Richard,OOE,AUT,232,DMR
+2325135,OE5NIP,Gschwandtner Juergen Kronstorf,Gschwandtner Juergen,OOE,AUT,232,DMR
+2325136,OE5AGP,Gschwandtner Kronstorf,Gschwandtner,OOE,AUT,232,DMR
+2325137,OE5AOO,Wagner Pasching,Wagner,OOE,AUT,232,DMR
+2325138,OE5IUM,Jakob Atzbach,Jakob,OOE,AUT,232,DMR
+2325139,OE5EIR,Doppelhofer Bad Leonfelden,Doppelhofer,OOE,AUT,232,DMR
+2325140,OE5BWN,Bauer Linz,Bauer,OOE,AUT,232,DMR
+2325141,OE5ERN,Reisinger Linz,Reisinger,OOE,AUT,232,DMR
+2325142,OE5ANO,Huber Waldzell,Huber,OOE,AUT,232,DMR
+2325143,OE5FSQ,Schinagl Lochen,Schinagl,OOE,AUT,232,DMR
+2325144,OE5YAP,Bauchinger Andrea Patrizia Sauldorf 18,Bauchinger Andrea Patrizia,OOE,AUT,232,DMR
+2325145,OE5SKE,Kohlmayer Aspach,Kohlmayer,OOE,AUT,232,DMR
+2325146,OE5ANL,Eckl Linz,Eckl,OOE,AUT,232,DMR
+2325147,OE5HPM,Schmelzer Burgkirchen,Schmelzer,OOE,AUT,232,DMR
+2325148,OE5PJN,Janos Wels,Janos,OOE,AUT,232,DMR
+2325149,OE5LEP,Poesinger Schwand I.I.,Poesinger,OOE,AUT,232,DMR
+2325150,OE5RLP,Lappi Untergruenburg,Lappi,OOE,AUT,232,DMR
+2325151,OE5UNO,Grill Neufelden,Grill,OOE,AUT,232,DMR
+2325152,OE5UNO,Grill Neufelden,Grill,OOE,AUT,232,DMR
+2325153,OE5DRO,Dorn Traun,Dorn,OOE,AUT,232,DMR
+2325154,OE5DRO,Dorn Traun,Dorn,OOE,AUT,232,DMR
+2325155,OE5AZG,Zehetner Haid/ansfelden,Zehetner,OOE,AUT,232,DMR
+2325156,OE5AMR,Arnetseder Wels,Arnetseder,OOE,AUT,232,DMR
+2325157,OE5BPA,Buchegger Linz,Buchegger,OOE,AUT,232,DMR
+2325158,OE5GMO,Mueller Sankt Martin im Muehlkreis,Mueller,OOE,AUT,232,DMR
+2325159,OE5NEO,Jachs Pinsdorf,Jachs,OOE,AUT,232,DMR
+2325160,OE5EIR,Doppelhofer Bad Leonfelden,Doppelhofer,OOE,AUT,232,DMR
+2325161,OE5RNL,Autengruber Linz,Autengruber,OOE,AUT,232,DMR
+2325162,OE5HKQ,Krammer Traun,Krammer,OOE,AUT,232,DMR
 2325163,OE5LEC,no_name no_city,no_name,OOE,AUT,232,DMR
-2325164,OE5RLP,Lappi Untergruenburg,Lappi,OBEROESTERREICH,AUT,232,DMR
+2325164,OE5RLP,Lappi Untergruenburg,Lappi,OOE,AUT,232,DMR
 2325165,OE5WZM,no_name no_city,no_name,OOE,AUT,232,DMR
-2325166,OE5SLN,Lettner Mehrnbach,Lettner,OBEROESTERREICH,AUT,232,DMR
-2325167,OE5JOH,Lang Bad Hall,Lang,OBEROESTERREICH,AUT,232,DMR
-2325168,OE5UWL,Unger Walter Ried im Innkreis,Unger Walter,OBEROESTERREICH,AUT,232,DMR
-2325169,OE5STE,Steinhofer Enns,Steinhofer,OBEROESTERREICH,AUT,232,DMR
-2325170,OE5GMP,Meixner Mettmach,Meixner,OBEROESTERREICH,AUT,232,DMR
-2325171,OE5MAO,Mueller Hofkirchen,Mueller,OBEROESTERREICH,AUT,232,DMR
-2325172,OE5GEM,Griesmaier Eberschwang,Griesmaier,OBEROESTERREICH,AUT,232,DMR
-2325173,OE5DAO,Schatz Asten,Schatz,OBEROESTERREICH,AUT,232,DMR
-2325174,OE5AKM,Mateja Linz,Mateja,OBEROESTERREICH,AUT,232,DMR
-2325175,OE5CNN,Bumberger Traun,Bumberger,OBEROESTERREICH,AUT,232,DMR
-2325176,OE5AGM,Gallistl Wels,Gallistl,OBEROESTERREICH,AUT,232,DMR
+2325166,OE5SLN,Lettner Mehrnbach,Lettner,OOE,AUT,232,DMR
+2325167,OE5JOH,Lang Bad Hall,Lang,OOE,AUT,232,DMR
+2325168,OE5UWL,Unger Walter Ried im Innkreis,Unger Walter,OOE,AUT,232,DMR
+2325169,OE5STE,Steinhofer Enns,Steinhofer,OOE,AUT,232,DMR
+2325170,OE5GMP,Meixner Mettmach,Meixner,OOE,AUT,232,DMR
+2325171,OE5MAO,Mueller Hofkirchen,Mueller,OOE,AUT,232,DMR
+2325172,OE5GEM,Griesmaier Eberschwang,Griesmaier,OOE,AUT,232,DMR
+2325173,OE5DAO,Schatz Asten,Schatz,OOE,AUT,232,DMR
+2325174,OE5AKM,Mateja Linz,Mateja,OOE,AUT,232,DMR
+2325175,OE5CNN,Bumberger Traun,Bumberger,OOE,AUT,232,DMR
+2325176,OE5AGM,Gallistl Wels,Gallistl,OOE,AUT,232,DMR
 2325177,OE5XXF,no_name no_city,no_name,OOE,AUT,232,DMR
-2325178,OE5TJO,Justus Sankt Pantaleon,Justus,OBEROESTERREICH,AUT,232,DMR
-2325179,OE5SGN,Simader Buchkirchen,Simader,OBEROESTERREICH,AUT,232,DMR
-2325180,OE5ARP,Aichinger Linz,Aichinger,KAERNTEN,AUT,232,DMR
-2325181,OE5PON,Pointner Alberndorf In der Riedmark,Pointner,OBEROESTERREICH,AUT,232,DMR
-2325182,OE5IRS,Schneeberger Gaspoltshofen,Schneeberger,OBEROESTERREICH,AUT,232,DMR
-2325183,OE5HCL,Haas Leonding,Haas,OBEROESTERREICH,AUT,232,DMR
-2325184,OE5LKL,Layr Feldkirchen,Layr,OBEROESTERREICH,AUT,232,DMR
-2325185,OE5GMO,Mueller St. Martin / M,Mueller,OBEROESTERREICH,AUT,232,DMR
-2325186,OE5HWN,Weissenboeck Leonding,Weissenboeck,OBEROESTERREICH,AUT,232,DMR
-2325187,OE5JPP,Pammer Schenkenfelden,Pammer,OBEROESTERREICH,AUT,232,DMR
-2325188,OE5HRT,Huemer Frankenburg,Huemer,OBEROESTERREICH,AUT,232,DMR
-2325189,OE5BKE,Useini Linz,Useini,KAERNTEN,AUT,232,DMR
-2325190,OE5HBO,Brandstaetter Linz,Brandstaetter,KAERNTEN,AUT,232,DMR
-2325191,OE5FME,Karl Engerwitzdorf,Karl,OBEROESTERREICH,AUT,232,DMR
-2325192,OE5NVL,Autengruber Linz,Autengruber,KAERNTEN,AUT,232,DMR
-2325193,OE5GUS,Gusenbauer Schwertberg,Gusenbauer,OBEROESTERREICH,AUT,232,DMR
-2325251,OE5DRP,Albrecht Schlaegl,Albrecht,OBEROESTERREICH,AUT,232,DMR
-2326001,OE6HEF,Enko St. Peter Ob Judenburg,Enko,STEIERMARK,AUT,232,DMR
-2326002,OE6HXF,Hofstaetter Graz,Hofstaetter,STEIERMARK,AUT,232,DMR
-2326003,OE6WKE,Wolf Hart-Purgstall,Wolf,STEIERMARK,AUT,232,DMR
-2326004,OE6SSG,Pfundner Fehring,Pfundner,STEIERMARK,AUT,232,DMR
-2326005,OE6WND,Ninaus Pirka,Ninaus,STEIERMARK,AUT,232,DMR
+2325178,OE5TJO,Justus Sankt Pantaleon,Justus,OOE,AUT,232,DMR
+2325179,OE5SGN,Simader Buchkirchen,Simader,OOE,AUT,232,DMR
+2325180,OE5ARP,Aichinger Linz,Aichinger,KTN,AUT,232,DMR
+2325181,OE5PON,Pointner Alberndorf In der Riedmark,Pointner,OOE,AUT,232,DMR
+2325182,OE5IRS,Schneeberger Gaspoltshofen,Schneeberger,OOE,AUT,232,DMR
+2325183,OE5HCL,Haas Leonding,Haas,OOE,AUT,232,DMR
+2325184,OE5LKL,Layr Feldkirchen,Layr,OOE,AUT,232,DMR
+2325185,OE5GMO,Mueller St. Martin / M,Mueller,OOE,AUT,232,DMR
+2325186,OE5HWN,Weissenboeck Leonding,Weissenboeck,OOE,AUT,232,DMR
+2325187,OE5JPP,Pammer Schenkenfelden,Pammer,OOE,AUT,232,DMR
+2325188,OE5HRT,Huemer Frankenburg,Huemer,OOE,AUT,232,DMR
+2325189,OE5BKE,Useini Linz,Useini,KTN,AUT,232,DMR
+2325190,OE5HBO,Brandstaetter Linz,Brandstaetter,KTN,AUT,232,DMR
+2325191,OE5FME,Karl Engerwitzdorf,Karl,OOE,AUT,232,DMR
+2325192,OE5NVL,Autengruber Linz,Autengruber,KTN,AUT,232,DMR
+2325193,OE5GUS,Gusenbauer Schwertberg,Gusenbauer,OOE,AUT,232,DMR
+2325251,OE5DRP,Albrecht Schlaegl,Albrecht,OOE,AUT,232,DMR
+2326001,OE6HEF,Enko St. Peter Ob Judenburg,Enko,STMK,AUT,232,DMR
+2326002,OE6HXF,Hofstaetter Graz,Hofstaetter,STMK,AUT,232,DMR
+2326003,OE6WKE,Wolf Hart-Purgstall,Wolf,STMK,AUT,232,DMR
+2326004,OE6SSG,Pfundner Fehring,Pfundner,STMK,AUT,232,DMR
+2326005,OE6WND,Ninaus Pirka,Ninaus,STMK,AUT,232,DMR
 2326006,OE6GJE,no_name no_city,no_name,STMK,AUT,232,DMR
-2326007,OE6WAD,Aicher Franz Feldbach,Aicher Franz,STEIERMARK,AUT,232,DMR
-2326008,OE6SDG,Sloniowski Deutschfeistritz,Sloniowski,STEIERMARK,AUT,232,DMR
-2326009,OE6VFG,Schneider Weissenbach Bei Liezen,Schneider,STEIERMARK,AUT,232,DMR
-2326010,OE6MRF,Riedl Neutillmitsch,Riedl,STEIERMARK,AUT,232,DMR
-2326011,OE6WEG,Windholz Graz-Liebenau,Windholz,STEIERMARK,AUT,232,DMR
-2326012,OE6HXF,Hofstaetter Graz,Hofstaetter,STEIERMARK,AUT,232,DMR
-2326013,OE6HRF,Hyden Gratkorn,Hyden,STEIERMARK,AUT,232,DMR
-2326014,OE6MFG,Kreuzer Rottenmann,Kreuzer,STEIERMARK,AUT,232,DMR
-2326015,OE6KOD,Posch Weiz,Posch,STEIERMARK,AUT,232,DMR
-2326016,OE6UHF,Schrottenbacher Leoben,Schrottenbacher,STEIERMARK,AUT,232,DMR
-2326017,OE6DMD,Doppelreiter Bruck An der Mur,Doppelreiter,STEIERMARK,AUT,232,DMR
-2326018,OE6MTF,Tappeiner Leoben,Tappeiner,STEIERMARK,AUT,232,DMR
-2326019,OE6YFE,Klier Bad Aussee,Klier,STEIERMARK,AUT,232,DMR
-2326020,OE6ASF,Spitzer Weissenbach Bei Liezen,Spitzer,STEIERMARK,AUT,232,DMR
-2326021,OE6EHG,Emminger Kapfenberg,Emminger,STEIERMARK,AUT,232,DMR
-2326022,OE6JAD,Auerbaeck Dechantskirch.,Auerbaeck,STEIERMARK,AUT,232,DMR
-2326023,OE6CYG,Gschanes Pirching An der Raab,Gschanes,STEIERMARK,AUT,232,DMR
-2326024,OE6PID,Schantl Bruck An der Mur,Schantl,STEIERMARK,AUT,232,DMR
-2326025,OE6BID,Schantl Bruck An der Mur,Schantl,STEIERMARK,AUT,232,DMR
-2326026,OE6FID,Witzani Friedrich Graz,Witzani Friedrich,STEIERMARK,AUT,232,DMR
-2326027,OE6DLG,Oswald Sankt Michael In Obersteiermark,Oswald,STEIERMARK,AUT,232,DMR
-2326028,OE6WWG,Werlitsch Graz,Werlitsch,STEIERMARK,AUT,232,DMR
+2326007,OE6WAD,Aicher Franz Feldbach,Aicher Franz,STMK,AUT,232,DMR
+2326008,OE6SDG,Sloniowski Deutschfeistritz,Sloniowski,STMK,AUT,232,DMR
+2326009,OE6VFG,Schneider Weissenbach Bei Liezen,Schneider,STMK,AUT,232,DMR
+2326010,OE6MRF,Riedl Neutillmitsch,Riedl,STMK,AUT,232,DMR
+2326011,OE6WEG,Windholz Graz-Liebenau,Windholz,STMK,AUT,232,DMR
+2326012,OE6HXF,Hofstaetter Graz,Hofstaetter,STMK,AUT,232,DMR
+2326013,OE6HRF,Hyden Gratkorn,Hyden,STMK,AUT,232,DMR
+2326014,OE6MFG,Kreuzer Rottenmann,Kreuzer,STMK,AUT,232,DMR
+2326015,OE6KOD,Posch Weiz,Posch,STMK,AUT,232,DMR
+2326016,OE6UHF,Schrottenbacher Leoben,Schrottenbacher,STMK,AUT,232,DMR
+2326017,OE6DMD,Doppelreiter Bruck An der Mur,Doppelreiter,STMK,AUT,232,DMR
+2326018,OE6MTF,Tappeiner Leoben,Tappeiner,STMK,AUT,232,DMR
+2326019,OE6YFE,Klier Bad Aussee,Klier,STMK,AUT,232,DMR
+2326020,OE6ASF,Spitzer Weissenbach Bei Liezen,Spitzer,STMK,AUT,232,DMR
+2326021,OE6EHG,Emminger Kapfenberg,Emminger,STMK,AUT,232,DMR
+2326022,OE6JAD,Auerbaeck Dechantskirch.,Auerbaeck,STMK,AUT,232,DMR
+2326023,OE6CYG,Gschanes Pirching An der Raab,Gschanes,STMK,AUT,232,DMR
+2326024,OE6PID,Schantl Bruck An der Mur,Schantl,STMK,AUT,232,DMR
+2326025,OE6BID,Schantl Bruck An der Mur,Schantl,STMK,AUT,232,DMR
+2326026,OE6FID,Witzani Friedrich Graz,Witzani Friedrich,STMK,AUT,232,DMR
+2326027,OE6DLG,Oswald Sankt Michael In Obersteiermark,Oswald,STMK,AUT,232,DMR
+2326028,OE6WWG,Werlitsch Graz,Werlitsch,STMK,AUT,232,DMR
 2326029,OE6HHG,no_name Tobelbad,no_name,STMK,AUT,232,DMR
-2326030,OE6NHG,Nitsch Graz,Nitsch,STEIERMARK,AUT,232,DMR
-2326031,OE6FID,Witzani Friedrich Graz,Witzani Friedrich,STEIERMARK,AUT,232,DMR
-2326032,OE6FTF,Hofbauer Hoenigsberg,Hofbauer,STEIERMARK,AUT,232,DMR
-2326033,OE6FTF,Hofbauer Hoenigsberg,Hofbauer,STEIERMARK,AUT,232,DMR
+2326030,OE6NHG,Nitsch Graz,Nitsch,STMK,AUT,232,DMR
+2326031,OE6FID,Witzani Friedrich Graz,Witzani Friedrich,STMK,AUT,232,DMR
+2326032,OE6FTF,Hofbauer Hoenigsberg,Hofbauer,STMK,AUT,232,DMR
+2326033,OE6FTF,Hofbauer Hoenigsberg,Hofbauer,STMK,AUT,232,DMR
 2326034,OE6CGG,no_name Schladming,no_name,STMK,AUT,232,DMR
-2326035,OE6WSE,Willkomm Pirching am Traubenberg,Willkomm,STEIERMARK,AUT,232,DMR
-2326036,OE6PJF,Parfuss Stainz,Parfuss,STEIERMARK,AUT,232,DMR
-2326037,OE6DMD,Doppelreiter Bruck An der Mur,Doppelreiter,STEIERMARK,AUT,232,DMR
-2326038,OE6PID,Schantl Bruck An der Mur,Schantl,STEIERMARK,AUT,232,DMR
-2326039,OE6KYG,Koppendorfer Feldbach,Koppendorfer,STEIERMARK,AUT,232,DMR
-2326040,OE6WWG,Werlitsch Graz,Werlitsch,STEIERMARK,AUT,232,DMR
-2326041,OE6EMF,Voelker Hartberg,Voelker,STEIERMARK,AUT,232,DMR
-2326042,OE6KSE,Schubert Kalsdorf Bei Graz,Schubert,STEIERMARK,AUT,232,DMR
-2326043,OE6MGG,Meister Graz,Meister,STEIERMARK,AUT,232,DMR
+2326035,OE6WSE,Willkomm Pirching am Traubenberg,Willkomm,STMK,AUT,232,DMR
+2326036,OE6PJF,Parfuss Stainz,Parfuss,STMK,AUT,232,DMR
+2326037,OE6DMD,Doppelreiter Bruck An der Mur,Doppelreiter,STMK,AUT,232,DMR
+2326038,OE6PID,Schantl Bruck An der Mur,Schantl,STMK,AUT,232,DMR
+2326039,OE6KYG,Koppendorfer Feldbach,Koppendorfer,STMK,AUT,232,DMR
+2326040,OE6WWG,Werlitsch Graz,Werlitsch,STMK,AUT,232,DMR
+2326041,OE6EMF,Voelker Hartberg,Voelker,STMK,AUT,232,DMR
+2326042,OE6KSE,Schubert Kalsdorf Bei Graz,Schubert,STMK,AUT,232,DMR
+2326043,OE6MGG,Meister Graz,Meister,STMK,AUT,232,DMR
 2326044,OE6XMG,no_name no_city,no_name,STMK,AUT,232,DMR
-2326045,OE6OCG,Posch Nestelbach,Posch,STEIERMARK,AUT,232,DMR
-2326046,OE6KUD,Krainz Ilz,Krainz,STEIERMARK,AUT,232,DMR
-2326047,OE6SSF,Samastur Wettmannstaetten,Samastur,STEIERMARK,AUT,232,DMR
-2326048,OE6WLE,Haidl Schladming,Haidl,STEIERMARK,AUT,232,DMR
-2326049,OE6LME,Lampl Eibiswald,Lampl,STEIERMARK,AUT,232,DMR
-2326050,OE6JVE,Verwuester Ehrenhausen,Verwuester,STEIERMARK,AUT,232,DMR
-2326051,OE6DJG,Jahn Kainbach,Jahn,STEIERMARK,AUT,232,DMR
-2326052,OE6DJG,Jahn Kainbach,Jahn,STEIERMARK,AUT,232,DMR
-2326053,OE6WTF,Wagner Birkfeld,Wagner,STEIERMARK,AUT,232,DMR
-2326054,OE6WTF,Wagner Birkfeld,Wagner,STEIERMARK,AUT,232,DMR
-2326055,OE6AWF,Wolf Birkfeld,Wolf,STEIERMARK,AUT,232,DMR
-2326056,OE6AWF,Wolf Birkfeld,Wolf,STEIERMARK,AUT,232,DMR
-2326057,OE6ALF,Lichtenegger St. Radegund Bei Graz,Lichtenegger,STEIERMARK,AUT,232,DMR
-2326058,OE6ABE,Bairl Eggersdorf Bei Graz,Bairl,STEIERMARK,AUT,232,DMR
-2326059,OE6WPG,Preising Sinabelkirchen,Preising,STEIERMARK,AUT,232,DMR
-2326060,OE6GBG,Hohensinner Gamlitz,Hohensinner,STEIERMARK,AUT,232,DMR
+2326045,OE6OCG,Posch Nestelbach,Posch,STMK,AUT,232,DMR
+2326046,OE6KUD,Krainz Ilz,Krainz,STMK,AUT,232,DMR
+2326047,OE6SSF,Samastur Wettmannstaetten,Samastur,STMK,AUT,232,DMR
+2326048,OE6WLE,Haidl Schladming,Haidl,STMK,AUT,232,DMR
+2326049,OE6LME,Lampl Eibiswald,Lampl,STMK,AUT,232,DMR
+2326050,OE6JVE,Verwuester Ehrenhausen,Verwuester,STMK,AUT,232,DMR
+2326051,OE6DJG,Jahn Kainbach,Jahn,STMK,AUT,232,DMR
+2326052,OE6DJG,Jahn Kainbach,Jahn,STMK,AUT,232,DMR
+2326053,OE6WTF,Wagner Birkfeld,Wagner,STMK,AUT,232,DMR
+2326054,OE6WTF,Wagner Birkfeld,Wagner,STMK,AUT,232,DMR
+2326055,OE6AWF,Wolf Birkfeld,Wolf,STMK,AUT,232,DMR
+2326056,OE6AWF,Wolf Birkfeld,Wolf,STMK,AUT,232,DMR
+2326057,OE6ALF,Lichtenegger St. Radegund Bei Graz,Lichtenegger,STMK,AUT,232,DMR
+2326058,OE6ABE,Bairl Eggersdorf Bei Graz,Bairl,STMK,AUT,232,DMR
+2326059,OE6WPG,Preising Sinabelkirchen,Preising,STMK,AUT,232,DMR
+2326060,OE6GBG,Hohensinner Gamlitz,Hohensinner,STMK,AUT,232,DMR
 2326061,OE6FZE,no_name Hafning,no_name,STMK,AUT,232,DMR
-2326062,OE6IWG,Steinwender Kapfenberg,Steinwender,STEIERMARK,AUT,232,DMR
-2326063,OE6SWD,Stelzer Bruck/mur,Stelzer,STEIERMARK,AUT,232,DMR
+2326062,OE6IWG,Steinwender Kapfenberg,Steinwender,STMK,AUT,232,DMR
+2326063,OE6SWD,Stelzer Bruck/mur,Stelzer,STMK,AUT,232,DMR
 2326064,OE6XBZ,no_name no_city,no_name,STMK,AUT,232,DMR
-2326065,OE6BZE,Zeiler Sulb,Zeiler,STEIERMARK,AUT,232,DMR
-2326066,OE6EWG,Stern Graz,Stern,STEIERMARK,AUT,232,DMR
-2326067,OE6RST,Poellabauer Weiz,Poellabauer,STEIERMARK,AUT,232,DMR
-2326068,OE6CPR,Rothmaier Graz,Rothmaier,STEIERMARK,AUT,232,DMR
+2326065,OE6BZE,Zeiler Sulb,Zeiler,STMK,AUT,232,DMR
+2326066,OE6EWG,Stern Graz,Stern,STMK,AUT,232,DMR
+2326067,OE6RST,Poellabauer Weiz,Poellabauer,STMK,AUT,232,DMR
+2326068,OE6CPR,Rothmaier Graz,Rothmaier,STMK,AUT,232,DMR
 2326069,OE6XWG,no_name no_city,no_name,STMK,AUT,232,DMR
-2326070,OE6LGF,Laenger Graz,Laenger,STEIERMARK,AUT,232,DMR
-2326071,OE6POD,Pachler Zeltweg,Pachler,STEIERMARK,AUT,232,DMR
-2326072,OE6POD,Pachler Zeltweg,Pachler,STEIERMARK,AUT,232,DMR
-2326073,OE6EWH,Wolfger St. Peter am Kammersberg,Wolfger,STEIERMARK,AUT,232,DMR
-2326074,OE6NZG,Garzaner Graz,Garzaner,STEIERMARK,AUT,232,DMR
-2326075,OE6TPE,Pechmann Heiligenkreuz am Waasen,Pechmann,STEIERMARK,AUT,232,DMR
-2326076,OE6CKG,Czamai Oberaich,Czamai,STEIERMARK,AUT,232,DMR
-2326077,OE6FFF,Stadlhofer Frohnleiten,Stadlhofer,STEIERMARK,AUT,232,DMR
-2326078,OE6WOF,Schwarz Sankt Marein im Muerztal,Schwarz,STEIERMARK,AUT,232,DMR
-2326079,OE6JUD,Wruss Arnfels,Wruss,STEIERMARK,AUT,232,DMR
-2326080,OE6NAD,Angerer St. Lorenzen im Muerztal,Angerer,STEIERMARK,AUT,232,DMR
-2326081,OE6CKG,Czamai Oberaich,Czamai,STEIERMARK,AUT,232,DMR
-2326082,OE6LUG,Haus Lothar Graz,Haus Lothar,STEIERMARK,AUT,232,DMR
-2326083,OE6FTE,Kriz Leoben,Kriz,STEIERMARK,AUT,232,DMR
-2326084,OE6MBF,Berschl Leoben,Berschl,STEIERMARK,AUT,232,DMR
-2326085,OE6UCG,Kugler Graz,Kugler,STEIERMARK,AUT,232,DMR
-2326086,OE6AEG,Karner Leoben,Karner,STEIERMARK,AUT,232,DMR
-2326087,OE6TLF,Loidl Kaindorf,Loidl,STEIERMARK,AUT,232,DMR
-2326088,OE6UVG,Stuetz Trofaiach,Stuetz,STEIERMARK,AUT,232,DMR
-2326089,OE6KCD,Krenn Kapfenberg,Krenn,STEIERMARK,AUT,232,DMR
-2326090,OE6AAW,Ring Lassnitzhoehe,Ring,STEIERMARK,AUT,232,DMR
-2326091,OE6HEE,Hesse Graz,Hesse,STEIERMARK,AUT,232,DMR
-2326092,OE6PWG,Wieser Schladming,Wieser,STEIERMARK,AUT,232,DMR
-2326093,OE6PTE,Perner Ramsau am Dachstein,Perner,STEIERMARK,AUT,232,DMR
-2326094,OE6ANH,Niederkofler Sankt Martin am Woellmissberg,Niederkofler,STEIERMARK,AUT,232,DMR
-2326095,OE6AVD,Van Dulmen Alex Preding,Van Dulmen Alex,STEIERMARK,AUT,232,DMR
-2326096,OE6YJD,Jahn Kainbach,Jahn,STEIERMARK,AUT,232,DMR
-2326097,OE6GHG,Graf Petzles,Graf,STEIERMARK,AUT,232,DMR
-2326098,OE6DKG,Dietmayer St.Lorenzen/mt,Dietmayer,STEIERMARK,AUT,232,DMR
-2326099,OE6KLG,Kahr St. Marein Bei Graz,Kahr,STEIERMARK,AUT,232,DMR
-2326100,OE6KPE,Karner Graz,Karner,STEIERMARK,AUT,232,DMR
-2326101,OE6UYG,Thuer Fuerstenfeld,Thuer,STEIERMARK,AUT,232,DMR
-2326102,OE6GKG,Genger Leoben,Genger,STEIERMARK,AUT,232,DMR
-2326103,OE6TFG,Teufl Muerzzuschlag,Teufl,STEIERMARK,AUT,232,DMR
-2326104,OE6CFD,Filzmaier Gleisdorf,Filzmaier,STEIERMARK,AUT,232,DMR
-2326105,OE6TWD,Trattnig Uwe Graz,Trattnig Uwe,STEIERMARK,AUT,232,DMR
-2326106,OE6DXG,Edlinger Kapfenberg,Edlinger,STEIERMARK,AUT,232,DMR
-2326107,OE6STD,Thaller Graz-Liebenau,Thaller,STEIERMARK,AUT,232,DMR
-2326108,OE6YIE,Edlinger Kapfenberg,Edlinger,STEIERMARK,AUT,232,DMR
-2326109,OE6HKD,Frick Voitsberg,Frick,STEIERMARK,AUT,232,DMR
-2326110,OE6IFD,Fleischhacker Graz,Fleischhacker,STEIERMARK,AUT,232,DMR
-2326111,OE6GUG,Gamsjaeger Graz-St.Peter,Gamsjaeger,STEIERMARK,AUT,232,DMR
-2326112,OE6ARF,Rothaemmel Graz,Rothaemmel,STEIERMARK,AUT,232,DMR
-2326113,OE6LSD,Stuebler Graz-St.Peter,Stuebler,STEIERMARK,AUT,232,DMR
-2326114,OE6FJF,Felber Johannes Eggersdorf Bei Graz,Felber Johannes,STEIERMARK,AUT,232,DMR
+2326070,OE6LGF,Laenger Graz,Laenger,STMK,AUT,232,DMR
+2326071,OE6POD,Pachler Zeltweg,Pachler,STMK,AUT,232,DMR
+2326072,OE6POD,Pachler Zeltweg,Pachler,STMK,AUT,232,DMR
+2326073,OE6EWH,Wolfger St. Peter am Kammersberg,Wolfger,STMK,AUT,232,DMR
+2326074,OE6NZG,Garzaner Graz,Garzaner,STMK,AUT,232,DMR
+2326075,OE6TPE,Pechmann Heiligenkreuz am Waasen,Pechmann,STMK,AUT,232,DMR
+2326076,OE6CKG,Czamai Oberaich,Czamai,STMK,AUT,232,DMR
+2326077,OE6FFF,Stadlhofer Frohnleiten,Stadlhofer,STMK,AUT,232,DMR
+2326078,OE6WOF,Schwarz Sankt Marein im Muerztal,Schwarz,STMK,AUT,232,DMR
+2326079,OE6JUD,Wruss Arnfels,Wruss,STMK,AUT,232,DMR
+2326080,OE6NAD,Angerer St. Lorenzen im Muerztal,Angerer,STMK,AUT,232,DMR
+2326081,OE6CKG,Czamai Oberaich,Czamai,STMK,AUT,232,DMR
+2326082,OE6LUG,Haus Lothar Graz,Haus Lothar,STMK,AUT,232,DMR
+2326083,OE6FTE,Kriz Leoben,Kriz,STMK,AUT,232,DMR
+2326084,OE6MBF,Berschl Leoben,Berschl,STMK,AUT,232,DMR
+2326085,OE6UCG,Kugler Graz,Kugler,STMK,AUT,232,DMR
+2326086,OE6AEG,Karner Leoben,Karner,STMK,AUT,232,DMR
+2326087,OE6TLF,Loidl Kaindorf,Loidl,STMK,AUT,232,DMR
+2326088,OE6UVG,Stuetz Trofaiach,Stuetz,STMK,AUT,232,DMR
+2326089,OE6KCD,Krenn Kapfenberg,Krenn,STMK,AUT,232,DMR
+2326090,OE6AAW,Ring Lassnitzhoehe,Ring,STMK,AUT,232,DMR
+2326091,OE6HEE,Hesse Graz,Hesse,STMK,AUT,232,DMR
+2326092,OE6PWG,Wieser Schladming,Wieser,STMK,AUT,232,DMR
+2326093,OE6PTE,Perner Ramsau am Dachstein,Perner,STMK,AUT,232,DMR
+2326094,OE6ANH,Niederkofler Sankt Martin am Woellmissberg,Niederkofler,STMK,AUT,232,DMR
+2326095,OE6AVD,Van Dulmen Alex Preding,Van Dulmen Alex,STMK,AUT,232,DMR
+2326096,OE6YJD,Jahn Kainbach,Jahn,STMK,AUT,232,DMR
+2326097,OE6GHG,Graf Petzles,Graf,STMK,AUT,232,DMR
+2326098,OE6DKG,Dietmayer St.Lorenzen/mt,Dietmayer,STMK,AUT,232,DMR
+2326099,OE6KLG,Kahr St. Marein Bei Graz,Kahr,STMK,AUT,232,DMR
+2326100,OE6KPE,Karner Graz,Karner,STMK,AUT,232,DMR
+2326101,OE6UYG,Thuer Fuerstenfeld,Thuer,STMK,AUT,232,DMR
+2326102,OE6GKG,Genger Leoben,Genger,STMK,AUT,232,DMR
+2326103,OE6TFG,Teufl Muerzzuschlag,Teufl,STMK,AUT,232,DMR
+2326104,OE6CFD,Filzmaier Gleisdorf,Filzmaier,STMK,AUT,232,DMR
+2326105,OE6TWD,Trattnig Uwe Graz,Trattnig Uwe,STMK,AUT,232,DMR
+2326106,OE6DXG,Edlinger Kapfenberg,Edlinger,STMK,AUT,232,DMR
+2326107,OE6STD,Thaller Graz-Liebenau,Thaller,STMK,AUT,232,DMR
+2326108,OE6YIE,Edlinger Kapfenberg,Edlinger,STMK,AUT,232,DMR
+2326109,OE6HKD,Frick Voitsberg,Frick,STMK,AUT,232,DMR
+2326110,OE6IFD,Fleischhacker Graz,Fleischhacker,STMK,AUT,232,DMR
+2326111,OE6GUG,Gamsjaeger Graz-St.Peter,Gamsjaeger,STMK,AUT,232,DMR
+2326112,OE6ARF,Rothaemmel Graz,Rothaemmel,STMK,AUT,232,DMR
+2326113,OE6LSD,Stuebler Graz-St.Peter,Stuebler,STMK,AUT,232,DMR
+2326114,OE6FJF,Felber Johannes Eggersdorf Bei Graz,Felber Johannes,STMK,AUT,232,DMR
 2326115,OE6UUE,no_name no_city,no_name,STMK,AUT,232,DMR
-2326116,OE6AXG,Allmer St.Johann/herb,Allmer,STEIERMARK,AUT,232,DMR
-2326117,OE6ATD,Brutti Ehrenhausen,Brutti,STEIERMARK,AUT,232,DMR
-2326118,OE6WID,Lipp Kapfenberg,Lipp,STEIERMARK,AUT,232,DMR
+2326116,OE6AXG,Allmer St.Johann/herb,Allmer,STMK,AUT,232,DMR
+2326117,OE6ATD,Brutti Ehrenhausen,Brutti,STMK,AUT,232,DMR
+2326118,OE6WID,Lipp Kapfenberg,Lipp,STMK,AUT,232,DMR
 2326119,OE6XFF,no_name no_city,no_name,STMK,AUT,232,DMR
-2326120,OE6LUG,Haus Lothar Graz,Haus Lothar,STEIERMARK,AUT,232,DMR
-2326121,OE6HOF,Hocevar Bad Gams,Hocevar,STEIERMARK,AUT,232,DMR
-2326122,OE6HOF,Hocevar Bad Gams,Hocevar,STEIERMARK,AUT,232,DMR
-2326123,OE6PKF,Pischler Werndorf,Pischler,STEIERMARK,AUT,232,DMR
-2326124,OE6PKF,Pischler Werndorf,Pischler,STEIERMARK,AUT,232,DMR
+2326120,OE6LUG,Haus Lothar Graz,Haus Lothar,STMK,AUT,232,DMR
+2326121,OE6HOF,Hocevar Bad Gams,Hocevar,STMK,AUT,232,DMR
+2326122,OE6HOF,Hocevar Bad Gams,Hocevar,STMK,AUT,232,DMR
+2326123,OE6PKF,Pischler Werndorf,Pischler,STMK,AUT,232,DMR
+2326124,OE6PKF,Pischler Werndorf,Pischler,STMK,AUT,232,DMR
 2326125,OE6MMA,no_name Wien,no_name,STMK,AUT,232,DMR
-2326126,OE6SHE,Schaffer Kapfenberg,Schaffer,STEIERMARK,AUT,232,DMR
-2326127,OE6ESD,Schaeffer Leoben,Schaeffer,STEIERMARK,AUT,232,DMR
-2326128,OE6FBD,Foetsch Lang,Foetsch,STEIERMARK,AUT,232,DMR
-2326129,OE6RKE,Kiendl Deutschlandsberg,Kiendl,STEIERMARK,AUT,232,DMR
-2326130,OE6KAE,Kozar Eichberg-Trautenburg,Kozar,STEIERMARK,AUT,232,DMR
-2326131,OE6EWG,Stern Graz,Stern,STEIERMARK,AUT,232,DMR
-2326132,OE6WOF,Schwarz Sankt Marein im Muerztal,Schwarz,STEIERMARK,AUT,232,DMR
-2326133,OE6UPD,Voelk Graz,Voelk,STEIERMARK,AUT,232,DMR
-2326134,OE6LNG,Lehr Poellau/hartbg,Lehr,STEIERMARK,AUT,232,DMR
-2326135,OE6MDF,Dully Hartberg,Dully,STEIERMARK,AUT,232,DMR
-2326136,OE6ODD,Danzinger Kindberg,Danzinger,STEIERMARK,AUT,232,DMR
-2326137,OE6CLD,Stehlik Judendorf,Stehlik,STEIERMARK,AUT,232,DMR
-2326138,OE6GHH,Hoedl Dobl,Hoedl,STEIERMARK,AUT,232,DMR
-2326139,OE6UZF,Zamberger Trieben,Zamberger,STEIERMARK,AUT,232,DMR
-2326140,OE6MDF,Dully Hartberg,Dully,STEIERMARK,AUT,232,DMR
-2326141,OE6SSF,Samastur Wettmannstaetten,Samastur,STEIERMARK,AUT,232,DMR
-2326142,OE6ATD,Brutti Ehrenhausen,Brutti,STEIERMARK,AUT,232,DMR
-2326143,OE6JVE,Verwuester Ehrenhausen,Verwuester,STEIERMARK,AUT,232,DMR
-2326144,OE6XRD,Oerk Landesverband Feldbach,Oerk Landesverband,STEIERMARK,AUT,232,DMR
-2326145,OE6ASF,Spitzer Weissenbach Bei Liezen,Spitzer,STEIERMARK,AUT,232,DMR
-2326146,OE6KCH,Kamper Scheifling,Kamper,STEIERMARK,AUT,232,DMR
+2326126,OE6SHE,Schaffer Kapfenberg,Schaffer,STMK,AUT,232,DMR
+2326127,OE6ESD,Schaeffer Leoben,Schaeffer,STMK,AUT,232,DMR
+2326128,OE6FBD,Foetsch Lang,Foetsch,STMK,AUT,232,DMR
+2326129,OE6RKE,Kiendl Deutschlandsberg,Kiendl,STMK,AUT,232,DMR
+2326130,OE6KAE,Kozar Eichberg-Trautenburg,Kozar,STMK,AUT,232,DMR
+2326131,OE6EWG,Stern Graz,Stern,STMK,AUT,232,DMR
+2326132,OE6WOF,Schwarz Sankt Marein im Muerztal,Schwarz,STMK,AUT,232,DMR
+2326133,OE6UPD,Voelk Graz,Voelk,STMK,AUT,232,DMR
+2326134,OE6LNG,Lehr Poellau/hartbg,Lehr,STMK,AUT,232,DMR
+2326135,OE6MDF,Dully Hartberg,Dully,STMK,AUT,232,DMR
+2326136,OE6ODD,Danzinger Kindberg,Danzinger,STMK,AUT,232,DMR
+2326137,OE6CLD,Stehlik Judendorf,Stehlik,STMK,AUT,232,DMR
+2326138,OE6GHH,Hoedl Dobl,Hoedl,STMK,AUT,232,DMR
+2326139,OE6UZF,Zamberger Trieben,Zamberger,STMK,AUT,232,DMR
+2326140,OE6MDF,Dully Hartberg,Dully,STMK,AUT,232,DMR
+2326141,OE6SSF,Samastur Wettmannstaetten,Samastur,STMK,AUT,232,DMR
+2326142,OE6ATD,Brutti Ehrenhausen,Brutti,STMK,AUT,232,DMR
+2326143,OE6JVE,Verwuester Ehrenhausen,Verwuester,STMK,AUT,232,DMR
+2326144,OE6XRD,Oerk Landesverband Feldbach,Oerk Landesverband,STMK,AUT,232,DMR
+2326145,OE6ASF,Spitzer Weissenbach Bei Liezen,Spitzer,STMK,AUT,232,DMR
+2326146,OE6KCH,Kamper Scheifling,Kamper,STMK,AUT,232,DMR
 2326147,OE6DEF,no_name no_city,no_name,STMK,AUT,232,DMR
-2326148,OE6SSE,Stipsits Ludersdorf-Wilfersdorf,Stipsits,STEIERMARK,AUT,232,DMR
-2326149,OE6UIG,Schuettner Lassing/selzt.,Schuettner,STEIERMARK,AUT,232,DMR
-2326150,OE6BYD,Brutti Ehrenhausen,Brutti,STEIERMARK,AUT,232,DMR
-2326151,OE6HOE,Eichinger Trofaiach,Eichinger,STEIERMARK,AUT,232,DMR
-2326152,OE6RNT,Willingshofer Langenwang-Schwoebing,Willingshofer,STEIERMARK,AUT,232,DMR
+2326148,OE6SSE,Stipsits Ludersdorf-Wilfersdorf,Stipsits,STMK,AUT,232,DMR
+2326149,OE6UIG,Schuettner Lassing/selzt.,Schuettner,STMK,AUT,232,DMR
+2326150,OE6BYD,Brutti Ehrenhausen,Brutti,STMK,AUT,232,DMR
+2326151,OE6HOE,Eichinger Trofaiach,Eichinger,STMK,AUT,232,DMR
+2326152,OE6RNT,Willingshofer Langenwang-Schwoebing,Willingshofer,STMK,AUT,232,DMR
 2326153,OE6KGD,no_name no_city,no_name,STMK,AUT,232,DMR
-2326154,OE6WIG,Wieser Mureck,Wieser,STEIERMARK,AUT,232,DMR
-2326155,OE6ARD,Peklar Hartberg,Peklar,STEIERMARK,AUT,232,DMR
-2326156,OE6RCD,Robic Leibnitz,Robic,STEIERMARK,AUT,232,DMR
-2326157,OE6JTD,Strohmeier Obervogau,Strohmeier,STEIERMARK,AUT,232,DMR
-2326158,OE6KVG,Krenn Graz,Krenn,STEIERMARK,AUT,232,DMR
-2326159,OE6GBG,Hohensinner Gamlitz,Hohensinner,STEIERMARK,AUT,232,DMR
-2326160,OE6PJG,Jenik Weinitzen,Jenik,STEIERMARK,AUT,232,DMR
-2326161,OE6FEG,Pullan Matthew Sankt Radegund Bei Graz,Pullan Matthew,STEIERMARK,AUT,232,DMR
-2326162,OE6WMG,Wolf Sankt Radegund Bei Graz,Wolf,STEIERMARK,AUT,232,DMR
-2326163,OE6JGE,Grinschgl Voitsberg,Grinschgl,STEIERMARK,AUT,232,DMR
-2326164,OE6HHE,Habe Weiz,Habe,STEIERMARK,AUT,232,DMR
-2326165,OE6GUE,Hutter Leoben,Hutter,STEIERMARK,AUT,232,DMR
-2326166,OE6KUD,Krainz Ilz,Krainz,STEIERMARK,AUT,232,DMR
-2326167,OE6ARG,Jursa Graz,Jursa,STEIERMARK,AUT,232,DMR
-2326168,OE6WNG,Nahold Unterrohr,Nahold,STEIERMARK,AUT,232,DMR
-2326169,OE6BZD,Sawilla Graz,Sawilla,STEIERMARK,AUT,232,DMR
-2326170,OE6UPG,Sauer Graz,Sauer,STEIERMARK,AUT,232,DMR
-2326171,OE6BKG,Boettger Graz,Boettger,STEIERMARK,AUT,232,DMR
-2326172,OE6MMD,Szoncso Sankt Oswald Bei Plankenwarth,Szoncso,STEIERMARK,AUT,232,DMR
-2326173,OE6TTF,Leser Bruck An der Mur,Leser,STEIERMARK,AUT,232,DMR
-2326174,OE6JGE,Grinschgl Voitsberg,Grinschgl,STEIERMARK,AUT,232,DMR
-2326175,OE6CGD,Schalk Stattegg,Schalk,STEIERMARK,AUT,232,DMR
-2326176,OE6SPY,Strasser Graz,Strasser,STEIERMARK,AUT,232,DMR
-2326177,OE6RZE,Zettl Hartberg,Zettl,STEIERMARK,AUT,232,DMR
-2326178,OE6MDW,Weissensteiner Graz,Weissensteiner,STEIERMARK,AUT,232,DMR
-2326179,OE6MEH,Enne Hart Bei Graz,Enne,STEIERMARK,AUT,232,DMR
-2326180,OE6FEF,Fiala Schaeffern,Fiala,STEIERMARK,AUT,232,DMR
-2326181,OE6DRG,Radl Spielberg Bei Knittelfeld,Radl,STEIERMARK,AUT,232,DMR
-2326182,OE6SLG,Schnedlitz Kammern im Liesingtal,Schnedlitz,STEIERMARK,AUT,232,DMR
-2326183,OE6JDG,Judmaier Niklasdorf,Judmaier,STEIERMARK,AUT,232,DMR
-2326184,OE6UXS,Rabl Graz,Rabl,STEIERMARK,AUT,232,DMR
+2326154,OE6WIG,Wieser Mureck,Wieser,STMK,AUT,232,DMR
+2326155,OE6ARD,Peklar Hartberg,Peklar,STMK,AUT,232,DMR
+2326156,OE6RCD,Robic Leibnitz,Robic,STMK,AUT,232,DMR
+2326157,OE6JTD,Strohmeier Obervogau,Strohmeier,STMK,AUT,232,DMR
+2326158,OE6KVG,Krenn Graz,Krenn,STMK,AUT,232,DMR
+2326159,OE6GBG,Hohensinner Gamlitz,Hohensinner,STMK,AUT,232,DMR
+2326160,OE6PJG,Jenik Weinitzen,Jenik,STMK,AUT,232,DMR
+2326161,OE6FEG,Pullan Matthew Sankt Radegund Bei Graz,Pullan Matthew,STMK,AUT,232,DMR
+2326162,OE6WMG,Wolf Sankt Radegund Bei Graz,Wolf,STMK,AUT,232,DMR
+2326163,OE6JGE,Grinschgl Voitsberg,Grinschgl,STMK,AUT,232,DMR
+2326164,OE6HHE,Habe Weiz,Habe,STMK,AUT,232,DMR
+2326165,OE6GUE,Hutter Leoben,Hutter,STMK,AUT,232,DMR
+2326166,OE6KUD,Krainz Ilz,Krainz,STMK,AUT,232,DMR
+2326167,OE6ARG,Jursa Graz,Jursa,STMK,AUT,232,DMR
+2326168,OE6WNG,Nahold Unterrohr,Nahold,STMK,AUT,232,DMR
+2326169,OE6BZD,Sawilla Graz,Sawilla,STMK,AUT,232,DMR
+2326170,OE6UPG,Sauer Graz,Sauer,STMK,AUT,232,DMR
+2326171,OE6BKG,Boettger Graz,Boettger,STMK,AUT,232,DMR
+2326172,OE6MMD,Szoncso Sankt Oswald Bei Plankenwarth,Szoncso,STMK,AUT,232,DMR
+2326173,OE6TTF,Leser Bruck An der Mur,Leser,STMK,AUT,232,DMR
+2326174,OE6JGE,Grinschgl Voitsberg,Grinschgl,STMK,AUT,232,DMR
+2326175,OE6CGD,Schalk Stattegg,Schalk,STMK,AUT,232,DMR
+2326176,OE6SPY,Strasser Graz,Strasser,STMK,AUT,232,DMR
+2326177,OE6RZE,Zettl Hartberg,Zettl,STMK,AUT,232,DMR
+2326178,OE6MDW,Weissensteiner Graz,Weissensteiner,STMK,AUT,232,DMR
+2326179,OE6MEH,Enne Hart Bei Graz,Enne,STMK,AUT,232,DMR
+2326180,OE6FEF,Fiala Schaeffern,Fiala,STMK,AUT,232,DMR
+2326181,OE6DRG,Radl Spielberg Bei Knittelfeld,Radl,STMK,AUT,232,DMR
+2326182,OE6SLG,Schnedlitz Kammern im Liesingtal,Schnedlitz,STMK,AUT,232,DMR
+2326183,OE6JDG,Judmaier Niklasdorf,Judmaier,STMK,AUT,232,DMR
+2326184,OE6UXS,Rabl Graz,Rabl,STMK,AUT,232,DMR
 2326185,OE6XRX,no_name no_city,no_name,STMK,AUT,232,DMR
-2326186,OE6BKQ,Koch Graz,Koch,STEIERMARK,AUT,232,DMR
-2326187,OE6JMF,Meixner Birkfeld,Meixner,STEIERMARK,AUT,232,DMR
+2326186,OE6BKQ,Koch Graz,Koch,STMK,AUT,232,DMR
+2326187,OE6JMF,Meixner Birkfeld,Meixner,STMK,AUT,232,DMR
 2326188,OE6AGD,no_name no_city,no_name,STMK,AUT,232,DMR
-2326189,OE6ADE,Domani Koeflach,Domani,STEIERMARK,AUT,232,DMR
-2326190,OE6HFG,Hermann Murau,Hermann,STEIERMARK,AUT,232,DMR
+2326189,OE6ADE,Domani Koeflach,Domani,STMK,AUT,232,DMR
+2326190,OE6HFG,Hermann Murau,Hermann,STMK,AUT,232,DMR
 2326191,OE6HFF,no_name no_city,no_name,STMK,AUT,232,DMR
-2326192,OE6FBI,Neumeister Graz,Neumeister,STEIERMARK,AUT,232,DMR
-2326193,OE6ETF,Thaller Eisenerz,Thaller,STEIERMARK,AUT,232,DMR
-2326194,OE6BOT,Kohl Zlatten,Kohl,STEIERMARK,AUT,232,DMR
-2326195,OE6KLF,No_name no_city,No_name,STEIERMARK,AUT,232,DMR
-2326196,OE6PSF,Schuller Lemberg,Schuller,STEIERMARK,AUT,232,DMR
-2326197,OE6RAD,Maderbacher Baernbach,Maderbacher,STEIERMARK,AUT,232,DMR
-2326198,OE6MMR,No_name no_city,No_name,STEIERMARK,AUT,232,DMR
+2326192,OE6FBI,Neumeister Graz,Neumeister,STMK,AUT,232,DMR
+2326193,OE6ETF,Thaller Eisenerz,Thaller,STMK,AUT,232,DMR
+2326194,OE6BOT,Kohl Zlatten,Kohl,STMK,AUT,232,DMR
+2326195,OE6KLF,No_name no_city,No_name,STMK,AUT,232,DMR
+2326196,OE6PSF,Schuller Lemberg,Schuller,STMK,AUT,232,DMR
+2326197,OE6RAD,Maderbacher Baernbach,Maderbacher,STMK,AUT,232,DMR
+2326198,OE6MMR,No_name no_city,No_name,STMK,AUT,232,DMR
 2326199,OE6SSB,Hans Wien,Hans,WIEN,AUT,232,DMR
-2326200,OE6TXG,Meitz Graz-Liebenau,Meitz,STEIERMARK,AUT,232,DMR
-2326201,OE6OLD,Muehler Weinburg am Sassbach,Muehler,STEIERMARK,AUT,232,DMR
-2326202,OE6LUI,Luidolt Graz,Luidolt,STEIERMARK,AUT,232,DMR
-2326203,OE6JUE,Schweizer Windorf,Schweizer,STEIERMARK,AUT,232,DMR
-2326204,OE6DUG,Neukirchner Graz,Neukirchner,STEIERMARK,AUT,232,DMR
-2326205,OE6PWE,Puhar Neuseiersberg,Puhar,STEIERMARK,AUT,232,DMR
-2326206,OE6OMC,Heritsch Aflenz,Heritsch,STEIERMARK,AUT,232,DMR
-2326207,OE6VIE,No_name no_city,No_name,STEIERMARK,AUT,232,DMR
-2326208,OE6PVG,Picher Hetzendorf,Picher,STEIERMARK,AUT,232,DMR
-2326209,OE6KWG,Kaiser Graz,Kaiser,STEIERMARK,AUT,232,DMR
-2326210,OE6KAE,Kozar Leutschach,Kozar,KAERNTEN,AUT,232,DMR
-2326221,OE6KWD,Kremsner Kapfenberg,Kremsner,STEIERMARK,AUT,232,DMR
-2326222,OE6JFG,Scherr Bruck An der Mur,Scherr,STEIERMARK,AUT,232,DMR
-2326223,OE6MKD,Mayrhold Kapfenberg,Mayrhold,STEIERMARK,AUT,232,DMR
-2326224,OE6JFG,Scherr Bruck An der Mur,Scherr,STEIERMARK,AUT,232,DMR
-2326225,OE6SWD,Stelzer Bruck/mur,Stelzer,STEIERMARK,AUT,232,DMR
-2326226,OE6SQD,Sommerauer Oberaich,Sommerauer,STEIERMARK,AUT,232,DMR
-2326231,OE6AUD,Urschler Eggersdorf,Urschler,STEIERMARK,AUT,232,DMR
-2326232,OE6JWD,Wolf Hart-Purgstall,Wolf,STEIERMARK,AUT,232,DMR
-2326233,OE6JWD,Wolf Hart-Purgstall,Wolf,STEIERMARK,AUT,232,DMR
+2326200,OE6TXG,Meitz Graz-Liebenau,Meitz,STMK,AUT,232,DMR
+2326201,OE6OLD,Muehler Weinburg am Sassbach,Muehler,STMK,AUT,232,DMR
+2326202,OE6LUI,Luidolt Graz,Luidolt,STMK,AUT,232,DMR
+2326203,OE6JUE,Schweizer Windorf,Schweizer,STMK,AUT,232,DMR
+2326204,OE6DUG,Neukirchner Graz,Neukirchner,STMK,AUT,232,DMR
+2326205,OE6PWE,Puhar Neuseiersberg,Puhar,STMK,AUT,232,DMR
+2326206,OE6OMC,Heritsch Aflenz,Heritsch,STMK,AUT,232,DMR
+2326207,OE6VIE,No_name no_city,No_name,STMK,AUT,232,DMR
+2326208,OE6PVG,Picher Hetzendorf,Picher,STMK,AUT,232,DMR
+2326209,OE6KWG,Kaiser Graz,Kaiser,STMK,AUT,232,DMR
+2326210,OE6KAE,Kozar Leutschach,Kozar,KTN,AUT,232,DMR
+2326221,OE6KWD,Kremsner Kapfenberg,Kremsner,STMK,AUT,232,DMR
+2326222,OE6JFG,Scherr Bruck An der Mur,Scherr,STMK,AUT,232,DMR
+2326223,OE6MKD,Mayrhold Kapfenberg,Mayrhold,STMK,AUT,232,DMR
+2326224,OE6JFG,Scherr Bruck An der Mur,Scherr,STMK,AUT,232,DMR
+2326225,OE6SWD,Stelzer Bruck/mur,Stelzer,STMK,AUT,232,DMR
+2326226,OE6SQD,Sommerauer Oberaich,Sommerauer,STMK,AUT,232,DMR
+2326231,OE6AUD,Urschler Eggersdorf,Urschler,STMK,AUT,232,DMR
+2326232,OE6JWD,Wolf Hart-Purgstall,Wolf,STMK,AUT,232,DMR
+2326233,OE6JWD,Wolf Hart-Purgstall,Wolf,STMK,AUT,232,DMR
 2326234,OE6CLR,no_name Graz,no_name,STMK,AUT,232,DMR
-2326235,OE6VHF,Kohlhofer Sankt Oswald Bei Plankenwarth,Kohlhofer,STEIERMARK,AUT,232,DMR
-2326236,OE6RSD,Stipsic Gleisdorf,Stipsic,STEIERMARK,AUT,232,DMR
-2326237,OE6TSG,Tschermernig Graz,Tschermernig,STEIERMARK,AUT,232,DMR
-2326238,OE6CUD,Thurner Graz-Strassgng,Thurner,STEIERMARK,AUT,232,DMR
-2326239,OE6PBD,Boehler Hausmannstaetten,Boehler,STEIERMARK,AUT,232,DMR
+2326235,OE6VHF,Kohlhofer Sankt Oswald Bei Plankenwarth,Kohlhofer,STMK,AUT,232,DMR
+2326236,OE6RSD,Stipsic Gleisdorf,Stipsic,STMK,AUT,232,DMR
+2326237,OE6TSG,Tschermernig Graz,Tschermernig,STMK,AUT,232,DMR
+2326238,OE6CUD,Thurner Graz-Strassgng,Thurner,STMK,AUT,232,DMR
+2326239,OE6PBD,Boehler Hausmannstaetten,Boehler,STMK,AUT,232,DMR
 2326261,OE6KLU,no_name Stuhleck,no_name,STMK,AUT,232,DMR
-2326351,OE6DJG,Jahn Kainbach,Jahn,STEIERMARK,AUT,232,DMR
-2326532,OE6JWD,Wolf Hart-Purgstall,Wolf,STEIERMARK,AUT,232,DMR
-2326533,OE6HWD,Walitsch Unterlamm,Walitsch,STEIERMARK,AUT,232,DMR
+2326351,OE6DJG,Jahn Kainbach,Jahn,STMK,AUT,232,DMR
+2326532,OE6JWD,Wolf Hart-Purgstall,Wolf,STMK,AUT,232,DMR
+2326533,OE6HWD,Walitsch Unterlamm,Walitsch,STMK,AUT,232,DMR
 2327000,OE7BKH,Kroell Mayrhofen,Kroell,TIROL,AUT,232,DMR
 2327001,OE7CAH,no_name no_city,no_name,TIROL,AUT,232,DMR
 2327002,OE7SRI,Strobl Kramsach,Strobl,TIROL,AUT,232,DMR
@@ -3255,7 +3259,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2327202,OE7IWT,Haid Aldrans,Haid,TIROL,AUT,232,DMR
 2327203,OE7HDR,Doblander Tarrenz,Doblander,TIROL,AUT,232,DMR
 2327204,OE7KJM,Klingenschmid Itter,Klingenschmid,TIROL,AUT,232,DMR
-2327205,OE7SIT,Isser Seefeld,Isser,OBEROESTERREICH,AUT,232,DMR
+2327205,OE7SIT,Isser Seefeld,Isser,OOE,AUT,232,DMR
 2327206,OE7SXG,Steinbacher Niederndorf,Steinbacher,TIROL,AUT,232,DMR
 2327207,OE7MLH,Hainz Reith Bei Seefeld,Hainz,TIROL,AUT,232,DMR
 2327208,OE7KIW,Winter Innsbruck,Winter,TIROL,AUT,232,DMR
@@ -3275,274 +3279,274 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2327222,OE7GBJ,Brunner Oberndorf In Tirol,Brunner,TIROL,AUT,232,DMR
 2327223,OE7ERJ,Raggl Zams,Raggl,TIROL,AUT,232,DMR
 2327232,OE7OST,Ostermann Innsbruck,Ostermann,TIROL,AUT,232,DMR
-2328001,OE8AGK,Grascher Eberndorf,Grascher,KAERNTEN,AUT,232,DMR
+2328001,OE8AGK,Grascher Eberndorf,Grascher,KTN,AUT,232,DMR
 2328002,OE8DDK,no_name no_city,no_name,KTN,AUT,232,DMR
-2328003,OE8LCK,Lippay Klagenfurt,Lippay,KAERNTEN,AUT,232,DMR
+2328003,OE8LCK,Lippay Klagenfurt,Lippay,KTN,AUT,232,DMR
 2328004,OE8JFK,no_name no_city,no_name,KTN,AUT,232,DMR
-2328005,OE8MMK,Maas Margret Spittal An der Drau,Maas Margret,KAERNTEN,AUT,232,DMR
-2328006,OE8DMR,Gulyas Hermagor,Gulyas,KAERNTEN,AUT,232,DMR
-2328007,OE8URQ,Rimmele Noetsch,Rimmele,KAERNTEN,AUT,232,DMR
-2328008,OE8KUR,Kuehnel Gmuend,Kuehnel,KAERNTEN,AUT,232,DMR
-2328009,OE8AEQ,Egger Unteraichwald,Egger,KAERNTEN,AUT,232,DMR
-2328010,OE8AMK,Haller Ferlach,Haller,KAERNTEN,AUT,232,DMR
-2328011,OE8PJK,Ploessnig Villach,Ploessnig,KAERNTEN,AUT,232,DMR
+2328005,OE8MMK,Maas Margret Spittal An der Drau,Maas Margret,KTN,AUT,232,DMR
+2328006,OE8DMR,Gulyas Hermagor,Gulyas,KTN,AUT,232,DMR
+2328007,OE8URQ,Rimmele Noetsch,Rimmele,KTN,AUT,232,DMR
+2328008,OE8KUR,Kuehnel Gmuend,Kuehnel,KTN,AUT,232,DMR
+2328009,OE8AEQ,Egger Unteraichwald,Egger,KTN,AUT,232,DMR
+2328010,OE8AMK,Haller Ferlach,Haller,KTN,AUT,232,DMR
+2328011,OE8PJK,Ploessnig Villach,Ploessnig,KTN,AUT,232,DMR
 2328012,OE8KLK,no_name no_city,no_name,KTN,AUT,232,DMR
-2328013,OE8LCK,Lippay Klagenfurt,Lippay,KAERNTEN,AUT,232,DMR
-2328014,OE8AGK,Grascher Eberndorf,Grascher,KAERNTEN,AUT,232,DMR
+2328013,OE8LCK,Lippay Klagenfurt,Lippay,KTN,AUT,232,DMR
+2328014,OE8AGK,Grascher Eberndorf,Grascher,KTN,AUT,232,DMR
 2328015,OE8JFK,no_name no_city,no_name,KTN,AUT,232,DMR
-2328016,OE8DMK,Maier Klagenfurt,Maier,KAERNTEN,AUT,232,DMR
-2328017,OE8AAK,Augustin Villach,Augustin,KAERNTEN,AUT,232,DMR
-2328018,OE8AIR,Tragauer Friedrich Villach,Tragauer Friedrich,KAERNTEN,AUT,232,DMR
-2328019,OE8WUR,Wulz Villach,Wulz,KAERNTEN,AUT,232,DMR
-2328020,OE8HSR,Steiner Hans Rangersdorf,Steiner Hans,KAERNTEN,AUT,232,DMR
-2328021,OE8JDK,Dedek Villach,Dedek,KAERNTEN,AUT,232,DMR
-2328022,OE8JDK,Dedek Villach,Dedek,KAERNTEN,AUT,232,DMR
+2328016,OE8DMK,Maier Klagenfurt,Maier,KTN,AUT,232,DMR
+2328017,OE8AAK,Augustin Villach,Augustin,KTN,AUT,232,DMR
+2328018,OE8AIR,Tragauer Friedrich Villach,Tragauer Friedrich,KTN,AUT,232,DMR
+2328019,OE8WUR,Wulz Villach,Wulz,KTN,AUT,232,DMR
+2328020,OE8HSR,Steiner Hans Rangersdorf,Steiner Hans,KTN,AUT,232,DMR
+2328021,OE8JDK,Dedek Villach,Dedek,KTN,AUT,232,DMR
+2328022,OE8JDK,Dedek Villach,Dedek,KTN,AUT,232,DMR
 2328023,OE8KBC,no_name Saurachberg,no_name,KTN,AUT,232,DMR
-2328024,OE8PSQ,Suppick Wernberg,Suppick,KAERNTEN,AUT,232,DMR
-2328025,OE8XMK,Oevsv Magdalensberg,Oevsv,KAERNTEN,AUT,232,DMR
-2328026,OE8BGK,Wurzer Meiselding,Wurzer,KAERNTEN,AUT,232,DMR
-2328027,OE8KKK,Koller Ferlach,Koller,KAERNTEN,AUT,232,DMR
-2328028,OE8TWK,Weitzel Feistritz/drau,Weitzel,KAERNTEN,AUT,232,DMR
-2328029,OE8APR,Pachler Seelach,Pachler,KAERNTEN,AUT,232,DMR
-2328030,OE8KRK,Hoefferer Sankt Veit An der Glan,Hoefferer,KAERNTEN,AUT,232,DMR
-2328031,OE8LGK,Koefler Gert Stockenboi,Koefler Gert,KAERNTEN,AUT,232,DMR
-2328032,OE8MTK,Thaler Kappel am Krappfeld,Thaler,KAERNTEN,AUT,232,DMR
-2328033,OE8CKK,Kommetter Waidegg,Kommetter,KAERNTEN,AUT,232,DMR
-2328034,OE8KKM,Mekul Sankt Veit An der Glan,Mekul,KAERNTEN,AUT,232,DMR
-2328035,OE8WOZ,Scherr Villach,Scherr,KAERNTEN,AUT,232,DMR
+2328024,OE8PSQ,Suppick Wernberg,Suppick,KTN,AUT,232,DMR
+2328025,OE8XMK,Oevsv Magdalensberg,Oevsv,KTN,AUT,232,DMR
+2328026,OE8BGK,Wurzer Meiselding,Wurzer,KTN,AUT,232,DMR
+2328027,OE8KKK,Koller Ferlach,Koller,KTN,AUT,232,DMR
+2328028,OE8TWK,Weitzel Feistritz/drau,Weitzel,KTN,AUT,232,DMR
+2328029,OE8APR,Pachler Seelach,Pachler,KTN,AUT,232,DMR
+2328030,OE8KRK,Hoefferer Sankt Veit An der Glan,Hoefferer,KTN,AUT,232,DMR
+2328031,OE8LGK,Koefler Gert Stockenboi,Koefler Gert,KTN,AUT,232,DMR
+2328032,OE8MTK,Thaler Kappel am Krappfeld,Thaler,KTN,AUT,232,DMR
+2328033,OE8CKK,Kommetter Waidegg,Kommetter,KTN,AUT,232,DMR
+2328034,OE8KKM,Mekul Sankt Veit An der Glan,Mekul,KTN,AUT,232,DMR
+2328035,OE8WOZ,Scherr Villach,Scherr,KTN,AUT,232,DMR
 2328036,OE8VIK,no_name no_city,no_name,KTN,AUT,232,DMR
-2328037,OE8SCQ,Seitner-Stadik Feldkirchen In Kaernten,Seitner-Stadik,KAERNTEN,AUT,232,DMR
-2328038,OE8AEQ,Egger Unteraichwald,Egger,KAERNTEN,AUT,232,DMR
+2328037,OE8SCQ,Seitner-Stadik Feldkirchen In Kaernten,Seitner-Stadik,KTN,AUT,232,DMR
+2328038,OE8AEQ,Egger Unteraichwald,Egger,KTN,AUT,232,DMR
 2328039,OE8VIK,no_name no_city,no_name,KTN,AUT,232,DMR
-2328040,OE8XGK,Radio Club Finkenstein am Faakersee,Radio Club,KAERNTEN,AUT,232,DMR
+2328040,OE8XGK,Radio Club Finkenstein am Faakersee,Radio Club,KTN,AUT,232,DMR
 2328041,OE8DLG,no_name Ruden,no_name,KTN,AUT,232,DMR
-2328042,OE8DIV,Rasser Klagenfurt,Rasser,KAERNTEN,AUT,232,DMR
-2328043,OE8AIR,Tragauer Friedrich Villach,Tragauer Friedrich,KAERNTEN,AUT,232,DMR
+2328042,OE8DIV,Rasser Klagenfurt,Rasser,KTN,AUT,232,DMR
+2328043,OE8AIR,Tragauer Friedrich Villach,Tragauer Friedrich,KTN,AUT,232,DMR
 2328044,OE8BJK,no_name Klagenfurt,no_name,KTN,AUT,232,DMR
-2328045,OE8PAK,Pichler Moellbruecke,Pichler,KAERNTEN,AUT,232,DMR
-2328046,OE8PGQ,Felsperger Rosegg,Felsperger,KAERNTEN,AUT,232,DMR
-2328047,OE8CMQ,Malle Klagenfurt,Malle,KAERNTEN,AUT,232,DMR
-2328048,OE8RRR,Lueder Feldkirchen In Kaernten,Lueder,KAERNTEN,AUT,232,DMR
-2328049,OE8RZS,Kritzer Spittal An der Drau,Kritzer,KAERNTEN,AUT,232,DMR
-2328050,OE8KLR,Rauter Klagenfurt,Rauter,KAERNTEN,AUT,232,DMR
-2328051,OE8DKK,Koeberl Villach,Koeberl,KAERNTEN,AUT,232,DMR
-2328052,OE8AWO,Almer Klagenfurt,Almer,KAERNTEN,AUT,232,DMR
-2328053,OE8PZY,Scherr Villach,Scherr,KAERNTEN,AUT,232,DMR
-2328054,OE8EIK,Pogreth Klagenfurt,Pogreth,KAERNTEN,AUT,232,DMR
-2328055,OE8APK,Pokerschnig Maria Rain,Pokerschnig,KAERNTEN,AUT,232,DMR
-2328056,OE8XGK,Radio Club Finkenstein am Faakersee,Radio Club,KAERNTEN,AUT,232,DMR
-2328057,OE8MDK,Perdacher Tainach,Perdacher,KAERNTEN,AUT,232,DMR
-2328058,OE8DAR,Ortner Dellach,Ortner,KAERNTEN,AUT,232,DMR
-2328059,OE8FNK,Kuneth Villach,Kuneth,KAERNTEN,AUT,232,DMR
-2328060,OE8XBB,Kveb Villach,Kveb,KAERNTEN,AUT,232,DMR
-2328061,OE8MPF,Pibal Klagenfurt,Pibal,KAERNTEN,AUT,232,DMR
-2328062,OE8HXK,Kuess Ferlach,Kuess,KAERNTEN,AUT,232,DMR
-2328063,OE8HSF,Strallhofer Knappenberg,Strallhofer,KAERNTEN,AUT,232,DMR
-2328064,OE8FSE,Schwarzl Liebenfels,Schwarzl,KAERNTEN,AUT,232,DMR
-2328065,OE8IBK,Krametter Loelling Sonnseite,Krametter,KAERNTEN,AUT,232,DMR
-2328066,OE8NDR,Liebig Ruden,Liebig,KAERNTEN,AUT,232,DMR
-2328067,OE8APO,Adametz Krumpendorf,Adametz,KAERNTEN,AUT,232,DMR
-2328068,OE8CKK,Kommetter Waidegg,Kommetter,KAERNTEN,AUT,232,DMR
-2328069,OE8MFQ,Fritz Klagenfurt,Fritz,KAERNTEN,AUT,232,DMR
-2328070,OE8ARK,Koestenbaumer Steindorf/osee,Koestenbaumer,KAERNTEN,AUT,232,DMR
-2328071,OE8ASR,Mwakalambo Arnoldstein,Mwakalambo,KAERNTEN,AUT,232,DMR
-2328072,OE8DUT,Filipovic Radenthein,Filipovic,KAERNTEN,AUT,232,DMR
-2328073,OE8NWQ,Weiss Berg/drau,Weiss,KAERNTEN,AUT,232,DMR
-2328074,OE8PJQ,Pichler Baldramsdorf,Pichler,KAERNTEN,AUT,232,DMR
-2328075,OE8WV,Wolf Villach,Wolf,KAERNTEN,AUT,232,DMR
+2328045,OE8PAK,Pichler Moellbruecke,Pichler,KTN,AUT,232,DMR
+2328046,OE8PGQ,Felsperger Rosegg,Felsperger,KTN,AUT,232,DMR
+2328047,OE8CMQ,Malle Klagenfurt,Malle,KTN,AUT,232,DMR
+2328048,OE8RRR,Lueder Feldkirchen In Kaernten,Lueder,KTN,AUT,232,DMR
+2328049,OE8RZS,Kritzer Spittal An der Drau,Kritzer,KTN,AUT,232,DMR
+2328050,OE8KLR,Rauter Klagenfurt,Rauter,KTN,AUT,232,DMR
+2328051,OE8DKK,Koeberl Villach,Koeberl,KTN,AUT,232,DMR
+2328052,OE8AWO,Almer Klagenfurt,Almer,KTN,AUT,232,DMR
+2328053,OE8PZY,Scherr Villach,Scherr,KTN,AUT,232,DMR
+2328054,OE8EIK,Pogreth Klagenfurt,Pogreth,KTN,AUT,232,DMR
+2328055,OE8APK,Pokerschnig Maria Rain,Pokerschnig,KTN,AUT,232,DMR
+2328056,OE8XGK,Radio Club Finkenstein am Faakersee,Radio Club,KTN,AUT,232,DMR
+2328057,OE8MDK,Perdacher Tainach,Perdacher,KTN,AUT,232,DMR
+2328058,OE8DAR,Ortner Dellach,Ortner,KTN,AUT,232,DMR
+2328059,OE8FNK,Kuneth Villach,Kuneth,KTN,AUT,232,DMR
+2328060,OE8XBB,Kveb Villach,Kveb,KTN,AUT,232,DMR
+2328061,OE8MPF,Pibal Klagenfurt,Pibal,KTN,AUT,232,DMR
+2328062,OE8HXK,Kuess Ferlach,Kuess,KTN,AUT,232,DMR
+2328063,OE8HSF,Strallhofer Knappenberg,Strallhofer,KTN,AUT,232,DMR
+2328064,OE8FSE,Schwarzl Liebenfels,Schwarzl,KTN,AUT,232,DMR
+2328065,OE8IBK,Krametter Loelling Sonnseite,Krametter,KTN,AUT,232,DMR
+2328066,OE8NDR,Liebig Ruden,Liebig,KTN,AUT,232,DMR
+2328067,OE8APO,Adametz Krumpendorf,Adametz,KTN,AUT,232,DMR
+2328068,OE8CKK,Kommetter Waidegg,Kommetter,KTN,AUT,232,DMR
+2328069,OE8MFQ,Fritz Klagenfurt,Fritz,KTN,AUT,232,DMR
+2328070,OE8ARK,Koestenbaumer Steindorf/osee,Koestenbaumer,KTN,AUT,232,DMR
+2328071,OE8ASR,Mwakalambo Arnoldstein,Mwakalambo,KTN,AUT,232,DMR
+2328072,OE8DUT,Filipovic Radenthein,Filipovic,KTN,AUT,232,DMR
+2328073,OE8NWQ,Weiss Berg/drau,Weiss,KTN,AUT,232,DMR
+2328074,OE8PJQ,Pichler Baldramsdorf,Pichler,KTN,AUT,232,DMR
+2328075,OE8WV,Wolf Villach,Wolf,KTN,AUT,232,DMR
 2328076,OE8AED,no_name no_city,no_name,KTN,AUT,232,DMR
-2328077,OE8ADF,Allmayer Spittal An der Drau,Allmayer,KAERNTEN,AUT,232,DMR
-2328078,OE8ACQ,Nachbar Klagenfurt,Nachbar,KAERNTEN,AUT,232,DMR
-2328079,OE8ANK,Achatz Pischeldorf,Achatz,KAERNTEN,AUT,232,DMR
-2328080,OE8JPQ,Jeschofnik Klagenfurt,Jeschofnik,KAERNTEN,AUT,232,DMR
+2328077,OE8ADF,Allmayer Spittal An der Drau,Allmayer,KTN,AUT,232,DMR
+2328078,OE8ACQ,Nachbar Klagenfurt,Nachbar,KTN,AUT,232,DMR
+2328079,OE8ANK,Achatz Pischeldorf,Achatz,KTN,AUT,232,DMR
+2328080,OE8JPQ,Jeschofnik Klagenfurt,Jeschofnik,KTN,AUT,232,DMR
 2328081,OE8KTR,no_name Grafenstein,no_name,KTN,AUT,232,DMR
-2328082,OE8MVG,Veratschnig Keutschach,Veratschnig,KAERNTEN,AUT,232,DMR
-2328083,OE8JWK,Berger Poertschach am Woerther See,Berger,KAERNTEN,AUT,232,DMR
-2328084,OE8ACD,Joebstl Wolfsberg,Joebstl,KAERNTEN,AUT,232,DMR
-2328085,OE8AEE,Stieger Klagenfurt,Stieger,KAERNTEN,AUT,232,DMR
-2328086,OE8GWQ,Gabrutsch Sankt Jakob im Rosental,Gabrutsch,KAERNTEN,AUT,232,DMR
-2328087,OE8IJK,Kugi Sankt Veit An der Glan,Kugi,KAERNTEN,AUT,232,DMR
-2328088,OE8GGE,Gradischnig Sankt Veit An der Glan,Gradischnig,KAERNTEN,AUT,232,DMR
-2328089,OE8IMK,Sternath Sankt Veit An der Glan,Sternath,KAERNTEN,AUT,232,DMR
-2328090,OE8ITG,Stromberger Sankt Veit An der Glan,Stromberger,KAERNTEN,AUT,232,DMR
-2328091,OE8IMR,Rauter Sankt Veit An der Glan,Rauter,KAERNTEN,AUT,232,DMR
-2328092,OE8RAT,No_name no_city,No_name,KAERNTEN,AUT,232,DMR
-2328093,OE8JAS,Sacherer Sittersdorf,Sacherer,KAERNTEN,AUT,232,DMR
-2328094,OE8JSK,Scherzer Sankt Veit An der Glan,Scherzer,KAERNTEN,AUT,232,DMR
-2328095,OE8ASK,Scherzer Sankt Veit An der Glan,Scherzer,KAERNTEN,AUT,232,DMR
-2328096,OE8BSK,Sitar Miklauzhof,Sitar,KAERNTEN,AUT,232,DMR
-2328097,OE8KYK,Unterkoefler Ueberfeld,Unterkoefler,KAERNTEN,AUT,232,DMR
-2328098,OE8OGI,Ogris Feistritz im Rosental,Ogris,KAERNTEN,AUT,232,DMR
-2328099,OE8SFK,Schenk Klagenfurt,Schenk,KAERNTEN,AUT,232,DMR
-2328100,OE8ELO,Londer Feldkirchen In Kaernten,Londer,KAERNTEN,AUT,232,DMR
-2328101,OE8TEK,Enzenebner Klagenfurt,Enzenebner,KAERNTEN,AUT,232,DMR
-2328102,OE8FOX,Spreitzer Steindorf,Spreitzer,KAERNTEN,AUT,232,DMR
-2328103,OE8RPK,Pobatschnig Sankt Andrae,Pobatschnig,KAERNTEN,AUT,232,DMR
-2328104,OE8TLK,Lueger Lambichl,Lueger,KAERNTEN,AUT,232,DMR
-2328105,OE8LSR,Spitzer Keutschach,Spitzer,KAERNTEN,AUT,232,DMR
-2328106,OE8SQK,Quade Wolfsberg,Quade,KAERNTEN,AUT,232,DMR
-2328107,OE8SID,Motschnik Eberndorf,Motschnik,KAERNTEN,AUT,232,DMR
-2328108,OE8MHQ,Kienbacher Krumpendorf,Kienbacher,KAERNTEN,AUT,232,DMR
-2328109,OE8HKS,Kloss Friesach,Kloss,KAERNTEN,AUT,232,DMR
-2328110,OE8MEQ,Meschnark Wolfsberg,Meschnark,KAERNTEN,AUT,232,DMR
-2328111,OE8ARQ,Rieder Viktring,Rieder,KAERNTEN,AUT,232,DMR
+2328082,OE8MVG,Veratschnig Keutschach,Veratschnig,KTN,AUT,232,DMR
+2328083,OE8JWK,Berger Poertschach am Woerther See,Berger,KTN,AUT,232,DMR
+2328084,OE8ACD,Joebstl Wolfsberg,Joebstl,KTN,AUT,232,DMR
+2328085,OE8AEE,Stieger Klagenfurt,Stieger,KTN,AUT,232,DMR
+2328086,OE8GWQ,Gabrutsch Sankt Jakob im Rosental,Gabrutsch,KTN,AUT,232,DMR
+2328087,OE8IJK,Kugi Sankt Veit An der Glan,Kugi,KTN,AUT,232,DMR
+2328088,OE8GGE,Gradischnig Sankt Veit An der Glan,Gradischnig,KTN,AUT,232,DMR
+2328089,OE8IMK,Sternath Sankt Veit An der Glan,Sternath,KTN,AUT,232,DMR
+2328090,OE8ITG,Stromberger Sankt Veit An der Glan,Stromberger,KTN,AUT,232,DMR
+2328091,OE8IMR,Rauter Sankt Veit An der Glan,Rauter,KTN,AUT,232,DMR
+2328092,OE8RAT,No_name no_city,No_name,KTN,AUT,232,DMR
+2328093,OE8JAS,Sacherer Sittersdorf,Sacherer,KTN,AUT,232,DMR
+2328094,OE8JSK,Scherzer Sankt Veit An der Glan,Scherzer,KTN,AUT,232,DMR
+2328095,OE8ASK,Scherzer Sankt Veit An der Glan,Scherzer,KTN,AUT,232,DMR
+2328096,OE8BSK,Sitar Miklauzhof,Sitar,KTN,AUT,232,DMR
+2328097,OE8KYK,Unterkoefler Ueberfeld,Unterkoefler,KTN,AUT,232,DMR
+2328098,OE8OGI,Ogris Feistritz im Rosental,Ogris,KTN,AUT,232,DMR
+2328099,OE8SFK,Schenk Klagenfurt,Schenk,KTN,AUT,232,DMR
+2328100,OE8ELO,Londer Feldkirchen In Kaernten,Londer,KTN,AUT,232,DMR
+2328101,OE8TEK,Enzenebner Klagenfurt,Enzenebner,KTN,AUT,232,DMR
+2328102,OE8FOX,Spreitzer Steindorf,Spreitzer,KTN,AUT,232,DMR
+2328103,OE8RPK,Pobatschnig Sankt Andrae,Pobatschnig,KTN,AUT,232,DMR
+2328104,OE8TLK,Lueger Lambichl,Lueger,KTN,AUT,232,DMR
+2328105,OE8LSR,Spitzer Keutschach,Spitzer,KTN,AUT,232,DMR
+2328106,OE8SQK,Quade Wolfsberg,Quade,KTN,AUT,232,DMR
+2328107,OE8SID,Motschnik Eberndorf,Motschnik,KTN,AUT,232,DMR
+2328108,OE8MHQ,Kienbacher Krumpendorf,Kienbacher,KTN,AUT,232,DMR
+2328109,OE8HKS,Kloss Friesach,Kloss,KTN,AUT,232,DMR
+2328110,OE8MEQ,Meschnark Wolfsberg,Meschnark,KTN,AUT,232,DMR
+2328111,OE8ARQ,Rieder Viktring,Rieder,KTN,AUT,232,DMR
 2328212,OE8LBK,no_name Villach,no_name,KTN,AUT,232,DMR
-2328502,OE8WLK,Spielvogel Villach,Spielvogel,KAERNTEN,AUT,232,DMR
-2328503,OE8BCK,Bodner Gmuend,Bodner,KAERNTEN,AUT,232,DMR
-2328504,OE8EGK,Krall Klgft/viktring,Krall,KAERNTEN,AUT,232,DMR
-2328505,OE8HJK,Jelinek Klagenfurt,Jelinek,KAERNTEN,AUT,232,DMR
-2328506,OE8HJK,Jelinek Klagenfurt,Jelinek,KAERNTEN,AUT,232,DMR
-2328507,OE8CHK,Rieder Villach,Rieder,KAERNTEN,AUT,232,DMR
-2328508,OE8HJK,Jelinek Klagenfurt,Jelinek,KAERNTEN,AUT,232,DMR
+2328502,OE8WLK,Spielvogel Villach,Spielvogel,KTN,AUT,232,DMR
+2328503,OE8BCK,Bodner Gmuend,Bodner,KTN,AUT,232,DMR
+2328504,OE8EGK,Krall Klgft/viktring,Krall,KTN,AUT,232,DMR
+2328505,OE8HJK,Jelinek Klagenfurt,Jelinek,KTN,AUT,232,DMR
+2328506,OE8HJK,Jelinek Klagenfurt,Jelinek,KTN,AUT,232,DMR
+2328507,OE8CHK,Rieder Villach,Rieder,KTN,AUT,232,DMR
+2328508,OE8HJK,Jelinek Klagenfurt,Jelinek,KTN,AUT,232,DMR
 2328802,OE8SWR,no_name Villach,no_name,KTN,AUT,232,DMR
-2328806,OE8OK,Kruschitz St Kanzian,Kruschitz,KAERNTEN,AUT,232,DMR
-2328811,OE8MDK,Perdacher Tainach,Perdacher,KAERNTEN,AUT,232,DMR
-2328812,OE8SGK,Schellander Wernberg,Schellander,KAERNTEN,AUT,232,DMR
-2328813,OE8KIK,Kienberger Wolfsberg,Kienberger,KAERNTEN,AUT,232,DMR
-2328816,OE8LRL,Laure Voelkermarkt,Laure,KAERNTEN,AUT,232,DMR
-2328818,OE8OWK,Wallner Norbert Ferndorf,Wallner Norbert,KAERNTEN,AUT,232,DMR
-2328820,OE8OWK,Wallner Norbert Ferndorf,Wallner Norbert,KAERNTEN,AUT,232,DMR
-2328821,OE8HJK,Jelinek Klagenfurt,Jelinek,KAERNTEN,AUT,232,DMR
-2328822,OE8PKR,Karlin St Magdalen,Karlin,KAERNTEN,AUT,232,DMR
-2328823,OE8KIK,Kienberger Wolfsberg,Kienberger,KAERNTEN,AUT,232,DMR
-2328831,OE8CLR,Lueckler Klagenfurt,Lueckler,KAERNTEN,AUT,232,DMR
-2328832,OE8YHQ,Karlin St Ulrich,Karlin,KAERNTEN,AUT,232,DMR
-2328841,OE8RVK,Vrisk Klagenfurt,Vrisk,KAERNTEN,AUT,232,DMR
-2328842,OE8URQ,Rimmele Noetsch,Rimmele,KAERNTEN,AUT,232,DMR
+2328806,OE8OK,Kruschitz St Kanzian,Kruschitz,KTN,AUT,232,DMR
+2328811,OE8MDK,Perdacher Tainach,Perdacher,KTN,AUT,232,DMR
+2328812,OE8SGK,Schellander Wernberg,Schellander,KTN,AUT,232,DMR
+2328813,OE8KIK,Kienberger Wolfsberg,Kienberger,KTN,AUT,232,DMR
+2328816,OE8LRL,Laure Voelkermarkt,Laure,KTN,AUT,232,DMR
+2328818,OE8OWK,Wallner Norbert Ferndorf,Wallner Norbert,KTN,AUT,232,DMR
+2328820,OE8OWK,Wallner Norbert Ferndorf,Wallner Norbert,KTN,AUT,232,DMR
+2328821,OE8HJK,Jelinek Klagenfurt,Jelinek,KTN,AUT,232,DMR
+2328822,OE8PKR,Karlin St Magdalen,Karlin,KTN,AUT,232,DMR
+2328823,OE8KIK,Kienberger Wolfsberg,Kienberger,KTN,AUT,232,DMR
+2328831,OE8CLR,Lueckler Klagenfurt,Lueckler,KTN,AUT,232,DMR
+2328832,OE8YHQ,Karlin St Ulrich,Karlin,KTN,AUT,232,DMR
+2328841,OE8RVK,Vrisk Klagenfurt,Vrisk,KTN,AUT,232,DMR
+2328842,OE8URQ,Rimmele Noetsch,Rimmele,KTN,AUT,232,DMR
 2328851,OE8KER,no_name no_city,no_name,KTN,AUT,232,DMR
-2328860,OE8AAK,Augustin Villach,Augustin,KAERNTEN,AUT,232,DMR
-2328862,OE8PKR,Karlin St Magdalen,Karlin,KAERNTEN,AUT,232,DMR
-2328864,OE8BGQ,Brandner Steinfeld,Brandner,KAERNTEN,AUT,232,DMR
+2328860,OE8AAK,Augustin Villach,Augustin,KTN,AUT,232,DMR
+2328862,OE8PKR,Karlin St Magdalen,Karlin,KTN,AUT,232,DMR
+2328864,OE8BGQ,Brandner Steinfeld,Brandner,KTN,AUT,232,DMR
 2328872,OE8PTK,no_name Villach,no_name,KTN,AUT,232,DMR
 2328892,OE8MCQ,no_name Wernberg,no_name,KTN,AUT,232,DMR
-2329001,OE9KFV,Kossidowski Hoerbranz,Kossidowski,VORARLBERG,AUT,232,DMR
-2329002,OE9KSV,Schoell Bregenz,Schoell,VORARLBERG,AUT,232,DMR
-2329003,OE9IGV,Giesinger Dornbirn,Giesinger,VORARLBERG,AUT,232,DMR
-2329004,OE9TEV,Eisemann Loruens,Eisemann,VORARLBERG,AUT,232,DMR
-2329005,OE9AFV,Fetz Lauterach,Fetz,VORARLBERG,AUT,232,DMR
-2329006,OE9SAJ,Autengruber Bregenz,Autengruber,VORARLBERG,AUT,232,DMR
-2329007,OE9LTV,Antholzer Bregenz,Antholzer,VORARLBERG,AUT,232,DMR
+2329001,OE9KFV,Kossidowski Hoerbranz,Kossidowski,VBG,AUT,232,DMR
+2329002,OE9KSV,Schoell Bregenz,Schoell,VBG,AUT,232,DMR
+2329003,OE9IGV,Giesinger Dornbirn,Giesinger,VBG,AUT,232,DMR
+2329004,OE9TEV,Eisemann Loruens,Eisemann,VBG,AUT,232,DMR
+2329005,OE9AFV,Fetz Lauterach,Fetz,VBG,AUT,232,DMR
+2329006,OE9SAJ,Autengruber Bregenz,Autengruber,VBG,AUT,232,DMR
+2329007,OE9LTV,Antholzer Bregenz,Antholzer,VBG,AUT,232,DMR
 2329008,OE9VVV,no_name Frastanz,no_name,VBG,AUT,232,DMR
-2329009,OE9PKV,Pfister Bludesch,Pfister,VORARLBERG,AUT,232,DMR
-2329010,OE9AFV,Fetz Lauterach,Fetz,VORARLBERG,AUT,232,DMR
-2329011,OE9FRV,Friesenecker Feldkirch,Friesenecker,VORARLBERG,AUT,232,DMR
-2329012,OE9MWI,Wolff Fussach,Wolff,VORARLBERG,AUT,232,DMR
-2329013,OE9LTV,Antholzer Bregenz,Antholzer,VORARLBERG,AUT,232,DMR
-2329014,OE9TNT,Molina Bregenz,Molina,VORARLBERG,AUT,232,DMR
-2329015,OE9BBH,Bleyle-Fink Bregenz,Bleyle-Fink,VORARLBERG,AUT,232,DMR
+2329009,OE9PKV,Pfister Bludesch,Pfister,VBG,AUT,232,DMR
+2329010,OE9AFV,Fetz Lauterach,Fetz,VBG,AUT,232,DMR
+2329011,OE9FRV,Friesenecker Feldkirch,Friesenecker,VBG,AUT,232,DMR
+2329012,OE9MWI,Wolff Fussach,Wolff,VBG,AUT,232,DMR
+2329013,OE9LTV,Antholzer Bregenz,Antholzer,VBG,AUT,232,DMR
+2329014,OE9TNT,Molina Bregenz,Molina,VBG,AUT,232,DMR
+2329015,OE9BBH,Bleyle-Fink Bregenz,Bleyle-Fink,VBG,AUT,232,DMR
 2329016,OE9WOH,no_name Wolfurt,no_name,VBG,AUT,232,DMR
-2329017,OE9PTI,Prettner Bregenz,Prettner,VORARLBERG,AUT,232,DMR
-2329018,OE9WLJ,Haeusle Hoerbranz,Haeusle,VORARLBERG,AUT,232,DMR
-2329019,OE9PGV,Gstir Dornbirn,Gstir,VORARLBERG,AUT,232,DMR
-2329020,OE9HGV,Hug Goetzis,Hug,VORARLBERG,AUT,232,DMR
-2329021,OE9HLH,Longhi Bregenz,Longhi,VORARLBERG,AUT,232,DMR
+2329017,OE9PTI,Prettner Bregenz,Prettner,VBG,AUT,232,DMR
+2329018,OE9WLJ,Haeusle Hoerbranz,Haeusle,VBG,AUT,232,DMR
+2329019,OE9PGV,Gstir Dornbirn,Gstir,VBG,AUT,232,DMR
+2329020,OE9HGV,Hug Goetzis,Hug,VBG,AUT,232,DMR
+2329021,OE9HLH,Longhi Bregenz,Longhi,VBG,AUT,232,DMR
 2329022,OE9UGV,no_name Bregenz,no_name,VBG,AUT,232,DMR
-2329023,OE9WSJ,Stoessl Meiningen,Stoessl,VORARLBERG,AUT,232,DMR
-2329024,OE9FWV,Furlan Feldkirch,Furlan,VORARLBERG,AUT,232,DMR
-2329025,OE9XGV,Oevsv Koblach,Oevsv,VORARLBERG,AUT,232,DMR
-2329026,OE9XXV,Amateurfunkverein Digital Force Bregenz,Amateurfunkverein Digital Force,VORARLBERG,AUT,232,DMR
-2329027,OE9ETH,Oswald Feldkirch,Oswald,VORARLBERG,AUT,232,DMR
-2329028,OE9EFH,Felder Schoppernau,Felder,VORARLBERG,AUT,232,DMR
-2329029,OE9SJV,Schenk Bregenz,Schenk,VORARLBERG,AUT,232,DMR
-2329030,OE9MOI,Kirchebner Feldkirch,Kirchebner,VORARLBERG,AUT,232,DMR
+2329023,OE9WSJ,Stoessl Meiningen,Stoessl,VBG,AUT,232,DMR
+2329024,OE9FWV,Furlan Feldkirch,Furlan,VBG,AUT,232,DMR
+2329025,OE9XGV,Oevsv Koblach,Oevsv,VBG,AUT,232,DMR
+2329026,OE9XXV,Amateurfunkverein Digital Force Bregenz,Amateurfunkverein Digital Force,VBG,AUT,232,DMR
+2329027,OE9ETH,Oswald Feldkirch,Oswald,VBG,AUT,232,DMR
+2329028,OE9EFH,Felder Schoppernau,Felder,VBG,AUT,232,DMR
+2329029,OE9SJV,Schenk Bregenz,Schenk,VBG,AUT,232,DMR
+2329030,OE9MOI,Kirchebner Feldkirch,Kirchebner,VBG,AUT,232,DMR
 2329031,OE9IMJ,no_name no_city,no_name,VBG,AUT,232,DMR
-2329032,OE9HPV,Prinz Feldkirch,Prinz,VORARLBERG,AUT,232,DMR
-2329033,OE9TFH,Vrisk Bludesch,Vrisk,VORARLBERG,AUT,232,DMR
-2329034,OE9AZV,Zimmermann Andreas Feldkirch,Zimmermann Andreas,VORARLBERG,AUT,232,DMR
-2329035,OE9FMV,Fink Buch,Fink,VORARLBERG,AUT,232,DMR
-2329036,OE9SAJ,Autengruber Bregenz,Autengruber,VORARLBERG,AUT,232,DMR
-2329037,OE9RGI,Gstir Bludesch,Gstir,VORARLBERG,AUT,232,DMR
-2329038,OE9FMV,Fink Buch,Fink,VORARLBERG,AUT,232,DMR
-2329039,OE9AZV,Zimmermann Andreas Feldkirch,Zimmermann Andreas,VORARLBERG,AUT,232,DMR
-2329040,OE9XVI,Oevsv Feldkirch,Oevsv,VORARLBERG,AUT,232,DMR
-2329041,OE9SAM,Koeb Wolfurt,Koeb,VORARLBERG,AUT,232,DMR
-2329042,OE9EFJ,Floery Gortipohl,Floery,VORARLBERG,AUT,232,DMR
+2329032,OE9HPV,Prinz Feldkirch,Prinz,VBG,AUT,232,DMR
+2329033,OE9TFH,Vrisk Bludesch,Vrisk,VBG,AUT,232,DMR
+2329034,OE9AZV,Zimmermann Andreas Feldkirch,Zimmermann Andreas,VBG,AUT,232,DMR
+2329035,OE9FMV,Fink Buch,Fink,VBG,AUT,232,DMR
+2329036,OE9SAJ,Autengruber Bregenz,Autengruber,VBG,AUT,232,DMR
+2329037,OE9RGI,Gstir Bludesch,Gstir,VBG,AUT,232,DMR
+2329038,OE9FMV,Fink Buch,Fink,VBG,AUT,232,DMR
+2329039,OE9AZV,Zimmermann Andreas Feldkirch,Zimmermann Andreas,VBG,AUT,232,DMR
+2329040,OE9XVI,Oevsv Feldkirch,Oevsv,VBG,AUT,232,DMR
+2329041,OE9SAM,Koeb Wolfurt,Koeb,VBG,AUT,232,DMR
+2329042,OE9EFJ,Floery Gortipohl,Floery,VBG,AUT,232,DMR
 2329043,OE9JAP,no_name Feldkirch,no_name,VBG,AUT,232,DMR
-2329044,OE9DKH,Kuschke Hoerbranz,Kuschke,VORARLBERG,AUT,232,DMR
-2329045,OE9CBV,Boss Lauterach,Boss,VORARLBERG,AUT,232,DMR
+2329044,OE9DKH,Kuschke Hoerbranz,Kuschke,VBG,AUT,232,DMR
+2329045,OE9CBV,Boss Lauterach,Boss,VBG,AUT,232,DMR
 2329046,OE9IMJ,no_name no_city,no_name,VBG,AUT,232,DMR
-2329047,OE9EZI,Zwanziger Bregenz,Zwanziger,VORARLBERG,AUT,232,DMR
-2329048,OE9TEV,Eisemann Loruens,Eisemann,VORARLBERG,AUT,232,DMR
-2329049,OE9PBV,Mielich Bregenz,Mielich,VORARLBERG,AUT,232,DMR
-2329050,OE9KBV,Koch Bludenz,Koch,VORARLBERG,AUT,232,DMR
-2329051,OE9STG,Stumvoll Hoechst,Stumvoll,VORARLBERG,AUT,232,DMR
-2329052,OE9DCV,Stumvoll Dagmar Dornbirn,Stumvoll Dagmar,VORARLBERG,AUT,232,DMR
-2329053,OE9IDI,Duer Bludenz,Duer,VORARLBERG,AUT,232,DMR
-2329054,OE9OBV,Friedl Ingo Dornbirn,Friedl Ingo,VORARLBERG,AUT,232,DMR
-2329055,OE9VMR,Ruedisser Bregenz,Ruedisser,VORARLBERG,AUT,232,DMR
-2329056,OE9DEV,Eberle Lauterach,Eberle,VORARLBERG,AUT,232,DMR
-2329057,OE9TNT,Molina Bregenz,Molina,VORARLBERG,AUT,232,DMR
+2329047,OE9EZI,Zwanziger Bregenz,Zwanziger,VBG,AUT,232,DMR
+2329048,OE9TEV,Eisemann Loruens,Eisemann,VBG,AUT,232,DMR
+2329049,OE9PBV,Mielich Bregenz,Mielich,VBG,AUT,232,DMR
+2329050,OE9KBV,Koch Bludenz,Koch,VBG,AUT,232,DMR
+2329051,OE9STG,Stumvoll Hoechst,Stumvoll,VBG,AUT,232,DMR
+2329052,OE9DCV,Stumvoll Dagmar Dornbirn,Stumvoll Dagmar,VBG,AUT,232,DMR
+2329053,OE9IDI,Duer Bludenz,Duer,VBG,AUT,232,DMR
+2329054,OE9OBV,Friedl Ingo Dornbirn,Friedl Ingo,VBG,AUT,232,DMR
+2329055,OE9VMR,Ruedisser Bregenz,Ruedisser,VBG,AUT,232,DMR
+2329056,OE9DEV,Eberle Lauterach,Eberle,VBG,AUT,232,DMR
+2329057,OE9TNT,Molina Bregenz,Molina,VBG,AUT,232,DMR
 2329058,OE9SBV,no_name no_city,no_name,VBG,AUT,232,DMR
-2329059,OE9RSV,Sonnweber Sulz,Sonnweber,VORARLBERG,AUT,232,DMR
-2329060,OE9AKI,Krainer Dornbirn,Krainer,VORARLBERG,AUT,232,DMR
-2329061,OE9MMH,Kneidl Dornbirn,Kneidl,VORARLBERG,AUT,232,DMR
-2329062,OE9MVV,Vonblon Feldkirch,Vonblon,VORARLBERG,AUT,232,DMR
-2329063,OE9ICI,Ibele Hoerbranz,Ibele,VORARLBERG,AUT,232,DMR
-2329064,OE9DGV,Summer Hohenems,Summer,VORARLBERG,AUT,232,DMR
-2329065,OE9JAI,Amann Hohenems,Amann,VORARLBERG,AUT,232,DMR
-2329066,OE9GOI,Oelz Dornbirn,Oelz,VORARLBERG,AUT,232,DMR
-2329067,OE9FSJ,Scharnagl Dornbirn,Scharnagl,VORARLBERG,AUT,232,DMR
-2329068,OE9BGI,Bairer Dornbirn,Bairer,VORARLBERG,AUT,232,DMR
-2329069,OE9XRV,Oevsv Bregenz,Oevsv,VORARLBERG,AUT,232,DMR
-2329070,OE9MAV,Feiel Andelsbuch,Feiel,VORARLBERG,AUT,232,DMR
-2329071,OE9HSV,Schoenbauer Bregenz,Schoenbauer,VORARLBERG,AUT,232,DMR
-2329072,OE9TKH,Kottek Lustenau,Kottek,VORARLBERG,AUT,232,DMR
-2329073,OE9PKV,Pfister Bludesch,Pfister,VORARLBERG,AUT,232,DMR
-2329074,OE9NJJ,Nuderscher Meiningen,Nuderscher,VORARLBERG,AUT,232,DMR
-2329075,OE9MGJ,Greissing Hoerbranz,Greissing,VORARLBERG,AUT,232,DMR
-2329076,OE9RJJ,Rusch Alberschwende,Rusch,VORARLBERG,AUT,232,DMR
-2329077,OE9HWV,Hauck Dornbirn,Hauck,VORARLBERG,AUT,232,DMR
-2329078,OE9OLT,Wirth Hard,Wirth,VORARLBERG,AUT,232,DMR
-2329079,OE9MEV,Elbs Bregenz,Elbs,VORARLBERG,AUT,232,DMR
+2329059,OE9RSV,Sonnweber Sulz,Sonnweber,VBG,AUT,232,DMR
+2329060,OE9AKI,Krainer Dornbirn,Krainer,VBG,AUT,232,DMR
+2329061,OE9MMH,Kneidl Dornbirn,Kneidl,VBG,AUT,232,DMR
+2329062,OE9MVV,Vonblon Feldkirch,Vonblon,VBG,AUT,232,DMR
+2329063,OE9ICI,Ibele Hoerbranz,Ibele,VBG,AUT,232,DMR
+2329064,OE9DGV,Summer Hohenems,Summer,VBG,AUT,232,DMR
+2329065,OE9JAI,Amann Hohenems,Amann,VBG,AUT,232,DMR
+2329066,OE9GOI,Oelz Dornbirn,Oelz,VBG,AUT,232,DMR
+2329067,OE9FSJ,Scharnagl Dornbirn,Scharnagl,VBG,AUT,232,DMR
+2329068,OE9BGI,Bairer Dornbirn,Bairer,VBG,AUT,232,DMR
+2329069,OE9XRV,Oevsv Bregenz,Oevsv,VBG,AUT,232,DMR
+2329070,OE9MAV,Feiel Andelsbuch,Feiel,VBG,AUT,232,DMR
+2329071,OE9HSV,Schoenbauer Bregenz,Schoenbauer,VBG,AUT,232,DMR
+2329072,OE9TKH,Kottek Lustenau,Kottek,VBG,AUT,232,DMR
+2329073,OE9PKV,Pfister Bludesch,Pfister,VBG,AUT,232,DMR
+2329074,OE9NJJ,Nuderscher Meiningen,Nuderscher,VBG,AUT,232,DMR
+2329075,OE9MGJ,Greissing Hoerbranz,Greissing,VBG,AUT,232,DMR
+2329076,OE9RJJ,Rusch Alberschwende,Rusch,VBG,AUT,232,DMR
+2329077,OE9HWV,Hauck Dornbirn,Hauck,VBG,AUT,232,DMR
+2329078,OE9OLT,Wirth Hard,Wirth,VBG,AUT,232,DMR
+2329079,OE9MEV,Elbs Bregenz,Elbs,VBG,AUT,232,DMR
 2329080,OE9DLV,no_name Lauterach,no_name,VBG,AUT,232,DMR
-2329081,OE9MDT,Denifle Bregenz,Denifle,VORARLBERG,AUT,232,DMR
-2329082,OE9GBH,Bitschi Klaus,Bitschi,VORARLBERG,AUT,232,DMR
-2329083,OE9MMV,Mayr Bludenz,Mayr,VORARLBERG,AUT,232,DMR
-2329084,OE9HIJ,Squinobal Muntlix,Squinobal,VORARLBERG,AUT,232,DMR
-2329085,OE9LGH,Lauterer Lustenau,Lauterer,VORARLBERG,AUT,232,DMR
-2329086,OE9TBI,Bencik Dornbirn,Bencik,VORARLBERG,AUT,232,DMR
-2329087,OE9BZT,Schantl Karl Ausserbraz,Schantl Karl,VORARLBERG,AUT,232,DMR
-2329088,OE9LTH,Lippautz Muntlix,Lippautz,VORARLBERG,AUT,232,DMR
-2329089,OE9BSJ,Boehler Meiningen,Boehler,VORARLBERG,AUT,232,DMR
-2329090,OE9FKV,Knoll Bregenz,Knoll,VORARLBERG,AUT,232,DMR
-2329091,OE9RSJ,Szokol Dornbirn,Szokol,VORARLBERG,AUT,232,DMR
-2329092,OE9AWI,Allgaeuer Feldkirch,Allgaeuer,VORARLBERG,AUT,232,DMR
-2329093,OE9GNH,Nadolny Gunnar Lech,Nadolny Gunnar,VORARLBERG,AUT,232,DMR
-2329094,OE9BRH,Bonelli Buers,Bonelli,VORARLBERG,AUT,232,DMR
-2329095,OE9SVJ,Juette Goetzis,Juette,VORARLBERG,AUT,232,DMR
-2329096,OE9ERC,Rupprechter Wolfurt,Rupprechter,VORARLBERG,AUT,232,DMR
-2329097,OE9GWV,Wagner Bludesch,Wagner,VORARLBERG,AUT,232,DMR
-2329098,OE9GZH,Hirschmann Helmut Dornbirn,Hirschmann Helmut,VORARLBERG,AUT,232,DMR
-2329099,OE9XXV,Amateurfunkverein Digital Force Bregenz,Amateurfunkverein Digital Force,VORARLBERG,AUT,232,DMR
+2329081,OE9MDT,Denifle Bregenz,Denifle,VBG,AUT,232,DMR
+2329082,OE9GBH,Bitschi Klaus,Bitschi,VBG,AUT,232,DMR
+2329083,OE9MMV,Mayr Bludenz,Mayr,VBG,AUT,232,DMR
+2329084,OE9HIJ,Squinobal Muntlix,Squinobal,VBG,AUT,232,DMR
+2329085,OE9LGH,Lauterer Lustenau,Lauterer,VBG,AUT,232,DMR
+2329086,OE9TBI,Bencik Dornbirn,Bencik,VBG,AUT,232,DMR
+2329087,OE9BZT,Schantl Karl Ausserbraz,Schantl Karl,VBG,AUT,232,DMR
+2329088,OE9LTH,Lippautz Muntlix,Lippautz,VBG,AUT,232,DMR
+2329089,OE9BSJ,Boehler Meiningen,Boehler,VBG,AUT,232,DMR
+2329090,OE9FKV,Knoll Bregenz,Knoll,VBG,AUT,232,DMR
+2329091,OE9RSJ,Szokol Dornbirn,Szokol,VBG,AUT,232,DMR
+2329092,OE9AWI,Allgaeuer Feldkirch,Allgaeuer,VBG,AUT,232,DMR
+2329093,OE9GNH,Nadolny Gunnar Lech,Nadolny Gunnar,VBG,AUT,232,DMR
+2329094,OE9BRH,Bonelli Buers,Bonelli,VBG,AUT,232,DMR
+2329095,OE9SVJ,Juette Goetzis,Juette,VBG,AUT,232,DMR
+2329096,OE9ERC,Rupprechter Wolfurt,Rupprechter,VBG,AUT,232,DMR
+2329097,OE9GWV,Wagner Bludesch,Wagner,VBG,AUT,232,DMR
+2329098,OE9GZH,Hirschmann Helmut Dornbirn,Hirschmann Helmut,VBG,AUT,232,DMR
+2329099,OE9XXV,Amateurfunkverein Digital Force Bregenz,Amateurfunkverein Digital Force,VBG,AUT,232,DMR
 2329100,OE9VVV,no_name Frastanz,no_name,VBG,AUT,232,DMR
-2329101,OE9DBI,Dobler Vandans,Dobler,VORARLBERG,AUT,232,DMR
-2329102,OE9DAI,Dobler Vandans,Dobler,VORARLBERG,AUT,232,DMR
-2329103,OE9OBV,Friedl Ingo Dornbirn,Friedl Ingo,VORARLBERG,AUT,232,DMR
-2329104,OE9ASJ,Sivrikaya Dornbirn,Sivrikaya,VORARLBERG,AUT,232,DMR
-2329105,OE9EFJ,Floery Gortipohl,Floery,VORARLBERG,AUT,232,DMR
-2329106,OE9BRH,Bonelli Buers,Bonelli,VORARLBERG,AUT,232,DMR
-2329107,OE9MHV,Hartmann Bludesch,Hartmann,VORARLBERG,AUT,232,DMR
-2329108,OE9MSI,Salzgeber Tschagguns,Salzgeber,VORARLBERG,AUT,232,DMR
-2329109,OE9CPV,Purin Bartholomaeberg,Purin,VORARLBERG,AUT,232,DMR
-2329110,OE9GDJ,Geiger Thueringen,Geiger,VORARLBERG,AUT,232,DMR
-2329111,OE9BKV,Bertel Goetzis,Bertel,VORARLBERG,AUT,232,DMR
-2329112,OE9MVT,Matt Frastanz,Matt,VORARLBERG,AUT,232,DMR
-2329113,OE9MNR,Mohr Wolfurt,Mohr,VORARLBERG,AUT,232,DMR
-2329114,OE9BOK,Boeckle Bregenz,Boeckle,VORARLBERG,AUT,232,DMR
-2329115,OE9IHR,Mesaric Nenzing,Mesaric,VORARLBERG,AUT,232,DMR
-2329116,OE9CBV,Boss Lauterach,Boss,VORARLBERG,AUT,232,DMR
-2329117,OE9KRI,Kadis Altach,Kadis,VORARLBERG,AUT,232,DMR
-2329118,OE9FRV,Friesenecker Feldkirch,Friesenecker,VORARLBERG,AUT,232,DMR
-2329119,OE9MNR,Mohr Wolfurt,Mohr,VORARLBERG,AUT,232,DMR
-2329120,OE9PHV,Petnig Lustenau,Petnig,VORARLBERG,AUT,232,DMR
-2329121,OE9TAV,Yekdes Lustenau,Yekdes,VORARLBERG,AUT,232,DMR
+2329101,OE9DBI,Dobler Vandans,Dobler,VBG,AUT,232,DMR
+2329102,OE9DAI,Dobler Vandans,Dobler,VBG,AUT,232,DMR
+2329103,OE9OBV,Friedl Ingo Dornbirn,Friedl Ingo,VBG,AUT,232,DMR
+2329104,OE9ASJ,Sivrikaya Dornbirn,Sivrikaya,VBG,AUT,232,DMR
+2329105,OE9EFJ,Floery Gortipohl,Floery,VBG,AUT,232,DMR
+2329106,OE9BRH,Bonelli Buers,Bonelli,VBG,AUT,232,DMR
+2329107,OE9MHV,Hartmann Bludesch,Hartmann,VBG,AUT,232,DMR
+2329108,OE9MSI,Salzgeber Tschagguns,Salzgeber,VBG,AUT,232,DMR
+2329109,OE9CPV,Purin Bartholomaeberg,Purin,VBG,AUT,232,DMR
+2329110,OE9GDJ,Geiger Thueringen,Geiger,VBG,AUT,232,DMR
+2329111,OE9BKV,Bertel Goetzis,Bertel,VBG,AUT,232,DMR
+2329112,OE9MVT,Matt Frastanz,Matt,VBG,AUT,232,DMR
+2329113,OE9MNR,Mohr Wolfurt,Mohr,VBG,AUT,232,DMR
+2329114,OE9BOK,Boeckle Bregenz,Boeckle,VBG,AUT,232,DMR
+2329115,OE9IHR,Mesaric Nenzing,Mesaric,VBG,AUT,232,DMR
+2329116,OE9CBV,Boss Lauterach,Boss,VBG,AUT,232,DMR
+2329117,OE9KRI,Kadis Altach,Kadis,VBG,AUT,232,DMR
+2329118,OE9FRV,Friesenecker Feldkirch,Friesenecker,VBG,AUT,232,DMR
+2329119,OE9MNR,Mohr Wolfurt,Mohr,VBG,AUT,232,DMR
+2329120,OE9PHV,Petnig Lustenau,Petnig,VBG,AUT,232,DMR
+2329121,OE9TAV,Yekdes Lustenau,Yekdes,VBG,AUT,232,DMR
 2329122,OE9RFV,no_name no_city,no_name,VBG,AUT,232,DMR
-2329123,OE9IGV,Giesinger Dornbirn,Giesinger,VORARLBERG,AUT,232,DMR
-2329124,OE9NGH,Nussbaumer Langenegg,Nussbaumer,VORARLBERG,AUT,232,DMR
-2329125,OE9XBV,A1 Bregenz,A1,VORARLBERG,AUT,232,DMR
-2329126,OE9XXK,Feldkirch Feldkirch,Feldkirch,VORARLBERG,AUT,232,DMR
-2329127,OE9XRK,Vorarlberg Feldkirch,Vorarlberg,VORARLBERG,AUT,232,DMR
-2329128,OE9REN,Pichler Rankweil,Pichler,VORARLBERG,AUT,232,DMR
+2329123,OE9IGV,Giesinger Dornbirn,Giesinger,VBG,AUT,232,DMR
+2329124,OE9NGH,Nussbaumer Langenegg,Nussbaumer,VBG,AUT,232,DMR
+2329125,OE9XBV,A1 Bregenz,A1,VBG,AUT,232,DMR
+2329126,OE9XXK,Feldkirch Feldkirch,Feldkirch,VBG,AUT,232,DMR
+2329127,OE9XRK,Vorarlberg Feldkirch,Vorarlberg,VBG,AUT,232,DMR
+2329128,OE9REN,Pichler Rankweil,Pichler,VBG,AUT,232,DMR
 2620000,DK5RAS,Schmid Haundorf,Schmid,BY,DEU,262,DMR
 2620001,DD8OA,Oppermann Thale,Oppermann,ST,DEU,262,DMR
 2620002,DB1JBA,Bontemps Wismar,Bontemps,MV,DEU,262,DMR
@@ -3885,7 +3889,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620339,DH2OT,Oest Koblenz,Oest,RP,DEU,262,DMR
 2620340,DO5OLP,Steinert Lottorf,Steinert,SH,DEU,262,DMR
 2620341,DG4FDU,Klem Frankenberg,Klem,HE,DEU,262,DMR
-2620342,DL5MA,Goettler Stuttgart ()),Goettler,BW,DEU,262,DMR
+2620342,DL5MA,Goettler Stuttgart ())),Goettler,BW,DEU,262,DMR
 2620343,DC2ZC,Wendland Bensheim,Wendland,HE,DEU,262,DMR
 2620344,DK3MC,Claussen Alsdorf,Claussen,NW,DEU,262,DMR
 2620345,DB4HU,Cassebohm Norderstedt,Cassebohm,SH,DEU,262,DMR
@@ -4646,7 +4650,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2621100,DK0MOT,Mentzel Berlin,Mentzel,BE,DEU,262,DMR
 2621101,DM5JS,Schmidt Hintersee,Schmidt,MV,DEU,262,DMR
 2621102,DO7JMG,Gotschlich Berlin,Gotschlich,BE,DEU,262,DMR
-2621103,DO5MCE,Preuss Frankfurt/o.,Preuss,BB,DEU,262,DMR
+2621103,DL5MCE,Preuss Frankfurt Oder,Preuss,BB,DEU,262,DMR
 2621104,DL7TRW,Heiler Beelitz,Heiler,BB,DEU,262,DMR
 2621105,DO6TOB,Bracke Seddiner See,Bracke,BB,DEU,262,DMR
 2621106,DL2BWO,Bothur Bernau,Bothur,BB,DEU,262,DMR
@@ -5603,7 +5607,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2622057,DF3LZ,Proesch Hamburg,Proesch,HH,DEU,262,DMR
 2622058,DD8AA,Alfke Otterstedt,Alfke,NI,DEU,262,DMR
 2622059,DG4JC,Contopidis Krempermoor,Contopidis,SH,DEU,262,DMR
-2622060,DK7XX,Lahmann Feldhorst,Lahmann,SH,DEU,262,DMR
+2622060,DK7XX, no_city,,,DEU,262,DMR
 2622061,DL1HDL,Linke Luebeck,Linke,SH,DEU,262,DMR
 2622062,DD1XV,Vandersee Luebeck,Vandersee,SH,DEU,262,DMR
 2622063,DL6XB,Klaucke Hamburg,Klaucke,HH,DEU,262,DMR
@@ -5722,7 +5726,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2622176,DL1SET,Doehring Husum,Doehring,SH,DEU,262,DMR
 2622177,DL2HAO,Fritz Hamburg,Fritz,HH,DEU,262,DMR
 2622178,DL1END,Doehring Eckernfoerde,Doehring,SH,DEU,262,DMR
-2622179,DK7XX,Lahmann Feldhorst,Lahmann,SH,DEU,262,DMR
+2622179,DK7XX, no_city,,,DEU,262,DMR
 2622180,DK3MD,Boje Hohenlockstedt,Boje,SH,DEU,262,DMR
 2622181,DG6OAY,Pliquett Kiel,Pliquett,SH,DEU,262,DMR
 2622182,DB5NU,Stangl Bredstedt,Stangl,SH,DEU,262,DMR
@@ -6255,7 +6259,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2622709,DJ0MDQ,Kueng Bad Oldesloe,Kueng,SH,DEU,262,DMR
 2622710,DC1LV,Andresen Niebuell,Andresen,SH,DEU,262,DMR
 2622711,DB9LL,Goerke Rendsburg,Goerke,SH,DEU,262,DMR
-2622712,DO1PF,Pfau Selent,Pfau,SH,DEU,262,DMR
+2622712,DH1PV,Pfau Selent,Pfau,SH,DEU,262,DMR
 2622713,DO1DHK,Hengst Kiel,Hengst,SH,DEU,262,DMR
 2622714,DO5WR,Westphalen Kiel,Westphalen,SH,DEU,262,DMR
 2622715,DG4LD,Thomsen Harrislee,Thomsen,SH,DEU,262,DMR
@@ -8241,7 +8245,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2624695,DL8JM,Konzelmann Essen,Konzelmann,NW,DEU,262,DMR
 2624696,DL8CF,Freyer Ahlen,Freyer,NW,DEU,262,DMR
 2624697,DO1EMC,Ciarrettino Essen,Ciarrettino,NW,DEU,262,DMR
-2624698,DO5VS,Schmidt Marl,Schmidt,NW,DEU,262,DMR
+2624698,DK9BO,Schmidt Marl,Schmidt,NI,DEU,262,DMR
 2624699,DL2YCP,Mueller Gelsenkirchen,Mueller,NW,DEU,262,DMR
 2624700,DL2FM,Vortkamp Horstmar,Vortkamp,NW,DEU,262,DMR
 2624701,DK8KQ,Dittmar Siegburg,Dittmar,NW,DEU,262,DMR
@@ -10670,7 +10674,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627124,DL8OBZ,Gold Biberach,Gold,BW,DEU,262,DMR
 2627125,DK5GU,Borm Laupheim-Bihlafingen,Borm,BW,DEU,262,DMR
 2627126,DO4GME,Elsner Fluorn-Winzeln,Elsner,BW,DEU,262,DMR
-2627127,DL1ECN,Vink Bippen ()),Vink,NI,DEU,262,DMR
+2627127,DL1ECN,Vink Bippen ())),Vink,NI,DEU,262,DMR
 2627128,DO8SRS,Riedel Welzheim,Riedel,BW,DEU,262,DMR
 2627129,DG2GML,Mohn Riedlingen,Mohn,BW,DEU,262,DMR
 2627130,DL6TT,Frietsch Buehl,Frietsch,BW,DEU,262,DMR
@@ -10864,7 +10868,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627318,DK7UK,Uecker Remshalden,Uecker,BW,DEU,262,DMR
 2627319,DH1GB,Kimmig Wieden,Kimmig,BW,DEU,262,DMR
 2627320,DG6GU,Preg Neuenburg,Preg,BW,DEU,262,DMR
-2627321,DO1SPA,Peiker Buehl ()),Peiker,BW,DEU,262,DMR
+2627321,DO1SPA,Peiker Buehl ())),Peiker,BW,DEU,262,DMR
 2627322,DL1UL,Krebber Keltern,Krebber,BW,DEU,262,DMR
 2627323,DJ7IT,Szabo Karlsruhe,Szabo,BW,DEU,262,DMR
 2627324,DG2GC,Gortat Villingen-Schwenningen,Gortat,BW,DEU,262,DMR
@@ -11029,7 +11033,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627483,DK4IR,Pfeifle Pforzheim,Pfeifle,BW,DEU,262,DMR
 2627484,DL0HLT,Baelz Stuttgart,Baelz,BW,DEU,262,DMR
 2627485,DL4SAB,Fischer Plochingen,Fischer,BW,DEU,262,DMR
-2627486,DK7VK,Kircher Gross Krams ()),Kircher,MV,DEU,262,DMR
+2627486,DK7VK,Kircher Gross Krams ())),Kircher,MV,DEU,262,DMR
 2627487,DL7WEB,Weber Allensbach,Weber,BW,DEU,262,DMR
 2627488,DJ4PX,Hofmann Villingen-Schwenningen,Hofmann,BW,DEU,262,DMR
 2627489,DG5SAY,Irion Schwaebisch Hall,Irion,BW,DEU,262,DMR
@@ -11114,7 +11118,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627568,DO7GK,Kostritza Aitern,Kostritza,BW,DEU,262,DMR
 2627569,DF1PK,Braun Bad Duerrheim,Braun,BW,DEU,262,DMR
 2627570,DL6UO,Braun Oehringen,Braun,BW,DEU,262,DMR
-2627571,DC1PM,Braun Monschau ()),Braun,NW,DEU,262,DMR
+2627571,DC1PM,Braun Monschau ())),Braun,NW,DEU,262,DMR
 2627572,DG9SEC,Gamm Buehlerzimmern,Gamm,BW,DEU,262,DMR
 2627573,DG8WM,Mauser Reutlingen,Mauser,BW,DEU,262,DMR
 2627574,DG4IT,Bauer Karlsruhe,Bauer,BW,DEU,262,DMR
@@ -11149,7 +11153,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627603,DL1WE,Ellsaesser Kuenzelsau,Ellsaesser,BW,DEU,262,DMR
 2627604,DL1IO,Huebner Pforzheim,Huebner,BW,DEU,262,DMR
 2627605,DK7SS,Krauss Gaeufelden,Krauss,BW,DEU,262,DMR
-2627606,DF2NC,Duschek Gaertringen,Duschek,BW,DEU,262,DMR
+2627606,DO7ALX,Neumann Ascheberg,Neumann,NW,DEU,262,DMR
 2627607,DO6RB,Buerle Kornwestheim,Buerle,BW,DEU,262,DMR
 2627608,DC9IK,Groehl Iffezheim,Groehl,BW,DEU,262,DMR
 2627609,DF1DA,Wagner Mainhardt-Huetten,Wagner,BW,DEU,262,DMR
@@ -11179,12 +11183,12 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627633,DO8TIG,Gastner Neckargemuend,Gastner,BW,DEU,262,DMR
 2627634,DO7WHP,Weinmann Oberstadion,Weinmann,BW,DEU,262,DMR
 2627635,DK4BX,Barsch Hirschberg,Barsch,BW,DEU,262,DMR
-2627636,DO2KJ,Kreucher no_city,Kreucher,,DEU,262,DMR
+2627636,DL4EAM,Wekx Nettetal ()),Wekx,NW,DEU,262,DMR
 2627637,DL7KHB,Boehm Wernau,Boehm,BW,DEU,262,DMR
 2627638,DL5IAL,Goelz Weinheim,Goelz,BW,DEU,262,DMR
 2627639,DO7ASL,Schneider Laufenburg - Grunhol,Schneider,BW,DEU,262,DMR
 2627640,DJ2WL,Lang Stuehlingen,Lang,BW,DEU,262,DMR
-2627641,DL9SDN,Haas Kornwestheim,Haas,BW,DEU,262,DMR
+2627641,DJ4CC,Epting Lingenfeld,Epting,RP,DEU,262,DMR
 2627642,DB5MW,Wustlich Herrenberg,Wustlich,BW,DEU,262,DMR
 2627643,DK5VO,Rehm no_city,Rehm,,DEU,262,DMR
 2627644,DL6PP,Wimmer Herbrechtingen,Wimmer,BW,DEU,262,DMR
@@ -11214,7 +11218,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627668,DL5SEX,Eichler Stuttgart,Eichler,BW,DEU,262,DMR
 2627669,DL4IAZ,Nattermann Pforzheim,Nattermann,BW,DEU,262,DMR
 2627670,DD7SY,Geiger Ludwigsburg,Geiger,BW,DEU,262,DMR
-2627671,DO2CR,Richter Friesenheim,Richter,BW,DEU,262,DMR
+2627671,DD7AB,Wittor Sickte,Wittor,NI,DEU,262,DMR
 2627672,DL3SCY,Schweikert Heidenheim,Schweikert,BW,DEU,262,DMR
 2627673,DH1GD,Orb Biberach,Orb,BW,DEU,262,DMR
 2627674,DL1GWR,Riehle Koenigsfeld,Riehle,BW,DEU,262,DMR
@@ -11318,14 +11322,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627772,DL2DOC,Blaesing Waiblingen,Blaesing,BW,DEU,262,DMR
 2627773,DL8SDC,Watmann Benningen,Watmann,BW,DEU,262,DMR
 2627774,DD1SW,Stuber Esslingen,Stuber,BW,DEU,262,DMR
-2627775,DL9SAW,Stueber Vaihingen,Stueber,BW,DEU,262,DMR
+2627775,DO4XX,Pichel Bassen,Pichel,NI,DEU,262,DMR
 2627776,DL0VI,Grimminger Moegglingen,Grimminger,BW,DEU,262,DMR
 2627777,DK7IT,Meyer-Burgstahler Stuttgart,Meyer-Burgstahler,BW,DEU,262,DMR
 2627778,DG4GP,Ganter Oberndorf,Ganter,BW,DEU,262,DMR
 2627779,DL6SW,Hertkorn Stuttgart,Hertkorn,BW,DEU,262,DMR
 2627780,DF3IS,Glaeser Kuernbach,Glaeser,BW,DEU,262,DMR
 2627781,DL9SFE,Stein Lossburg,Stein,BW,DEU,262,DMR
-2627782,DO9LT,no_name Voehringen,no_name,BW,DEU,262,DMR
+2627782,DL2HBJ,Schommer Luebeck,Schommer,SH,DEU,262,DMR
 2627783,DO1GTO,Oldag Rheinfelden,Oldag,BW,DEU,262,DMR
 2627784,DL3SDF,Hellener Schorndorf,Hellener,BW,DEU,262,DMR
 2627785,DL1SEV,Conradt Vaihingen,Conradt,BW,DEU,262,DMR
@@ -11353,7 +11357,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627807,DG3AL,Lehmann Freiburg,Lehmann,BW,DEU,262,DMR
 2627808,DL9UM,Bleier Karlsruhe,Bleier,BW,DEU,262,DMR
 2627809,DL1GCD,Braun Lichtenau,Braun,BW,DEU,262,DMR
-2627810,DO5ST,Timm Bramsche,Timm,NI,DEU,262,DMR
+2627810,DK9MF,Fryba Finsing,Fryba,BY,DEU,262,DMR
 2627811,DG9GB,Bauer Offenburg,Bauer,BW,DEU,262,DMR
 2627812,DO3EGI,Stumpf Stuttgart,Stumpf,BW,DEU,262,DMR
 2627813,DG3SGH,Rupp Rottenburg,Rupp,BW,DEU,262,DMR
@@ -11366,7 +11370,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627820,DL5SDI,Kizler Sachsenheim,Kizler,BW,DEU,262,DMR
 2627821,DK0HA,Strobel Herbrechtingen,Strobel,BW,DEU,262,DMR
 2627822,DL5SFI,Kaiser Leonberg,Kaiser,BW,DEU,262,DMR
-2627823,DO9IZ,Incedalkesen Stuttgart,Incedalkesen,BW,DEU,262,DMR
+2627823,DL2COM,Von Bismarck Berlin,Von Bismarck,BE,DEU,262,DMR
 2627824,DO3HSO,Schanzel Heidenheim,Schanzel,BW,DEU,262,DMR
 2627825,DB7SQ,Todt Heidenheim,Todt,BW,DEU,262,DMR
 2627826,DF9TZ,Wohlfarth Schorndorf,Wohlfarth,BW,DEU,262,DMR
@@ -11422,7 +11426,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627876,DO7IC,Heinecke Egenhausen,Heinecke,BW,DEU,262,DMR
 2627877,DB0TOD,Wissler Todtnau,Wissler,BW,DEU,262,DMR
 2627878,DF8GH,Waldraff Mengen,Waldraff,BW,DEU,262,DMR
-2627879,DO2CR,Richter Friesenheim,Richter,BW,DEU,262,DMR
+2627879,DG7CMF,Boehnlein Breitenguessbach,Boehnlein,BY,DEU,262,DMR
 2627880,DL3SAO,Buck Ofterdingen,Buck,BW,DEU,262,DMR
 2627881,DC1SHM,Hayler Weinsberg,Hayler,BW,DEU,262,DMR
 2627882,DO1SF,Senn Oestringen,Senn,BW,DEU,262,DMR
@@ -11472,7 +11476,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627926,DO9WW,Wolber Donaueschingen,Wolber,BW,DEU,262,DMR
 2627927,DL2KJ,Kraft Schoenwald,Kraft,BW,DEU,262,DMR
 2627928,DO1PPS,Sarter Keltern,Sarter,BW,DEU,262,DMR
-2627929,DL9SBD,Wieland Karlsbad,Wieland,BW,DEU,262,DMR
+2627929,DO1CHR,Wich Legau,Wich,BY,DEU,262,DMR
 2627930,DL2SEK,Matthes Igersheim,Matthes,BW,DEU,262,DMR
 2627931,DB9TI,Theel Deisslingen,Theel,BW,DEU,262,DMR
 2627932,DO4ABC,Baiker Illmensee,Baiker,BW,DEU,262,DMR
@@ -11495,11 +11499,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627949,DL6SCT,Stocker Pfullingen,Stocker,BW,DEU,262,DMR
 2627950,DJ1ST,Troissler Seckach,Troissler,BW,DEU,262,DMR
 2627951,DG4SDS,Zinser Gaertringen,Zinser,BW,DEU,262,DMR
-2627952,DF8TX,Kopsch Pfullingen,Kopsch,BW,DEU,262,DMR
+2627952,DL7SIR,Richter Berlin,Richter,BE,DEU,262,DMR
 2627953,DL5BAK,Aubreville Rohrdorf,Aubreville,BW,DEU,262,DMR
 2627954,DL5EK,Kittel Rottenburg,Kittel,BW,DEU,262,DMR
 2627955,DL1YCJ,Macke Stuttgart,Macke,BW,DEU,262,DMR
-2627956,DK0RV,Gille Buehl,Gille,BW,DEU,262,DMR
+2627956,DO4SKY,Nowotny Iserlohn,Nowotny,NW,DEU,262,DMR
 2627957,DF7HH,Hoppe Ludwigsburg,Hoppe,BW,DEU,262,DMR
 2627958,DD9GC,Dettling Rottenburg,Dettling,BW,DEU,262,DMR
 2627959,DD1GT,Dettling Rottenburg,Dettling,BW,DEU,262,DMR
@@ -11517,7 +11521,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627971,DH1SBB,Bross Westerheim,Bross,BW,DEU,262,DMR
 2627972,DL1TXT,Tetzner Heidenheim,Tetzner,BW,DEU,262,DMR
 2627973,DL2FHO,Hormuth Leimen,Hormuth,BW,DEU,262,DMR
-2627974,DO5WF,Freymueller Neidenstein,Freymueller,BW,DEU,262,DMR
+2627974,DL3FTZ,Frantzen Wiesbaden ()),Frantzen,HE,DEU,262,DMR
 2627975,DJ7TH,Lehmann Schwanau,Lehmann,BW,DEU,262,DMR
 2627976,DH1GPA,Person Ringsheim,Person,BW,DEU,262,DMR
 2627977,DB1SO,Reiner Heidenheim,Reiner,BW,DEU,262,DMR
@@ -11534,6 +11538,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627988,DL4PIT,Rhein Calw,Rhein,BW,DEU,262,DMR
 2627989,DO6HN,Heiligenmann Heilbronn,Heiligenmann,BW,DEU,262,DMR
 2627990,DL7GAQ,Scherer Ettenheim,Scherer,BW,DEU,262,DMR
+2627991,DM6AA,Di Giovanni Kempen ()),Di Giovanni,NW,DEU,262,DMR
+2627992,DL1HBT,Milde Hamburg,Milde,HH,DEU,262,DMR
+2627993,DH2LM,Michael Schlettau,Michael,SN,DEU,262,DMR
+2627994,DG2MFB,Luft Bretten,Luft,BW,DEU,262,DMR
 2628001,DL1BNO,Nordemann Geiselbach,Nordemann,BY,DEU,262,DMR
 2628002,DL5NBZ,Floesser Nuernberg,Floesser,BY,DEU,262,DMR
 2628003,DK7NKR,Karbaum Nuernberg,Karbaum,BY,DEU,262,DMR
@@ -15893,7 +15901,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2638516,DJ6RY,Huettner Amberg,Huettner,BY,DEU,263,DMR
 2638517,DG5MH,Haas Kempten,Haas,BY,DEU,263,DMR
 2638518,DJ3MU,Loupal Forstern,Loupal,BY,DEU,263,DMR
-2638519,DL5MA,Goettler Stuttgart ()),Goettler,BW,DEU,263,DMR
+2638519,DL5MA,Goettler Stuttgart ())),Goettler,BW,DEU,263,DMR
 2638520,DD7RN,Mayer Rottenburg,Mayer,BY,DEU,263,DMR
 2638521,DO9KMM,Kulisch Regensburg,Kulisch,BY,DEU,263,DMR
 2638522,DL9IGL,Fucker no_city,Fucker,,DEU,263,DMR
