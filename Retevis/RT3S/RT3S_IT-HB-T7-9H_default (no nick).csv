@@ -7586,7 +7586,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2227594,IK4FFS,Giuseppe,,Maranello (MO),Emilia-Rom.,ITA
 2227595,IK8GJZ,Francesco,,Castellammare Stabia (NA),Campania,ITA
 2227596,IT9XIG,Pietro,,Campobello Di Mazara (TP),Sicilia,ITA
-2227597,IU2OQT,Vitaliano,,Galliate Lombardo (VA),Lombardia,ITA
+2227597,IU2OQT,Vitaliano,,no_city,Lombardia,ITA
 2227598,IU5OHH,Carlo,,Grosseto (GR),Toscana,ITA
 2227599,IU7NXT,Nicola,,Bari (BA),Puglia,ITA
 2227600,IU4OKB,Valerio,,San Giovanni In Persiceto (BO),Emilia-Rom.,ITA
@@ -8830,7 +8830,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2228838,IK0IRE,Francesco,,Anzio (RM),Lazio,ITA
 2228839,IV3HJD,Nicola,,Zoppola (PN),Friuli VG,ITA
 2228840,IU3PAL,Lanfranco,,Rovigo (RO),Veneto,ITA
-2228841,IU5PIK,Lorenzo,,Firenze (FI),Toscana,ITA
+2228841,IU5PIK,Lorenzo,,no_city,Toscana,ITA
 2228842,IU1GQK,Gabriele,,Voltaggio (AL),Piemonte,ITA
 2228843,IU7IFN,Aldo,,Latiano (BR),Puglia,ITA
 2228844,IT9BQQ,Francesco,,Catania (CT),Sicilia,ITA
@@ -8888,6 +8888,34 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2228896,IW3HMW,Paolo,,Rubano (PD),Veneto,ITA
 2228897,IU8PNX,Emanuele,,Cava De Tirreni (SA),Campania,ITA
 2228898,IT9BOE,Roberto,,Marsala (TP),Sicilia,ITA
+2228899,IT9APJ,Michele,,Trapani (TP),Sicilia,ITA
+2228900,IZ0YEG,Antonino,,Roma (RM),Lazio,ITA
+2228901,IU1LFA,Marco,,Chivasso (TO),Piemonte,ITA
+2228902,IN3FSN,Enzo,,Carano (TN),Trentino AA,ITA
+2228903,IU6LKI,Giammaria,,Macerata (MC),Marche,ITA
+2228904,IZ3KSS,Loris,,Nervesa Della Battaglia (TV),Veneto,ITA
+2228905,IZ6HEZ,Antonio,,Serravalle Di Chienti (MC),Marche,ITA
+2228906,IW8RPE,Angelo,,Cosenza (CS),Calabria,ITA
+2228907,IW3SMC,Fulvio,,Muggia (TS),Friuli VG,ITA
+2228908,IU8IVC,Antonio,,Vico Equense (NA),Campania,ITA
+2228909,IU8PNS,Enrico,,Napoli (NA),Campania,ITA
+2228910,IU0PPT,Domenico,,Roma (RM),Lazio,ITA
+2228911,IT9WBN,Natale,,Santa Flavia (PA),Sicilia,ITA
+2228912,IQ3GO,Ari,,Gorizia (GO),Friuli VG,ITA
+2228913,IK8DOE,Arturo,,Cava De Tirreni (SA),Campania,ITA
+2228914,IU3IED,Gabriele,,Arzignano (VI),Veneto,ITA
+2228915,IZ0GVZ,Luca,,Castel Del Piano (PG),Umbria,ITA
+2228916,IK0REP,Maurizio,,Mentana (RM),Lazio,ITA
+2228917,IV3HQQ,Stefano,,Moraro (GO),Friuli VG,ITA
+2228918,IU0GZX,Emidio,,Roma (RM),Lazio,ITA
+2228919,IZ2TIM,Valerio,,Villa Di Tirano (SO),Lombardia,ITA
+2228920,IZ0ZTD,Giulio,,Roma (RM),Lazio,ITA
+2228921,IU2AJS,Luca,,San Paolo D Argon (BG),Lombardia,ITA
+2228922,IW2LHT,Alfredo,,Mozzate (CO),Lombardia,ITA
+2228923,IU0OQO,Daniele,,Roma (RM),Lazio,ITA
+2228924,IZ1GCQ,Dario,,Strambino (TO),Piemonte,ITA
+2228925,IK2QAT,Massimo,,Buguggiate (VA),Lombardia,ITA
+2228926,IV3SGJ,Giammario,,Trieste (TS),Friuli VG,ITA
 2229001,IT9YFO,Andrea,,Catania (CT),Sicilia,ITA
 2229002,IT9ZON,Francesco,,Catania (CT),Sicilia,ITA
 2229003,IT9UUT,Salvo,,Ispica (RG),Sicilia,ITA
@@ -9473,7 +9501,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280093,HB9HIW,Olivier,,Les Ponts De Martel,Neuchatel,CHE
 2280094,HB9HIO,Mauro,,Gordola,Ticino,CHE
 2280095,HB9FGK,Laurent,,Chezard St Martin,Neuchatel,CHE
-2280096,HB9EXX,Joël,,1418 Vuarrens,Vaud,CHE
+2280096,HB9EXX,Joël,,Vuarrens,Vaud,CHE
 2280097,HB9TKT,Othmar,,Schaffhausen,Schaffhausen,CHE
 2280098,HB3XWB,Juerg,,Meilen,Zurich,CHE
 2280099,HB4FC,Swiss,,Ch 5032 Aarau Rohr,Aargau,CHE
@@ -9481,7 +9509,8 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280101,HB9BLB,Bernard,,Spiez,Bern,CHE
 2280102,HB9HKV,Stephan,,Schoenenbuch,Basel-Country,CHE
 2280103,HB9DWF,Andreas,,Basel,Basel-City,CHE
-2280104,HB9ULL,Emmanuel,,2416 Les Brenets,Neuchatel,CHE
+2280104,HB9ULL,Emmanuel,,Les Brenets,Neuchatel,CHE
+2280105,HB9EKA,Stefan,,Rossrueti,St. Gallen,CHE
 2281001,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,,Saint-Cergue,Waadt,CHE
@@ -11111,6 +11140,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2780047,9H5SB,Frans,,Attard  Bzn 12,,MLT
 2780048,9H5JW,John,,Paola Pla,,MLT
 2780049,9H5JY,Jeffrey,,Sannat Gozo,All Regions,MLT
+2780050,9H1FJ,Johann,,Lija,All Regions,MLT
 2920001,T77GR,Renato,,Borgo Maggiore,,SMR
 2920002,T77NC,Nazzareno,,Acquaviva,,SMR
 2920003,T77DB,Danilo,,Borgo Maggiore,San Marino,SMR

@@ -7585,7 +7585,7 @@
 2227594,IK4FFS,Donadio Maranello (MO),Emilia-Rom.,ITA,222
 2227595,IK8GJZ,Molaro Castellammare Stabia (NA),Campania,ITA,222
 2227596,IT9XIG,Bono Campobello Di Mazara (TP),Sicilia,ITA,222
-2227597,IU2OQT,Trecca Galliate Lombardo (VA),Lombardia,ITA,222
+2227597,IU2OQT,Trecca no_city,Lombardia,ITA,222
 2227598,IU5OHH,Ordini Grosseto (GR),Toscana,ITA,222
 2227599,IU7NXT,Lonigro Bari (BA),Puglia,ITA,222
 2227600,IU4OKB,Giampietro San Giovanni In Persiceto (BO),Emilia-Rom.,ITA,222
@@ -8829,7 +8829,7 @@
 2228838,IK0IRE,Cilea Anzio (RM),Lazio,ITA,222
 2228839,IV3HJD,Viol Zoppola (PN),Friuli VG,ITA,222
 2228840,IU3PAL,Marin Rovigo (RO),Veneto,ITA,222
-2228841,IU5PIK,Venturi Firenze (FI),Toscana,ITA,222
+2228841,IU5PIK,Venturi no_city,Toscana,ITA,222
 2228842,IU1GQK,Gualco Voltaggio (AL),Piemonte,ITA,222
 2228843,IU7IFN,Alfiero Latiano (BR),Puglia,ITA,222
 2228844,IT9BQQ,Cocina Catania (CT),Sicilia,ITA,222
@@ -8887,6 +8887,34 @@
 2228896,IW3HMW,Zara Rubano (PD),Veneto,ITA,222
 2228897,IU8PNX,Greco Cava De Tirreni (SA),Campania,ITA,222
 2228898,IT9BOE,Valentino Marsala (TP),Sicilia,ITA,222
+2228899,IT9APJ,Bono Trapani (TP),Sicilia,ITA,222
+2228900,IZ0YEG,Gagliardi Roma (RM),Lazio,ITA,222
+2228901,IU1LFA,Marocco Chivasso (TO),Piemonte,ITA,222
+2228902,IN3FSN,Gardener Carano (TN),Trentino AA,ITA,222
+2228903,IU6LKI,Ciucci Macerata (MC),Marche,ITA,222
+2228904,IZ3KSS,Capovilla Nervesa Della Battaglia (TV),Veneto,ITA,222
+2228905,IZ6HEZ,Bartoli Serravalle Di Chienti (MC),Marche,ITA,222
+2228906,IW8RPE,Savino Cosenza (CS),Calabria,ITA,222
+2228907,IW3SMC,Strain Muggia (TS),Friuli VG,ITA,222
+2228908,IU8IVC,Rosa Vico Equense (NA),Campania,ITA,222
+2228909,IU8PNS,Teperino Napoli (NA),Campania,ITA,222
+2228910,IU0PPT,Chiappetta Roma (RM),Lazio,ITA,222
+2228911,IT9WBN,Sorci Santa Flavia (PA),Sicilia,ITA,222
+2228912,IQ3GO,Gorizia Gorizia (GO),Friuli VG,ITA,222
+2228913,IK8DOE,Cavaliere Cava De Tirreni (SA),Campania,ITA,222
+2228914,IU3IED,Marangio Arzignano (VI),Veneto,ITA,222
+2228915,IZ0GVZ,Bittarelli Castel Del Piano (PG),Umbria,ITA,222
+2228916,IK0REP,Mangione Mentana (RM),Lazio,ITA,222
+2228917,IV3HQQ,Mastrorillo Moraro (GO),Friuli VG,ITA,222
+2228918,IU0GZX,Dino Roma (RM),Lazio,ITA,222
+2228919,IZ2TIM,Battistella Villa Di Tirano (SO),Lombardia,ITA,222
+2228920,IZ0ZTD,Innocenti Roma (RM),Lazio,ITA,222
+2228921,IU2AJS,Bertulessi San Paolo D Argon (BG),Lombardia,ITA,222
+2228922,IW2LHT,Broggi Mozzate (CO),Lombardia,ITA,222
+2228923,IU0OQO,Guardigli Roma (RM),Lazio,ITA,222
+2228924,IZ1GCQ,Mellina Strambino (TO),Piemonte,ITA,222
+2228925,IK2QAT,Villa Buguggiate (VA),Lombardia,ITA,222
+2228926,IV3SGJ,Pazzaglia Trieste (TS),Friuli VG,ITA,222
 2229001,IT9YFO,Benedetto Catania (CT),Sicilia,ITA,222
 2229002,IT9ZON, Catania (CT),Sicilia,ITA,222
 2229003,IT9UUT,Santoro Ispica (RG),Sicilia,ITA,222
@@ -9472,7 +9500,7 @@
 2280093,HB9HIW,Valle Lian Les Ponts De Martel,Neuchatel,CHE,228
 2280094,HB9HIO,Berri Gordola,Ticino,CHE,228
 2280095,HB9FGK,Ferrari Chezard St Martin,Neuchatel,CHE,228
-2280096,HB9EXX,Conus 1418 Vuarrens,Vaud,CHE,228
+2280096,HB9EXX,Conus Vuarrens,Vaud,CHE,228
 2280097,HB9TKT,Greber Schaffhausen,Schaffhausen,CHE,228
 2280098,HB3XWB,Nussbaum Meilen,Zurich,CHE,228
 2280099,HB4FC,Hb9ffk Ch 5032 Aarau Rohr,Aargau,CHE,228
@@ -9480,7 +9508,8 @@
 2280101,HB9BLB,Landolt Spiez,Bern,CHE,228
 2280102,HB9HKV,Grimm Schoenenbuch,Basel-Country,CHE,228
 2280103,HB9DWF,Fink Basel,Basel-City,CHE,228
-2280104,HB9ULL,Marco 2416 Les Brenets,Neuchatel,CHE,228
+2280104,HB9ULL,Marco Les Brenets,Neuchatel,CHE,228
+2280105,HB9EKA,Graf Rossrueti,St. Gallen,CHE,228
 2281001,HB3YNV, Saint-Cergue,Waadt,CHE,228
 2281002,HB3YNV, Saint-Cergue,Waadt,CHE,228
 2281003,HB3YNV, Saint-Cergue,Waadt,CHE,228
@@ -10945,7 +10974,7 @@
 2288334,HB9HGP, Birchwil,,CHE,228
 2288335,HB9HHQ, Staefa,,CHE,228
 2288336,HB9CIG,Salzmann Uitikon Waldegg,,CHE,228
-2288337,HB9AN,2000 Kilchberg,,CHE,228
+2288337,HB9AN, Kilchberg,,CHE,228
 2288338,HB9BIS, Uitikon Waldegg,,CHE,228
 2288339,HB9HJK,Kaesermann Winterthur,Zurich,CHE,228
 2288340,HB3XWY, Schoenholzerswilen,,CHE,228
@@ -11110,6 +11139,7 @@
 2780047,9H5SB,Scifo Attard  Bzn 12,,MLT,278
 2780048,9H5JW,Pell Paola Pla,,MLT,278
 2780049,9H5JY,Grech Sannat Gozo,All Regions,MLT,278
+2780050,9H1FJ,Fenech Lija,All Regions,MLT,278
 2920001,T77GR,Giovagnoli Borgo Maggiore,,SMR,292
 2920002,T77NC,Carattoni Acquaviva,,SMR,292
 2920003,T77DB,Berardi Borgo Maggiore,San Marino,SMR,292

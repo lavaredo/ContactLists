@@ -7586,7 +7586,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2227594,IK4FFS,Giuseppe,Giuseppe,Donadio,Maranello (MO),Emilia-Rom. - ITA,,Private Call,None
 ,2227595,IK8GJZ,Francesco,Francesco,Molaro,Castellammare Stabia (NA),Campania - ITA,,Private Call,None
 ,2227596,IT9XIG,Pietro,Pietro,Bono,Campobello Di Mazara (TP),Sicilia - ITA,,Private Call,None
-,2227597,IU2OQT,Vitaliano,Vitaliano,Trecca,Galliate Lombardo (VA),Lombardia - ITA,,Private Call,None
+,2227597,IU2OQT,Vitaliano,Vitaliano,Trecca,no_city,Lombardia - ITA,,Private Call,None
 ,2227598,IU5OHH,Carlo,Carlo,Ordini,Grosseto (GR),Toscana - ITA,,Private Call,None
 ,2227599,IU7NXT,Nicola,Nicola,Lonigro,Bari (BA),Puglia - ITA,,Private Call,None
 ,2227600,IU4OKB,Valerio,Valerio,Giampietro,San Giovanni In Persiceto (BO),Emilia-Rom. - ITA,,Private Call,None
@@ -8830,7 +8830,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2228838,IK0IRE,Francesco,Francesco,Cilea,Anzio (RM),Lazio - ITA,,Private Call,None
 ,2228839,IV3HJD,Nicola,Nicola,Viol,Zoppola (PN),Friuli VG - ITA,,Private Call,None
 ,2228840,IU3PAL,Lanfranco,Lanfranco,Marin,Rovigo (RO),Veneto - ITA,,Private Call,None
-,2228841,IU5PIK,Lorenzo,Lorenzo,Venturi,Firenze (FI),Toscana - ITA,,Private Call,None
+,2228841,IU5PIK,Lorenzo,Lorenzo,Venturi,no_city,Toscana - ITA,,Private Call,None
 ,2228842,IU1GQK,Gabriele,Gabriele,Gualco,Voltaggio (AL),Piemonte - ITA,,Private Call,None
 ,2228843,IU7IFN,Aldo,Aldo,Alfiero,Latiano (BR),Puglia - ITA,,Private Call,None
 ,2228844,IT9BQQ,Francesco,Francesco,Cocina,Catania (CT),Sicilia - ITA,,Private Call,None
@@ -8888,6 +8888,34 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2228896,IW3HMW,Paolo,Paolo,Zara,Rubano (PD),Veneto - ITA,,Private Call,None
 ,2228897,IU8PNX,Emanuele,Emanuele,Greco,Cava De Tirreni (SA),Campania - ITA,,Private Call,None
 ,2228898,IT9BOE,Roberto,Roberto,Valentino,Marsala (TP),Sicilia - ITA,,Private Call,None
+,2228899,IT9APJ,Michele,Michele,Bono,Trapani (TP),Sicilia - ITA,,Private Call,None
+,2228900,IZ0YEG,Antonino,Antonino,Gagliardi,Roma (RM),Lazio - ITA,,Private Call,None
+,2228901,IU1LFA,Marco,Marco,Marocco,Chivasso (TO),Piemonte - ITA,,Private Call,None
+,2228902,IN3FSN,Enzo,Enzo,Gardener,Carano (TN),Trentino AA - ITA,,Private Call,None
+,2228903,IU6LKI,Giammaria,Giammaria,Ciucci,Macerata (MC),Marche - ITA,,Private Call,None
+,2228904,IZ3KSS,Loris,Loris,Capovilla,Nervesa Della Battaglia (TV),Veneto - ITA,,Private Call,None
+,2228905,IZ6HEZ,Antonio,Antonio,Bartoli,Serravalle Di Chienti (MC),Marche - ITA,,Private Call,None
+,2228906,IW8RPE,Angelo,Angelo,Savino,Cosenza (CS),Calabria - ITA,,Private Call,None
+,2228907,IW3SMC,Fulvio,Fulvio,Strain,Muggia (TS),Friuli VG - ITA,,Private Call,None
+,2228908,IU8IVC,Antonio,Antonio,Rosa,Vico Equense (NA),Campania - ITA,,Private Call,None
+,2228909,IU8PNS,Enrico,Enrico,Teperino,Napoli (NA),Campania - ITA,,Private Call,None
+,2228910,IU0PPT,Domenico,Domenico,Chiappetta,Roma (RM),Lazio - ITA,,Private Call,None
+,2228911,IT9WBN,Natale,Natale,Sorci,Santa Flavia (PA),Sicilia - ITA,,Private Call,None
+,2228912,IQ3GO,Ari,Ari,Gorizia,Gorizia (GO),Friuli VG - ITA,,Private Call,None
+,2228913,IK8DOE,Arturo,Arturo,Cavaliere,Cava De Tirreni (SA),Campania - ITA,,Private Call,None
+,2228914,IU3IED,Gabriele,Gabriele,Marangio,Arzignano (VI),Veneto - ITA,,Private Call,None
+,2228915,IZ0GVZ,Luca,Luca,Bittarelli,Castel Del Piano (PG),Umbria - ITA,,Private Call,None
+,2228916,IK0REP,Maurizio,Maurizio,Mangione,Mentana (RM),Lazio - ITA,,Private Call,None
+,2228917,IV3HQQ,Stefano,Stefano,Mastrorillo,Moraro (GO),Friuli VG - ITA,,Private Call,None
+,2228918,IU0GZX,Emidio,Emidio,Dino,Roma (RM),Lazio - ITA,,Private Call,None
+,2228919,IZ2TIM,Valerio,Valerio,Battistella,Villa Di Tirano (SO),Lombardia - ITA,,Private Call,None
+,2228920,IZ0ZTD,Giulio,Giulio,Innocenti,Roma (RM),Lazio - ITA,,Private Call,None
+,2228921,IU2AJS,Luca,Luca,Bertulessi,San Paolo D Argon (BG),Lombardia - ITA,,Private Call,None
+,2228922,IW2LHT,Alfredo,Alfredo,Broggi,Mozzate (CO),Lombardia - ITA,,Private Call,None
+,2228923,IU0OQO,Daniele,Daniele,Guardigli,Roma (RM),Lazio - ITA,,Private Call,None
+,2228924,IZ1GCQ,Dario,Dario,Mellina,Strambino (TO),Piemonte - ITA,,Private Call,None
+,2228925,IK2QAT,Massimo,Massimo,Villa,Buguggiate (VA),Lombardia - ITA,,Private Call,None
+,2228926,IV3SGJ,Giammario,Giammario,Pazzaglia,Trieste (TS),Friuli VG - ITA,,Private Call,None
 ,2229001,IT9YFO,Andrea,Andrea,Benedetto,Catania (CT),Sicilia - ITA,,Private Call,None
 ,2229002,IT9ZON,Francesco,Francesco,,Catania (CT),Sicilia - ITA,,Private Call,None
 ,2229003,IT9UUT,Salvo,Salvo,Santoro,Ispica (RG),Sicilia - ITA,,Private Call,None
