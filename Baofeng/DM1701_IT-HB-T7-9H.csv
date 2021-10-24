@@ -6875,7 +6875,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2226883,IU3ELN,Visman Quarto D Altino (VE),Visman,Veneto,ITA,222,DMR
 2226884,IK2WPZ,Molla Bustro Arsizio (VA),Molla,Lombardia,ITA,222,DMR
 2226885,IU0ODJ,Veloccia Roma (RM),Veloccia,Lazio,ITA,222,DMR
-2226886,IU3OER, no_city,,Veneto,ITA,222,DMR
+2226886,IU3OER, ,,Veneto,ITA,222,DMR
 2226887,IW8PGB,Iaconianni Roggiano Gravina (CS),Iaconianni,Calabria,ITA,222,DMR
 2226888,IZ8VGY,Ferrara Cardito (NA),Ferrara,Campania,ITA,222,DMR
 2226889,IU5MGF,Poggesi San Giovanni Valdarno (AR),Poggesi,Toscana,ITA,222,DMR
@@ -7335,7 +7335,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2227343,IK7IMP,Carlino Lecce (LE),Carlino,Puglia,ITA,222,DMR
 2227344,IU7KDY,Domenico Casamassima (BA),Domenico,Puglia,ITA,222,DMR
 2227345,IZ7YJW,Montemurro Acquaviva Delle Fonti (BA),Montemurro,Puglia,ITA,222,DMR
-2227346,IZ7SYT,Marzo Parabita (LE),Marzo,Puglia,ITA,222,DMR
 2227347,IZ8GTJ,Caiata Picerno (PZ),Caiata,Basilicata,ITA,222,DMR
 2227348,IK7MCM,Nardiello Massafra (TA),Nardiello,Puglia,ITA,222,DMR
 2227349,IU7EKL, Cassano Delle Murge (BA),,Puglia,ITA,222,DMR
@@ -7561,7 +7560,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2227569,IV3TYS,Barbangelo Gorizia (GO),Barbangelo,Friuli VG,ITA,222,DMR
 2227570,IW2MQP,Rimoldi Turate (CO),Rimoldi,Lombardia,ITA,222,DMR
 2227571,IW6ODG,Rubeo Tagliacozzo (AQ),Rubeo,Abruzzo,ITA,222,DMR
-2227572,IU2NSI,Galimberti no_city,Galimberti,Lombardia,ITA,222,DMR
+2227572,IU2NSI,Galimberti ,Galimberti,Lombardia,ITA,222,DMR
 2227573,IU7KMU,Perillo Manfredonia (FG),Perillo,Puglia,ITA,222,DMR
 2227574,IT9CSD,Liga Casteldaccia (PA),Liga,Sicilia,ITA,222,DMR
 2227575,IZ2SQK,Marioni Milano (MI),Marioni,Lombardia,ITA,222,DMR
@@ -7586,7 +7585,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2227594,IK4FFS,Donadio Maranello (MO),Donadio,Emilia-Rom.,ITA,222,DMR
 2227595,IK8GJZ,Molaro Castellammare Stabia (NA),Molaro,Campania,ITA,222,DMR
 2227596,IT9XIG,Bono Campobello Di Mazara (TP),Bono,Sicilia,ITA,222,DMR
-2227597,IU2OQT,Trecca no_city,Trecca,Lombardia,ITA,222,DMR
+2227597,IU2OQT,Trecca ,Trecca,Lombardia,ITA,222,DMR
 2227598,IU5OHH,Ordini Grosseto (GR),Ordini,Toscana,ITA,222,DMR
 2227599,IU7NXT,Lonigro Bari (BA),Lonigro,Puglia,ITA,222,DMR
 2227600,IU4OKB,Giampietro San Giovanni In Persiceto (BO),Giampietro,Emilia-Rom.,ITA,222,DMR
@@ -7595,7 +7594,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2227603,IW3AAD,Tiengo Villazzano (TN),Tiengo,Trentino AA,ITA,222,DMR
 2227604,IT9AGE,Pezzino Catania (CT),Pezzino,Sicilia,ITA,222,DMR
 2227605,IU2NKE,Martino Milano (MI),Martino,Lombardia,ITA,222,DMR
-2227606,IU8IAJ,De Rosa no_city,De Rosa,Campania,ITA,222,DMR
+2227606,IU8IAJ,De Rosa ,De Rosa,Campania,ITA,222,DMR
 2227607,IZ3MFS,Bonesso Montebelluna (TV),Bonesso,Veneto,ITA,222,DMR
 2227608,IT9IRQ,Guzzetta Catania (CT),Guzzetta,Sicilia,ITA,222,DMR
 2227609,IZ5ILX,D Andrea San Lorenzo (MS),D Andrea,Toscana,ITA,222,DMR
@@ -8830,7 +8829,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228838,IK0IRE,Cilea Anzio (RM),Cilea,Lazio,ITA,222,DMR
 2228839,IV3HJD,Viol Zoppola (PN),Viol,Friuli VG,ITA,222,DMR
 2228840,IU3PAL,Marin Rovigo (RO),Marin,Veneto,ITA,222,DMR
-2228841,IU5PIK,Venturi no_city,Venturi,Toscana,ITA,222,DMR
+2228841,IU5PIK,Venturi ,Venturi,Toscana,ITA,222,DMR
 2228842,IU1GQK,Gualco Voltaggio (AL),Gualco,Piemonte,ITA,222,DMR
 2228843,IU7IFN,Alfiero Latiano (BR),Alfiero,Puglia,ITA,222,DMR
 2228844,IT9BQQ,Cocina Catania (CT),Cocina,Sicilia,ITA,222,DMR
@@ -8921,6 +8920,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228929,IU2HQE,Tombacco Milano (MI),Tombacco,Lombardia,ITA,222,DMR
 2228930,IU1HHK,Massa Lesegno (CN),Massa,Piemonte,ITA,222,DMR
 2228931,IU0PPB,Cleri Rieti (RI),Cleri,Lazio,ITA,222,DMR
+2228932,IQ3XQ,Giulia Udine (UD),Giulia,Friuli VG,ITA,222,DMR
+2228933,IT9GSK,Drago Isola Delle Femmine (PA),Drago,Sicilia,ITA,222,DMR
+2228934,IV3TRK,Terconi Trieste (TS),Terconi,Friuli VG,ITA,222,DMR
+2228935,IZ4SYT,Marzo Bologna (BO),Marzo,Emilia-Rom.,ITA,222,DMR
+2228936,IZ4PKC,Vernazza Collecchio (PR),Vernazza,Emilia-Rom.,ITA,222,DMR
+2228937,IU2OSY,Cioffi Milano (MI),Cioffi,Lombardia,ITA,222,DMR
+2228938,IW2GLA,Mannino Introbio (LC),Mannino,Lombardia,ITA,222,DMR
+2228939,IV3VEA,Falcon Villa Santina (UD),Falcon,Friuli VG,ITA,222,DMR
 2229001,IT9YFO,Benedetto Catania (CT),Benedetto,Sicilia,ITA,222,DMR
 2229002,IT9ZON, Catania (CT),,Sicilia,ITA,222,DMR
 2229003,IT9UUT,Santoro Ispica (RG),Santoro,Sicilia,ITA,222,DMR
@@ -9410,7 +9417,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2229490,IS0HFE,Pettinau Quartu Sant Elena (CA),Pettinau,Sardegna,ITA,222,DMR
 2229492,IT9HTB,Cannavo Castronovo (PA),Cannavo,Sicilia,ITA,222,DMR
 2229493,IT9JMR,Oberdan Nicosia (EN),Oberdan,Sicilia,ITA,222,DMR
-2280000,N0CALL, no_city,,Zuerich und Thurgau,CHE,228,DMR
+2280000,N0CALL, )),,Zuerich und Thurgau,CHE,228,DMR
 2280001,4U1ITU,Arc Geneva,Arc,,CHE,228,DMR
 2280002,HB3XWO,Becker Basel,Becker,,CHE,228,DMR
 2280003,HB9HIT,Perez Le Mont-Sur-Lausanne,Perez,Westschweiz-Sud,CHE,228,DMR
@@ -9422,7 +9429,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280009,HB9TWP,Lorenzo Arlate,Lorenzo,,CHE,228,DMR
 2280010,HB9FSN,Kurt Bretzwil,Kurt,Basel/solothurn,CHE,228,DMR
 2280011,HB9OBB,Guazzoni Zurich,Guazzoni,Zuerich und Thurgau,CHE,228,DMR
-2280012,HB9HGO,Laya no_city,Laya,Basel/solothurn,CHE,228,DMR
+2280012,HB9HGO,Laya )),Laya,Basel/solothurn,CHE,228,DMR
 2280013,HB3XWW,Juen Oberneunforn,Juen,,CHE,228,DMR
 2280014,HB9GYV,Junod Bienne,Junod,,CHE,228,DMR
 2280015,HB3XVS, Moosseedorf,,Bern,CHE,228,DMR
@@ -9433,13 +9440,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280020,HB9SNW,Merz Ch-4528 Zuchwil So,Merz,Solothurn,CHE,228,DMR
 2280021,HB9OMI,Jaquenoud Yverdon-Les-Bains,Jaquenoud,Vaud,CHE,228,DMR
 2280022,HB3XWT,Schult Rickenbach Sulz,Schult,Zurich,CHE,228,DMR
-2280023,HB9DAG,Wittwer no_city,Wittwer,Bern,CHE,228,DMR
-2280024,HB9HDI,Roth no_city,Roth,Zurich,CHE,228,DMR
+2280023,HB9DAG,Wittwer )),Wittwer,Bern,CHE,228,DMR
+2280024,HB9HDI,Roth )),Roth,Zurich,CHE,228,DMR
 2280025,HB9HAN,Roth Sargans,Roth,All Regions,CHE,228,DMR
 2280026,HB9HIB,Huguenin Villiers,Huguenin,Neuchatel,CHE,228,DMR
 2280027,HB9GUW,Boger Gais (bz),Boger,Appenzell Outer-Rhodes,CHE,228,DMR
 2280028,HB9MDU,Sibler Ebikon,Sibler,Lucerne,CHE,228,DMR
-2280029,HB9SVQ,Sibler no_city,Sibler,,CHE,228,DMR
+2280029,HB9SVQ,Sibler )),Sibler,,CHE,228,DMR
 2280030,HB9EDN,Oberli Orpund,Oberli,Bern,CHE,228,DMR
 2280031,HB9GNG,Heise Lausanne,Heise,Vaud,CHE,228,DMR
 2280032,HB3XXB,Ruff Bergdietikon,Ruff,Aargau,CHE,228,DMR
@@ -9491,7 +9498,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280078,HB9HKP,Burri Dornach,Burri,Solothurn,CHE,228,DMR
 2280079,HB9HKZ,Roth Wauwil,Roth,Lucerne,CHE,228,DMR
 2280080,HB3XYI,Faessler Faellanden,Faessler,Zurich,CHE,228,DMR
-2280081,HB3XXZ,Cassard no_city,Cassard,Jura,CHE,228,DMR
+2280081,HB3XXZ,Cassard )),Cassard,Jura,CHE,228,DMR
 2280082,HB9IIH,Borgeaud Le Mont Sur Lausanne,Borgeaud,Vaud,CHE,228,DMR
 2280083,HB9HKY,Hodel Rickenbach,Hodel,Lucerne,CHE,228,DMR
 2280084,HB3XYF,Meyer Wohlen,Meyer,Aargau,CHE,228,DMR
@@ -9583,7 +9590,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281065,HB9ESF,Ravet Giez,Ravet,Westschweiz-Sud,CHE,228,DMR
 2281066,HB9VBM,Kaeser Meyrin,Kaeser,Westschweiz-Sud,CHE,228,DMR
 2281067,HB9EST,Boucheron Versoix,Boucheron,Westschweiz-Sud,CHE,228,DMR
-2281068,HB9TUK,Jan no_city,Jan,Westschweiz-Sud,CHE,228,DMR
+2281068,HB9TUK,Jan )),Jan,Westschweiz-Sud,CHE,228,DMR
 2281069,HB9VSD,Hb9vsd Verbier,Hb9vsd,Westschweiz-Sud,CHE,228,DMR
 2281070,HB9AXG,Gachet Onex,Gachet,Westschweiz-Sud,CHE,228,DMR
 2281071,HB9VID,Streuli Pailly,Streuli,Westschweiz-Sud,CHE,228,DMR
@@ -9660,11 +9667,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281142,HB3YTB,Sudan Villeneuve,Sudan,Westschweiz-Sud,CHE,228,DMR
 2281143,HB3YYR,Scheidegger Versoix,Scheidegger,Westschweiz-Sud,CHE,228,DMR
 2281144,HB9SAT,Haldemann Sugiez,Haldemann,Westschweiz-Sud,CHE,228,DMR
-2281145,HB3YSK, no_city,,Westschweiz-Sud,CHE,228,DMR
+2281145,HB3YSK, )),,Westschweiz-Sud,CHE,228,DMR
 2281146,HB9TUI,Tille Lausanne,Tille,Westschweiz-Sud,CHE,228,DMR
 2281147,HB9FMK,Girardin Laconnex,Girardin,Westschweiz-Sud,CHE,228,DMR
-2281148,HB3YDE,Raider no_city,Raider,Westschweiz-Sud,CHE,228,DMR
-2281149,HB9VBA,Lucot no_city,Lucot,Westschweiz-Sud,CHE,228,DMR
+2281148,HB3YDE,Raider )),Raider,Westschweiz-Sud,CHE,228,DMR
+2281149,HB9VBA,Lucot )),Lucot,Westschweiz-Sud,CHE,228,DMR
 2281150,HB9TIH,Piscioli Sedeilles,Piscioli,Westschweiz-Sud,CHE,228,DMR
 2281151,HB9VBE,Nef Geneva,Nef,Westschweiz-Sud,CHE,228,DMR
 2281152,HB9TGW,Costa Vevey,Costa,Westschweiz-Sud,CHE,228,DMR
@@ -9681,7 +9688,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281163,HB3GYR,Baza Geneva,Baza,Westschweiz-Sud,CHE,228,DMR
 2281164,HB3YBO,Mermoud Carouge,Mermoud,Westschweiz-Sud,CHE,228,DMR
 2281165,HB9S,Bureau Geneva,Bureau,Westschweiz-Sud,CHE,228,DMR
-2281166,HB9DUW, no_city,,Westschweiz-Sud,CHE,228,DMR
+2281166,HB9DUW, )),,Westschweiz-Sud,CHE,228,DMR
 2281167,HB3YKB,Baud Giswil,Baud,Westschweiz-Sud,CHE,228,DMR
 2281168,HB3YOE,Fantuzzi Bellevue,Fantuzzi,Westschweiz-Sud,CHE,228,DMR
 2281169,HB3YAP,Trosset Epautheyres,Trosset,Westschweiz-Sud,CHE,228,DMR
@@ -9694,11 +9701,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2281176,HB3YFI,Nielsen Gd-Saconnex,Nielsen,Westschweiz-Sud,CHE,228,DMR
 2281177,HB9FXE,Porchet Geneva,Porchet,Westschweiz-Sud,CHE,228,DMR
 2281178,HB9AFO,Vonlanthen Bussigny,Vonlanthen,Westschweiz-Sud,CHE,228,DMR
-2281179,HB9RXW, no_city,,Westschweiz-Sud,CHE,228,DMR
+2281179,HB9RXW, )),,Westschweiz-Sud,CHE,228,DMR
 2281180,HB9UQL,Rey Ardon,Rey,Westschweiz-Sud,CHE,228,DMR
 2281181,HB9RYJ,Delvecchio Saint-Aubin,Delvecchio,Westschweiz-Sud,CHE,228,DMR
 2281182,HB3XPF,Wenger Geneva,Wenger,Westschweiz-Sud,CHE,228,DMR
-2281183,HB9RJV,Vallotton no_city,Vallotton,Westschweiz-Sud,CHE,228,DMR
+2281183,HB9RJV,Vallotton )),Vallotton,Westschweiz-Sud,CHE,228,DMR
 2281184,HB3XPG,Wenger Geneva,Wenger,Westschweiz-Sud,CHE,228,DMR
 2281185,HB3XPL,Lopes Cointrin,Lopes,Westschweiz-Sud,CHE,228,DMR
 2281186,HB3XPE,Beroud Geneva,Beroud,Westschweiz-Sud,CHE,228,DMR
@@ -9788,10 +9795,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2282025,HB9EXN,Mumenthaler Lamboing,Mumenthaler,Westschweiz-Nord,CHE,228,DMR
 2282026,HB9EXM,Mumenthaler Lamboing,Mumenthaler,Westschweiz-Nord,CHE,228,DMR
 2282027,HB3YDK,Konig Embrach,Konig,Westschweiz-Nord,CHE,228,DMR
-2282028,HB9EHB,Maria no_city,Maria,Westschweiz-Nord,CHE,228,DMR
+2282028,HB9EHB,Maria )),Maria,Westschweiz-Nord,CHE,228,DMR
 2282029,HB9GPP,Nikles Cormondreche,Nikles,Westschweiz-Nord,CHE,228,DMR
 2282030,HB9EPC,Dubuis Coffrane,Dubuis,Westschweiz-Nord,CHE,228,DMR
-2282031,HB9GSK, no_city,,Westschweiz-Nord,CHE,228,DMR
+2282031,HB9GSK, )),,Westschweiz-Nord,CHE,228,DMR
 2282032,HB3XRF,Demir Bienne,Demir,Westschweiz-Nord,CHE,228,DMR
 2282033,HB9COS,Joos Biel/bienne,Joos,Westschweiz-Nord,CHE,228,DMR
 2282034,HB3YMM,Aubin Les Geneveys-Sur-Coffrane,Aubin,Westschweiz-Nord,CHE,228,DMR
@@ -9934,40 +9941,40 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2283129,HB3YIW,Grogg Bern,Grogg,Bern und Oberwallis,CHE,228,DMR
 2283130,HB9DNX,Greco Krailigen,Greco,Bern und Oberwallis,CHE,228,DMR
 2283131,HB3YVR, Bern,,Bern und Oberwallis,CHE,228,DMR
-2283132,HB9DLB, no_city,,Bern und Oberwallis,CHE,228,DMR
+2283132,HB9DLB, )),,Bern und Oberwallis,CHE,228,DMR
 2283133,HB9GNB,Baehler Zauggenried,Baehler,Bern und Oberwallis,CHE,228,DMR
 2283134,HB9HQX,Oehrli Brig,Oehrli,Bern und Oberwallis,CHE,228,DMR
-2283135,HB3YSZ, no_city,,Bern und Oberwallis,CHE,228,DMR
+2283135,HB3YSZ, )),,Bern und Oberwallis,CHE,228,DMR
 2283136,HB9GSZ,Bruegger Frutigen,Bruegger,Bern und Oberwallis,CHE,228,DMR
 2283137,HB3YYI,Schoenholzer Thun,Schoenholzer,Bern und Oberwallis,CHE,228,DMR
 2283138,HB3YDX,Waelchli Bern,Waelchli,Bern und Oberwallis,CHE,228,DMR
 2283139,HB9BRS, Bern,,Bern und Oberwallis,CHE,228,DMR
 2283140,HB9GPC,Glanzmann Bern,Glanzmann,Bern und Oberwallis,CHE,228,DMR
-2283141,HB3YIP, no_city,,Bern und Oberwallis,CHE,228,DMR
+2283141,HB3YIP, )),,Bern und Oberwallis,CHE,228,DMR
 2283142,HB9GAA,Elmiger Konolfingen,Elmiger,Bern und Oberwallis,CHE,228,DMR
 2283143,HB9BFC,Ruefli Frutigen,Ruefli,Bern und Oberwallis,CHE,228,DMR
 2283144,HB9BWR,Kobel Zollikofen,Kobel,Bern und Oberwallis,CHE,228,DMR
 2283145,HB9FLW,Wurzbacher Spiez,Wurzbacher,Bern und Oberwallis,CHE,228,DMR
 2283146,HB3YYW,Bach Heimenschwand,Bach,Bern und Oberwallis,CHE,228,DMR
-2283147,HB9UVM,Wenger no_city,Wenger,Bern und Oberwallis,CHE,228,DMR
-2283148,HB3YBC, no_city,,Bern und Oberwallis,CHE,228,DMR
-2283149,HB9EIS, no_city,,Bern und Oberwallis,CHE,228,DMR
+2283147,HB9UVM,Wenger )),Wenger,Bern und Oberwallis,CHE,228,DMR
+2283148,HB3YBC, )),,Bern und Oberwallis,CHE,228,DMR
+2283149,HB9EIS, )),,Bern und Oberwallis,CHE,228,DMR
 2283150,HB9GIK,Streit Walliswil,Streit,Bern und Oberwallis,CHE,228,DMR
-2283151,HB9FMG, no_city,,Bern und Oberwallis,CHE,228,DMR
+2283151,HB9FMG, )),,Bern und Oberwallis,CHE,228,DMR
 2283152,HB9DNM,Kunz Schofflisdorf,Kunz,Bern und Oberwallis,CHE,228,DMR
 2283153,HB9FUR, Moosseedorf,,Bern und Oberwallis,CHE,228,DMR
 2283154,HB9FXH,Eichenberger Aeschau,Eichenberger,Bern und Oberwallis,CHE,228,DMR
 2283155,HB9FRN,Bach Seftigen,Bach,Bern und Oberwallis,CHE,228,DMR
-2283156,HB9GSZ,Bruegger no_city,Bruegger,Bern und Oberwallis,CHE,228,DMR
+2283156,HB9GSZ,Bruegger )),Bruegger,Bern und Oberwallis,CHE,228,DMR
 2283157,HB9BPJ, Frutigen,,Bern und Oberwallis,CHE,228,DMR
 2283158,HB3YHU,Schupbach Muwensingen,Schupbach,Bern und Oberwallis,CHE,228,DMR
 2283159,HB9BWA,Buehler Belp,Buehler,Bern und Oberwallis,CHE,228,DMR
-2283160,HB9XBK, no_city,,Bern und Oberwallis,CHE,228,DMR
+2283160,HB9XBK, )),,Bern und Oberwallis,CHE,228,DMR
 2283161,HB3YYH,Schneider Interlaken,Schneider,Bern und Oberwallis,CHE,228,DMR
 2283162,HB9GNB,Bahler Zauggenried,Bahler,Bern und Oberwallis,CHE,228,DMR
 2283163,HB3YHJ, Liechtenstein,,Bern und Oberwallis,CHE,228,DMR
 2283164,HB3YWJ,Bergmann Gwatt,Bergmann,Bern und Oberwallis,CHE,228,DMR
-2283165,HB9GUN, no_city,,Bern und Oberwallis,CHE,228,DMR
+2283165,HB9GUN, )),,Bern und Oberwallis,CHE,228,DMR
 2283166,HB9GUV,Schoenholzer Thun,Schoenholzer,Bern und Oberwallis,CHE,228,DMR
 2283167,HB9GAS,Buerki Ostermundigen,Buerki,Bern und Oberwallis,CHE,228,DMR
 2283168,HB9GAA,Elmiger Konolfingen,Elmiger,Bern und Oberwallis,CHE,228,DMR
@@ -10004,7 +10011,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2283199,HB3XTM, Muehlethurnen,,Bern und Oberwallis,CHE,228,DMR
 2283200,HB9RWR,Fluekiger Ersigen,Fluekiger,,CHE,228,DMR
 2283201,HB9SHB, Zollikofen,,,CHE,228,DMR
-2283202,HB9RVH, no_city,,,CHE,228,DMR
+2283202,HB9RVH, )),,,CHE,228,DMR
 2283203,HB9RVG, Graechen,,,CHE,228,DMR
 2283204,HB9TBI, Bern,,,CHE,228,DMR
 2283205,HB9EVN, Bern,,,CHE,228,DMR
@@ -10149,10 +10156,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284132,HB9DOL,Pauli Biberist,Pauli,Basel/solothurn,CHE,228,DMR
 2284133,HB3YMZ,Meili Laeufelfingen,Meili,Basel/solothurn,CHE,228,DMR
 2284134,HB9FZX,Koelliker Wynau,Koelliker,Basel/solothurn,CHE,228,DMR
-2284135,HB9GFI, no_city,,Basel/solothurn,CHE,228,DMR
+2284135,HB9GFI, )),,Basel/solothurn,CHE,228,DMR
 2284136,HB9BSL,Club Basel,Club,Basel/solothurn,CHE,228,DMR
 2284137,HB9KIDS,Club Basel,Club,Basel/solothurn,CHE,228,DMR
-2284138,HB9CWI, no_city,,Basel/solothurn,CHE,228,DMR
+2284138,HB9CWI, )),,Basel/solothurn,CHE,228,DMR
 2284139,HB9FZX,Koelliker Wynau,Koelliker,Basel/solothurn,CHE,228,DMR
 2284140,HB9TUL,Labriola Gerlafingen,Labriola,Westschweiz-Nord,CHE,228,DMR
 2284141,HB9DHR,Ruef Vordemwald,Ruef,Basel/solothurn,CHE,228,DMR
@@ -10186,7 +10193,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284170,HB9TPU,Allmen Olten,Allmen,Basel/solothurn,CHE,228,DMR
 2284171,HB3XPM, Basel,,Basel/solothurn,CHE,228,DMR
 2284172,HB9GSV,Stauffer Oensingen,Stauffer,Basel/solothurn,CHE,228,DMR
-2284173,HB9TPW, no_city,,Basel/solothurn,CHE,228,DMR
+2284173,HB9TPW, )),,Basel/solothurn,CHE,228,DMR
 2284174,HB9GPK, Basel,,Basel/solothurn,CHE,228,DMR
 2284175,HB9CKO,Wehrli Giswil,Wehrli,Basel/solothurn,CHE,228,DMR
 2284176,HB9RMM,Krumm Basel,Krumm,Basel/solothurn,CHE,228,DMR
@@ -10224,7 +10231,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284208,HB9HBB,Senn Muttenz,Senn,,CHE,228,DMR
 2284209,HB9GSY,Gurtner Gelterkinden,Gurtner,Basel,CHE,228,DMR
 2284210,HB9TXZ,Acklin Binningen,Acklin,Basel,CHE,228,DMR
-2284211,HB3XTN, no_city,,Basel/solothurn,CHE,228,DMR
+2284211,HB3XTN, )),,Basel/solothurn,CHE,228,DMR
 2284212,HB9NCS,Schnalzer Washington,Schnalzer,Arkansas,CHE,228,DMR
 2284213,HB9FZQ,Dirac Itingen,Dirac,Basel,CHE,228,DMR
 2284214,HB3YHG, Rheinfelden,,Basel/solothurn,CHE,228,DMR
@@ -10323,7 +10330,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2285052,HB9FFK,Spieler Rohr,Spieler,Aargau,CHE,228,DMR
 2285053,HB9XBO,Walker Suhr,Walker,Aargau,CHE,228,DMR
 2285054,HB9DOD,Hoedjes Reinach,Hoedjes,Aargau,CHE,228,DMR
-2285055,HB3XPK, no_city,,Aargau,CHE,228,DMR
+2285055,HB3XPK, )),,Aargau,CHE,228,DMR
 2285056,HB9GNI,Hartmeier Baden,Hartmeier,Aargau,CHE,228,DMR
 2285057,HB9GSN,Frey Lupfig,Frey,Aargau,CHE,228,DMR
 2285058,HB9RWF,Menz Reitnau,Menz,Aargau,CHE,228,DMR
@@ -10492,9 +10499,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286147,HB9SPV,Haefliger Rickenbach,Haefliger,Zentralschweiz und T,CHE,228,DMR
 2286148,HB9TZU,Planzer Schattdorf,Planzer,Zentralschweiz und T,CHE,228,DMR
 2286149,HB9CCU,Homberger Ibach,Homberger,Zentralschweiz und T,CHE,228,DMR
-2286150,HB9CDH,Ruesch no_city,Ruesch,Zentralschweiz und T,CHE,228,DMR
+2286150,HB9CDH,Ruesch )),Ruesch,Zentralschweiz und T,CHE,228,DMR
 2286151,HB9TUO,Tasinato Gordevio,Tasinato,Zentralschweiz und T,CHE,228,DMR
-2286152,HB9ENK, no_city,,Zentralschweiz und T,CHE,228,DMR
+2286152,HB9ENK, )),,Zentralschweiz und T,CHE,228,DMR
 2286153,HB9WDN,Geiger Dierikon,Geiger,Zentralschweiz und T,CHE,228,DMR
 2286154,HB9JBY,Keiser Hochdorf,Keiser,Zentralschweiz und T,CHE,228,DMR
 2286155,HB9JAY, Luzern,,Zentralschweiz und T,CHE,228,DMR
@@ -10508,7 +10515,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286163,HB9FRA,Wickihalder Sursee,Wickihalder,Zentralschweiz und T,CHE,228,DMR
 2286164,HB9WBU,Schmid Sursee,Schmid,Zentralschweiz und T,CHE,228,DMR
 2286165,HB9FHS,Cattaneo Pregassona,Cattaneo,Zentralschweiz und T,CHE,228,DMR
-2286166,HB3YLZ,Fabbro no_city,Fabbro,Zentralschweiz und T,CHE,228,DMR
+2286166,HB3YLZ,Fabbro )),Fabbro,Zentralschweiz und T,CHE,228,DMR
 2286167,HB9CQK,Furrer Horw,Furrer,Zentralschweiz und T,CHE,228,DMR
 2286168,HB9FWO,Wolf Sursee,Wolf,Zentralschweiz und T,CHE,228,DMR
 2286169,HB3YFO,Favero Vezia,Favero,Zentralschweiz und T,CHE,228,DMR
@@ -10524,7 +10531,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286179,HB9FLA,Brunner Luzern,Brunner,Zentralschweiz und T,CHE,228,DMR
 2286180,HB9JAB,Roosli Eschenbach,Roosli,Zentralschweiz und T,CHE,228,DMR
 2286181,HB9TKZ,Zemp Goldau,Zemp,Zentralschweiz und T,CHE,228,DMR
-2286182,HB9CVN,Bernasconi no_city,Bernasconi,Zentralschweiz und T,CHE,228,DMR
+2286182,HB9CVN,Bernasconi )),Bernasconi,Zentralschweiz und T,CHE,228,DMR
 2286183,HB9WCN, Schoetz,,Zentralschweiz und Tessin,CHE,228,DMR
 2286184,HB9FSK,Slomczykowski Lu,Slomczykowski,Zentralschweiz und Tessin,CHE,228,DMR
 2286185,HB9FEV,Sengun Beromunster,Sengun,Zentralschweiz und T,CHE,228,DMR
@@ -10533,9 +10540,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286188,HB9TPC,Oliveira Rivera,Oliveira,Zentralschweiz und Tessin,CHE,228,DMR
 2286189,HB3XPT,Dotti Genestrerio,Dotti,Zentralschweiz und Tessin,CHE,228,DMR
 2286190,HB3XPS,Crivelli Gordola,Crivelli,Zentralschweiz und Tessin,CHE,228,DMR
-2286191,HB3XPX,Menca no_city,Menca,Zentralschweiz und Tessin,CHE,228,DMR
+2286191,HB3XPX,Menca )),Menca,Zentralschweiz und Tessin,CHE,228,DMR
 2286192,HB9EVZ,Zgraggen Lauerz,Zgraggen,Zentralschweiz und Tessin,CHE,228,DMR
-2286193,HB3XPZ, no_city,,Zentralschweiz und Tessin,CHE,228,DMR
+2286193,HB3XPZ, )),,Zentralschweiz und Tessin,CHE,228,DMR
 2286194,HB9EKV,Fischer Oberkirch,Fischer,Zentralschweiz und Tessin,CHE,228,DMR
 2286195,HB9TKZ,Zemp Goldau,Zemp,Zentralschweiz und Tessin,CHE,228,DMR
 2286196,HB9JCI,Schumacher Schwyz,Schumacher,Zentralschweiz und Tessin,CHE,228,DMR
@@ -10577,7 +10584,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286232,HB9GZT,Tiziano Porza,Tiziano,,CHE,228,DMR
 2286233,HB9GZL,Tos Lavorgo,Tos,Zentralschweiz und Tessin,CHE,228,DMR
 2286234,HB9FIF,Rodenhaeuser Baar,Rodenhaeuser,Zug,CHE,228,DMR
-2286235,HB9HCE, no_city,,Ticino,CHE,228,DMR
+2286235,HB9HCE, )),,Ticino,CHE,228,DMR
 2286236,HB9PUE,Piffaretti Pregassona,Piffaretti,Ticino,CHE,228,DMR
 2286237,HB9FAB,Orso Camignolo,Orso,Ticino,CHE,228,DMR
 2286238,HB3XST,Michel Casoro,Michel,Ticino,CHE,228,DMR
@@ -10599,7 +10606,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2286254,HB9HEC, Astano,,Gabri,CHE,228,DMR
 2286255,HB3YTC, Lumino,,,CHE,228,DMR
 2286256,HB9TTY, Buttisholz,,,CHE,228,DMR
-2286257,HB9ERA, no_city,,,CHE,228,DMR
+2286257,HB9ERA, )),,,CHE,228,DMR
 2286258,HB9GHD,Paganoni Piedmont,Paganoni,Zentralschweiz und T,CHE,228,DMR
 2286259,HB3YKK,Kieliger Brunnen,Kieliger,Zentralschweiz und T,CHE,228,DMR
 2286260,HB3XTP,Ferrari Chiasso,Ferrari,Ticino,CHE,228,DMR
@@ -10634,11 +10641,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2287023,HB9EZW,Tschuor Valens,Tschuor,Graubuenden,CHE,228,DMR
 2287024,HB9GIF,Ciccio Poschiavo,Ciccio,Graubuenden,CHE,228,DMR
 2287025,HB9GNN,Luzi Samedan,Luzi,Graubuenden,CHE,228,DMR
-2287026,HB9GHZ,Lardelli no_city,Lardelli,Graubuenden,CHE,228,DMR
+2287026,HB9GHZ,Lardelli )),Lardelli,Graubuenden,CHE,228,DMR
 2287027,HB9ASV,Schudel Chur,Schudel,Graubuenden,CHE,228,DMR
 2287028,HB9CAN,Leupin Berne,Leupin,Graubuenden,CHE,228,DMR
 2287029,HB3YYA,Muenchbach Laax,Muenchbach,Graubuenden,CHE,228,DMR
-2287030,HB3XPV, no_city,,Graubuenden,CHE,228,DMR
+2287030,HB3XPV, )),,Graubuenden,CHE,228,DMR
 2287031,HB3XRK, Sankt Gallen,,Sankt Gallen,CHE,228,DMR
 2287032,HB9GKX,Ebner Zernez,Ebner,Graubuenden,CHE,228,DMR
 2287033,HB9GYA, Zernez,,Bern,CHE,228,DMR
@@ -10826,7 +10833,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288180,HB9PJT,Sidler Affoltern am Albis,Sidler,Zuerich und Thurgau,CHE,228,DMR
 2288181,HB9IQY, Biel,,Zuerich und Thurgau,CHE,228,DMR
 2288182,HB9DDS,Schaeffler Zuerich,Schaeffler,Zuerich und Thurgau,CHE,228,DMR
-2288183,HB3YBX, no_city,,Zuerich und Thurgau,CHE,228,DMR
+2288183,HB3YBX, )),,Zuerich und Thurgau,CHE,228,DMR
 2288184,HB9PLB, Truttikon,,Zuerich und Thurgau,CHE,228,DMR
 2288185,HB9DQM,Kasper Andelfingen,Kasper,Zuerich und Thurgau,CHE,228,DMR
 2288186,HB9BRJ,Leggenhager Schaffhausen,Leggenhager,Zuerich und Thurgau,CHE,228,DMR
@@ -10836,7 +10843,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288190,HB9ZCY,Katz Zurich,Katz,Zuerich und Thurgau,CHE,228,DMR
 2288191,HB9FU,Untersee Stein am Rhein,Untersee,Zuerich und Thurgau,CHE,228,DMR
 2288192,HB9TZX,Banditt Zuerich,Banditt,Zuerich und Thurgau,CHE,228,DMR
-2288193,HB3YVH, no_city,,Zuerich und Thurgau,CHE,228,DMR
+2288193,HB3YVH, )),,Zuerich und Thurgau,CHE,228,DMR
 2288194,HB9CAC, Thayngen,,Zuerich und Thurgau,CHE,228,DMR
 2288195,HB9TPT,Frohli Horgen,Frohli,Ostschweiz,CHE,228,DMR
 2288196,HB9LEK,Neukomm Illnau,Neukomm,Zuerich und Thurgau,CHE,228,DMR
@@ -10856,11 +10863,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288210,HB9BTE,Thalmann Meilen,Thalmann,Zuerich und Thurgau,CHE,228,DMR
 2288211,HB9EWB,Bencivenga Zurich,Bencivenga,Zuerich und Thurgau,CHE,228,DMR
 2288212,HB9RMW,Gutzwiller Mettmwenstetten,Gutzwiller,Zuerich und Thurgau,CHE,228,DMR
-2288213,HB9LFK, no_city,,Zuerich und Thurgau,CHE,228,DMR
+2288213,HB9LFK, )),,Zuerich und Thurgau,CHE,228,DMR
 2288214,HB9IQR,Schadegg Glarus,Schadegg,Zuerich und Thurgau,CHE,228,DMR
 2288215,HB9FVR,Mumenthaler Romanshorn,Mumenthaler,Zuerich und Thurgau,CHE,228,DMR
 2288216,HB3YZX, Wila,,Zuerich und Thurgau,CHE,228,DMR
-2288217,HB9TQH,Peter no_city,Peter,Zuerich und Thurgau,CHE,228,DMR
+2288217,HB9TQH,Peter )),Peter,Zuerich und Thurgau,CHE,228,DMR
 2288218,HB9XJ,Buehler Zuerich,Buehler,Zuerich und Thurgau,CHE,228,DMR
 2288219,HB9THI,Angst Giswil,Angst,Zuerich und Thurgau,CHE,228,DMR
 2288220,HB9GIS,Bachmann Stein am Rhein,Bachmann,Zuerich und Thurgau,CHE,228,DMR
@@ -10880,7 +10887,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288234,HB9RPU,Telli Wetzikon,Telli,Zuerich und Thurgau,CHE,228,DMR
 2288235,HB9ZCF,Steiger Kloten,Steiger,Zuerich und Thurgau,CHE,228,DMR
 2288236,HB3YVX,Eichmann Zuerich,Eichmann,Zuerich und Thurgau,CHE,228,DMR
-2288237,HB3YRW, no_city,,Zuerich und Thurgau,CHE,228,DMR
+2288237,HB3YRW, )),,Zuerich und Thurgau,CHE,228,DMR
 2288238,HB9TLH,Ruch Hemishofen,Ruch,Zuerich und Thurgau,CHE,228,DMR
 2288239,HB9GSX, Zuerich,,Zuerich und Thurgau,CHE,228,DMR
 2288240,HB9EZE,Jun Zuerich,Jun,Zuerich und Thurgau,CHE,228,DMR
@@ -10888,13 +10895,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2288242,HB9EMD,Paunovic Thalwil,Paunovic,Zuerich und Thurgau,CHE,228,DMR
 2288243,HB3YLQ,Robin Zuerich,Robin,Zuerich und Thurgau,CHE,228,DMR
 2288244,HB3YYU,Kohler Uster,Kohler,Zuerich und Thurgau,CHE,228,DMR
-2288245,HB9FLY, no_city,,Zuerich und Thurgau,CHE,228,DMR
+2288245,HB9FLY, )),,Zuerich und Thurgau,CHE,228,DMR
 2288246,HB3XPA,Gutzwiller Zuerich,Gutzwiller,Zuerich und Thurgau,CHE,228,DMR
-2288247,HB3YTS, no_city,,Zuerich und Thurgau,CHE,228,DMR
+2288247,HB3YTS, )),,Zuerich und Thurgau,CHE,228,DMR
 2288248,HB9FSV,Schwarz Schaffhausen,Schwarz,Zuerich und Thurgau,CHE,228,DMR
 2288249,HB9SH,Sektion Schaffhausen,Sektion,Zuerich und Thurgau,CHE,228,DMR
-2288250,HB9GIJ, no_city,,Zuerich und Thurgau,CHE,228,DMR
-2288251,HB9GUT, no_city,,Zuerich und Thurgau,CHE,228,DMR
+2288250,HB9GIJ, )),,Zuerich und Thurgau,CHE,228,DMR
+2288251,HB9GUT, )),,Zuerich und Thurgau,CHE,228,DMR
 2288252,HB9OOA,Michael Tagerwilen,Michael,Zuerich und Thurgau,CHE,228,DMR
 2288253,HB3YXR,Martel-Reichmuth Regensdorf,Martel-Reichmuth,Zuerich und Thurgau,CHE,228,DMR
 2288254,HB9GNT,Lobsiger Adlikon,Lobsiger,Zuerich und Thurgau,CHE,228,DMR
@@ -11028,15 +11035,15 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2289037,HB9EKI, Diepoldsau,,Ostschweiz,CHE,228,DMR
 2289038,HB9EUQ,Brassel Altstaetten,Brassel,Ostschweiz,CHE,228,DMR
 2289039,HB9FVF,Sen Wolfhalden,Sen,Ostschweiz,CHE,228,DMR
-2289040,HB9DWD, no_city,,Ostschweiz,CHE,228,DMR
+2289040,HB9DWD, )),,Ostschweiz,CHE,228,DMR
 2289041,HB9DQL,Solenthaler Wald,Solenthaler,Ostschweiz,CHE,228,DMR
 2289042,HB9DQK,Venzin Widnau,Venzin,Ostschweiz,CHE,228,DMR
 2289043,HB9WG,Ulmann Stgallen,Ulmann,Ostschweiz,CHE,228,DMR
-2289044,HB9EUJ,Roesli no_city,Roesli,Ostschweiz,CHE,228,DMR
+2289044,HB9EUJ,Roesli )),Roesli,Ostschweiz,CHE,228,DMR
 2289045,HB9AKC,Clauss Horn,Clauss,Ostschweiz,CHE,228,DMR
 2289046,HB9GNK,Lander Wil,Lander,Ostschweiz,CHE,228,DMR
 2289047,HB9KNO,Palatini Untereggen,Palatini,Ostschweiz,CHE,228,DMR
-2289048,HB9DWD, no_city,,Ostschweiz,CHE,228,DMR
+2289048,HB9DWD, )),,Ostschweiz,CHE,228,DMR
 2289049,HB9KOG,Sutter Stgallen,Sutter,Ostschweiz,CHE,228,DMR
 2289050,HB9TIP, Bern,,Ostschweiz,CHE,228,DMR
 2289051,HB9EVD,Braunwalder Wilen,Braunwalder,Ostschweiz,CHE,228,DMR
@@ -11048,14 +11055,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2289057,HB9BFY,Aeschlimann Walzenhausen,Aeschlimann,Ostschweiz,CHE,228,DMR
 2289058,HB9FES,Scheuss Herisau,Scheuss,Ostschweiz,CHE,228,DMR
 2289059,HB9CMP,Klingler Widnau,Klingler,Ostschweiz,CHE,228,DMR
-2289060,HB9DHH, no_city,,Ostschweiz,CHE,228,DMR
+2289060,HB9DHH, )),,Ostschweiz,CHE,228,DMR
 2289061,HB9TKE, Bern,,Ostschweiz,CHE,228,DMR
 2289062,HB9AJF,Manser Bern,Manser,Ostschweiz,CHE,228,DMR
 2289063,HB9EMZ,Giger Bussnang,Giger,Ostschweiz,CHE,228,DMR
 2289064,HB3YWF,Willi Stgallen,Willi,Ostschweiz,CHE,228,DMR
 2289065,HB9FUT,Schneider Muenchwilen,Schneider,Ostschweiz,CHE,228,DMR
 2289066,HB9BIPI, Scoutnet Schweiz,,,CHE,228,DMR
-2289067,HB3YBV, no_city,,Ostschweiz,CHE,228,DMR
+2289067,HB3YBV, )),,Ostschweiz,CHE,228,DMR
 2289068,HB3YDM,Waldispuehl Wilen,Waldispuehl,Ostschweiz,CHE,228,DMR
 2289069,HB9FUE,Oberholzer Bischofszell,Oberholzer,Ostschweiz,CHE,228,DMR
 2289070,HB9CMI,Altschul Waengi,Altschul,Ostschweiz,CHE,228,DMR
@@ -11065,7 +11072,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2289074,HB3YDT,Kaserer Tagerschen,Kaserer,Ostschweiz,CHE,228,DMR
 2289075,HB9GPX,Luber Lauterach,Luber,Ostschweiz,CHE,228,DMR
 2289076,HB9EZX,Petrou Moerschwil,Petrou,Ostschweiz,CHE,228,DMR
-2289077,HB9GPJ, no_city,,Ostschweiz,CHE,228,DMR
+2289077,HB9GPJ, )),,Ostschweiz,CHE,228,DMR
 2289078,HB9DGR,Erdmann Rebstein,Erdmann,Ostschweiz,CHE,228,DMR
 2289079,HB9EIJ,Jung Rossruti,Jung,Ostschweiz,CHE,228,DMR
 2289080,HB9TMR,Rudisuhli Frumsen,Rudisuhli,Ostschweiz,CHE,228,DMR
@@ -11146,6 +11153,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2780048,9H5JW,Pell Paola Pla,Pell,,MLT,278,DMR
 2780049,9H5JY,Grech Sannat Gozo,Grech,All Regions,MLT,278,DMR
 2780050,9H1FJ,Fenech Lija,Fenech,All Regions,MLT,278,DMR
+2780051,9H5LR,Aquilina Birkirkara,Aquilina,All Regions,MLT,278,DMR
 2920001,T77GR,Giovagnoli Borgo Maggiore,Giovagnoli,,SMR,292,DMR
 2920002,T77NC,Carattoni Acquaviva,Carattoni,,SMR,292,DMR
 2920003,T77DB,Berardi Borgo Maggiore,Berardi,San Marino,SMR,292,DMR
