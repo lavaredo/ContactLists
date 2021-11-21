@@ -113,6 +113,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280111,HB9ZF,Lueber Hinwil,Lueber,Zurich,CHE,228,DMR
 2280112,HB3XPH,Keller Geneva,Keller,Geneva,CHE,228,DMR
 2280113,HB9HIL,Berg Appenzell,Berg,Appenzell Inner-Rhodes,CHE,228,DMR
+2280114,HB9HNH,Schoenenberger Steinen Sz,Schoenenberger,Schwyz,CHE,228,DMR
+2280115,HB9TXT,Seidel Basel,Seidel,Basel-Country,CHE,228,DMR
+2280116,HB3XYS,Pollak Wila,Pollak,Zurich,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -1866,6 +1869,13 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320180,OE5BYE,Majer Gmunden,Majer,OOE,AUT,232,DMR
 2320181,OE2OWM,Wimberger Bischofshofen,Wimberger,SBG,AUT,232,DMR
 2320182,OE8BRE,Engelhardt Villach,Engelhardt,KTN,AUT,232,DMR
+2320183,OE4PHB,Hammerl Pinkafeld,Hammerl,BGLD,AUT,232,DMR
+2320184,OE7PRD,Praxmarer Moetz,Praxmarer,TIROL,AUT,232,DMR
+2320185,OE1EZA,Egyed Wien,Egyed,WIEN,AUT,232,DMR
+2320186,OE9HIE,Hiller Dornbirn,Hiller,VBG,AUT,232,DMR
+2320187,OE7SAZ,Schaber Zirl,Schaber,TIROL,AUT,232,DMR
+2320188,OE7KNK,Knab Kufstein,Knab,TIROL,AUT,232,DMR
+2320189,OE6SWG,Weitlaner Trofaiach,Weitlaner,STMK,AUT,232,DMR
 2321001,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321002,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321003,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
@@ -7371,7 +7381,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2623940,DD9BS,Laskowski Loxstedt,Laskowski,NI,DEU,262,DMR
 2623941,DO5NF,Fiedler Wathlingen,Fiedler,NI,DEU,262,DMR
 2623942,DL1GTZ,Gentzsch Koenigsmoor,Gentzsch,NI,DEU,262,DMR
-2623944,DO4AMF,Hey no_city,Hey,,DEU,262,DMR
+2623944,DK4AMF,Hey Heessen,Hey,NI,DEU,262,DMR
 2623945,DG4BCL,Jagemann Rotenburg,Jagemann,NI,DEU,262,DMR
 2623946,DG2XB,Leiwat Delligsen,Leiwat,NI,DEU,262,DMR
 2623947,DG2GDS,Steinmann Villingen-Schwenningen,Steinmann,BW,DEU,262,DMR
@@ -8829,7 +8839,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625441,DL5IA,Stephan Rodalben,Stephan,RP,DEU,262,DMR
 2625442,DK1OZ,Rigas Kirchwald,Rigas,RP,DEU,262,DMR
 2625443,DL1YCF,Van Wuellen Kaiserslautern,Van Wuellen,RP,DEU,262,DMR
-2625444,DO5FRM,Mueller Mertesdorf,Mueller,RP,DEU,262,DMR
+2625444,DC4FM,Mueller Mertesdorf,Mueller,RP,DEU,262,DMR
 2625445,DO2AT,Taflinski Koblenz,Taflinski,RP,DEU,262,DMR
 2625446,DK7JS,Schuett Voelklingen,Schuett,SL,DEU,262,DMR
 2625447,DB3NU,Pehlke Bad Neustadt,Pehlke,BY,DEU,262,DMR
@@ -9286,6 +9296,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625904,DG5BDO,Brockmeyer Hofstetten,Brockmeyer,BY,DEU,262,DMR
 2625905,DF2LS,Schneider Bargteheide,Schneider,SH,DEU,262,DMR
 2625906,DL7PUT,Fluche Potsdam,Fluche,BB,DEU,262,DMR
+2625907,DC5ER,Weiss Kamen,Weiss,NW,DEU,262,DMR
 2625908,DO4DAN,Mueller Lahntal,Mueller,HE,DEU,262,DMR
 2625910,DH1LM,Lueck Meerbusch,Lueck,NW,DEU,262,DMR
 2625911,DO1DPA,Dietz Wuppertal,Dietz,NW,DEU,262,DMR
@@ -12886,6 +12897,20 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629580,DO9JN,Nientiedt Verl,Nientiedt,NW,DEU,262,DMR
 2629581,DB7AX,Daberger Steinheim am Albuch,Daberger,BW,DEU,262,DMR
 2629582,DL4WH,Hirsch Dortmund,Hirsch,NW,DEU,262,DMR
+2629583,DO8MKA,Kurth Nienburg,Kurth,ST,DEU,262,DMR
+2629584,DO7RG,Grossalbenhausen Muelheim An der Ruhr,Grossalbenhausen,NW,DEU,262,DMR
+2629585,DD0GL,Lasser Wolfsburg,Lasser,NI,DEU,262,DMR
+2629586,DG3MIY,Rable Taufkirchen,Rable,BY,DEU,262,DMR
+2629587,DO4JTM,Mayer Tuerkheim,Mayer,BY,DEU,262,DMR
+2629588,DO1KMW,Marx Wendelstein,Marx,BY,DEU,262,DMR
+2629589,DO4ING,Guttermann Gettorf,Guttermann,SH,DEU,262,DMR
+2629590,DK9ZE,Zander Weiterstadt,Zander,HE,DEU,262,DMR
+2629591,DC1BEL,Herber Bochum,Herber,NW,DEU,262,DMR
+2629592,DL1HH,Hucke Bad Homburg,Hucke,HE,DEU,262,DMR
+2629593,DL9DU,Hartwig Syke,Hartwig,NI,DEU,262,DMR
+2629596,DO3DH,Heilken Horb,Heilken,BW,DEU,262,DMR
+2629597,DO8KA,Kassburg Hennigsdorf,Kassburg,BB,DEU,262,DMR
+2629598,DB8GZ,Ziegler Oberkirch,Ziegler,BW,DEU,262,DMR
 2633001,DG4AK,Wich Hann Muenden,Wich,NI,DEU,263,DMR
 2633002,DH8AAA,Bastian Vechelde,Bastian,NI,DEU,263,DMR
 2633003,DC6BV,Schucht Norden,Schucht,NI,DEU,263,DMR
