@@ -6872,7 +6872,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2226883,IU3ELN,Visman Quarto D Altino (VE),Visman,Veneto,ITA,222,DMR
 2226884,IK2WPZ,Molla Bustro Arsizio (VA),Molla,Lombardia,ITA,222,DMR
 2226885,IU0ODJ,Veloccia Roma (RM),Veloccia,Lazio,ITA,222,DMR
-2226886,IU3OER, no_city,,Veneto,ITA,222,DMR
+2226886,IU3OER, ,,Veneto,ITA,222,DMR
 2226887,IW8PGB,Iaconianni Roggiano Gravina (CS),Iaconianni,Calabria,ITA,222,DMR
 2226888,IZ8VGY,Ferrara Cardito (NA),Ferrara,Campania,ITA,222,DMR
 2226889,IU5MGF,Poggesi San Giovanni Valdarno (AR),Poggesi,Toscana,ITA,222,DMR
@@ -7557,7 +7557,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2227569,IV3TYS,Barbangelo Gorizia (GO),Barbangelo,Friuli VG,ITA,222,DMR
 2227570,IW2MQP,Rimoldi Turate (CO),Rimoldi,Lombardia,ITA,222,DMR
 2227571,IW6ODG,Rubeo Tagliacozzo (AQ),Rubeo,Abruzzo,ITA,222,DMR
-2227572,IU2NSI,Galimberti no_city,Galimberti,Lombardia,ITA,222,DMR
+2227572,IU2NSI,Galimberti ,Galimberti,Lombardia,ITA,222,DMR
 2227573,IU7KMU,Perillo Manfredonia (FG),Perillo,Puglia,ITA,222,DMR
 2227574,IT9CSD,Liga Casteldaccia (PA),Liga,Sicilia,ITA,222,DMR
 2227575,IZ2SQK,Marioni Milano (MI),Marioni,Lombardia,ITA,222,DMR
@@ -7582,7 +7582,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2227594,IK4FFS,Donadio Maranello (MO),Donadio,Emilia-Rom.,ITA,222,DMR
 2227595,IK8GJZ,Molaro Castellammare Stabia (NA),Molaro,Campania,ITA,222,DMR
 2227596,IT9XIG,Bono Campobello Di Mazara (TP),Bono,Sicilia,ITA,222,DMR
-2227597,IU2OQT,Trecca no_city,Trecca,Lombardia,ITA,222,DMR
+2227597,IU2OQT,Trecca ,Trecca,Lombardia,ITA,222,DMR
 2227598,IU5OHH,Ordini Grosseto (GR),Ordini,Toscana,ITA,222,DMR
 2227599,IU7NXT,Lonigro Bari (BA),Lonigro,Puglia,ITA,222,DMR
 2227600,IU4OKB,Giampietro San Giovanni In Persiceto (BO),Giampietro,Emilia-Rom.,ITA,222,DMR
@@ -7591,7 +7591,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2227603,IW3AAD,Tiengo Villazzano (TN),Tiengo,Trentino AA,ITA,222,DMR
 2227604,IT9AGE,Pezzino Catania (CT),Pezzino,Sicilia,ITA,222,DMR
 2227605,IU2NKE,Martino Milano (MI),Martino,Lombardia,ITA,222,DMR
-2227606,IU8IAJ,De Rosa no_city,De Rosa,Campania,ITA,222,DMR
+2227606,IU8IAJ,De Rosa ,De Rosa,Campania,ITA,222,DMR
 2227607,IZ3MFS,Bonesso Montebelluna (TV),Bonesso,Veneto,ITA,222,DMR
 2227608,IT9IRQ,Guzzetta Catania (CT),Guzzetta,Sicilia,ITA,222,DMR
 2227609,IZ5ILX,D Andrea San Lorenzo (MS),D Andrea,Toscana,ITA,222,DMR
@@ -8826,7 +8826,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228838,IK0IRE,Cilea Anzio (RM),Cilea,Lazio,ITA,222,DMR
 2228839,IV3HJD,Viol Zoppola (PN),Viol,Friuli VG,ITA,222,DMR
 2228840,IU3PAL,Marin Rovigo (RO),Marin,Veneto,ITA,222,DMR
-2228841,IU5PIK,Venturi no_city,Venturi,Toscana,ITA,222,DMR
+2228841,IU5PIK,Venturi ,Venturi,Toscana,ITA,222,DMR
 2228842,IU1GQK,Gualco Voltaggio (AL),Gualco,Piemonte,ITA,222,DMR
 2228843,IU7IFN,Alfiero Latiano (BR),Alfiero,Puglia,ITA,222,DMR
 2228844,IT9BQQ,Cocina Catania (CT),Cocina,Sicilia,ITA,222,DMR
@@ -8968,7 +8968,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228980,IU8PCP,Lorenzano Crotone (KR),Lorenzano,Calabria,ITA,222,DMR
 2228981,IZ5GST,Tolari Montecatini Terme (PT),Tolari,Toscana,ITA,222,DMR
 2228982,IK2ULP,Gentile Milano (MI),Gentile,Lombardia,ITA,222,DMR
-2228983,IW8DUS,Muccio no_city,Muccio,,ITA,222,DMR
+2228983,IW8DUS,Muccio ,Muccio,,ITA,222,DMR
 2228984,IU4HNA,Muro Rimini (RN),Muro,Emilia-Rom.,ITA,222,DMR
 2228985,IZ8LIN,Polito Altavilla Silentina (SA),Polito,Campania,ITA,222,DMR
 2228986,IV3IJP,Tedeschi Corno Di Rosazzo (UD),Tedeschi,Friuli VG,ITA,222,DMR
@@ -8978,6 +8978,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228990,IV3EFV,Oltratini Pordenone (PN),Oltratini,Friuli VG,ITA,222,DMR
 2228991,IK2LHP,Ferri Treviglio (BG),Ferri,Lombardia,ITA,222,DMR
 2228992,IZ4TNZ,Priore Riolo Terme (RA),Priore,Emilia-Rom.,ITA,222,DMR
+2228993,IU7NIM,Cianciaruso Casamassima (BA),Cianciaruso,Puglia,ITA,222,DMR
+2228994,IZ1YUX,Adesi Cuneo (CN),Adesi,Piemonte,ITA,222,DMR
+2228995,IT9FUN,Giacalone Marsala (TP),Giacalone,Sicilia,ITA,222,DMR
+2228996,IZ8FNY,Parisi San Gennaro Vesuviano (NA),Parisi,Campania,ITA,222,DMR
+2228997,IU4OSX,Occhipinti Medicina (BO),Occhipinti,Emilia-Rom.,ITA,222,DMR
+2228998,IZ0FDI,Paone Roma (RM),Paone,Lazio,ITA,222,DMR
+2228999,IZ1ZJR,Satragno Mombaldone (AT),Satragno,Piemonte,ITA,222,DMR
+2229000,IU1FMA,Clerico Montezemolo (CN),Clerico,Piemonte,ITA,222,DMR
 2229001,IT9YFO,Benedetto Catania (CT),Benedetto,Sicilia,ITA,222,DMR
 2229002,IT9ZON, Catania (CT),,Sicilia,ITA,222,DMR
 2229003,IT9UUT,Santoro Ispica (RG),Santoro,Sicilia,ITA,222,DMR
@@ -8993,6 +9001,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2229013,IW9HOW,Leonardi Catania (CT),Leonardi,Sicilia,ITA,222,DMR
 2229014,IT9AQM,Cabane Mascalucia (CT),Cabane,Sicilia,ITA,222,DMR
 2229015,IT9UUT,Salvo Ispica (RG),Salvo,Sicilia,ITA,222,DMR
+2229016,IK6UGD,Romagnoli Porto Recanati (MC),Romagnoli,Marche,ITA,222,DMR
 2229017,IW9HIB,Nicosia Ragusa (RG),Nicosia,Sicilia,ITA,222,DMR
 2229018,IW9HES,Bonura Catania (CT),Bonura,Sicilia,ITA,222,DMR
 2229019,IT9BCH,Fioretti Ispica (RG),Fioretti,Sicilia,ITA,222,DMR
@@ -9067,6 +9076,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2229088,IT9HLC,Chiara Palermo (PA),Chiara,Sicilia,ITA,222,DMR
 2229089,IW9CRG,Russo Catania (CT),Russo,Sicilia,ITA,222,DMR
 2229090,IT9GNC,Beffumo Catania (CT),Beffumo,Sicilia,ITA,222,DMR
+2229091,IS0EPB,Adamo Carbonia (CA),Adamo,Sardegna,ITA,222,DMR
 2229092,IT9GQB,Giuffrida Sgregorio Di Catania (CT),Giuffrida,Sicilia,ITA,222,DMR
 2229093,IT9SWH,Scire Catania (CT),Scire,Sicilia,ITA,222,DMR
 2229094,IT9HFQ,Corrao Palermo (PA),Corrao,Sicilia,ITA,222,DMR
@@ -9171,6 +9181,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2229193,IT9GJK,Russo Zafferana Etnea (CT),Russo,Sicilia,ITA,222,DMR
 2229194,IT9GKD,Spinella Guardia (CT),Spinella,Sicilia,ITA,222,DMR
 2229195,IT9GXC,Rizzo Messina (ME),Rizzo,Sicilia,ITA,222,DMR
+2229196,IU4PTF,Carta Modena (MO),Carta,Emilia-Rom.,ITA,222,DMR
 2229197,IT9CVQ,Matranga Villabate (PA),Matranga,Sicilia,ITA,222,DMR
 2229198,IT9GQH,Francavilla Palermo (PA),Francavilla,Sicilia,ITA,222,DMR
 2229199,IT9FXF, Catania (CT),,Sicilia,ITA,222,DMR
@@ -9465,5 +9476,20 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2229488,IW9BJP,Lombardo Altofonte (PA),Lombardo,Sicilia,ITA,222,DMR
 2229489,IW9CIA,Lo Nigro Altofonte (PA),Lo Nigro,Sicilia,ITA,222,DMR
 2229490,IS0HFE,Pettinau Quartu Sant Elena (CA),Pettinau,Sardegna,ITA,222,DMR
+2229491,IT9TTN,Milo Bagheria (PA),Milo,Sicilia,ITA,222,DMR
 2229492,IT9HTB,Cannavo Castronovo (PA),Cannavo,Sicilia,ITA,222,DMR
 2229493,IT9JMR,Oberdan Nicosia (EN),Oberdan,Sicilia,ITA,222,DMR
+2229494,IU4PSZ,Bertozzi Riolo Terme (RA),Bertozzi,Emilia-Rom.,ITA,222,DMR
+2229495,IU4PUJ,Frollo Riolo Terme (RA),Frollo,Emilia-Rom.,ITA,222,DMR
+2229496,IK1YEK,Firpo Finale Ligure (SV),Firpo,Liguria,ITA,222,DMR
+2229497,IU3KJZ,Mone ,Mone,Veneto,ITA,222,DMR
+2229498,IU4PTG,Cmp Modena (MO),Cmp,Emilia-Rom.,ITA,222,DMR
+2229499,IU5PUE,Tognaccini Montevarchi (AR),Tognaccini,Toscana,ITA,222,DMR
+2229500,IK0UGC,Albano Fonte Nuova (RM),Albano,Lazio,ITA,222,DMR
+2229501,I4ZDX,Cellini Ludo (RA),Cellini,Emilia-Rom.,ITA,222,DMR
+2229502,IT9AEQ,Lio Canicatti (AG),Lio,Sicilia,ITA,222,DMR
+2229503,IN3ADG,Mameli Campo Tures (BZ),Mameli,Trentino AA,ITA,222,DMR
+2229504,IU8ODB,Fedele Baia E Latina (CE),Fedele,Campania,ITA,222,DMR
+2229505,IU4PSV,Levratti Modena (MO),Levratti,Emilia-Rom.,ITA,222,DMR
+2229506,IZ0TTE,Cerminara Viterbo (VT),Cerminara,Lazio,ITA,222,DMR
+2229507,IV3HAO,Floreani Udine (UD),Floreani,Friuli VG,ITA,222,DMR
