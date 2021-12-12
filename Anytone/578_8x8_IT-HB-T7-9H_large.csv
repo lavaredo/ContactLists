@@ -4806,7 +4806,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2224817,IU2MYY,Luigi,Luigi,,Agrate Brianza (MI),Lombardia - ITA,,Private Call,None
 ,2224818,IZ2LSQ,Walter,Walter,Gallo,Milano (MI),Lombardia - ITA,,Private Call,None
 ,2224819,IV3XHF,Dario,Dario,Rovedo,Tolmezzo (UD),Friuli VG - ITA,,Private Call,None
-,2224820,IV3DXW,Claudio,Claudio,Deltin,Grado (GO),Friuli VG - ITA,,Private Call,None
 ,2224821,IV3OAL,Delta,Delta,,Monfalcone (GO),Friuli VG - ITA,,Private Call,None
 ,2224822,IK3ITZ,Emilio,Emilio,Veronese,Chioggia (VE),Veneto - ITA,,Private Call,None
 ,2224823,IZ2IKB,Iz2ikbss,Iz2ikbss,,Cinisello Balsamo (MI),Lombardia - ITA,,Private Call,None
@@ -8792,7 +8791,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2228804,IU6KSS,Gianluca,Gianluca,Conti,Civitanova Marche (MC),Marche - ITA,,Private Call,None
 ,2228805,IU3PAZ,Antonio,Antonio,Prisco,Boara Pisani (PD),Veneto - ITA,,Private Call,None
 ,2228806,IZ8GQX,Domenico,Domenico,Razzano,Casagiove (CE),Campania - ITA,,Private Call,None
-,2228807,IK1HHI,Giuseppe,Giuseppe,Saccone,Castellino Tanaro (CN),Piemonte - ITA,,Private Call,None
 ,2228808,IU1HHI,Giuseppe,Giuseppe,Saccone,Castellino Tanaro (CN),Piemonte - ITA,,Private Call,None
 ,2228809,IT9ARS,Andrea,Andrea,Presti,Messina (ME),Sicilia - ITA,,Private Call,None
 ,2228810,IZ3KSJ,Daniele,Daniele,Pejeroni,Castelfranco Veneto (TV),Veneto - ITA,,Private Call,None
@@ -9493,7 +9491,18 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2229505,IU4PSV,Roberto,Roberto,Levratti,Modena (MO),Emilia-Rom. - ITA,,Private Call,None
 ,2229506,IZ0TTE,Antonio,Antonio,Cerminara,Viterbo (VT),Lazio - ITA,,Private Call,None
 ,2229507,IV3HAO,Michele,Michele,Floreani,Udine (UD),Friuli VG - ITA,,Private Call,None
-,2280000,N0CALL,no_name,no_name,,)),Zuerich und Thurgau - CHE,,Private Call,None
+,2229508,IV3GRN,Salvatore,Salvatore,Gambitta,Gorizia (GO),Friuli VG - ITA,,Private Call,None
+,2229509,IT9IXT,Luigi,Luigi,Caporarello,Noto (SR),Sicilia - ITA,,Private Call,None
+,2229510,IU4PSX,Massimiliano,Massimiliano,Demontis,Castenaso (BO),Emilia-Rom. - ITA,,Private Call,None
+,2229511,IU6PSM,Carlo,Carlo,Assogna,Pineto (TE),Abruzzo - ITA,,Private Call,None
+,2229512,IZ1XKE,Marco,Marco,Dighero,Sestri Levante (GE),Liguria - ITA,,Private Call,None
+,2229513,IU4PTE,Giancarlo,Giancarlo,Maranzani,Novi Di Modena (MO),Emilia-Rom. - ITA,,Private Call,None
+,2229514,IW9EPJ,Sergio,Sergio,Feliciello,Palermo (PA),Sicilia - ITA,,Private Call,None
+,2229515,IW2JYJ,Giorgio,Giorgio,Pescatori,Milano (MI),Lombardia - ITA,,Private Call,None
+,2229516,IU7OIZ,Domenico,Domenico,Porcelli,Molfetta (BA),Puglia - ITA,,Private Call,None
+,2229517,IZ6BYC,Marco,Marco,Capponi,Matelica (MC),Marche - ITA,,Private Call,None
+,2229518,IU1HBV,Valentina,Valentina,Manfredi,Silvano D Orba (AL),Piemonte - ITA,,Private Call,None
+,2280000,N0CALL,no_name,no_name,,no_city,Zuerich und Thurgau - CHE,,Private Call,None
 ,2280001,4U1ITU,International,International,Arc,Geneva, - CHE,,Private Call,None
 ,2280002,HB3XWO,Kornel,Kornel,Becker,Basel, - CHE,,Private Call,None
 ,2280003,HB9HIT,Jean,Jean,Perez,Le Mont-Sur-Lausanne,Westschweiz-Sud - CHE,,Private Call,None
@@ -9505,7 +9514,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280009,HB9TWP,Bolzani,Bolzani,Lorenzo,Arlate, - CHE,,Private Call,None
 ,2280010,HB9FSN,Bruno,Bruno,Kurt,Bretzwil,Basel/solothurn - CHE,,Private Call,None
 ,2280011,HB9OBB,Daniele,Daniele,Guazzoni,Zurich,Zuerich und Thurgau - CHE,,Private Call,None
-,2280012,HB9HGO,Carlos,Carlos,Laya,)),Basel/solothurn - CHE,,Private Call,None
+,2280012,HB9HGO,Carlos,Carlos,Laya,no_city,Basel/solothurn - CHE,,Private Call,None
 ,2280013,HB3XWW,Roland,Roland,Juen,Oberneunforn, - CHE,,Private Call,None
 ,2280014,HB9GYV,Paul,Paul,Junod,Bienne, - CHE,,Private Call,None
 ,2280015,HB3XVS,Stefan,Stefan,,Moosseedorf,Bern - CHE,,Private Call,None
@@ -9516,13 +9525,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280020,HB9SNW,Armin,Armin,Merz,Ch-4528 Zuchwil So,Solothurn - CHE,,Private Call,None
 ,2280021,HB9OMI,Pierre-Yves,Pierre-Yves,Jaquenoud,Yverdon-Les-Bains,Vaud - CHE,,Private Call,None
 ,2280022,HB3XWT,Jean,Jean,Schult,Rickenbach Sulz,Zurich - CHE,,Private Call,None
-,2280023,HB9DAG,Bernhard,Bernhard,Wittwer,)),Bern - CHE,,Private Call,None
-,2280024,HB9HDI,Martin,Martin,Roth,)),Zurich - CHE,,Private Call,None
+,2280023,HB9DAG,Bernhard,Bernhard,Wittwer,no_city,Bern - CHE,,Private Call,None
+,2280024,HB9HDI,Martin,Martin,Roth,no_city,Zurich - CHE,,Private Call,None
 ,2280025,HB9HAN,Roland,Roland,Roth,Sargans,All Regions - CHE,,Private Call,None
 ,2280026,HB9HIB,Sabine,Sabine,Huguenin,Villiers,Neuchatel - CHE,,Private Call,None
 ,2280027,HB9GUW,Richard,Richard,Boger,Gais (bz),Appenzell Outer-Rhodes - CHE,,Private Call,None
 ,2280028,HB9MDU,Eugen,Eugen,Sibler,Ebikon,Lucerne - CHE,,Private Call,None
-,2280029,HB9SVQ,Emmerich,Emmerich,Sibler,)), - CHE,,Private Call,None
+,2280029,HB9SVQ,Emmerich,Emmerich,Sibler,no_city, - CHE,,Private Call,None
 ,2280030,HB9EDN,Michele,Michele,Oberli,Orpund,Bern - CHE,,Private Call,None
 ,2280031,HB9GNG,Felix,Felix,Heise,Lausanne,Vaud - CHE,,Private Call,None
 ,2280032,HB3XXB,Tobias,Tobias,Ruff,Bergdietikon,Aargau - CHE,,Private Call,None
@@ -9551,7 +9560,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280055,HB3XXL,Lionel,Lionel,Cretegny,Lausanne,Vaud - CHE,,Private Call,None
 ,2280056,HB9HII,Curdegn,Curdegn,Wasescha,Chur,Grigioni Grisons - CHE,,Private Call,None
 ,2280057,HB9ABS,Bruno,Bruno,Scheidegger,Hombrechtikon,Zurich - CHE,,Private Call,None
-,2280058,HB3XXK,Tobias,Tobias,Wiget,Gerlafingen,Solothurn - CHE,,Private Call,None
 ,2280059,HB3XXN,Sam,Sam,Keller,Steinerberg,Schwyz - CHE,,Private Call,None
 ,2280060,HB3XXM,Marcel,Marcel,Freudiger,Solothurn,Solothurn - CHE,,Private Call,None
 ,2280061,HB9HJP,Philipp,Philipp,Wyss,Ch 6263 Richenthal   Reiden,Lucerne - CHE,,Private Call,None
@@ -9574,7 +9582,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280078,HB9HKP,Stefan,Stefan,Burri,Dornach,Solothurn - CHE,,Private Call,None
 ,2280079,HB9HKZ,Florian,Florian,Roth,Wauwil,Lucerne - CHE,,Private Call,None
 ,2280080,HB3XYI,Roland,Roland,Faessler,Faellanden,Zurich - CHE,,Private Call,None
-,2280081,HB3XXZ,Christophe,Christophe,Cassard,)),Jura - CHE,,Private Call,None
+,2280081,HB3XXZ,Christophe,Christophe,Cassard,no_city,Jura - CHE,,Private Call,None
 ,2280082,HB9IIH,Olivier,Olivier,Borgeaud,Le Mont Sur Lausanne,Vaud - CHE,,Private Call,None
 ,2280083,HB9HKY,Joerg,Joerg,Hodel,Rickenbach,Lucerne - CHE,,Private Call,None
 ,2280084,HB3XYF,Christian,Christian,Meyer,Wohlen,Aargau - CHE,,Private Call,None
@@ -9617,6 +9625,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280121,HB9HKC,Christian,Christian,Crippa,Peseux,Neuchatel - CHE,,Private Call,None
 ,2280122,HB9HNY,Stephan,Stephan,Peter,Wuerenlos,Aargau - CHE,,Private Call,None
 ,2280123,HB9HNQ,Christian,Christian,Meyer,5610,Aargau - CHE,,Private Call,None
+,2280124,HB9HES,Misha,Misha,Rindelaub,Geneva,Geneva - CHE,,Private Call,None
+,2280125,HB3XYV,Laurent,Laurent,Bourret,Geneva,Geneva - CHE,,Private Call,None
+,2280126,HB3XZC,Roland,Roland,Ryser,Dietikon,Zurich - CHE,,Private Call,None
+,2280127,HB3XXT,Fabian,Fabian,Bauer,Engelburg,St. Gallen - CHE,,Private Call,None
+,2280128,HB9GYS,Gabriel,Gabriel,Dubois,Grand Lancy   Geneva,Geneva - CHE,,Private Call,None
+,2280129,HB3XYY,Meier,Meier,Renato,Villmergen,Aargau - CHE,,Private Call,None
+,2280130,HB9HOC,Claudio,Claudio,Eugster,Zizers,Grigioni Grisons - CHE,,Private Call,None
 ,2281001,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281002,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
 ,2281003,HB3YNV,Cedric,Cedric,,Saint-Cergue,Waadt - CHE,,Private Call,None
@@ -9684,7 +9699,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2281065,HB9ESF,Cyril,Cyril,Ravet,Giez,Westschweiz-Sud - CHE,,Private Call,None
 ,2281066,HB9VBM,Philippe,Philippe,Kaeser,Meyrin,Westschweiz-Sud - CHE,,Private Call,None
 ,2281067,HB9EST,Benot,Benot,Boucheron,Versoix,Westschweiz-Sud - CHE,,Private Call,None
-,2281068,HB9TUK,Philippe,Philippe,Jan,)),Westschweiz-Sud - CHE,,Private Call,None
+,2281068,HB9TUK,Philippe,Philippe,Jan,no_city,Westschweiz-Sud - CHE,,Private Call,None
 ,2281069,HB9VSD,Radio,Radio,Hb9vsd,Verbier,Westschweiz-Sud - CHE,,Private Call,None
 ,2281070,HB9AXG,Antoine,Antoine,Gachet,Onex,Westschweiz-Sud - CHE,,Private Call,None
 ,2281071,HB9VID,Arno,Arno,Streuli,Pailly,Westschweiz-Sud - CHE,,Private Call,None
@@ -9761,11 +9776,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2281142,HB3YTB,Christian,Christian,Sudan,Villeneuve,Westschweiz-Sud - CHE,,Private Call,None
 ,2281143,HB3YYR,Roberto,Roberto,Scheidegger,Versoix,Westschweiz-Sud - CHE,,Private Call,None
 ,2281144,HB9SAT,Freddy,Freddy,Haldemann,Sugiez,Westschweiz-Sud - CHE,,Private Call,None
-,2281145,HB3YSK,Bernard,Bernard,,)),Westschweiz-Sud - CHE,,Private Call,None
+,2281145,HB3YSK,Bernard,Bernard,,no_city,Westschweiz-Sud - CHE,,Private Call,None
 ,2281146,HB9TUI,Nicolas,Nicolas,Tille,Lausanne,Westschweiz-Sud - CHE,,Private Call,None
 ,2281147,HB9FMK,Mario,Mario,Girardin,Laconnex,Westschweiz-Sud - CHE,,Private Call,None
-,2281148,HB3YDE,Dominique,Dominique,Raider,)),Westschweiz-Sud - CHE,,Private Call,None
-,2281149,HB9VBA,Jean-Paul,Jean-Paul,Lucot,)),Westschweiz-Sud - CHE,,Private Call,None
+,2281148,HB3YDE,Dominique,Dominique,Raider,no_city,Westschweiz-Sud - CHE,,Private Call,None
+,2281149,HB9VBA,Jean-Paul,Jean-Paul,Lucot,no_city,Westschweiz-Sud - CHE,,Private Call,None
 ,2281150,HB9TIH,Marco,Marco,Piscioli,Sedeilles,Westschweiz-Sud - CHE,,Private Call,None
 ,2281151,HB9VBE,Lars,Lars,Nef,Geneva,Westschweiz-Sud - CHE,,Private Call,None
 ,2281152,HB9TGW,Jose,Jose,Costa,Vevey,Westschweiz-Sud - CHE,,Private Call,None
@@ -9782,7 +9797,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2281163,HB3GYR,Jose-Antonio,Jose-Antonio,Baza,Geneva,Westschweiz-Sud - CHE,,Private Call,None
 ,2281164,HB3YBO,Nathanael,Nathanael,Mermoud,Carouge,Westschweiz-Sud - CHE,,Private Call,None
 ,2281165,HB9S,World,World,Bureau,Geneva,Westschweiz-Sud - CHE,,Private Call,None
-,2281166,HB9DUW,Agatino,Agatino,,)),Westschweiz-Sud - CHE,,Private Call,None
+,2281166,HB9DUW,Agatino,Agatino,,no_city,Westschweiz-Sud - CHE,,Private Call,None
 ,2281167,HB3YKB,Patrick,Patrick,Baud,Giswil,Westschweiz-Sud - CHE,,Private Call,None
 ,2281168,HB3YOE,Massimiliano,Massimiliano,Fantuzzi,Bellevue,Westschweiz-Sud - CHE,,Private Call,None
 ,2281169,HB3YAP,Pascal,Pascal,Trosset,Epautheyres,Westschweiz-Sud - CHE,,Private Call,None
@@ -9795,11 +9810,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2281176,HB3YFI,Tom,Tom,Nielsen,Gd-Saconnex,Westschweiz-Sud - CHE,,Private Call,None
 ,2281177,HB9FXE,Gerard,Gerard,Porchet,Geneva,Westschweiz-Sud - CHE,,Private Call,None
 ,2281178,HB9AFO,Michel,Michel,Vonlanthen,Bussigny,Westschweiz-Sud - CHE,,Private Call,None
-,2281179,HB9RXW,Walter,Walter,,)),Westschweiz-Sud - CHE,,Private Call,None
+,2281179,HB9RXW,Walter,Walter,,no_city,Westschweiz-Sud - CHE,,Private Call,None
 ,2281180,HB9UQL,Cyril,Cyril,Rey,Ardon,Westschweiz-Sud - CHE,,Private Call,None
 ,2281181,HB9RYJ,Jean-Marie,Jean-Marie,Delvecchio,Saint-Aubin,Westschweiz-Sud - CHE,,Private Call,None
 ,2281182,HB3XPF,Remy,Remy,Wenger,Geneva,Westschweiz-Sud - CHE,,Private Call,None
-,2281183,HB9RJV,Jean-Claude,Jean-Claude,Vallotton,)),Westschweiz-Sud - CHE,,Private Call,None
+,2281183,HB9RJV,Jean-Claude,Jean-Claude,Vallotton,no_city,Westschweiz-Sud - CHE,,Private Call,None
 ,2281184,HB3XPG,Tom,Tom,Wenger,Geneva,Westschweiz-Sud - CHE,,Private Call,None
 ,2281185,HB3XPL,Joao,Joao,Lopes,Cointrin,Westschweiz-Sud - CHE,,Private Call,None
 ,2281186,HB3XPE,Olivier,Olivier,Beroud,Geneva,Westschweiz-Sud - CHE,,Private Call,None
@@ -9889,10 +9904,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2282025,HB9EXN,Niklaus,Niklaus,Mumenthaler,Lamboing,Westschweiz-Nord - CHE,,Private Call,None
 ,2282026,HB9EXM,Monika,Monika,Mumenthaler,Lamboing,Westschweiz-Nord - CHE,,Private Call,None
 ,2282027,HB3YDK,Hansruedi,Hansruedi,Konig,Embrach,Westschweiz-Nord - CHE,,Private Call,None
-,2282028,HB9EHB,Carlo,Carlo,Maria,)),Westschweiz-Nord - CHE,,Private Call,None
+,2282028,HB9EHB,Carlo,Carlo,Maria,no_city,Westschweiz-Nord - CHE,,Private Call,None
 ,2282029,HB9GPP,Jerome,Jerome,Nikles,Cormondreche,Westschweiz-Nord - CHE,,Private Call,None
 ,2282030,HB9EPC,Christian,Christian,Dubuis,Coffrane,Westschweiz-Nord - CHE,,Private Call,None
-,2282031,HB9GSK,Daniel,Daniel,,)),Westschweiz-Nord - CHE,,Private Call,None
+,2282031,HB9GSK,Daniel,Daniel,,no_city,Westschweiz-Nord - CHE,,Private Call,None
 ,2282032,HB3XRF,Ferdi,Ferdi,Demir,Bienne,Westschweiz-Nord - CHE,,Private Call,None
 ,2282033,HB9COS,Urs,Urs,Joos,Biel/bienne,Westschweiz-Nord - CHE,,Private Call,None
 ,2282034,HB3YMM,Christophe,Christophe,Aubin,Les Geneveys-Sur-Coffrane,Westschweiz-Nord - CHE,,Private Call,None
@@ -10035,40 +10050,40 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2283129,HB3YIW,Benjamin,Benjamin,Grogg,Bern,Bern und Oberwallis - CHE,,Private Call,None
 ,2283130,HB9DNX,Massimo,Massimo,Greco,Krailigen,Bern und Oberwallis - CHE,,Private Call,None
 ,2283131,HB3YVR,Rudolf,Rudolf,,Bern,Bern und Oberwallis - CHE,,Private Call,None
-,2283132,HB9DLB,Matthias,Matthias,,)),Bern und Oberwallis - CHE,,Private Call,None
+,2283132,HB9DLB,Matthias,Matthias,,no_city,Bern und Oberwallis - CHE,,Private Call,None
 ,2283133,HB9GNB,Thomas,Thomas,Baehler,Zauggenried,Bern und Oberwallis - CHE,,Private Call,None
 ,2283134,HB9HQX,Beat,Beat,Oehrli,Brig,Bern und Oberwallis - CHE,,Private Call,None
-,2283135,HB3YSZ,Daniel,Daniel,,)),Bern und Oberwallis - CHE,,Private Call,None
+,2283135,HB3YSZ,Daniel,Daniel,,no_city,Bern und Oberwallis - CHE,,Private Call,None
 ,2283136,HB9GSZ,Patrick,Patrick,Bruegger,Frutigen,Bern und Oberwallis - CHE,,Private Call,None
 ,2283137,HB3YYI,Martin,Martin,Schoenholzer,Thun,Bern und Oberwallis - CHE,,Private Call,None
 ,2283138,HB3YDX,Markus,Markus,Waelchli,Bern,Bern und Oberwallis - CHE,,Private Call,None
 ,2283139,HB9BRS,Walter,Walter,,Bern,Bern und Oberwallis - CHE,,Private Call,None
 ,2283140,HB9GPC,Christoph,Christoph,Glanzmann,Bern,Bern und Oberwallis - CHE,,Private Call,None
-,2283141,HB3YIP,Adrian,Adrian,,)),Bern und Oberwallis - CHE,,Private Call,None
+,2283141,HB3YIP,Adrian,Adrian,,no_city,Bern und Oberwallis - CHE,,Private Call,None
 ,2283142,HB9GAA,Roland,Roland,Elmiger,Konolfingen,Bern und Oberwallis - CHE,,Private Call,None
 ,2283143,HB9BFC,Juerg,Juerg,Ruefli,Frutigen,Bern und Oberwallis - CHE,,Private Call,None
 ,2283144,HB9BWR,Kurt,Kurt,Kobel,Zollikofen,Bern und Oberwallis - CHE,,Private Call,None
 ,2283145,HB9FLW,Tobias,Tobias,Wurzbacher,Spiez,Bern und Oberwallis - CHE,,Private Call,None
 ,2283146,HB3YYW,Gottfried,Gottfried,Bach,Heimenschwand,Bern und Oberwallis - CHE,,Private Call,None
-,2283147,HB9UVM,Rudolf,Rudolf,Wenger,)),Bern und Oberwallis - CHE,,Private Call,None
-,2283148,HB3YBC,Christian,Christian,,)),Bern und Oberwallis - CHE,,Private Call,None
-,2283149,HB9EIS,Florian,Florian,,)),Bern und Oberwallis - CHE,,Private Call,None
+,2283147,HB9UVM,Rudolf,Rudolf,Wenger,no_city,Bern und Oberwallis - CHE,,Private Call,None
+,2283148,HB3YBC,Christian,Christian,,no_city,Bern und Oberwallis - CHE,,Private Call,None
+,2283149,HB9EIS,Florian,Florian,,no_city,Bern und Oberwallis - CHE,,Private Call,None
 ,2283150,HB9GIK,Kevin,Kevin,Streit,Walliswil,Bern und Oberwallis - CHE,,Private Call,None
-,2283151,HB9FMG,Adrian,Adrian,,)),Bern und Oberwallis - CHE,,Private Call,None
+,2283151,HB9FMG,Adrian,Adrian,,no_city,Bern und Oberwallis - CHE,,Private Call,None
 ,2283152,HB9DNM,Felix,Felix,Kunz,Schofflisdorf,Bern und Oberwallis - CHE,,Private Call,None
 ,2283153,HB9FUR,Rodjo,Rodjo,,Moosseedorf,Bern und Oberwallis - CHE,,Private Call,None
 ,2283154,HB9FXH,Thomas,Thomas,Eichenberger,Aeschau,Bern und Oberwallis - CHE,,Private Call,None
 ,2283155,HB9FRN,Patrick,Patrick,Bach,Seftigen,Bern und Oberwallis - CHE,,Private Call,None
-,2283156,HB9GSZ,Patrick,Patrick,Bruegger,)),Bern und Oberwallis - CHE,,Private Call,None
+,2283156,HB9GSZ,Patrick,Patrick,Bruegger,no_city,Bern und Oberwallis - CHE,,Private Call,None
 ,2283157,HB9BPJ,Hans-Rudolf,Hans-Rudolf,,Frutigen,Bern und Oberwallis - CHE,,Private Call,None
 ,2283158,HB3YHU,Daniel,Daniel,Schupbach,Muwensingen,Bern und Oberwallis - CHE,,Private Call,None
 ,2283159,HB9BWA,Walter,Walter,Buehler,Belp,Bern und Oberwallis - CHE,,Private Call,None
-,2283160,HB9XBK,Roman,Roman,,)),Bern und Oberwallis - CHE,,Private Call,None
+,2283160,HB9XBK,Roman,Roman,,no_city,Bern und Oberwallis - CHE,,Private Call,None
 ,2283161,HB3YYH,Peter,Peter,Schneider,Interlaken,Bern und Oberwallis - CHE,,Private Call,None
 ,2283162,HB9GNB,Thomas,Thomas,Bahler,Zauggenried,Bern und Oberwallis - CHE,,Private Call,None
 ,2283163,HB3YHJ,Simon,Simon,,Liechtenstein,Bern und Oberwallis - CHE,,Private Call,None
 ,2283164,HB3YWJ,Bruno,Bruno,Bergmann,Gwatt,Bern und Oberwallis - CHE,,Private Call,None
-,2283165,HB9GUN,Andreas,Andreas,,)),Bern und Oberwallis - CHE,,Private Call,None
+,2283165,HB9GUN,Andreas,Andreas,,no_city,Bern und Oberwallis - CHE,,Private Call,None
 ,2283166,HB9GUV,Martin,Martin,Schoenholzer,Thun,Bern und Oberwallis - CHE,,Private Call,None
 ,2283167,HB9GAS,Andre,Andre,Buerki,Ostermundigen,Bern und Oberwallis - CHE,,Private Call,None
 ,2283168,HB9GAA,Roland,Roland,Elmiger,Konolfingen,Bern und Oberwallis - CHE,,Private Call,None
@@ -10105,7 +10120,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2283199,HB3XTM,Mario,Mario,,Muehlethurnen,Bern und Oberwallis - CHE,,Private Call,None
 ,2283200,HB9RWR,Urs,Urs,Fluekiger,Ersigen, - CHE,,Private Call,None
 ,2283201,HB9SHB,Marc,Marc,,Zollikofen, - CHE,,Private Call,None
-,2283202,HB9RVH,no_name,no_name,,)), - CHE,,Private Call,None
+,2283202,HB9RVH,no_name,no_name,,no_city, - CHE,,Private Call,None
 ,2283203,HB9RVG,Roli,Roli,,Graechen, - CHE,,Private Call,None
 ,2283204,HB9TBI,Francesco,Francesco,,Bern, - CHE,,Private Call,None
 ,2283205,HB9EVN,Remo,Remo,,Bern, - CHE,,Private Call,None
@@ -10250,10 +10265,10 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2284132,HB9DOL,Stefan,Stefan,Pauli,Biberist,Basel/solothurn - CHE,,Private Call,None
 ,2284133,HB3YMZ,Michel,Michel,Meili,Laeufelfingen,Basel/solothurn - CHE,,Private Call,None
 ,2284134,HB9FZX,Christian,Christian,Koelliker,Wynau,Basel/solothurn - CHE,,Private Call,None
-,2284135,HB9GFI,Daniel,Daniel,,)),Basel/solothurn - CHE,,Private Call,None
+,2284135,HB9GFI,Daniel,Daniel,,no_city,Basel/solothurn - CHE,,Private Call,None
 ,2284136,HB9BSL,Funkamateur,Funkamateur,Club,Basel,Basel/solothurn - CHE,,Private Call,None
 ,2284137,HB9KIDS,Funk-Amateur,Funk-Amateur,Club,Basel,Basel/solothurn - CHE,,Private Call,None
-,2284138,HB9CWI,Budi,Budi,,)),Basel/solothurn - CHE,,Private Call,None
+,2284138,HB9CWI,Budi,Budi,,no_city,Basel/solothurn - CHE,,Private Call,None
 ,2284139,HB9FZX,Christian,Christian,Koelliker,Wynau,Basel/solothurn - CHE,,Private Call,None
 ,2284140,HB9TUL,Mimmo,Mimmo,Labriola,Gerlafingen,Westschweiz-Nord - CHE,,Private Call,None
 ,2284141,HB9DHR,Heinz,Heinz,Ruef,Vordemwald,Basel/solothurn - CHE,,Private Call,None
@@ -10287,7 +10302,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2284170,HB9TPU,Udo,Udo,Allmen,Olten,Basel/solothurn - CHE,,Private Call,None
 ,2284171,HB3XPM,Hans,Hans,,Basel,Basel/solothurn - CHE,,Private Call,None
 ,2284172,HB9GSV,Adrian,Adrian,Stauffer,Oensingen,Basel/solothurn - CHE,,Private Call,None
-,2284173,HB9TPW,Hanspeter,Hanspeter,,)),Basel/solothurn - CHE,,Private Call,None
+,2284173,HB9TPW,Hanspeter,Hanspeter,,no_city,Basel/solothurn - CHE,,Private Call,None
 ,2284174,HB9GPK,Manuel,Manuel,,Basel,Basel/solothurn - CHE,,Private Call,None
 ,2284175,HB9CKO,Jacques,Jacques,Wehrli,Giswil,Basel/solothurn - CHE,,Private Call,None
 ,2284176,HB9RMM,Marcel,Marcel,Krumm,Basel,Basel/solothurn - CHE,,Private Call,None
@@ -10325,7 +10340,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2284208,HB9HBB,Michael,Michael,Senn,Muttenz, - CHE,,Private Call,None
 ,2284209,HB9GSY,Philipp,Philipp,Gurtner,Gelterkinden,Basel - CHE,,Private Call,None
 ,2284210,HB9TXZ,Bernhard,Bernhard,Acklin,Binningen,Basel - CHE,,Private Call,None
-,2284211,HB3XTN,Remo,Remo,,)),Basel/solothurn - CHE,,Private Call,None
+,2284211,HB3XTN,Remo,Remo,,no_city,Basel/solothurn - CHE,,Private Call,None
 ,2284212,HB9NCS,Leopoldo,Leopoldo,Schnalzer,Washington,Arkansas - CHE,,Private Call,None
 ,2284213,HB9FZQ,Nicolas,Nicolas,Dirac,Itingen,Basel - CHE,,Private Call,None
 ,2284214,HB3YHG,Peter,Peter,,Rheinfelden,Basel/solothurn - CHE,,Private Call,None
@@ -10424,7 +10439,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2285052,HB9FFK,Christian,Christian,Spieler,Rohr,Aargau - CHE,,Private Call,None
 ,2285053,HB9XBO,Robert,Robert,Walker,Suhr,Aargau - CHE,,Private Call,None
 ,2285054,HB9DOD,Tom,Tom,Hoedjes,Reinach,Aargau - CHE,,Private Call,None
-,2285055,HB3XPK,Othmar,Othmar,,)),Aargau - CHE,,Private Call,None
+,2285055,HB3XPK,Othmar,Othmar,,no_city,Aargau - CHE,,Private Call,None
 ,2285056,HB9GNI,Thomas,Thomas,Hartmeier,Baden,Aargau - CHE,,Private Call,None
 ,2285057,HB9GSN,Juerg,Juerg,Frey,Lupfig,Aargau - CHE,,Private Call,None
 ,2285058,HB9RWF,Heinz,Heinz,Menz,Reitnau,Aargau - CHE,,Private Call,None
@@ -10593,9 +10608,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2286147,HB9SPV,Albert,Albert,Haefliger,Rickenbach,Zentralschweiz und T - CHE,,Private Call,None
 ,2286148,HB9TZU,Christof,Christof,Planzer,Schattdorf,Zentralschweiz und T - CHE,,Private Call,None
 ,2286149,HB9CCU,Heinz,Heinz,Homberger,Ibach,Zentralschweiz und T - CHE,,Private Call,None
-,2286150,HB9CDH,Bruno,Bruno,Ruesch,)),Zentralschweiz und T - CHE,,Private Call,None
+,2286150,HB9CDH,Bruno,Bruno,Ruesch,no_city,Zentralschweiz und T - CHE,,Private Call,None
 ,2286151,HB9TUO,Denis,Denis,Tasinato,Gordevio,Zentralschweiz und T - CHE,,Private Call,None
-,2286152,HB9ENK,Gianmaria,Gianmaria,,)),Zentralschweiz und T - CHE,,Private Call,None
+,2286152,HB9ENK,Gianmaria,Gianmaria,,no_city,Zentralschweiz und T - CHE,,Private Call,None
 ,2286153,HB9WDN,Markus,Markus,Geiger,Dierikon,Zentralschweiz und T - CHE,,Private Call,None
 ,2286154,HB9JBY,Alfons,Alfons,Keiser,Hochdorf,Zentralschweiz und T - CHE,,Private Call,None
 ,2286155,HB9JAY,Walter,Walter,,Luzern,Zentralschweiz und T - CHE,,Private Call,None
@@ -10609,7 +10624,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2286163,HB9FRA,Pascal,Pascal,Wickihalder,Sursee,Zentralschweiz und T - CHE,,Private Call,None
 ,2286164,HB9WBU,Casimir,Casimir,Schmid,Sursee,Zentralschweiz und T - CHE,,Private Call,None
 ,2286165,HB9FHS,Samuel,Samuel,Cattaneo,Pregassona,Zentralschweiz und T - CHE,,Private Call,None
-,2286166,HB3YLZ,Maurizio,Maurizio,Fabbro,)),Zentralschweiz und T - CHE,,Private Call,None
+,2286166,HB3YLZ,Maurizio,Maurizio,Fabbro,no_city,Zentralschweiz und T - CHE,,Private Call,None
 ,2286167,HB9CQK,Frederic,Frederic,Furrer,Horw,Zentralschweiz und T - CHE,,Private Call,None
 ,2286168,HB9FWO,Olivier,Olivier,Wolf,Sursee,Zentralschweiz und T - CHE,,Private Call,None
 ,2286169,HB3YFO,Adriano,Adriano,Favero,Vezia,Zentralschweiz und T - CHE,,Private Call,None
@@ -10625,7 +10640,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2286179,HB9FLA,Jakob,Jakob,Brunner,Luzern,Zentralschweiz und T - CHE,,Private Call,None
 ,2286180,HB9JAB,Stefan,Stefan,Roosli,Eschenbach,Zentralschweiz und T - CHE,,Private Call,None
 ,2286181,HB9TKZ,Wolf,Wolf,Zemp,Goldau,Zentralschweiz und T - CHE,,Private Call,None
-,2286182,HB9CVN,Ferdinando,Ferdinando,Bernasconi,)),Zentralschweiz und T - CHE,,Private Call,None
+,2286182,HB9CVN,Ferdinando,Ferdinando,Bernasconi,no_city,Zentralschweiz und T - CHE,,Private Call,None
 ,2286183,HB9WCN,Rene,Rene,,Schoetz,Zentralschweiz und Tessin - CHE,,Private Call,None
 ,2286184,HB9FSK,Michal,Michal,Slomczykowski,Lu,Zentralschweiz und Tessin - CHE,,Private Call,None
 ,2286185,HB9FEV,Ferry,Ferry,Sengun,Beromunster,Zentralschweiz und T - CHE,,Private Call,None
@@ -10634,9 +10649,9 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2286188,HB9TPC,Rui,Rui,Oliveira,Rivera,Zentralschweiz und Tessin - CHE,,Private Call,None
 ,2286189,HB3XPT,Sergio,Sergio,Dotti,Genestrerio,Zentralschweiz und Tessin - CHE,,Private Call,None
 ,2286190,HB3XPS,Nicola,Nicola,Crivelli,Gordola,Zentralschweiz und Tessin - CHE,,Private Call,None
-,2286191,HB3XPX,Matteo,Matteo,Menca,)),Zentralschweiz und Tessin - CHE,,Private Call,None
+,2286191,HB3XPX,Matteo,Matteo,Menca,no_city,Zentralschweiz und Tessin - CHE,,Private Call,None
 ,2286192,HB9EVZ,Karl,Karl,Zgraggen,Lauerz,Zentralschweiz und Tessin - CHE,,Private Call,None
-,2286193,HB3XPZ,Sergio,Sergio,,)),Zentralschweiz und Tessin - CHE,,Private Call,None
+,2286193,HB3XPZ,Sergio,Sergio,,no_city,Zentralschweiz und Tessin - CHE,,Private Call,None
 ,2286194,HB9EKV,Thomas,Thomas,Fischer,Oberkirch,Zentralschweiz und Tessin - CHE,,Private Call,None
 ,2286195,HB9TKZ,Wolf,Wolf,Zemp,Goldau,Zentralschweiz und Tessin - CHE,,Private Call,None
 ,2286196,HB9JCI,Matthias,Matthias,Schumacher,Schwyz,Zentralschweiz und Tessin - CHE,,Private Call,None
@@ -10678,7 +10693,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2286232,HB9GZT,Pasinelli,Pasinelli,Tiziano,Porza, - CHE,,Private Call,None
 ,2286233,HB9GZL,Gabriele,Gabriele,Tos,Lavorgo,Zentralschweiz und Tessin - CHE,,Private Call,None
 ,2286234,HB9FIF,Roger,Roger,Rodenhaeuser,Baar,Zug - CHE,,Private Call,None
-,2286235,HB9HCE,Roland,Roland,,)),Ticino - CHE,,Private Call,None
+,2286235,HB9HCE,Roland,Roland,,no_city,Ticino - CHE,,Private Call,None
 ,2286236,HB9PUE,Mauro,Mauro,Piffaretti,Pregassona,Ticino - CHE,,Private Call,None
 ,2286237,HB9FAB,Patrick,Patrick,Orso,Camignolo,Ticino - CHE,,Private Call,None
 ,2286238,HB3XST,Jaquier,Jaquier,Michel,Casoro,Ticino - CHE,,Private Call,None
@@ -10700,7 +10715,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2286254,HB9HEC,Gabri,Gabri,,Astano,Gabri - CHE,,Private Call,None
 ,2286255,HB3YTC,Roberto,Roberto,,Lumino, - CHE,,Private Call,None
 ,2286256,HB9TTY,Fred,Fred,,Buttisholz, - CHE,,Private Call,None
-,2286257,HB9ERA,no_name,no_name,,)), - CHE,,Private Call,None
+,2286257,HB9ERA,no_name,no_name,,no_city, - CHE,,Private Call,None
 ,2286258,HB9GHD,Davide,Davide,Paganoni,Piedmont,Zentralschweiz und T - CHE,,Private Call,None
 ,2286259,HB3YKK,Marcel,Marcel,Kieliger,Brunnen,Zentralschweiz und T - CHE,,Private Call,None
 ,2286260,HB3XTP,Gianpaolo,Gianpaolo,Ferrari,Chiasso,Ticino - CHE,,Private Call,None
@@ -10735,11 +10750,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2287023,HB9EZW,Simon,Simon,Tschuor,Valens,Graubuenden - CHE,,Private Call,None
 ,2287024,HB9GIF,Francesco,Francesco,Ciccio,Poschiavo,Graubuenden - CHE,,Private Call,None
 ,2287025,HB9GNN,Armin,Armin,Luzi,Samedan,Graubuenden - CHE,,Private Call,None
-,2287026,HB9GHZ,Lorenzo,Lorenzo,Lardelli,)),Graubuenden - CHE,,Private Call,None
+,2287026,HB9GHZ,Lorenzo,Lorenzo,Lardelli,no_city,Graubuenden - CHE,,Private Call,None
 ,2287027,HB9ASV,Peter,Peter,Schudel,Chur,Graubuenden - CHE,,Private Call,None
 ,2287028,HB9CAN,Marco,Marco,Leupin,Berne,Graubuenden - CHE,,Private Call,None
 ,2287029,HB3YYA,Andy,Andy,Muenchbach,Laax,Graubuenden - CHE,,Private Call,None
-,2287030,HB3XPV,Martha,Martha,,)),Graubuenden - CHE,,Private Call,None
+,2287030,HB3XPV,Martha,Martha,,no_city,Graubuenden - CHE,,Private Call,None
 ,2287031,HB3XRK,Werner,Werner,,Sankt Gallen,Sankt Gallen - CHE,,Private Call,None
 ,2287032,HB9GKX,Tobias,Tobias,Ebner,Zernez,Graubuenden - CHE,,Private Call,None
 ,2287033,HB9GYA,Mauro,Mauro,,Zernez,Bern - CHE,,Private Call,None
@@ -10927,7 +10942,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2288180,HB9PJT,Peter,Peter,Sidler,Affoltern am Albis,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288181,HB9IQY,Daniel,Daniel,,Biel,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288182,HB9DDS,Daniel,Daniel,Schaeffler,Zuerich,Zuerich und Thurgau - CHE,,Private Call,None
-,2288183,HB3YBX,Roger,Roger,,)),Zuerich und Thurgau - CHE,,Private Call,None
+,2288183,HB3YBX,Roger,Roger,,no_city,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288184,HB9PLB,Konrad,Konrad,,Truttikon,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288185,HB9DQM,Manuel,Manuel,Kasper,Andelfingen,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288186,HB9BRJ,Markus,Markus,Leggenhager,Schaffhausen,Zuerich und Thurgau - CHE,,Private Call,None
@@ -10937,7 +10952,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2288190,HB9ZCY,Urs,Urs,Katz,Zurich,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288191,HB9FU,Funkgruppe,Funkgruppe,Untersee,Stein am Rhein,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288192,HB9TZX,Michael,Michael,Banditt,Zuerich,Zuerich und Thurgau - CHE,,Private Call,None
-,2288193,HB3YVH,Ivan,Ivan,,)),Zuerich und Thurgau - CHE,,Private Call,None
+,2288193,HB3YVH,Ivan,Ivan,,no_city,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288194,HB9CAC,Konrad,Konrad,,Thayngen,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288195,HB9TPT,Guido,Guido,Frohli,Horgen,Ostschweiz - CHE,,Private Call,None
 ,2288196,HB9LEK,Martin,Martin,Neukomm,Illnau,Zuerich und Thurgau - CHE,,Private Call,None
@@ -10957,11 +10972,11 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2288210,HB9BTE,Peter,Peter,Thalmann,Meilen,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288211,HB9EWB,Salvatore,Salvatore,Bencivenga,Zurich,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288212,HB9RMW,Leander,Leander,Gutzwiller,Mettmwenstetten,Zuerich und Thurgau - CHE,,Private Call,None
-,2288213,HB9LFK,Stefan,Stefan,,)),Zuerich und Thurgau - CHE,,Private Call,None
+,2288213,HB9LFK,Stefan,Stefan,,no_city,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288214,HB9IQR,Emanuel,Emanuel,Schadegg,Glarus,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288215,HB9FVR,Silvan,Silvan,Mumenthaler,Romanshorn,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288216,HB3YZX,Michael,Michael,,Wila,Zuerich und Thurgau - CHE,,Private Call,None
-,2288217,HB9TQH,Hans,Hans,Peter,)),Zuerich und Thurgau - CHE,,Private Call,None
+,2288217,HB9TQH,Hans,Hans,Peter,no_city,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288218,HB9XJ,Hans,Hans,Buehler,Zuerich,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288219,HB9THI,Alexander,Alexander,Angst,Giswil,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288220,HB9GIS,Samuel,Samuel,Bachmann,Stein am Rhein,Zuerich und Thurgau - CHE,,Private Call,None
@@ -10981,7 +10996,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2288234,HB9RPU,Felix,Felix,Telli,Wetzikon,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288235,HB9ZCF,Kurt,Kurt,Steiger,Kloten,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288236,HB3YVX,Fabian,Fabian,Eichmann,Zuerich,Zuerich und Thurgau - CHE,,Private Call,None
-,2288237,HB3YRW,Philipp,Philipp,,)),Zuerich und Thurgau - CHE,,Private Call,None
+,2288237,HB3YRW,Philipp,Philipp,,no_city,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288238,HB9TLH,Thomas,Thomas,Ruch,Hemishofen,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288239,HB9GSX,Roberto,Roberto,,Zuerich,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288240,HB9EZE,Bruno,Bruno,Jun,Zuerich,Zuerich und Thurgau - CHE,,Private Call,None
@@ -10989,13 +11004,13 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2288242,HB9EMD,Nebojsa,Nebojsa,Paunovic,Thalwil,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288243,HB3YLQ,Daniel,Daniel,Robin,Zuerich,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288244,HB3YYU,Ingo,Ingo,Kohler,Uster,Zuerich und Thurgau - CHE,,Private Call,None
-,2288245,HB9FLY,Isabella,Isabella,,)),Zuerich und Thurgau - CHE,,Private Call,None
+,2288245,HB9FLY,Isabella,Isabella,,no_city,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288246,HB3XPA,Florian,Florian,Gutzwiller,Zuerich,Zuerich und Thurgau - CHE,,Private Call,None
-,2288247,HB3YTS,Martin,Martin,,)),Zuerich und Thurgau - CHE,,Private Call,None
+,2288247,HB3YTS,Martin,Martin,,no_city,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288248,HB9FSV,Martin,Martin,Schwarz,Schaffhausen,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288249,HB9SH,Uska,Uska,Sektion,Schaffhausen,Zuerich und Thurgau - CHE,,Private Call,None
-,2288250,HB9GIJ,Rudolf,Rudolf,,)),Zuerich und Thurgau - CHE,,Private Call,None
-,2288251,HB9GUT,Richard,Richard,,)),Zuerich und Thurgau - CHE,,Private Call,None
+,2288250,HB9GIJ,Rudolf,Rudolf,,no_city,Zuerich und Thurgau - CHE,,Private Call,None
+,2288251,HB9GUT,Richard,Richard,,no_city,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288252,HB9OOA,Amstad,Amstad,Michael,Tagerwilen,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288253,HB3YXR,Marcel,Marcel,Martel-Reichmuth,Regensdorf,Zuerich und Thurgau - CHE,,Private Call,None
 ,2288254,HB9GNT,Rene,Rene,Lobsiger,Adlikon,Zuerich und Thurgau - CHE,,Private Call,None
@@ -11129,15 +11144,15 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2289037,HB9EKI,Franco,Franco,,Diepoldsau,Ostschweiz - CHE,,Private Call,None
 ,2289038,HB9EUQ,Leandro,Leandro,Brassel,Altstaetten,Ostschweiz - CHE,,Private Call,None
 ,2289039,HB9FVF,Matthias,Matthias,Sen,Wolfhalden,Ostschweiz - CHE,,Private Call,None
-,2289040,HB9DWD,Urban,Urban,,)),Ostschweiz - CHE,,Private Call,None
+,2289040,HB9DWD,Urban,Urban,,no_city,Ostschweiz - CHE,,Private Call,None
 ,2289041,HB9DQL,Jurg,Jurg,Solenthaler,Wald,Ostschweiz - CHE,,Private Call,None
 ,2289042,HB9DQK,Daniel,Daniel,Venzin,Widnau,Ostschweiz - CHE,,Private Call,None
 ,2289043,HB9WG,Erich,Erich,Ulmann,Stgallen,Ostschweiz - CHE,,Private Call,None
-,2289044,HB9EUJ,Claudia,Claudia,Roesli,)),Ostschweiz - CHE,,Private Call,None
+,2289044,HB9EUJ,Claudia,Claudia,Roesli,no_city,Ostschweiz - CHE,,Private Call,None
 ,2289045,HB9AKC,Carl,Carl,Clauss,Horn,Ostschweiz - CHE,,Private Call,None
 ,2289046,HB9GNK,Erwin,Erwin,Lander,Wil,Ostschweiz - CHE,,Private Call,None
 ,2289047,HB9KNO,Carl,Carl,Palatini,Untereggen,Ostschweiz - CHE,,Private Call,None
-,2289048,HB9DWD,Urban,Urban,,)),Ostschweiz - CHE,,Private Call,None
+,2289048,HB9DWD,Urban,Urban,,no_city,Ostschweiz - CHE,,Private Call,None
 ,2289049,HB9KOG,Robert,Robert,Sutter,Stgallen,Ostschweiz - CHE,,Private Call,None
 ,2289050,HB9TIP,Marinus,Marinus,,Bern,Ostschweiz - CHE,,Private Call,None
 ,2289051,HB9EVD,Jack,Jack,Braunwalder,Wilen,Ostschweiz - CHE,,Private Call,None
@@ -11149,14 +11164,14 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2289057,HB9BFY,Peter,Peter,Aeschlimann,Walzenhausen,Ostschweiz - CHE,,Private Call,None
 ,2289058,HB9FES,Daniel,Daniel,Scheuss,Herisau,Ostschweiz - CHE,,Private Call,None
 ,2289059,HB9CMP,Alex,Alex,Klingler,Widnau,Ostschweiz - CHE,,Private Call,None
-,2289060,HB9DHH,Rene,Rene,,)),Ostschweiz - CHE,,Private Call,None
+,2289060,HB9DHH,Rene,Rene,,no_city,Ostschweiz - CHE,,Private Call,None
 ,2289061,HB9TKE,Johannes,Johannes,,Bern,Ostschweiz - CHE,,Private Call,None
 ,2289062,HB9AJF,Ernst,Ernst,Manser,Bern,Ostschweiz - CHE,,Private Call,None
 ,2289063,HB9EMZ,Harry,Harry,Giger,Bussnang,Ostschweiz - CHE,,Private Call,None
 ,2289064,HB3YWF,Franz,Franz,Willi,Stgallen,Ostschweiz - CHE,,Private Call,None
 ,2289065,HB9FUT,Timm,Timm,Schneider,Muenchwilen,Ostschweiz - CHE,,Private Call,None
 ,2289066,HB9BIPI,Scoutnet,Scoutnet,,Scoutnet Schweiz, - CHE,,Private Call,None
-,2289067,HB3YBV,Andreas,Andreas,,)),Ostschweiz - CHE,,Private Call,None
+,2289067,HB3YBV,Andreas,Andreas,,no_city,Ostschweiz - CHE,,Private Call,None
 ,2289068,HB3YDM,Martin,Martin,Waldispuehl,Wilen,Ostschweiz - CHE,,Private Call,None
 ,2289069,HB9FUE,Patrick,Patrick,Oberholzer,Bischofszell,Ostschweiz - CHE,,Private Call,None
 ,2289070,HB9CMI,Peter,Peter,Altschul,Waengi,Ostschweiz - CHE,,Private Call,None
@@ -11166,7 +11181,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2289074,HB3YDT,Daniel,Daniel,Kaserer,Tagerschen,Ostschweiz - CHE,,Private Call,None
 ,2289075,HB9GPX,David,David,Luber,Lauterach,Ostschweiz - CHE,,Private Call,None
 ,2289076,HB9EZX,Nassos,Nassos,Petrou,Moerschwil,Ostschweiz - CHE,,Private Call,None
-,2289077,HB9GPJ,Tomislav,Tomislav,,)),Ostschweiz - CHE,,Private Call,None
+,2289077,HB9GPJ,Tomislav,Tomislav,,no_city,Ostschweiz - CHE,,Private Call,None
 ,2289078,HB9DGR,Reinhold,Reinhold,Erdmann,Rebstein,Ostschweiz - CHE,,Private Call,None
 ,2289079,HB9EIJ,Martin,Martin,Jung,Rossruti,Ostschweiz - CHE,,Private Call,None
 ,2289080,HB9TMR,Hans,Hans,Rudisuhli,Frumsen,Ostschweiz - CHE,,Private Call,None
