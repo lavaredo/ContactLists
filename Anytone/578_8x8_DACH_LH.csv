@@ -129,6 +129,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280128,HB9GYS,HB9GYS Gabriel,Grand Lancy   Geneva,Geneva,CHE,,Private Call,None
 ,2280129,HB3XYY,HB3XYY Meier,Villmergen,Aargau,CHE,,Private Call,None
 ,2280130,HB9HOC,HB9HOC Claudio,Zizers,Grigioni Grisons,CHE,,Private Call,None
+,2280131,HB9RJI,HB9RJI Beat,6206 Neuenkirch,Lucerne,CHE,,Private Call,None
+,2280132,HB3XZD,HB3XZD Joel,Courgevaux,Fribourg,CHE,,Private Call,None
 ,2281001,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281002,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281003,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
@@ -1900,6 +1902,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2320198,OE3CIN,OE3CIN Marcin,Olgersdorf,NOE,AUT,,Private Call,None
 ,2320199,OE3BOH,OE3BOH Herta,Schwarzau am Steinfeld,NOE,AUT,,Private Call,None
 ,2320200,OE3NEA,OE3NEA Andreas,Baumgarten,NOE,AUT,,Private Call,None
+,2320201,OE3WHU,OE3WHU Wolfgang,Manhartsbrunn,NOE,AUT,,Private Call,None
+,2320202,OE6WSD,OE6WSD Samuel,Kumberg,STMK,AUT,,Private Call,None
+,2320203,OE6CBX,OE6CBX Markus,Siebing,STMK,AUT,,Private Call,None
+,2320204,OE7DA,OE7DA Adolf,Zirl,TIROL,AUT,,Private Call,None
+,2320205,OE1TLC,OE1TLC Martin,Wien,WIEN,AUT,,Private Call,None
+,2320206,OE3NFU,OE3NFU Armin,Theresienfeld,NOE,AUT,,Private Call,None
 ,2321001,OE1KBC,OE1KBC Kurt,Wien,WIEN,AUT,,Private Call,None
 ,2321002,OE1KBC,OE1KBC Kurt,Wien,WIEN,AUT,,Private Call,None
 ,2321003,OE1KBC,OE1KBC Kurt,Wien,WIEN,AUT,,Private Call,None
@@ -4536,6 +4544,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2620961,DL8SEL,DL8SEL Gerard,Froendenberg,NW,DEU,,Private Call,None
 ,2620962,DL4NG,DL4NG Helmut,Oberleichtersbach,BY,DEU,,Private Call,None
 ,2620963,DL6CWM,DL6CWM Gerald,Magdeburg,ST,DEU,,Private Call,None
+,2620964,DC1MU,DC1MU Christian,Vechta,NI,DEU,,Private Call,None
 ,2620965,DL3RUD,DL3RUD Rudolf,Muenchen,BY,DEU,,Private Call,None
 ,2620966,DK7RE,DK7RE Rolf,Kiel,SH,DEU,,Private Call,None
 ,2620967,DL4DAC,DL4DAC Thomas,Essen,NW,DEU,,Private Call,None
@@ -12989,6 +12998,21 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2629650,DO1WHW,DO1WHW Hans,Woellstadt,HE,DEU,,Private Call,None
 ,2629651,DK9SV,DK9SV Alfred,Kuenzelsau,BW,DEU,,Private Call,None
 ,2629652,DH8IQ,DH8IQ Juergen,Eberdingen,BW,DEU,,Private Call,None
+,2629653,DM3TB,DM3TB Timo,Aschersleben,ST,DEU,,Private Call,None
+,2629654,DL1YKQ,DL1YKQ Gabriele,Waging am See,BY,DEU,,Private Call,None
+,2629655,DF9LP,DF9LP Peter,Goehl,SH,DEU,,Private Call,None
+,2629656,DB2WK,DB2WK Wolfgang,Neu Kaliss,MV,DEU,,Private Call,None
+,2629657,DK7NF,DK7NF Siegfried,Hummeltal,BY,DEU,,Private Call,None
+,2629658,DC9DJ,DC9DJ Konrad,Usingen,HE,DEU,,Private Call,None
+,2629659,DO6ULI,DO6ULI Ulrich,Ulm,BW,DEU,,Private Call,None
+,2629660,DD2SM,DD2SM Peter,Baltmannsweiler,BW,DEU,,Private Call,None
+,2629661,DD7TF,DD7TF Stephan,Offenburg,BW,DEU,,Private Call,None
+,2629662,DO1OMP,DO1OMP Patrick,Georgensgmuend,BY,DEU,,Private Call,None
+,2629663,DO3RON,DO3RON Ronny,Weitramsdorf,BY,DEU,,Private Call,None
+,2629664,DG6DBQ,DG6DBQ Thorsten,Doerth,RP,DEU,,Private Call,None
+,2629665,DO1MMS,DO1MMS Marxen,Markt Indersdorf,BY,DEU,,Private Call,None
+,2629666,DL2YFG,DL2YFG Martin,Marl,NW,DEU,,Private Call,None
+,2629667,DL2DID,DL2DID Dincho,Berlin,BE,DEU,,Private Call,None
 ,2633001,DG4AK,DG4AK Dietmar,Hann Muenden,NI,DEU,,Private Call,None
 ,2633002,DH8AAA,DH8AAA Oliver,Vechelde,NI,DEU,,Private Call,None
 ,2633003,DC6BV,DC6BV Reinhardt,Norden,NI,DEU,,Private Call,None
@@ -15719,7 +15743,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2638522,DL9IGL,DL9IGL Karl-Heinz,no_city,,DEU,,Private Call,None
 ,2638523,DF1AX,DF1AX Alexander,Lauterhofen,BY,DEU,,Private Call,None
 ,2638524,DG3MGW,DG3MGW Udo,Mering,BY,DEU,,Private Call,None
-,2638525,DO5EMA,DO5EMA Peter,Lautertal,BY,DEU,,Private Call,None
+,2638525,DK4KP,DK4KP Peter,Lautertal,BY,DEU,,Private Call,None
 ,2638526,DJ3NRA,DJ3NRA Reinhard,no_city,BY,DEU,,Private Call,None
 ,2638527,DO1MHJ,DO1MHJ Juergen,Memmingerberg,BY,DEU,,Private Call,None
 ,2638528,DO1MHJ,DO1MHJ Juergen,Memmingerberg,BY,DEU,,Private Call,None

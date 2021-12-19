@@ -6870,7 +6870,7 @@
 2226883,IU3ELN,Visman Quarto D Altino (VE),Veneto,ITA,222
 2226884,IK2WPZ,Molla Bustro Arsizio (VA),Lombardia,ITA,222
 2226885,IU0ODJ,Veloccia Roma (RM),Lazio,ITA,222
-2226886,IU3OER, ,Veneto,ITA,222
+2226886,IU3OER, no_city,Veneto,ITA,222
 2226887,IW8PGB,Iaconianni Roggiano Gravina (CS),Calabria,ITA,222
 2226888,IZ8VGY,Ferrara Cardito (NA),Campania,ITA,222
 2226889,IU5MGF,Poggesi San Giovanni Valdarno (AR),Toscana,ITA,222
@@ -7555,7 +7555,7 @@
 2227569,IV3TYS,Barbangelo Gorizia (GO),Friuli VG,ITA,222
 2227570,IW2MQP,Rimoldi Turate (CO),Lombardia,ITA,222
 2227571,IW6ODG,Rubeo Tagliacozzo (AQ),Abruzzo,ITA,222
-2227572,IU2NSI,Galimberti ,Lombardia,ITA,222
+2227572,IU2NSI,Galimberti no_city,Lombardia,ITA,222
 2227573,IU7KMU,Perillo Manfredonia (FG),Puglia,ITA,222
 2227574,IT9CSD,Liga Casteldaccia (PA),Sicilia,ITA,222
 2227575,IZ2SQK,Marioni Milano (MI),Lombardia,ITA,222
@@ -7580,7 +7580,7 @@
 2227594,IK4FFS,Donadio Maranello (MO),Emilia-Rom.,ITA,222
 2227595,IK8GJZ,Molaro Castellammare Stabia (NA),Campania,ITA,222
 2227596,IT9XIG,Bono Campobello Di Mazara (TP),Sicilia,ITA,222
-2227597,IU2OQT,Trecca ,Lombardia,ITA,222
+2227597,IU2OQT,Trecca no_city,Lombardia,ITA,222
 2227598,IU5OHH,Ordini Grosseto (GR),Toscana,ITA,222
 2227599,IU7NXT,Lonigro Bari (BA),Puglia,ITA,222
 2227600,IU4OKB,Giampietro San Giovanni In Persiceto (BO),Emilia-Rom.,ITA,222
@@ -7589,7 +7589,7 @@
 2227603,IW3AAD,Tiengo Villazzano (TN),Trentino AA,ITA,222
 2227604,IT9AGE,Pezzino Catania (CT),Sicilia,ITA,222
 2227605,IU2NKE,Martino Milano (MI),Lombardia,ITA,222
-2227606,IU8IAJ,De Rosa ,Campania,ITA,222
+2227606,IU8IAJ,De Rosa no_city,Campania,ITA,222
 2227607,IZ3MFS,Bonesso Montebelluna (TV),Veneto,ITA,222
 2227608,IT9IRQ,Guzzetta Catania (CT),Sicilia,ITA,222
 2227609,IZ5ILX,D Andrea San Lorenzo (MS),Toscana,ITA,222
@@ -8823,7 +8823,7 @@
 2228838,IK0IRE,Cilea Anzio (RM),Lazio,ITA,222
 2228839,IV3HJD,Viol Zoppola (PN),Friuli VG,ITA,222
 2228840,IU3PAL,Marin Rovigo (RO),Veneto,ITA,222
-2228841,IU5PIK,Venturi ,Toscana,ITA,222
+2228841,IU5PIK,Venturi no_city,Toscana,ITA,222
 2228842,IU1GQK,Gualco Voltaggio (AL),Piemonte,ITA,222
 2228843,IU7IFN,Alfiero Latiano (BR),Puglia,ITA,222
 2228844,IT9BQQ,Cocina Catania (CT),Sicilia,ITA,222
@@ -8965,7 +8965,7 @@
 2228980,IU8PCP,Lorenzano Crotone (KR),Calabria,ITA,222
 2228981,IZ5GST,Tolari Montecatini Terme (PT),Toscana,ITA,222
 2228982,IK2ULP,Gentile Milano (MI),Lombardia,ITA,222
-2228983,IW8DUS,Muccio ,,ITA,222
+2228983,IW8DUS,Muccio no_city,,ITA,222
 2228984,IU4HNA,Muro Rimini (RN),Emilia-Rom.,ITA,222
 2228985,IZ8LIN,Polito Altavilla Silentina (SA),Campania,ITA,222
 2228986,IV3IJP,Tedeschi Corno Di Rosazzo (UD),Friuli VG,ITA,222
@@ -9479,7 +9479,7 @@
 2229494,IU4PSZ,Bertozzi Riolo Terme (RA),Emilia-Rom.,ITA,222
 2229495,IU4PUJ,Frollo Riolo Terme (RA),Emilia-Rom.,ITA,222
 2229496,IK1YEK,Firpo Finale Ligure (SV),Liguria,ITA,222
-2229497,IU3KJZ,Mone ,Veneto,ITA,222
+2229497,IU3KJZ,Mone no_city,Veneto,ITA,222
 2229498,IU4PTG,Cmp Modena (MO),Emilia-Rom.,ITA,222
 2229499,IU5PUE,Tognaccini Montevarchi (AR),Toscana,ITA,222
 2229500,IK0UGC,Albano Fonte Nuova (RM),Lazio,ITA,222
@@ -9501,6 +9501,18 @@
 2229516,IU7OIZ,Porcelli Molfetta (BA),Puglia,ITA,222
 2229517,IZ6BYC,Capponi Matelica (MC),Marche,ITA,222
 2229518,IU1HBV,Manfredi Silvano D Orba (AL),Piemonte,ITA,222
+2229519,IU5PTO,Pagliai Carrara (MS),Toscana,ITA,222
+2229520,IU1CYJ,Lorenzi Nichelino (TO),Piemonte,ITA,222
+2229521,IZ0IJF,Guardiani Roma (RM),Lazio,ITA,222
+2229522,IN3SVV,Ungaro Venezia (VE),Veneto,ITA,222
+2229523,IZ3PSL,Trevisani Padova (PD),Veneto,ITA,222
+2229524,IW6CHL,Polimanti Monsampietro Morico (AP),Marche,ITA,222
+2229525,IU3PQZ,Michieletto Mestre (VE),Veneto,ITA,222
+2229526,IZ2RLJ,Cutino Milano (MI),Lombardia,ITA,222
+2229527,IK1PMO,Carletti Torino (TO),Piemonte,ITA,222
+2229528,IZ4VSR,Bevilacqua Bologna (BO),Emilia-Rom.,ITA,222
+2229529,IV3BLE,Puppi San Quirino (PN),Friuli VG,ITA,222
+2229530,IK1TNO,Ricagno Condove (TO),Piemonte,ITA,222
 2280000,N0CALL, no_city,Zuerich und Thurgau,CHE,228
 2280001,4U1ITU,Arc Geneva,,CHE,228
 2280002,HB3XWO,Becker Basel,,CHE,228
@@ -9631,6 +9643,8 @@
 2280128,HB9GYS,Dubois Grand Lancy   Geneva,Geneva,CHE,228
 2280129,HB3XYY,Renato Villmergen,Aargau,CHE,228
 2280130,HB9HOC,Eugster Zizers,Grigioni Grisons,CHE,228
+2280131,HB9RJI,Zingg 6206 Neuenkirch,Lucerne,CHE,228
+2280132,HB3XZD,Wettler Courgevaux,Fribourg,CHE,228
 2281001,HB3YNV, Saint-Cergue,Waadt,CHE,228
 2281002,HB3YNV, Saint-Cergue,Waadt,CHE,228
 2281003,HB3YNV, Saint-Cergue,Waadt,CHE,228
