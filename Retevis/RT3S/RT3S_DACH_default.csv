@@ -57,6 +57,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280055,HB3XXL,Lionel Cretegny,Lionel,Lausanne,Vaud,CHE
 2280056,HB9HII,Curdegn Wasescha,Curdegn,Chur,Grigioni Grisons,CHE
 2280057,HB9ABS,Bruno Scheidegger,Bruno,Hombrechtikon,Zurich,CHE
+2280058,HB9HOA,Tobias Wiget,Tobias,Gerlafingen,Solothurn,CHE
 2280059,HB3XXN,Sam Keller,Sam,Steinerberg,Schwyz,CHE
 2280060,HB3XXM,Marcel Freudiger,Marcel,Solothurn,Solothurn,CHE
 2280061,HB9HJP,Philipp Wyss,Philipp,Ch 6263 Richenthal   Reiden,Lucerne,CHE
@@ -79,7 +80,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280078,HB9HKP,Stefan Burri,Stefan,Dornach,Solothurn,CHE
 2280079,HB9HKZ,Florian Roth,Florian,Wauwil,Lucerne,CHE
 2280080,HB3XYI,Roland Faessler,Roland,Faellanden,Zurich,CHE
-2280081,HB3XXZ,Christophe Cassard,Christophe,no_city,Jura,CHE
+2280081,HB9HOV,Christophe Cassard,Christophe,2336,Jura,CHE
 2280082,HB9IIH,Olivier Borgeaud,Olivier,Le Mont Sur Lausanne,Vaud,CHE
 2280083,HB9HKY,Joerg Hodel,Joerg,Rickenbach,Lucerne,CHE
 2280084,HB3XYF,Christian Meyer,Christian,Wohlen,Aargau,CHE
@@ -131,6 +132,17 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280130,HB9HOC,Claudio Eugster,Claudio,Zizers,Grigioni Grisons,CHE
 2280131,HB9RJI,Beat Zingg,Beat,6206 Neuenkirch,Lucerne,CHE
 2280132,HB3XZD,Joel Wettler,Joel,Courgevaux,Fribourg,CHE
+2280133,HB3XZM,Peter Michel,Peter,Eriz,Bern,CHE
+2280134,HB3XXO,Oliver Kuenzler,Oliver,None,Solothurn,CHE
+2280135,HB3XYP,Philippe Blum,Philippe,None,Aargau,CHE
+2280136,HB3XZV,Julien Sansonnens,Julien,Fully,Valais,CHE
+2280137,HB9HOF,Dominik Baumgartner,Dominik,Liestal,Basel-Country,CHE
+2280138,HB9HOO,Marco Gaiotti,Marco,Hoelstein,Basel-Country,CHE
+2280139,HB3XZR,Juerg Meyer,Juerg,Graenichen,Aargau,CHE
+2280140,HB3XZZ,Michael Righetti,Michael,Goldach,St. Gallen,CHE
+2280141,HB9HOL,Lothar Joeckel,Lothar,Buchs Ag,Aargau,CHE
+2280142,HB3XAA,Bruno Zaugg,Bruno,Derendingen,Solothurn,CHE
+2280143,HB9HOI,Stefan Boesch,Stefan,Bichwil,St. Gallen,CHE
 2281001,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE
@@ -718,7 +730,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2284086,HB9TVW,Gabriele Biscetti,Gabriele,Basel,Basel/solothurn,CHE
 2284087,HB9NBI,Andreas Campanella,Andreas,Laufen,Basel/solothurn,CHE
 2284088,HB9MGS,Marcel Oetiker,Marcel,Moehlin,Basel/solothurn,CHE
-2284089,HB3YOS,Hohl Stefan,Hohl,Trimbach,Basel/solothurn,CHE
+2284089,HB9HOY,Stefan Hohl,Stefan,Trimbach,Solothurn,CHE
 2284090,HB9DCO,Arthur Doppler,Arthur,Bottmingen,Basel/solothurn,CHE
 2284091,HB9AWO,Juerg Biedermann,Juerg,Basel,Basel/solothurn,CHE
 2284092,HB9FMD,Roland Flueckiger,Roland,Oberdorf,Basel/solothurn,CHE
@@ -829,7 +841,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2284198,HB9ECS,Charly Saner,Charly,Allschwil,,CHE
 2284199,HB3YNT,Andreas Kaser,Andreas,Bellach,,CHE
 2284200,HB9DIO,Urs Keller,Urs,Muenchenstein,Basel/solothurn,CHE
-2284201,HB3YOS,Stefan Hohl,Stefan,Trimbach,,CHE
+2284201,HB9HOY,Stefan Hohl,Stefan,Trimbach,Solothurn,CHE
 2284202,HB9GXV,Adrian Kunz,Adrian,Allschwil,,CHE
 2284203,HB9GXW,Carlos Garcia,Carlos,Reinach,Basel,CHE
 2284204,HB9GKH,Christian Kaiser,Christian,Basel,Basel,CHE
@@ -1908,6 +1920,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320204,OE7DA,Adolf Strigl,Adolf,Zirl,TIROL,AUT
 2320205,OE1TLC,Martin ,Martin,Wien,WIEN,AUT
 2320206,OE3NFU,Armin None,Armin,Theresienfeld,NOE,AUT
+2320207,OE9VMM,Michael Mangeng,Michael,Hohenems,VBG,AUT
+2320208,OE9VRU,Ulrich Riedmann,Ulrich,Lustenau,VBG,AUT
+2320209,OE7AFJ,Andreas Fahrner,Andreas,St. Anton am Arlberg,TIROL,AUT
 2321001,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
 2321002,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
 2321003,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
@@ -13013,6 +13028,16 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2629665,DO1MMS,Marxen Marowsky Siles,Marxen,Markt Indersdorf,BY,DEU
 2629666,DL2YFG,Martin Krall,Martin,Marl,NW,DEU
 2629667,DL2DID,Dincho Dobrev,Dincho,Berlin,BE,DEU
+2629668,DF8NY,Walter Wagner,Walter,Weidenberg,BY,DEU
+2629669,DL8KAM,Hans Eyk,Hans,Elsdorf,NW,DEU
+2629670,DL1JKA,Juergen Kamm,Juergen,Nuernberg,BY,DEU
+2629671,DO7WU,Nikolaus Von Prittwitz und Gaffron,Nikolaus,Altoetting,BY,DEU
+2629672,DL1YMF,Mirko Filip,Mirko,Guetersloh,NW,DEU
+2629673,DO9HR,Holger Reichelt,Holger,Wolfsburg,NI,DEU
+2629674,DF7GJ,Michael Radau,Michael,Wittlingen,BW,DEU
+2629675,DL1PAT,Patrick Braun,Patrick,Luedenscheid,NW,DEU
+2629676,DC3HB,Bernd Hellwege,Bernd,Dornburg,HE,DEU
+2629677,DF5DG,Daniel Grosse,Daniel,Plauen,SN,DEU
 2633001,DG4AK,Dietmar Wich,Dietmar,Hann Muenden,NI,DEU
 2633002,DH8AAA,Oliver Bastian,Oliver,Vechelde,NI,DEU
 2633003,DC6BV,Reinhardt Schucht,Reinhardt,Norden,NI,DEU

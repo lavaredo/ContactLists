@@ -4755,7 +4755,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2224766,IU2MQD,Re Cassano D Adda (MI),Re,Lombardia,ITA,222,DMR
 2224767,IV3FVG, Fogliano Redipuglia (GO),,Friuli VG,ITA,222,DMR
 2224768,IK2ILJ,Oggioni Bottanuco (BG),Oggioni,Lombardia,ITA,222,DMR
-2224769,IZ2WMD,Vercellino Sant Angelo Lomellina (PV),Vercellino,Lombardia,ITA,222,DMR
+2224769,IZ2WMD,Belotti Casazza (BG),Belotti,Lombardia,ITA,222,DMR
 2224770,IV3HHQ,Rinaldi Trieste (TS),Rinaldi,Friuli VG,ITA,222,DMR
 2224771,IV3GWK, Trieste (TS),,Friuli VG,ITA,222,DMR
 2224772,IV3XSP,Corte Trieste (TS),Corte,Friuli VG,ITA,222,DMR
@@ -9514,6 +9514,18 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2229528,IZ4VSR,Bevilacqua Bologna (BO),Bevilacqua,Emilia-Rom.,ITA,222,DMR
 2229529,IV3BLE,Puppi San Quirino (PN),Puppi,Friuli VG,ITA,222,DMR
 2229530,IK1TNO,Ricagno Condove (TO),Ricagno,Piemonte,ITA,222,DMR
+2229531,I2SVA,Salvatico Brunate (CO),Salvatico,Lombardia,ITA,222,DMR
+2229532,IV3OSC,Bressan Pordenone (PN),Bressan,Friuli VG,ITA,222,DMR
+2229533,IW3IIM,Rocca Conselve (PD),Rocca,Veneto,ITA,222,DMR
+2229534,IT9GSY,Gissara Vizzini (CT),Gissara,Sicilia,ITA,222,DMR
+2229535,IZ5OPY,Rubini Massa (MS),Rubini,Toscana,ITA,222,DMR
+2229536,IQ1GP,To Rivarolo Canavese (TO),To,Piemonte,ITA,222,DMR
+2229537,IK7MXH,Parente Trani (BT),Parente,Puglia,ITA,222,DMR
+2229538,IU3NTX,Lollo Padova (PD),Lollo,Veneto,ITA,222,DMR
+2229539,IS0IYM,Chessa Abbasanta (OR),Chessa,Sardegna,ITA,222,DMR
+2229540,IU1PBA,Caruso Torino (TO),Caruso,Piemonte,ITA,222,DMR
+2229541,IU3NSO,Iu3nso Schio (VI),Iu3nso,Veneto,ITA,222,DMR
+2229542,IS0IYX,Orru Cagliari (CA),Orru,Sardegna,ITA,222,DMR
 2280000,N0CALL, no_city,,Zuerich und Thurgau,CHE,228,DMR
 2280001,4U1ITU,Arc Geneva,Arc,,CHE,228,DMR
 2280002,HB3XWO,Becker Basel,Becker,,CHE,228,DMR
@@ -9572,6 +9584,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280055,HB3XXL,Cretegny Lausanne,Cretegny,Vaud,CHE,228,DMR
 2280056,HB9HII,Wasescha Chur,Wasescha,Grigioni Grisons,CHE,228,DMR
 2280057,HB9ABS,Scheidegger Hombrechtikon,Scheidegger,Zurich,CHE,228,DMR
+2280058,HB9HOA,Wiget Gerlafingen,Wiget,Solothurn,CHE,228,DMR
 2280059,HB3XXN,Keller Steinerberg,Keller,Schwyz,CHE,228,DMR
 2280060,HB3XXM,Freudiger Solothurn,Freudiger,Solothurn,CHE,228,DMR
 2280061,HB9HJP,Wyss Ch 6263 Richenthal   Reiden,Wyss,Lucerne,CHE,228,DMR
@@ -9594,7 +9607,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280078,HB9HKP,Burri Dornach,Burri,Solothurn,CHE,228,DMR
 2280079,HB9HKZ,Roth Wauwil,Roth,Lucerne,CHE,228,DMR
 2280080,HB3XYI,Faessler Faellanden,Faessler,Zurich,CHE,228,DMR
-2280081,HB3XXZ,Cassard no_city,Cassard,Jura,CHE,228,DMR
+2280081,HB9HOV,Cassard 2336,Cassard,Jura,CHE,228,DMR
 2280082,HB9IIH,Borgeaud Le Mont Sur Lausanne,Borgeaud,Vaud,CHE,228,DMR
 2280083,HB9HKY,Hodel Rickenbach,Hodel,Lucerne,CHE,228,DMR
 2280084,HB3XYF,Meyer Wohlen,Meyer,Aargau,CHE,228,DMR
@@ -9646,6 +9659,17 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280130,HB9HOC,Eugster Zizers,Eugster,Grigioni Grisons,CHE,228,DMR
 2280131,HB9RJI,Zingg 6206 Neuenkirch,Zingg,Lucerne,CHE,228,DMR
 2280132,HB3XZD,Wettler Courgevaux,Wettler,Fribourg,CHE,228,DMR
+2280133,HB3XZM,Michel Eriz,Michel,Bern,CHE,228,DMR
+2280134,HB3XXO,Kuenzler None,Kuenzler,Solothurn,CHE,228,DMR
+2280135,HB3XYP,Blum None,Blum,Aargau,CHE,228,DMR
+2280136,HB3XZV,Sansonnens Fully,Sansonnens,Valais,CHE,228,DMR
+2280137,HB9HOF,Baumgartner Liestal,Baumgartner,Basel-Country,CHE,228,DMR
+2280138,HB9HOO,Gaiotti Hoelstein,Gaiotti,Basel-Country,CHE,228,DMR
+2280139,HB3XZR,Meyer Graenichen,Meyer,Aargau,CHE,228,DMR
+2280140,HB3XZZ,Righetti Goldach,Righetti,St. Gallen,CHE,228,DMR
+2280141,HB9HOL,Joeckel Buchs Ag,Joeckel,Aargau,CHE,228,DMR
+2280142,HB3XAA,Zaugg Derendingen,Zaugg,Solothurn,CHE,228,DMR
+2280143,HB9HOI,Boesch Bichwil,Boesch,St. Gallen,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -10233,7 +10257,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284086,HB9TVW,Biscetti Basel,Biscetti,Basel/solothurn,CHE,228,DMR
 2284087,HB9NBI,Campanella Laufen,Campanella,Basel/solothurn,CHE,228,DMR
 2284088,HB9MGS,Oetiker Moehlin,Oetiker,Basel/solothurn,CHE,228,DMR
-2284089,HB3YOS,Stefan Trimbach,Stefan,Basel/solothurn,CHE,228,DMR
+2284089,HB9HOY,Hohl Trimbach,Hohl,Solothurn,CHE,228,DMR
 2284090,HB9DCO,Doppler Bottmingen,Doppler,Basel/solothurn,CHE,228,DMR
 2284091,HB9AWO,Biedermann Basel,Biedermann,Basel/solothurn,CHE,228,DMR
 2284092,HB9FMD,Flueckiger Oberdorf,Flueckiger,Basel/solothurn,CHE,228,DMR
@@ -10344,7 +10368,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284198,HB9ECS,Saner Allschwil,Saner,,CHE,228,DMR
 2284199,HB3YNT,Kaser Bellach,Kaser,,CHE,228,DMR
 2284200,HB9DIO,Keller Muenchenstein,Keller,Basel/solothurn,CHE,228,DMR
-2284201,HB3YOS,Hohl Trimbach,Hohl,,CHE,228,DMR
+2284201,HB9HOY,Hohl Trimbach,Hohl,Solothurn,CHE,228,DMR
 2284202,HB9GXV,Kunz Allschwil,Kunz,,CHE,228,DMR
 2284203,HB9GXW,Garcia Reinach,Garcia,Basel,CHE,228,DMR
 2284204,HB9GKH,Kaiser Basel,Kaiser,Basel,CHE,228,DMR

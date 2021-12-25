@@ -56,6 +56,7 @@
 2280055,HB3XXL Lionel  ,Lionel Cretegny          Lausanne                Vaud                    CHE
 2280056,HB9HII Curdegn ,Curdegn Wasescha         Chur                    Grigioni Grisons        CHE
 2280057,HB9ABS Bruno   ,Bruno Scheidegger        Hombrechtikon           Zurich                  CHE
+2280058,HB9HOA Tobias  ,Tobias Wiget             Gerlafingen             Solothurn               CHE
 2280059,HB3XXN Sam     ,Sam Keller               Steinerberg             Schwyz                  CHE
 2280060,HB3XXM Marcel  ,Marcel Freudiger         Solothurn               Solothurn               CHE
 2280061,HB9HJP Philipp ,Philipp Wyss             Ch 6263 Richenthal   Re Lucerne                 CHE
@@ -78,7 +79,7 @@
 2280078,HB9HKP Stefan  ,Stefan Burri             Dornach                 Solothurn               CHE
 2280079,HB9HKZ Florian ,Florian Roth             Wauwil                  Lucerne                 CHE
 2280080,HB3XYI Roland  ,Roland Faessler          Faellanden              Zurich                  CHE
-2280081,HB3XXZ Christop,Christophe Cassard       no_city                 Jura                    CHE
+2280081,HB9HOV Christop,Christophe Cassard       2336                    Jura                    CHE
 2280082,HB9IIH Olivier ,Olivier Borgeaud         Le Mont Sur Lausanne    Vaud                    CHE
 2280083,HB9HKY Joerg   ,Joerg Hodel              Rickenbach              Lucerne                 CHE
 2280084,HB3XYF Christia,Christian Meyer          Wohlen                  Aargau                  CHE
@@ -130,6 +131,17 @@
 2280130,HB9HOC Claudio ,Claudio Eugster          Zizers                  Grigioni Grisons        CHE
 2280131,HB9RJI Beat    ,Beat Zingg               6206 Neuenkirch         Lucerne                 CHE
 2280132,HB3XZD Joel    ,Joel Wettler             Courgevaux              Fribourg                CHE
+2280133,HB3XZM Peter   ,Peter Michel             Eriz                    Bern                    CHE
+2280134,HB3XXO Oliver  ,Oliver Kuenzler          None                    Solothurn               CHE
+2280135,HB3XYP Philippe,Philippe Blum            None                    Aargau                  CHE
+2280136,HB3XZV Julien  ,Julien Sansonnens        Fully                   Valais                  CHE
+2280137,HB9HOF Dominik ,Dominik Baumgartner      Liestal                 Basel-Country           CHE
+2280138,HB9HOO Marco   ,Marco Gaiotti            Hoelstein               Basel-Country           CHE
+2280139,HB3XZR Juerg   ,Juerg Meyer              Graenichen              Aargau                  CHE
+2280140,HB3XZZ Michael ,Michael Righetti         Goldach                 St. Gallen              CHE
+2280141,HB9HOL Lothar  ,Lothar Joeckel           Buchs Ag                Aargau                  CHE
+2280142,HB3XAA Bruno   ,Bruno Zaugg              Derendingen             Solothurn               CHE
+2280143,HB9HOI Stefan  ,Stefan Boesch            Bichwil                 St. Gallen              CHE
 2281001,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281002,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281003,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
@@ -717,7 +729,7 @@
 2284086,HB9TVW Gabriele,Gabriele Biscetti        Basel                   Basel/solothurn         CHE
 2284087,HB9NBI Andreas ,Andreas Campanella       Laufen                  Basel/solothurn         CHE
 2284088,HB9MGS Marcel  ,Marcel Oetiker           Moehlin                 Basel/solothurn         CHE
-2284089,HB3YOS Hohl    ,Hohl Stefan              Trimbach                Basel/solothurn         CHE
+2284089,HB9HOY Stefan  ,Stefan Hohl              Trimbach                Solothurn               CHE
 2284090,HB9DCO Arthur  ,Arthur Doppler           Bottmingen              Basel/solothurn         CHE
 2284091,HB9AWO Juerg   ,Juerg Biedermann         Basel                   Basel/solothurn         CHE
 2284092,HB9FMD Roland  ,Roland Flueckiger        Oberdorf                Basel/solothurn         CHE
@@ -828,7 +840,7 @@
 2284198,HB9ECS Charly  ,Charly Saner             Allschwil                                       CHE
 2284199,HB3YNT Andreas ,Andreas Kaser            Bellach                                         CHE
 2284200,HB9DIO Urs     ,Urs Keller               Muenchenstein           Basel/solothurn         CHE
-2284201,HB3YOS Stefan  ,Stefan Hohl              Trimbach                                        CHE
+2284201,HB9HOY Stefan  ,Stefan Hohl              Trimbach                Solothurn               CHE
 2284202,HB9GXV Adrian  ,Adrian Kunz              Allschwil                                       CHE
 2284203,HB9GXW Carlos  ,Carlos Garcia            Reinach                 Basel                   CHE
 2284204,HB9GKH Christia,Christian Kaiser         Basel                   Basel                   CHE
@@ -1907,6 +1919,9 @@
 2320204,OE7DA Adolf    ,Adolf Strigl             Zirl                    TIROL                   AUT
 2320205,OE1TLC Martin  ,Martin                   Wien                    WIEN                    AUT
 2320206,OE3NFU Armin   ,Armin None               Theresienfeld           NOE                     AUT
+2320207,OE9VMM Michael ,Michael Mangeng          Hohenems                VBG                     AUT
+2320208,OE9VRU Ulrich  ,Ulrich Riedmann          Lustenau                VBG                     AUT
+2320209,OE7AFJ Andreas ,Andreas Fahrner          St. Anton am Arlberg    TIROL                   AUT
 2321001,OE1KBC Kurt    ,Kurt Baumann             Wien                    WIEN                    AUT
 2321002,OE1KBC Kurt    ,Kurt Baumann             Wien                    WIEN                    AUT
 2321003,OE1KBC Kurt    ,Kurt Baumann             Wien                    WIEN                    AUT
@@ -13012,6 +13027,16 @@
 2629665,DO1MMS Marxen  ,Marxen Marowsky Siles    Markt Indersdorf        BY                      DEU
 2629666,DL2YFG Martin  ,Martin Krall             Marl                    NW                      DEU
 2629667,DL2DID Dincho  ,Dincho Dobrev            Berlin                  BE                      DEU
+2629668,DF8NY Walter   ,Walter Wagner            Weidenberg              BY                      DEU
+2629669,DL8KAM Hans    ,Hans Eyk                 Elsdorf                 NW                      DEU
+2629670,DL1JKA Juergen ,Juergen Kamm             Nuernberg               BY                      DEU
+2629671,DO7WU Nikolaus ,Nikolaus Von Prittwitz u Altoetting              BY                      DEU
+2629672,DL1YMF Mirko   ,Mirko Filip              Guetersloh              NW                      DEU
+2629673,DO9HR Holger   ,Holger Reichelt          Wolfsburg               NI                      DEU
+2629674,DF7GJ Michael  ,Michael Radau            Wittlingen              BW                      DEU
+2629675,DL1PAT Patrick ,Patrick Braun            Luedenscheid            NW                      DEU
+2629676,DC3HB Bernd    ,Bernd Hellwege           Dornburg                HE                      DEU
+2629677,DF5DG Daniel   ,Daniel Grosse            Plauen                  SN                      DEU
 2633001,DG4AK Dietmar  ,Dietmar Wich             Hann Muenden            NI                      DEU
 2633002,DH8AAA Oliver  ,Oliver Bastian           Vechelde                NI                      DEU
 2633003,DC6BV Reinhardt,Reinhardt Schucht        Norden                  NI                      DEU
