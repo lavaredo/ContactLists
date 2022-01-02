@@ -452,7 +452,6 @@
 2060452,ON3RLI,Rudy,Melle,Oost-Vlaanderen,BEL
 2060453,ON3HM,Michel,Merelbeke,Oost-Vlaanderen,BEL
 2060454,ON7KEL,Kevin,Burst,Oost-Vlaanderen,BEL
-2060455,ON4LDL,Robert,Montignies   Sambre,Hainaut,BEL
 2060456,ON5TT,Marc,Waardamme  Oostkamp,West-Vlaanderen,BEL
 2060457,ON7KY,Willy,Herenthout,Antwerp,BEL
 2060458,ON5MH,Miranda,Wetteren,Oost-Vlaanderen,BEL
@@ -466,6 +465,7 @@
 2060466,ON5KC,Tom,Gent,Oost-Vlaanderen,BEL
 2060467,ON3SA,Severine,Bachte Maria Leerne,Oost-Vlaanderen,BEL
 2060468,ON3JT,Joost,Mortsel,Antwerp,BEL
+2060469,ON3MU,Dirk,Hoeselt,Limburg,BEL
 2061001,ON8SVH,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc,Gent,Oost-Vlaanderen,BEL
@@ -2452,6 +2452,8 @@
 2080898,F4IWY,Yannick,Houdain,Hauts-De-France,FRA
 2080899,F4HBA,Luc,Neuville Saint Amand,Hauts-De-France,FRA
 2080900,F4JFU,Mael,Saint Hilaire De Riez,Pays De La Loire,FRA
+2080901,F6IRZ,Jean,Neris Les Bains,Auvergne-Rhone-Alpes,FRA
+2080902,F1UOD,Philippe,Escalquens,Occitanie,FRA
 2081001,F1UOT,Olivier,Suresnes,Ile-De-France,FRA
 2081002,F4ACD,Romain,Poitiers,Vienne,FRA
 2081003,F1TDI,Daniel,Suresnes,Paris,FRA
@@ -3051,7 +3053,6 @@
 2084032,F5KAV,Raccw,Walbourg,Alsace,FRA
 2084033,F5AHO,Jean-Pierre,Riedisheim,Alsace,FRA
 2084034,F5FJL,Alphonse,Saint-Louis,Alsace,FRA
-2084035,F5UII,Christian,Rixheim,Alsace,FRA
 2084036,F6KDL,Jean-Pierre,Wittenheim,Alsace,FRA
 2084037,F5OCL,Jean-Louis,Sausheim,Alsace,FRA
 2084038,F5PPG,Michel,Blies-Guersviller,Alsace,FRA
@@ -4146,7 +4147,7 @@
 2280019,HB9HNJ,Joerg,Baar,Zug,CHE
 2280020,HB9SNW,Armin,Ch-4528 Zuchwil So,Solothurn,CHE
 2280021,HB9OMI,Pierre-Yves,Yverdon-Les-Bains,Vaud,CHE
-2280022,HB3XWT,Jean,Rickenbach Sulz,Zurich,CHE
+2280022,HB9HOS,Jean,Rickenbach Sulz,Zurich,CHE
 2280023,HB9DAG,Bernhard,no_city,Bern,CHE
 2280024,HB9HDI,Martin,no_city,Zurich,CHE
 2280025,HB9HAN,Roland,Sargans,All Regions,CHE
@@ -4268,6 +4269,9 @@
 2280141,HB9HOL,Lothar,Buchs Ag,Aargau,CHE
 2280142,HB3XAA,Bruno,Derendingen,Solothurn,CHE
 2280143,HB9HOI,Stefan,Bichwil,St. Gallen,CHE
+2280144,HB9HIH,Benjamin,Murten,Fribourg,CHE
+2280145,HB9GXT,Phiippe,Agiez,Vaud,CHE
+2280146,HB9HNT,Bernhard,6430 Schwyz,Schwyz,CHE
 2281001,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric,Saint-Cergue,Waadt,CHE
@@ -6792,7 +6796,7 @@
 3020958,VE2CH,Richard,Chelsea,Qc,CAN
 3020959,VE2WRH,Wayne,Cote Saint-Luc,Qc,CAN
 3020960,VA2HIV,Marc,St-Jean-Sur-Richelieu,Qc,CAN
-3020961,VE7NL,Jasper,Campbell River,British Columbia,CAN
+3020961,VA7ION,Ion,Surrey,British Columbia,CAN
 3020962,VA3BFP,Amadeu,York,On,CAN
 3020963,VA3BFP,Amadeu,York,On,CAN
 3020964,VA3KV,Jim,Rockland,On,CAN
@@ -10541,6 +10545,19 @@
 3024734,VE4AE,Geoff,Winnipeg,Manitoba,CAN
 3024735,VA3MA,Daniel,Etobicoke,Ontario,CAN
 3024736,VE3JCC,John,North York,Ontario,CAN
+3024737,VA3MTC,Peter,Dundas,Ontario,CAN
+3024738,VO1YE,Derek,Little Hearts Ease,Newfoundland,CAN
+3024739,VE3KPN,Allan,Clarksburg,Ontario,CAN
+3024740,VA2SP,Didier,Saint Calixte,Quebec,CAN
+3024741,VA3PDC,Paul,Waterloo,Ontario,CAN
+3024742,VA2KWT,Philippe,Montre Al,Quebec,CAN
+3024743,VA2VX,Ste Phane,Gatineau,Quebec,CAN
+3024744,VE3KZT,John,Oshawa,Ontario,CAN
+3024745,VE2CSL,Club,Rimouski,Quebec,CAN
+3024746,VY1MGS,Michael,Whitehorse,Yukon,CAN
+3024747,VE7MTF,Michael,New Westminster,British Columbia,CAN
+3024748,VA7AFN,Jaeryang,Port Moody,British Columbia,CAN
+3024749,VA2ZSL,Se Bastien,Victoriaville,Quebec,CAN
 3025001,VE5RS,Ron,Saskatoon,Saskatchewan,CAN
 3025002,VE5DWR,Devon,Martensville,Saskatchewan,CAN
 3025003,VE5XEF,Bob,Saskatoon,Saskatchewan,CAN

@@ -21,7 +21,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280019,HB9HNJ,Krueger Baar,Krueger,Zug,CHE,228,DMR
 2280020,HB9SNW,Merz Ch-4528 Zuchwil So,Merz,Solothurn,CHE,228,DMR
 2280021,HB9OMI,Jaquenoud Yverdon-Les-Bains,Jaquenoud,Vaud,CHE,228,DMR
-2280022,HB3XWT,Schult Rickenbach Sulz,Schult,Zurich,CHE,228,DMR
+2280022,HB9HOS,Schult Rickenbach Sulz,Schult,Zurich,CHE,228,DMR
 2280023,HB9DAG,Wittwer no_city,Wittwer,Bern,CHE,228,DMR
 2280024,HB9HDI,Roth no_city,Roth,Zurich,CHE,228,DMR
 2280025,HB9HAN,Roth Sargans,Roth,All Regions,CHE,228,DMR
@@ -143,6 +143,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280141,HB9HOL,Joeckel Buchs Ag,Joeckel,Aargau,CHE,228,DMR
 2280142,HB3XAA,Zaugg Derendingen,Zaugg,Solothurn,CHE,228,DMR
 2280143,HB9HOI,Boesch Bichwil,Boesch,St. Gallen,CHE,228,DMR
+2280144,HB9HIH,Pionczewski Murten,Pionczewski,Fribourg,CHE,228,DMR
+2280145,HB9GXT,Etter Agiez,Etter,Vaud,CHE,228,DMR
+2280146,HB9HNT,Keller 6430 Schwyz,Keller,Schwyz,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -1923,6 +1926,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320207,OE9VMM,Mangeng Hohenems,Mangeng,VBG,AUT,232,DMR
 2320208,OE9VRU,Riedmann Lustenau,Riedmann,VBG,AUT,232,DMR
 2320209,OE7AFJ,Fahrner St. Anton am Arlberg,Fahrner,TIROL,AUT,232,DMR
+2320210,OE6CCP,Kaltenbrunner Graz,Kaltenbrunner,STMK,AUT,232,DMR
+2320211,OE6THH,Tschugmell Dobl,Tschugmell,STMK,AUT,232,DMR
+2320212,OE7HUI,Unterpertinger Brixlegg,Unterpertinger,TIROL,AUT,232,DMR
 2321001,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321002,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321003,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
@@ -3635,7 +3641,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620001,DD8OA,Oppermann Thale,Oppermann,ST,DEU,262,DMR
 2620002,DB1JBA,Bontemps Wismar,Bontemps,MV,DEU,262,DMR
 2620003,DG0CCO,Saalfeld no_city,Saalfeld,ST,DEU,262,DMR
-2620004,DO4FB,Hentschel Hamburg,Hentschel,HH,DEU,262,DMR
+2620004,DO2HKR,Hentschel Hamburg,Hentschel,HH,DEU,262,DMR
 2620005,DM2NT,Neubauer Halle,Neubauer,ST,DEU,262,DMR
 2620006,DH6OAI,Lorenz Westeregeln,Lorenz,ST,DEU,262,DMR
 2620007,DD8OA,Oppermann Thale,Oppermann,ST,DEU,262,DMR
@@ -13038,6 +13044,29 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629675,DL1PAT,Braun Luedenscheid,Braun,NW,DEU,262,DMR
 2629676,DC3HB,Hellwege Dornburg,Hellwege,HE,DEU,262,DMR
 2629677,DF5DG,Grosse Plauen,Grosse,SN,DEU,262,DMR
+2629678,DO1EH,Luesebrink Duesseldorf,Luesebrink,NW,DEU,262,DMR
+2629679,DB5KC,Staretschek Breisach am Rhein,Staretschek,BW,DEU,262,DMR
+2629680,DH1CB,Becker Wetzlar,Becker,HE,DEU,262,DMR
+2629681,DL0ROE,Stoecker Erlangen,Stoecker,BY,DEU,262,DMR
+2629682,DL2DCW,Kremer Ennepetal,Kremer,NW,DEU,262,DMR
+2629683,DG2DX,Altenberg Schwerte,Altenberg,NW,DEU,262,DMR
+2629684,DJ3LM,Martins Scheessel,Martins,NI,DEU,262,DMR
+2629685,DL1PAP,Pantic Muenchen,Pantic,BY,DEU,262,DMR
+2629686,DL1WDS,Schulz Berlin,Schulz,BE,DEU,262,DMR
+2629687,DH3KR,Borowski Juelich,Borowski,NW,DEU,262,DMR
+2629688,DL3MGF,Herpich Offenberg,Herpich,BY,DEU,262,DMR
+2629689,DL3LA,Lanz Seegebiet Mansfelder Land,Lanz,ST,DEU,262,DMR
+2629690,DO6AG,Gaertig Leipzig,Gaertig,SN,DEU,262,DMR
+2629691,DO9TRP,Pawassarat Kallmuenz,Pawassarat,BY,DEU,262,DMR
+2629692,DG2ON,Raab Wolfsburg,Raab,NI,DEU,262,DMR
+2629693,DO4VE,Eberwein Sulzbach Laufen,Eberwein,BW,DEU,262,DMR
+2629694,DG4BAD,Hinzpeter Apen,Hinzpeter,NI,DEU,262,DMR
+2629695,DO1ALB,Langer Bensdorf,Langer,BB,DEU,262,DMR
+2629696,DD9PX,Beuth Mainz-Kostheim,Beuth,HE,DEU,262,DMR
+2629697,DO6BWC,Weber Crailsheim,Weber,BW,DEU,262,DMR
+2629698,DC1HQ,Frensche Ingolstadt,Frensche,BY,DEU,262,DMR
+2629699,DL5SG,Seyffert Falkenau,Seyffert,SN,DEU,262,DMR
+2629700,DH5ABH,Hilzbrich Hohenhameln,Hilzbrich,NI,DEU,262,DMR
 2633001,DG4AK,Wich Hann Muenden,Wich,NI,DEU,263,DMR
 2633002,DH8AAA,Bastian Vechelde,Bastian,NI,DEU,263,DMR
 2633003,DC6BV,Schucht Norden,Schucht,NI,DEU,263,DMR

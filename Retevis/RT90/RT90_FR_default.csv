@@ -452,7 +452,6 @@
 2060452,ON3RLI,Limpens Melle,Oost-Vlaanderen,BEL,206
 2060453,ON3HM,Haeck Merelbeke,Oost-Vlaanderen,BEL,206
 2060454,ON7KEL,Voet Burst,Oost-Vlaanderen,BEL,206
-2060455,ON4LDL,Michaux Montignies   Sambre,Hainaut,BEL,206
 2060456,ON5TT,Vancraeyenest Waardamme  Oostkamp,West-Vlaanderen,BEL,206
 2060457,ON7KY,Wellens Herenthout,Antwerp,BEL,206
 2060458,ON5MH,Heyndrickx Wetteren,Oost-Vlaanderen,BEL,206
@@ -466,6 +465,7 @@
 2060466,ON5KC,Willems Gent,Oost-Vlaanderen,BEL,206
 2060467,ON3SA,Dobbels Bachte Maria Leerne,Oost-Vlaanderen,BEL,206
 2060468,ON3JT,Luyten Mortsel,Antwerp,BEL,206
+2060469,ON3MU,Dieu Hoeselt,Limburg,BEL,206
 2061001,ON8SVH,Hende Oudenaarde,Oost-Vlaanderen,BEL,206
 2061002,ON8SI,Pauw Oosterzele,Oost-Vlaanderen,BEL,206
 2061003,ON5LUC,Lourense Gent,Oost-Vlaanderen,BEL,206
@@ -2452,6 +2452,8 @@
 2080898,F4IWY,Benoit Houdain,Hauts-De-France,FRA,208
 2080899,F4HBA,Hurbin Neuville Saint Amand,Hauts-De-France,FRA,208
 2080900,F4JFU,Cade Saint Hilaire De Riez,Pays De La Loire,FRA,208
+2080901,F6IRZ,Degorre Neris Les Bains,Auvergne-Rhone-Alpes,FRA,208
+2080902,F1UOD,Lespine Escalquens,Occitanie,FRA,208
 2081001,F1UOT,Guerin Suresnes,Ile-De-France,FRA,208
 2081002,F4ACD,Hulot Poitiers,Vienne,FRA,208
 2081003,F1TDI,Trillaud Suresnes,Paris,FRA,208
@@ -3051,7 +3053,6 @@
 2084032,F5KAV,Raccw Walbourg,Alsace,FRA,208
 2084033,F5AHO,Kaeuffer Riedisheim,Alsace,FRA,208
 2084034,F5FJL,Foini Saint-Louis,Alsace,FRA,208
-2084035,F5UII,Furst Rixheim,Alsace,FRA,208
 2084036,F6KDL,Kaeuffer Wittenheim,Alsace,FRA,208
 2084037,F5OCL,Lhermet Sausheim,Alsace,FRA,208
 2084038,F5PPG,Garnier Blies-Guersviller,Alsace,FRA,208
@@ -4146,7 +4147,7 @@
 2280019,HB9HNJ,Krueger Baar,Zug,CHE,228
 2280020,HB9SNW,Merz Ch-4528 Zuchwil So,Solothurn,CHE,228
 2280021,HB9OMI,Jaquenoud Yverdon-Les-Bains,Vaud,CHE,228
-2280022,HB3XWT,Schult Rickenbach Sulz,Zurich,CHE,228
+2280022,HB9HOS,Schult Rickenbach Sulz,Zurich,CHE,228
 2280023,HB9DAG,Wittwer no_city,Bern,CHE,228
 2280024,HB9HDI,Roth no_city,Zurich,CHE,228
 2280025,HB9HAN,Roth Sargans,All Regions,CHE,228
@@ -4268,6 +4269,9 @@
 2280141,HB9HOL,Joeckel Buchs Ag,Aargau,CHE,228
 2280142,HB3XAA,Zaugg Derendingen,Solothurn,CHE,228
 2280143,HB9HOI,Boesch Bichwil,St. Gallen,CHE,228
+2280144,HB9HIH,Pionczewski Murten,Fribourg,CHE,228
+2280145,HB9GXT,Etter Agiez,Vaud,CHE,228
+2280146,HB9HNT,Keller 6430 Schwyz,Schwyz,CHE,228
 2281001,HB3YNV, Saint-Cergue,Waadt,CHE,228
 2281002,HB3YNV, Saint-Cergue,Waadt,CHE,228
 2281003,HB3YNV, Saint-Cergue,Waadt,CHE,228
@@ -6792,7 +6796,7 @@
 3020958,VE2CH,Palmer Chelsea,Qc,CAN,302
 3020959,VE2WRH,Hodgins Cote Saint-Luc,Qc,CAN,302
 3020960,VA2HIV,Hivon St-Jean-Sur-Richelieu,Qc,CAN,302
-3020961,VE7NL,Petrus Campbell River,British Columbia,CAN,302
+3020961,VA7ION,Marinescu Surrey,British Columbia,CAN,302
 3020962,VA3BFP,Gomes York,On,CAN,302
 3020963,VA3BFP,Gomes York,On,CAN,302
 3020964,VA3KV,Thiessen Rockland,On,CAN,302
@@ -10541,6 +10545,19 @@
 3024734,VE4AE,Bawden Winnipeg,Manitoba,CAN,302
 3024735,VA3MA,Howard Etobicoke,Ontario,CAN,302
 3024736,VE3JCC,Chin North York,Ontario,CAN,302
+3024737,VA3MTC,Smith Dundas,Ontario,CAN,302
+3024738,VO1YE,Drover Little Hearts Ease,Newfoundland,CAN,302
+3024739,VE3KPN,Kenwell Clarksburg,Ontario,CAN,302
+3024740,VA2SP,Gagniere Saint Calixte,Quebec,CAN,302
+3024741,VA3PDC,Curtin Waterloo,Ontario,CAN,302
+3024742,VA2KWT,Jaleev Montre Al,Quebec,CAN,302
+3024743,VA2VX,Jacob Gatineau,Quebec,CAN,302
+3024744,VE3KZT,Smith Oshawa,Ontario,CAN,302
+3024745,VE2CSL,Inc Rimouski,Quebec,CAN,302
+3024746,VY1MGS,Settle Whitehorse,Yukon,CAN,302
+3024747,VE7MTF,Fry New Westminster,British Columbia,CAN,302
+3024748,VA7AFN,Kim Port Moody,British Columbia,CAN,302
+3024749,VA2ZSL,Labbe Victoriaville,Quebec,CAN,302
 3025001,VE5RS,Slind Saskatoon,Saskatchewan,CAN,302
 3025002,VE5DWR,Racicot Martensville,Saskatchewan,CAN,302
 3025003,VE5XEF,Seaborn Saskatoon,Saskatchewan,CAN,302
