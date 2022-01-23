@@ -6870,7 +6870,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2226883,IU3ELN,Michele Visman,Michele,Quarto D Altino (VE),Veneto,ITA
 2226884,IK2WPZ,Emanuele Molla,Emanuele,Bustro Arsizio (VA),Lombardia,ITA
 2226885,IU0ODJ,Angelo Veloccia,Angelo,Roma (RM),Lazio,ITA
-2226886,IU3OER,no_name ,no_name,,Veneto,ITA
+2226886,IU3OER,no_name ,no_name,no_city,Veneto,ITA
 2226887,IW8PGB,Giuseppe Iaconianni,Giuseppe,Roggiano Gravina (CS),Calabria,ITA
 2226888,IZ8VGY,Giovanni Ferrara,Giovanni,Cardito (NA),Campania,ITA
 2226889,IU5MGF,Leonardo Poggesi,Leonardo,San Giovanni Valdarno (AR),Toscana,ITA
@@ -7555,7 +7555,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2227569,IV3TYS,Dario Barbangelo,Dario,Gorizia (GO),Friuli VG,ITA
 2227570,IW2MQP,Maurizio Rimoldi,Maurizio,Turate (CO),Lombardia,ITA
 2227571,IW6ODG,Walter Rubeo,Walter,Tagliacozzo (AQ),Abruzzo,ITA
-2227572,IU2NSI,Gloria Galimberti,Gloria,,Lombardia,ITA
+2227572,IU2NSI,Gloria Galimberti,Gloria,no_city,Lombardia,ITA
 2227573,IU7KMU,Matteo Perillo,Matteo,Manfredonia (FG),Puglia,ITA
 2227574,IT9CSD,Salvatore Liga,Salvatore,Casteldaccia (PA),Sicilia,ITA
 2227575,IZ2SQK,Andrea Marioni,Andrea,Milano (MI),Lombardia,ITA
@@ -7580,7 +7580,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2227594,IK4FFS,Giuseppe Donadio,Giuseppe,Maranello (MO),Emilia-Rom.,ITA
 2227595,IK8GJZ,Francesco Molaro,Francesco,Castellammare Stabia (NA),Campania,ITA
 2227596,IT9XIG,Pietro Bono,Pietro,Campobello Di Mazara (TP),Sicilia,ITA
-2227597,IU2OQT,Vitaliano Trecca,Vitaliano,,Lombardia,ITA
+2227597,IU2OQT,Vitaliano Trecca,Vitaliano,no_city,Lombardia,ITA
 2227598,IU5OHH,Carlo Ordini,Carlo,Grosseto (GR),Toscana,ITA
 2227599,IU7NXT,Nicola Lonigro,Nicola,Bari (BA),Puglia,ITA
 2227600,IU4OKB,Valerio Giampietro,Valerio,San Giovanni In Persiceto (BO),Emilia-Rom.,ITA
@@ -7589,7 +7589,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2227603,IW3AAD,Arrigo Tiengo,Arrigo,Villazzano (TN),Trentino AA,ITA
 2227604,IT9AGE,Marcello Pezzino,Marcello,Catania (CT),Sicilia,ITA
 2227605,IU2NKE,Diego Martino,Diego,Milano (MI),Lombardia,ITA
-2227606,IU8IAJ,Luca De Rosa,Luca,,Campania,ITA
+2227606,IU8IAJ,Luca De Rosa,Luca,no_city,Campania,ITA
 2227607,IZ3MFS,Antonio Bonesso,Antonio,Montebelluna (TV),Veneto,ITA
 2227608,IT9IRQ,Ada Guzzetta,Ada,Catania (CT),Sicilia,ITA
 2227609,IZ5ILX,Valentino D Andrea,Valentino,San Lorenzo (MS),Toscana,ITA
@@ -8823,7 +8823,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2228838,IK0IRE,Francesco Cilea,Francesco,Anzio (RM),Lazio,ITA
 2228839,IV3HJD,Nicola Viol,Nicola,Zoppola (PN),Friuli VG,ITA
 2228840,IU3PAL,Lanfranco Marin,Lanfranco,Rovigo (RO),Veneto,ITA
-2228841,IU5PIK,Lorenzo Venturi,Lorenzo,,Toscana,ITA
+2228841,IU5PIK,Lorenzo Venturi,Lorenzo,no_city,Toscana,ITA
 2228842,IU1GQK,Gabriele Gualco,Gabriele,Voltaggio (AL),Piemonte,ITA
 2228843,IU7IFN,Aldo Alfiero,Aldo,Latiano (BR),Puglia,ITA
 2228844,IT9BQQ,Francesco Cocina,Francesco,Catania (CT),Sicilia,ITA
@@ -8965,7 +8965,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2228980,IU8PCP,Luigi Lorenzano,Luigi,Crotone (KR),Calabria,ITA
 2228981,IZ5GST,Steve Tolari,Steve,Montecatini Terme (PT),Toscana,ITA
 2228982,IK2ULP,Salvatore Gentile,Salvatore,Milano (MI),Lombardia,ITA
-2228983,IW8DUS,Costanzo Muccio,Costanzo,,,ITA
+2228983,IW8DUS,Costanzo Muccio,Costanzo,no_city,,ITA
 2228984,IU4HNA,Fabrizio Muro,Fabrizio,Rimini (RN),Emilia-Rom.,ITA
 2228985,IZ8LIN,Graziano Polito,Graziano,Altavilla Silentina (SA),Campania,ITA
 2228986,IV3IJP,Leonardo Tedeschi,Leonardo,Corno Di Rosazzo (UD),Friuli VG,ITA
@@ -9479,7 +9479,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2229494,IU4PSZ,Giovanni Bertozzi,Giovanni,Riolo Terme (RA),Emilia-Rom.,ITA
 2229495,IU4PUJ,Simone Frollo,Simone,Riolo Terme (RA),Emilia-Rom.,ITA
 2229496,IK1YEK,Vincenzo Firpo,Vincenzo,Finale Ligure (SV),Liguria,ITA
-2229497,IU3KJZ,Ergi Mone,Ergi,,Veneto,ITA
+2229497,IU3KJZ,Ergi Mone,Ergi,no_city,Veneto,ITA
 2229498,IU4PTG,Marco Cmp,Marco,Modena (MO),Emilia-Rom.,ITA
 2229499,IU5PUE,Paolo Tognaccini,Paolo,Montevarchi (AR),Toscana,ITA
 2229500,IK0UGC,Gabriele Albano,Gabriele,Fonte Nuova (RM),Lazio,ITA
@@ -9575,3 +9575,20 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2229590,IK1SLO,Gabriele Mutti,Gabriele,Piobesi D Alba (CN),Piemonte,ITA
 2229591,IU0PUW,Andrea Angelis,Andrea,Terni (TR),Umbria,ITA
 2229592,IT9QQO,Claudio Orazio,Claudio,Marsala (TP),Sicilia,ITA
+2229593,IU6GJF,Emanuele Feola,Emanuele,Fossacesia (CH),Abruzzo,ITA
+2229594,IU3KJN,Luigi Bavaresco,Luigi,Camposampiero (PD),Veneto,ITA
+2229595,IU1DUB,Alvaro Brignone,Alvaro,Calice Ligure (SV),Liguria,ITA
+2229596,IQ3EC,Cisar Trieste,Cisar,Trieste (TS),Friuli VG,ITA
+2229597,IZ6PCD,Nicola Masciantonio,Nicola,Pescara (PE),Abruzzo,ITA
+2229598,IZ1RFL,Sergio Superina,Sergio,Castellinaldo D Alba (CN),Piemonte,ITA
+2229599,IU2JER,Diego Colombo,Diego,Varese (VA),Lombardia,ITA
+2229600,IU0PXR,Fabio Pescatori,Fabio,Ladispoli (RM),Lazio,ITA
+2229601,IW8RCN,Fortunato Torchia,Fortunato,Mendicino (CS),Calabria,ITA
+2229602,IU7PTJ,Antonio Toscano,Antonio,Giovinazzo (BA),Puglia,ITA
+2229603,IT9NOV,Salvo Anza,Salvo,Naso (ME),Sicilia,ITA
+2229604,IS0HDP,Mariano Manis,Mariano,Iglesias (SU),Sardegna,ITA
+2229605,IZ7YXV,Francesco Cuomo,Francesco,Andria (BT),Puglia,ITA
+2229606,IU7PTK,Domenico Damascelli,Domenico,Bitonto (BA),Puglia,ITA
+2229607,IN3IZL,Marcel Schwarz,Marcel,Silandro (BZ),Trentino AA,ITA
+2229608,IW1RHS,Umberto Bruni,Umberto,Recco (GE),Piemonte,ITA
+2229609,IW1CBG,Alfredo Pavarino,Alfredo,Garessio (CN),Piemonte,ITA
