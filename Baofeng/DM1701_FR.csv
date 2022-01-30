@@ -477,6 +477,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060476,ON3PAN,Deun Bredene,Deun,West-Vlaanderen,BEL,206,DMR
 2060477,ON3HP,Penning Lochristi,Penning,Oost-Vlaanderen,BEL,206,DMR
 2060478,ON3PDM,Demey Houmont,Demey,Luxemburg,BEL,206,DMR
+2060479,ON4RYH,Rychlicki Obourg,Rychlicki,Hainaut,BEL,206,DMR
 2061001,ON8SVH,Hende Oudenaarde,Hende,Oost-Vlaanderen,BEL,206,DMR
 2061002,ON8SI,Pauw Oosterzele,Pauw,Oost-Vlaanderen,BEL,206,DMR
 2061003,ON5LUC,Lourense Gent,Lourense,Oost-Vlaanderen,BEL,206,DMR
@@ -2472,6 +2473,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2080907,F4JGB,Rouxel Martinvast,Rouxel,Normandie,FRA,208,DMR
 2080908,F4GYK,Cebrero Moragne,Cebrero,Nouvelle-Aquitaine,FRA,208,DMR
 2080909,F5SRH,Jouaud Avessac,Jouaud,Pays De La Loire,FRA,208,DMR
+2080910,F1AOC,Tabountchikoff-Lemaire Isle Sur La Sorgue,Tabountchikoff-Lemaire,Provence-Alpes-Cote D Azur,FRA,208,DMR
+2080911,F4JFI,Jolivet Perigueux,Jolivet,Nouvelle-Aquitaine,FRA,208,DMR
 2081001,F1UOT,Guerin Suresnes,Guerin,Ile-De-France,FRA,208,DMR
 2081002,F4ACD,Hulot Poitiers,Hulot,Vienne,FRA,208,DMR
 2081003,F1TDI,Trillaud Suresnes,Trillaud,Paris,FRA,208,DMR
@@ -4300,6 +4303,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280153,HB9HPD,Goldschmid Russikon,Goldschmid,Zurich,CHE,228,DMR
 2280154,HB9RDA,Waelti Schwarzenburg,Waelti,Bern,CHE,228,DMR
 2280155,HB9EPG,Gloor Zuerich,Gloor,Zurich,CHE,228,DMR
+2280156,HB9GYN,Galeuchet Porrentruy,Galeuchet,Jura,CHE,228,DMR
+2280157,HB3XZX,Tanfoglio Rueschlikon,Tanfoglio,Zurich,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -6801,7 +6806,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3020933,VE3HMJ,Mcintosh Timmins Ontario,Mcintosh,,CAN,302,DMR
 3020934,VA7GUR,Gill Squamish,Gill,,CAN,302,DMR
 3020935,VE1DPG,Gillis N Sydney,Gillis,,CAN,302,DMR
-3020936,VE2MMW,Williams Saint-Lin-Laurentides,Williams,,CAN,302,DMR
+3020936,VA2XL,Williams Saint-Lin-Laurentides,Williams,Quebec,CAN,302,DMR
 3020938,VA2SJM,Guilbeault Sainte-Melanie,Guilbeault,,CAN,302,DMR
 3020939,VE7BQM,Calderwood Coquitlam,Calderwood,,CAN,302,DMR
 3020940,VE2WER,Werbrouck Gatineau,Werbrouck,,CAN,302,DMR
@@ -10194,7 +10199,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3024355,VE9RSH,Sherwood no_city,Sherwood,New Brunswick,CAN,302,DMR
 3024356,VA2LRA,Ranger Danville,Ranger,Quebec,CAN,302,DMR
 3024357,VA3JJW,Whitman Uxbridge,Whitman,Ontario,CAN,302,DMR
-3024358,VA4BEN,Riehl Durban,Riehl,Manitoba,CAN,302,DMR
+3024358,VE4LID,Riehl Durban,Riehl,Manitoba,CAN,302,DMR
 3024359,VE6IVN,Jewell St  Albert,Jewell,Alberta,CAN,302,DMR
 3024360,VA7XZZ,Lowe no_city,Lowe,British Columbia,CAN,302,DMR
 3024361,VA7MSO,Sombert Prince George,Sombert,British Columbia,CAN,302,DMR
@@ -10616,6 +10621,18 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3024777,VA4KAV,Tcheon Winnipeg,Tcheon,Manitoba,CAN,302,DMR
 3024778,VE6HQ,Westacott Red Deer,Westacott,Alberta,CAN,302,DMR
 3024779,VY1GS,Settle Whitehorse,Settle,Yukon,CAN,302,DMR
+3024780,VA1HOT,Kulikowski Bedford,Kulikowski,Nova Scotia,CAN,302,DMR
+3024781,VE4LID,Riehl Durban,Riehl,Manitoba,CAN,302,DMR
+3024782,VE3WWJ,Green Nepean,Green,Ontario,CAN,302,DMR
+3024783,VA7LGR,Loewen Wynndel,Loewen,British Columbia,CAN,302,DMR
+3024784,VE7HPH,Hasek Lac La Hache,Hasek,British Columbia,CAN,302,DMR
+3024785,VE3AHV,Norton Barrie,Norton,Ontario,CAN,302,DMR
+3024786,VE2YVZ,Viel Saint Patrice De Beaurivage,Viel,Quebec,CAN,302,DMR
+3024787,VE6CHA,Wright Calgary,Wright,Alberta,CAN,302,DMR
+3024788,VA3LTH,Clayton Guelph,Clayton,Ontario,CAN,302,DMR
+3024789,VE7FAR,Perkins Sooke,Perkins,British Columbia,CAN,302,DMR
+3024790,VE7OZZ,Hoefgen Surrey,Hoefgen,British Columbia,CAN,302,DMR
+3024791,VE3GIQ,Boivin Orleans,Boivin,Ontario,CAN,302,DMR
 3025001,VE5RS,Slind Saskatoon,Slind,Saskatchewan,CAN,302,DMR
 3025002,VE5DWR,Racicot Martensville,Racicot,Saskatchewan,CAN,302,DMR
 3025003,VE5XEF,Seaborn Saskatoon,Seaborn,Saskatchewan,CAN,302,DMR
