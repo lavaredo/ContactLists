@@ -478,6 +478,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060477,ON3HP,Penning Lochristi,Penning,Oost-Vlaanderen,BEL,206,DMR
 2060478,ON3PDM,Demey Houmont,Demey,Luxemburg,BEL,206,DMR
 2060479,ON4RYH,Rychlicki Obourg,Rychlicki,Hainaut,BEL,206,DMR
+2060480,ON3CCC,Bogaert 9050 Gent,Bogaert,Oost-Vlaanderen,BEL,206,DMR
+2060481,ON3WCT,Prost Ciney,Prost,Namur,BEL,206,DMR
+2060482,ON3BJK,Claes 9100 Sint Niklaas,Claes,Oost-Vlaanderen,BEL,206,DMR
+2060483,ON3COP,Coppens Peer,Coppens,Limburg,BEL,206,DMR
+2060484,ON3EU,Baere Zomergem,Baere,Oost-Vlaanderen,BEL,206,DMR
 2061001,ON8SVH,Hende Oudenaarde,Hende,Oost-Vlaanderen,BEL,206,DMR
 2061002,ON8SI,Pauw Oosterzele,Pauw,Oost-Vlaanderen,BEL,206,DMR
 2061003,ON5LUC,Lourense Gent,Lourense,Oost-Vlaanderen,BEL,206,DMR
@@ -1962,7 +1967,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2080396,F4ELU, no_city,,,FRA,208,DMR
 2080397,F0FVJ, no_city,,,FRA,208,DMR
 2080398,F4FPP, no_city,,,FRA,208,DMR
-2080399,F0CYQ, Saint Vincent De Tyrosse,,,FRA,208,DMR
+2080399,F4CYQ, Saint Vincent De Tyrosse,,,FRA,208,DMR
 2080400,F1ADT, Thionville,,,FRA,208,DMR
 2080401,F4BPO, La Destrousse,,,FRA,208,DMR
 2080402,F4FMQ, no_city,,,FRA,208,DMR
@@ -2475,6 +2480,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2080909,F5SRH,Jouaud Avessac,Jouaud,Pays De La Loire,FRA,208,DMR
 2080910,F1AOC,Tabountchikoff-Lemaire Isle Sur La Sorgue,Tabountchikoff-Lemaire,Provence-Alpes-Cote D Azur,FRA,208,DMR
 2080911,F4JFI,Jolivet Perigueux,Jolivet,Nouvelle-Aquitaine,FRA,208,DMR
+2080912,F4IRK,Mercadier Toulouse,Mercadier,Occitanie,FRA,208,DMR
+2080913,F1FHK,Piquemal Cournonsec,Piquemal,Occitanie,FRA,208,DMR
+2080914,F0FMP,Darne Olette,Darne,Occitanie,FRA,208,DMR
 2081001,F1UOT,Guerin Suresnes,Guerin,Ile-De-France,FRA,208,DMR
 2081002,F4ACD,Hulot Poitiers,Hulot,Vienne,FRA,208,DMR
 2081003,F1TDI,Trillaud Suresnes,Trillaud,Paris,FRA,208,DMR
@@ -4305,6 +4313,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280155,HB9EPG,Gloor Zuerich,Gloor,Zurich,CHE,228,DMR
 2280156,HB9GYN,Galeuchet Porrentruy,Galeuchet,Jura,CHE,228,DMR
 2280157,HB3XZX,Tanfoglio Rueschlikon,Tanfoglio,Zurich,CHE,228,DMR
+2280158,HB9HPM,Mantegazza Pedrinate,Mantegazza,Ticino,CHE,228,DMR
+2280159,HB9HPG,Seoane Prilly,Seoane,Vaud,CHE,228,DMR
+2280160,HB9HNV,Dummermuth 4564 Obergerlafingen,Dummermuth,Solothurn,CHE,228,DMR
+2280161,HB3XAE,Passantino Kaiseraugst,Passantino,Aargau,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -4874,7 +4886,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2284068,HB9FUV,Mueller Basel,Mueller,Basel/solothurn,CHE,228,DMR
 2284069,HB9XAM,Schuetz Zofingen,Schuetz,Basel/solothurn,CHE,228,DMR
 2284070,HB9KAK,Luescher Oftringen,Luescher,Basel/solothurn,CHE,228,DMR
-2284071,HB9EYQ,Ponte Reinach,Ponte,Basel/solothurn,CHE,228,DMR
 2284072,HB9KBD,Haefeli Uerkheim,Haefeli,Basel/solothurn,CHE,228,DMR
 2284073,HB3YKF,Schuetz Zofingen,Schuetz,Basel/solothurn,CHE,228,DMR
 2284074,HB3YYE,Schuetz Zofingen,Schuetz,Basel/solothurn,CHE,228,DMR
@@ -6769,7 +6780,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3020895,VE3GID,Sved Spencerville,Sved,On,CAN,302,DMR
 3020896,VA6NDW,Wakeford Edmonton,Wakeford,Ab,CAN,302,DMR
 3020897,VE2RFS,Fortin Vaudreuil,Fortin,Qc,CAN,302,DMR
-3020898,VE2XI,Imbeau Drummondville,Imbeau,Qc,CAN,302,DMR
 3020899,VE2QMS,Saucier Montsainthilaire,Saucier,Qc,CAN,302,DMR
 3020900,VA2IAA,Pare Sherbrooke,Pare,Qc,CAN,302,DMR
 3020901,VE7MA,Metcalfe W Kelowna,Metcalfe,Bc,CAN,302,DMR
@@ -10633,6 +10643,18 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3024789,VE7FAR,Perkins Sooke,Perkins,British Columbia,CAN,302,DMR
 3024790,VE7OZZ,Hoefgen Surrey,Hoefgen,British Columbia,CAN,302,DMR
 3024791,VE3GIQ,Boivin Orleans,Boivin,Ontario,CAN,302,DMR
+3024792,VA2GSX,Munger Jonquie Re,Munger,Quebec,CAN,302,DMR
+3024793,VE4DAR,Rosner Winnipeg,Rosner,Manitoba,CAN,302,DMR
+3024794,VE2NLS,Niles Bromont,Niles,Quebec,CAN,302,DMR
+3024795,VE7KXK,Carriere Brackendale,Carriere,British Columbia,CAN,302,DMR
+3024796,VA2PBQ,Be Gin Saint-Norbert-D-Arthabaska,Be Gin,Quebec,CAN,302,DMR
+3024797,VA7HHU,Hu Langley,Hu,British Columbia,CAN,302,DMR
+3024798,VE3JRS,Saunders London,Saunders,Ontario,CAN,302,DMR
+3024799,VE7QBE,Edge Qualicum Beach,Edge,British Columbia,CAN,302,DMR
+3024800,VE2VAB,Chaudron Gatineau,Chaudron,Quebec,CAN,302,DMR
+3024801,VE7LCN,Nolin Qualicum Beach,Nolin,British Columbia,CAN,302,DMR
+3024802,VA3SQ,Sibbett Welland,Sibbett,Ontario,CAN,302,DMR
+3024803,VA7RUL,Rualo Surrey,Rualo,British Columbia,CAN,302,DMR
 3025001,VE5RS,Slind Saskatoon,Slind,Saskatchewan,CAN,302,DMR
 3025002,VE5DWR,Racicot Martensville,Racicot,Saskatchewan,CAN,302,DMR
 3025003,VE5XEF,Seaborn Saskatoon,Seaborn,Saskatchewan,CAN,302,DMR
