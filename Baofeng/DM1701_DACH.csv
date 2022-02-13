@@ -12,7 +12,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280010,HB9FSN,Kurt Bretzwil,Kurt,Basel/solothurn,CHE,228,DMR
 2280011,HB9OBB,Guazzoni Zurich,Guazzoni,Zuerich und Thurgau,CHE,228,DMR
 2280012,HB9HGO,Laya no_city,Laya,Basel/solothurn,CHE,228,DMR
-2280013,HB3XWW,Juen Oberneunforn,Juen,,CHE,228,DMR
+2280013,HB9HOU,Juen 8526 Oberneunforn,Juen,Thurgau,CHE,228,DMR
 2280014,HB9GYV,Junod Bienne,Junod,,CHE,228,DMR
 2280015,HB3XVS, Moosseedorf,,Bern,CHE,228,DMR
 2280016,HB3XWN,Nerone Auw,Nerone,Aargau,CHE,228,DMR
@@ -1951,6 +1951,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320218,OE7GGM,Molitor-Morandell Volders,Molitor-Morandell,TIROL,AUT,232,DMR
 2320219,OE7FLT,Linder Telfes,Linder,TIROL,AUT,232,DMR
 2320220,OE5AFL,Fraungruber Prambachkirchen,Fraungruber,OOE,AUT,232,DMR
+2320221,OE5RXP,Weissenboeck Fraham,Weissenboeck,OOE,AUT,232,DMR
 2321001,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321002,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321003,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
@@ -8244,7 +8245,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2624760,DL3YAV,Sperlich Bielefeld,Sperlich,NW,DEU,262,DMR
 2624761,DG6YDF,Hanings Tecklenburg,Hanings,NW,DEU,262,DMR
 2624762,DL9OT,Otto no_city,Otto,NW,DEU,262,DMR
-2624763,DB0KLL,Guettner no_city,Guettner,NW,DEU,262,DMR
+2624763,DK6MG,Guettner Kall,Guettner,NW,DEU,262,DMR
 2624764,DM1HD,Dahners Juechen,Dahners,NW,DEU,262,DMR
 2624766,DB2YAH,Speikamp Luedinghausen,Speikamp,NW,DEU,262,DMR
 2624767,DB9MW,Maus Bad Honnef,Maus,NW,DEU,262,DMR
@@ -12939,7 +12940,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629561,DO1DV,Ventur Rheda-Wiedenbrueck,Ventur,NW,DEU,262,DMR
 2629562,DG3JO,Hoffen Leimen,Hoffen,BW,DEU,262,DMR
 2629563,DO5SKH,Kress Hattersheim,Kress,HE,DEU,262,DMR
-2629564,DO1NJB,Bauer Koednitz,Bauer,BY,DEU,262,DMR
+2629564,DK1NJB,Bauer Koednitz,Bauer,BY,DEU,262,DMR
 2629565,DL4AA,Awizio Bad Schwalbach,Awizio,HE,DEU,262,DMR
 2629566,DB1ZA,Zaidan Aachen,Zaidan,NW,DEU,262,DMR
 2629567,DL9FAQ,Doerrhoefer Floersheim,Doerrhoefer,HE,DEU,262,DMR
@@ -13126,7 +13127,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629750,DL1UR,Sitt Steinfeld,Sitt,RP,DEU,262,DMR
 2629751,DM9KT,Klapproth Kindelbrueck,Klapproth,TH,DEU,262,DMR
 2629752,DL4NHP,Pfeffer Bayreuth,Pfeffer,BY,DEU,262,DMR
-2629753,DO5CW,Schaale Berlin,Schaale,BE,DEU,262,DMR
+2629753,DC7CW,Schaale Berlin,Schaale,BE,DEU,262,DMR
 2629754,DL3SCA,Jaksch Verden,Jaksch,NI,DEU,262,DMR
 2629755,DO1RHW,Herbort Wunstorf,Herbort,NI,DEU,262,DMR
 2629756,DG5UAR,Beyreuther Leimen,Beyreuther,BW,DEU,262,DMR
@@ -13177,13 +13178,36 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629801,DC5SD,Dietzgen Reken,Dietzgen,NW,DEU,262,DMR
 2629802,DO3KW,Winkler Schwieberdingen,Winkler,BW,DEU,262,DMR
 2629803,DL1DU,Hoetz Wald-Michelbach,Hoetz,HE,DEU,262,DMR
-2629804,DO2RAU,Richter Weiden,Richter,BY,DEU,262,DMR
+2629804,DO2RAU,Richter Weiden I D Opf,Richter,BY,DEU,262,DMR
 2629805,DO5MIB,Bosmans Altena,Bosmans,NW,DEU,262,DMR
 2629806,DL1BM,Hoier Brandenburg,Hoier,BB,DEU,262,DMR
 2629807,DL1DUR,Linke Olbersdorf,Linke,SN,DEU,262,DMR
 2629808,DG2GRG,Ritt Karlsruhe,Ritt,BW,DEU,262,DMR
 2629809,DO3EP,Ehry Hindelang,Ehry,BY,DEU,262,DMR
 2629810,DK6GT,Thormann Rosslau,Thormann,ST,DEU,262,DMR
+2629811,DO1JSX,Schniertshauer Augsburg,Schniertshauer,BY,DEU,262,DMR
+2629812,DO2AC,Hummel Hanau,Hummel,HE,DEU,262,DMR
+2629813,DL0IMO,Moeller Berlin,Moeller,BE,DEU,262,DMR
+2629814,DK6MV,Kaltenstadler Gruenwald,Kaltenstadler,BY,DEU,262,DMR
+2629815,DL1WB,Burdinski Hoerstel,Burdinski,NW,DEU,262,DMR
+2629816,DL7NE,Einfeldt Berlin,Einfeldt,BE,DEU,262,DMR
+2629817,DG0CBJ,Dannhauer Ilsenburg,Dannhauer,ST,DEU,262,DMR
+2629818,DM1FG,Kloss Meissner,Kloss,HE,DEU,262,DMR
+2629819,DO3ZF,Zeitler Haag,Zeitler,BY,DEU,262,DMR
+2629820,DL4DM,Steinmann Siegen,Steinmann,NW,DEU,262,DMR
+2629821,DL6DBN,Sperber Siegen,Sperber,NW,DEU,262,DMR
+2629822,DJ1HXA,Conrad Arendsee,Conrad,ST,DEU,262,DMR
+2629823,DO8MUE,Mueller Kelkheim,Mueller,HE,DEU,262,DMR
+2629824,DC5SV,Fuchs Satteldorf,Fuchs,BW,DEU,262,DMR
+2629825,DL1THR,Rech Lohnsfeld,Rech,RP,DEU,262,DMR
+2629826,DO3JG,Scharmann Berlin,Scharmann,BE,DEU,262,DMR
+2629827,DJ0MAB,Falter Wald-Michelbach,Falter,HE,DEU,262,DMR
+2629828,DC7KR,Richter Dinslaken,Richter,NW,DEU,262,DMR
+2629829,DD0FM,Schraml Berlin,Schraml,BE,DEU,262,DMR
+2629830,DO1GBA,Babilon Moemlingen,Babilon,BY,DEU,262,DMR
+2629831,DL5FCE,Hennig Lohfelden,Hennig,HE,DEU,262,DMR
+2629832,DL3TMU,Mulzer Potsdam,Mulzer,BB,DEU,262,DMR
+2629833,DJ0VL,Thilges Walldorf,Thilges,BW,DEU,262,DMR
 2633001,DG4AK,Wich Hann Muenden,Wich,NI,DEU,263,DMR
 2633002,DH8AAA,Bastian Vechelde,Bastian,NI,DEU,263,DMR
 2633003,DC6BV,Schucht Norden,Schucht,NI,DEU,263,DMR

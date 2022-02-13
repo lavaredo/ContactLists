@@ -12,7 +12,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280010,HB9FSN,Bruno Kurt,Bruno,Bretzwil,Basel/solothurn,CHE
 2280011,HB9OBB,Daniele Guazzoni,Daniele,Zurich,Zuerich und Thurgau,CHE
 2280012,HB9HGO,Carlos Laya,Carlos,no_city,Basel/solothurn,CHE
-2280013,HB3XWW,Roland Juen,Roland,Oberneunforn,,CHE
+2280013,HB9HOU,Roland Juen,Roland,8526 Oberneunforn,Thurgau,CHE
 2280014,HB9GYV,Paul Junod,Paul,Bienne,,CHE
 2280015,HB3XVS,Stefan ,Stefan,Moosseedorf,Bern,CHE
 2280016,HB3XWN,Umberto Nerone,Umberto,Auw,Aargau,CHE
@@ -1951,6 +1951,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2320218,OE7GGM,Gabriela Molitor-Morandell,Gabriela,Volders,TIROL,AUT
 2320219,OE7FLT,Siegfried Linder,Siegfried,Telfes,TIROL,AUT
 2320220,OE5AFL,Alois Fraungruber,Alois,Prambachkirchen,OOE,AUT
+2320221,OE5RXP,Roland Weissenboeck,Roland,Fraham,OOE,AUT
 2321001,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
 2321002,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
 2321003,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
@@ -8244,7 +8245,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2624760,DL3YAV,Peter Sperlich,Peter,Bielefeld,NW,DEU
 2624761,DG6YDF,Sigurd Hanings,Sigurd,Tecklenburg,NW,DEU
 2624762,DL9OT,Hubert Otto,Hubert,no_city,NW,DEU
-2624763,DB0KLL,Marten Guettner,Marten,no_city,NW,DEU
+2624763,DK6MG,Marten Guettner,Marten,Kall,NW,DEU
 2624764,DM1HD,Herbert Dahners,Herbert,Juechen,NW,DEU
 2624766,DB2YAH,Josef Speikamp,Josef,Luedinghausen,NW,DEU
 2624767,DB9MW,Werner Maus,Werner,Bad Honnef,NW,DEU
@@ -12939,7 +12940,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2629561,DO1DV,Hans-Dieter Ventur,Hans-Dieter,Rheda-Wiedenbrueck,NW,DEU
 2629562,DG3JO,Jochen Hoffen,Jochen,Leimen,BW,DEU
 2629563,DO5SKH,Sebastian Kress,Sebastian,Hattersheim,HE,DEU
-2629564,DO1NJB,Jochen Bauer,Jochen,Koednitz,BY,DEU
+2629564,DK1NJB,Jochen Bauer,Jochen,Koednitz,BY,DEU
 2629565,DL4AA,Arne Awizio,Arne,Bad Schwalbach,HE,DEU
 2629566,DB1ZA,Bader Zaidan,Bader,Aachen,NW,DEU
 2629567,DL9FAQ,Guenter Doerrhoefer,Guenter,Floersheim,HE,DEU
@@ -13126,7 +13127,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2629750,DL1UR,Thomas Sitt,Thomas,Steinfeld,RP,DEU
 2629751,DM9KT,Tino Klapproth,Tino,Kindelbrueck,TH,DEU
 2629752,DL4NHP,Harald Pfeffer,Harald,Bayreuth,BY,DEU
-2629753,DO5CW,Michael Schaale,Michael,Berlin,BE,DEU
+2629753,DC7CW,Michael Schaale,Michael,Berlin,BE,DEU
 2629754,DL3SCA,Peter Jaksch,Peter,Verden,NI,DEU
 2629755,DO1RHW,Rolf Herbort,Rolf,Wunstorf,NI,DEU
 2629756,DG5UAR,Olaf Beyreuther,Olaf,Leimen,BW,DEU
@@ -13177,13 +13178,36 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2629801,DC5SD,Sascha Dietzgen,Sascha,Reken,NW,DEU
 2629802,DO3KW,Klaus Winkler,Klaus,Schwieberdingen,BW,DEU
 2629803,DL1DU,Alexander Hoetz,Alexander,Wald-Michelbach,HE,DEU
-2629804,DO2RAU,Philipp Richter,Philipp,Weiden,BY,DEU
+2629804,DO2RAU,Philipp Richter,Philipp,Weiden I D Opf,BY,DEU
 2629805,DO5MIB,Michael Bosmans,Michael,Altena,NW,DEU
 2629806,DL1BM,Bernhard Hoier,Bernhard,Brandenburg,BB,DEU
 2629807,DL1DUR,Juergen Linke,Juergen,Olbersdorf,SN,DEU
 2629808,DG2GRG,Gunnar Ritt,Gunnar,Karlsruhe,BW,DEU
 2629809,DO3EP,Peter Ehry,Peter,Hindelang,BY,DEU
 2629810,DK6GT,Gerald Thormann,Gerald,Rosslau,ST,DEU
+2629811,DO1JSX,Johannes Schniertshauer,Johannes,Augsburg,BY,DEU
+2629812,DO2AC,Paul Hummel,Paul,Hanau,HE,DEU
+2629813,DL0IMO,Daniel Moeller,Daniel,Berlin,BE,DEU
+2629814,DK6MV,Alfons Kaltenstadler,Alfons,Gruenwald,BY,DEU
+2629815,DL1WB,Lars Burdinski,Lars,Hoerstel,NW,DEU
+2629816,DL7NE,Nils Einfeldt,Nils,Berlin,BE,DEU
+2629817,DG0CBJ,Niels Dannhauer,Niels,Ilsenburg,ST,DEU
+2629818,DM1FG,Hans-Guenther Kloss,Hans-Guenther,Meissner,HE,DEU
+2629819,DO3ZF,Frank Zeitler,Frank,Haag,BY,DEU
+2629820,DL4DM,Walter Steinmann,Walter,Siegen,NW,DEU
+2629821,DL6DBN,Frank Sperber,Frank,Siegen,NW,DEU
+2629822,DJ1HXA,Norman Conrad,Norman,Arendsee,ST,DEU
+2629823,DO8MUE,Matthias Mueller,Matthias,Kelkheim,HE,DEU
+2629824,DC5SV,Walter Fuchs,Walter,Satteldorf,BW,DEU
+2629825,DL1THR,Thorsten Rech,Thorsten,Lohnsfeld,RP,DEU
+2629826,DO3JG,Guenter Scharmann,Guenter,Berlin,BE,DEU
+2629827,DJ0MAB,Ralf Falter,Ralf,Wald-Michelbach,HE,DEU
+2629828,DC7KR,Karsten Richter,Karsten,Dinslaken,NW,DEU
+2629829,DD0FM,Florian Schraml,Florian,Berlin,BE,DEU
+2629830,DO1GBA,Guenter Babilon,Guenter,Moemlingen,BY,DEU
+2629831,DL5FCE,Robert Hennig,Robert,Lohfelden,HE,DEU
+2629832,DL3TMU,Tasso Mulzer,Tasso,Potsdam,BB,DEU
+2629833,DJ0VL,Jean Thilges,Jean,Walldorf,BW,DEU
 2633001,DG4AK,Dietmar Wich,Dietmar,Hann Muenden,NI,DEU
 2633002,DH8AAA,Oliver Bastian,Oliver,Vechelde,NI,DEU
 2633003,DC6BV,Reinhardt Schucht,Reinhardt,Norden,NI,DEU
