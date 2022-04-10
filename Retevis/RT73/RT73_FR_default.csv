@@ -503,6 +503,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060502,ON3CS,Chrissy Kiekens,Bredene,West-Vlaanderen,BEL
 2060503,ON3GMB,Marc Gilis,Hasselt,Limburg,BEL
 2060504,ON7BRT,Herbert Hebbelinck,Gent,Oost-Vlaanderen,BEL
+2060505,ON3ARN,Arne Ramault,Bredene,West-Vlaanderen,BEL
 2061001,ON8SVH,Stijn Hende,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon Pauw,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc Lourense,Gent,Oost-Vlaanderen,BEL
@@ -2550,6 +2551,11 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080959,F1DCX,Bruno Ericourt,Chaniers,Nouvelle-Aquitaine,FRA
 2080960,F1JWC,Thierry Martin,Saint Nom La Breteche,,FRA
 2080961,F4ITL,Loris Rion,Aix-Les-Bains,Auvergne-Rhone-Alpes,FRA
+2080962,F4ISZ,Franck Valentin,Le Syndicat,Grand Est,FRA
+2080963,F1BAZ,Richard Foucault,Versailles,,FRA
+2080964,F4EMM,Fabrice Bodin,Rouans,Pays De La Loire,FRA
+2080965,F5TLA,Pascal Hannhart,Grenoble,Auvergne-Rhone-Alpes,FRA
+2080966,F4JDD,Nicolas Barnaud,Ecos,Normandie,FRA
 2081001,F1UOT,Olivier Guerin,Suresnes,Ile-De-France,FRA
 2081002,F4ACD,Romain Hulot,Poitiers,Vienne,FRA
 2081003,F1TDI,Daniel Trillaud,Suresnes,Paris,FRA
@@ -4357,7 +4363,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280133,HB3XZM,Peter Michel,Eriz,Bern,CHE
 2280134,HB3XXO,Oliver Kuenzler,None,Solothurn,CHE
 2280135,HB3XYP,Philippe Blum,None,Aargau,CHE
-2280136,HB3XZV,Julien Sansonnens,Fully,Valais,CHE
+2280136,HB9HRD,Julien Sansonnens,Martigny,Valais,CHE
 2280137,HB9HOF,Dominik Baumgartner,Liestal,Basel-Country,CHE
 2280138,HB9HOO,Marco Gaiotti,Hoelstein,Basel-Country,CHE
 2280139,HB3XZR,Juerg Meyer,Graenichen,Aargau,CHE
@@ -4396,6 +4402,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280172,HB3XWV,Paul Viola,Icogne,Valais,CHE
 2280173,HB9HPH,Erik Plumpe,Saviese,Valais,CHE
 2280174,HB9XQH,Holger Martin,Bern,Bern,CHE
+2280175,HB9ERB,Richard Toengi,Hagerdorn,Zug,CHE
 2281001,HB3YNV,Cedric ,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric ,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric ,Saint-Cergue,Waadt,CHE
@@ -7711,7 +7718,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3021757,VA2SBW,Ste Phane Blouin,Montreal,Quebec,CAN
 3021758,VA2SFR,Sylvain Frenette,Beauharnois,Quebec,CAN
 3021759,VA3TSS,Tom Stenbraaten,Hanmer,Ontario,CAN
-3021760,VA3AGC,Manuel Carreiro,Brampton,Ontario,CAN
+3021760,VE1LM,Manuel Carreiro,Nova Scotia,Nova Scotia,CAN
 3021761,VE9DW,Dwayne Barton,Saint John,New Brunswick,CAN
 3021762,VE3AWF,Andrzej Wolczanski,Etobicoke,Ontario,CAN
 3021763,VE3JKK,Jongkeun Kwon,North York,Ontario,CAN
@@ -10748,7 +10755,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3024816,VE2LAW,Johanne Dupont,Shawinigan,Quebec,CAN
 3024817,VE6ENB,Becki Leipert,Calgary,Alberta,CAN
 3024818,VE3MBN,Michael Brown,Markham,Ontario,CAN
-3024819,VA3ORQ,Mirela Gore,Brampton,Ontario,CAN
+3024819,VE1ORQ,Mirela Gore,Brampton,Ontario,CAN
 3024820,VE7AJN,Anthony Taylor,Parksville,British Columbia,CAN
 3024821,VE3VHU,Shaun Lumley,Kanata,Ontario,CAN
 3024822,VE2PKK,Patrick Kerr,Rimouski,Quebec,CAN
@@ -10818,6 +10825,22 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3024886,VE7LOA,Martin Bort,North Vancouver,British Columbia,CAN
 3024887,VA3UKW,Marcel Eschenmoser,Springwater,Ontario,CAN
 3024888,VA1ALO,Jayden Boudreau,Lawrencetown,Nova Scotia,CAN
+3024889,VA3XLM,Gregg Jacobs,Binbrook,Ontario,CAN
+3024890,VA2HBQ,Stephane Gagnon,Boischatel,Quebec,CAN
+3024891,VA3FJR,Fernando Renna,Cambridge,Ontario,CAN
+3024892,VE2POT,Paul Bertrand,Saint Leonard,Quebec,CAN
+3024893,VA3DCS,David Sjoblom,Dundas,Ontario,CAN
+3024894,VE3PEH,Peter Henderson,Barrie,Ontario,CAN
+3024895,VA2MWL,Felix Marcotte,Sainte Julienne,Quebec,CAN
+3024896,VE2NIR,Louis Gingras,Farnham,Quebec,CAN
+3024897,VE3BX,Jason Belanger,Windsor,Ontario,CAN
+3024898,VE3RCD,Ranson Darby,Smiths Falls,Ontario,CAN
+3024899,VE3LTY,Andre Poitras,Sudbury,Ontario,CAN
+3024900,VA4FUK,Renato Faria,Winnipeg,Manitoba,CAN
+3024901,VA3MGG,Anton Tammpere,Puslinch,Ontario,CAN
+3024902,VE3EAD,Jorge Forero,London,Ontario,CAN
+3024903,VE3LAZ,Lukasz Andrzejewski,Ottawa,Ontario,CAN
+3024904,VA7YWS,Yusuf Savory,Richmond,British Columbia,CAN
 3025001,VE5RS,Ron Slind,Saskatoon,Saskatchewan,CAN
 3025002,VE5DWR,Devon Racicot,Martensville,Saskatchewan,CAN
 3025003,VE5XEF,Bob Seaborn,Saskatoon,Saskatchewan,CAN
