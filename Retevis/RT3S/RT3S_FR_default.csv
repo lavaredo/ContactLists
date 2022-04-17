@@ -504,6 +504,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2060503,ON3GMB,Marc Gilis,Marc,Hasselt,Limburg,BEL
 2060504,ON7BRT,Herbert Hebbelinck,Herbert,Gent,Oost-Vlaanderen,BEL
 2060505,ON3ARN,Arne Ramault,Arne,Bredene,West-Vlaanderen,BEL
+2060506,ON3TX,Thomas Kiekens,Thomas,Bastogne,Luxemburg,BEL
 2061001,ON8SVH,Stijn Hende,Stijn,Oudenaarde,Oost-Vlaanderen,BEL
 2061002,ON8SI,Simon Pauw,Simon,Oosterzele,Oost-Vlaanderen,BEL
 2061003,ON5LUC,Luc Lourense,Luc,Gent,Oost-Vlaanderen,BEL
@@ -2556,6 +2557,9 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2080964,F4EMM,Fabrice Bodin,Fabrice,Rouans,Pays De La Loire,FRA
 2080965,F5TLA,Pascal Hannhart,Pascal,Grenoble,Auvergne-Rhone-Alpes,FRA
 2080966,F4JDD,Nicolas Barnaud,Nicolas,Ecos,Normandie,FRA
+2080967,F4VVH,Luis Camarasa,Luis,Rosenau,Grand Est,FRA
+2080968,F0CZB,Cedric Serre,Cedric,La Saulce,Provence-Alpes-Cote D Azur,FRA
+2080969,F4ILJ,Jona Joachim,Jona,Bois-Colombes,,FRA
 2081001,F1UOT,Olivier Guerin,Olivier,Suresnes,Ile-De-France,FRA
 2081002,F4ACD,Romain Hulot,Romain,Poitiers,Vienne,FRA
 2081003,F1TDI,Daniel Trillaud,Daniel,Suresnes,Paris,FRA
@@ -4232,7 +4236,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280001,4U1ITU,International Arc,International,Geneva,,CHE
 2280002,HB3XWO,Kornel Becker,Kornel,Basel,,CHE
 2280003,HB9HIT,Jean Perez,Jean,Le Mont-Sur-Lausanne,Westschweiz-Sud,CHE
-2280004,HB3XWK,Aldo Surder,Aldo,La Chaux-De-Fonds,Westschweiz-Nord,CHE
+2280004,HB9HPS,Aldo Aldo,Aldo,La Chaux-De-Fonds,Neuchatel,CHE
 2280005,HB9HIK,Frederic Miremad,Frederic,Neuchatel,Westschweiz-Nord,CHE
 2280006,HB9HGE,Ruedi Egger,Ruedi,Moerschwil,Ostschweiz,CHE
 2280007,HB9HEW,Michael Mohr,Michael,Engelburg,Ostschweiz,CHE
@@ -4403,6 +4407,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 2280173,HB9HPH,Erik Plumpe,Erik,Saviese,Valais,CHE
 2280174,HB9XQH,Holger Martin,Holger,Bern,Bern,CHE
 2280175,HB9ERB,Richard Toengi,Richard,Hagerdorn,Zug,CHE
+2280176,HB3XAU,Patrick Allemann,Patrick,Oberoenz,Bern,CHE
 2281001,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE
@@ -6265,7 +6270,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3020282,VE7XL,Virgilio Ocampo,Virgilio,Vancouver,Bc,CAN
 3020283,VA7HBC,Nestor Bauzon,Nestor,Vancouver,Bc,CAN
 3020284,VA7HBC,Nestor Bauzon,Nestor,Vancouver,Bc,CAN
-3020285,VE2ILR,Claude Veillette,Claude,Trois-Rivieres,Qc,CAN
+3020285,VA2CV,Claude Veillette,Claude,Trois-Rivieres,Quebec,CAN
 3020286,VE2VIZ,Robert Chouinard,Robert,Boucherville,Qc,CAN
 3020287,VA7BTA,Shae Skerry,Shae,Mission Bc,Bc,CAN
 3020288,VA7ZXY,Ethan Erickson-Lachance,Ethan,Mission,Bc,CAN
@@ -10614,7 +10619,7 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3024675,VE7JEY,John Eyre,John,Qualicum Beach,British Columbia,CAN
 3024676,VE2TMI,Mario Tre Panier,Mario,Contrecoeur,Quebec,CAN
 3024677,VA2JWW,John Walls,John,Gore,Quebec,CAN
-3024678,VA3AMX,Eric Castro,Eric,Kanata,Ontario,CAN
+3024678,VE3DN,Eric Castro,Eric,Kanata,Ontario,CAN
 3024679,VE2OJM,Sylvain Boudreau,Sylvain,Portneuf Sur Mer,Quebec,CAN
 3024680,VA3MXZ,Jeffrey Soley,Jeffrey,Oro Medonte,Ontario,CAN
 3024681,VE2ZKF,Martin Tanguay,Martin,Rivie Re-Du-Loup,Quebec,CAN
@@ -10841,6 +10846,15 @@ Radio ID,Callsign,Name,Nickname,City,State/Prov,Country
 3024902,VE3EAD,Jorge Forero,Jorge,London,Ontario,CAN
 3024903,VE3LAZ,Lukasz Andrzejewski,Lukasz,Ottawa,Ontario,CAN
 3024904,VA7YWS,Yusuf Savory,Yusuf,Richmond,British Columbia,CAN
+3024905,VA3BPT,Alain Theriault,Alain,Chelmsford,Ontario,CAN
+3024906,VE2WPY,William Young,William,Saint Hubert,Quebec,CAN
+3024907,VA7CXM,Chris Mutadi,Chris,Victoria,British Columbia,CAN
+3024908,VE3OIP,Robert Parker,Robert,Burlington,Ontario,CAN
+3024909,VE6MLS,Merle Shockey,Merle,Grande Prairie,Alberta,CAN
+3024910,VA2HAS,Andre Silveira,Andre,Chambly,Quebec,CAN
+3024912,VE3OJT,Leslie Sutch,Leslie,Brantford,Ontario,CAN
+3024913,VA7LGN,Andrew Elgin,Andrew,Surrey,British Columbia,CAN
+3024914,VA3GY,Ewan Crawford,Ewan,Belwood,Ontario,CAN
 3025001,VE5RS,Ron Slind,Ron,Saskatoon,Saskatchewan,CAN
 3025002,VE5DWR,Devon Racicot,Devon,Martensville,Saskatchewan,CAN
 3025003,VE5XEF,Bob Seaborn,Bob,Saskatoon,Saskatchewan,CAN

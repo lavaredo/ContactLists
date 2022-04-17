@@ -504,6 +504,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060503,ON3GMB,Gilis Hasselt,Gilis,Limburg,BEL,206,DMR
 2060504,ON7BRT,Hebbelinck Gent,Hebbelinck,Oost-Vlaanderen,BEL,206,DMR
 2060505,ON3ARN,Ramault Bredene,Ramault,West-Vlaanderen,BEL,206,DMR
+2060506,ON3TX,Kiekens Bastogne,Kiekens,Luxemburg,BEL,206,DMR
 2061001,ON8SVH,Hende Oudenaarde,Hende,Oost-Vlaanderen,BEL,206,DMR
 2061002,ON8SI,Pauw Oosterzele,Pauw,Oost-Vlaanderen,BEL,206,DMR
 2061003,ON5LUC,Lourense Gent,Lourense,Oost-Vlaanderen,BEL,206,DMR
@@ -2556,6 +2557,9 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2080964,F4EMM,Bodin Rouans,Bodin,Pays De La Loire,FRA,208,DMR
 2080965,F5TLA,Hannhart Grenoble,Hannhart,Auvergne-Rhone-Alpes,FRA,208,DMR
 2080966,F4JDD,Barnaud Ecos,Barnaud,Normandie,FRA,208,DMR
+2080967,F4VVH,Camarasa Rosenau,Camarasa,Grand Est,FRA,208,DMR
+2080968,F0CZB,Serre La Saulce,Serre,Provence-Alpes-Cote D Azur,FRA,208,DMR
+2080969,F4ILJ,Joachim Bois-Colombes,Joachim,,FRA,208,DMR
 2081001,F1UOT,Guerin Suresnes,Guerin,Ile-De-France,FRA,208,DMR
 2081002,F4ACD,Hulot Poitiers,Hulot,Vienne,FRA,208,DMR
 2081003,F1TDI,Trillaud Suresnes,Trillaud,Paris,FRA,208,DMR
@@ -4232,7 +4236,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280001,4U1ITU,Arc Geneva,Arc,,CHE,228,DMR
 2280002,HB3XWO,Becker Basel,Becker,,CHE,228,DMR
 2280003,HB9HIT,Perez Le Mont-Sur-Lausanne,Perez,Westschweiz-Sud,CHE,228,DMR
-2280004,HB3XWK,Surder La Chaux-De-Fonds,Surder,Westschweiz-Nord,CHE,228,DMR
+2280004,HB9HPS,Aldo La Chaux-De-Fonds,Aldo,Neuchatel,CHE,228,DMR
 2280005,HB9HIK,Miremad Neuchatel,Miremad,Westschweiz-Nord,CHE,228,DMR
 2280006,HB9HGE,Egger Moerschwil,Egger,Ostschweiz,CHE,228,DMR
 2280007,HB9HEW,Mohr Engelburg,Mohr,Ostschweiz,CHE,228,DMR
@@ -4403,6 +4407,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280173,HB9HPH,Plumpe Saviese,Plumpe,Valais,CHE,228,DMR
 2280174,HB9XQH,Martin Bern,Martin,Bern,CHE,228,DMR
 2280175,HB9ERB,Toengi Hagerdorn,Toengi,Zug,CHE,228,DMR
+2280176,HB3XAU,Allemann Oberoenz,Allemann,Bern,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -6265,7 +6270,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3020282,VE7XL,Ocampo Vancouver,Ocampo,Bc,CAN,302,DMR
 3020283,VA7HBC,Bauzon Vancouver,Bauzon,Bc,CAN,302,DMR
 3020284,VA7HBC,Bauzon Vancouver,Bauzon,Bc,CAN,302,DMR
-3020285,VE2ILR,Veillette Trois-Rivieres,Veillette,Qc,CAN,302,DMR
+3020285,VA2CV,Veillette Trois-Rivieres,Veillette,Quebec,CAN,302,DMR
 3020286,VE2VIZ,Chouinard Boucherville,Chouinard,Qc,CAN,302,DMR
 3020287,VA7BTA,Skerry Mission Bc,Skerry,Bc,CAN,302,DMR
 3020288,VA7ZXY,Erickson-Lachance Mission,Erickson-Lachance,Bc,CAN,302,DMR
@@ -10614,7 +10619,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3024675,VE7JEY,Eyre Qualicum Beach,Eyre,British Columbia,CAN,302,DMR
 3024676,VE2TMI,Tre Panier Contrecoeur,Tre Panier,Quebec,CAN,302,DMR
 3024677,VA2JWW,Walls Gore,Walls,Quebec,CAN,302,DMR
-3024678,VA3AMX,Castro Kanata,Castro,Ontario,CAN,302,DMR
+3024678,VE3DN,Castro Kanata,Castro,Ontario,CAN,302,DMR
 3024679,VE2OJM,Boudreau Portneuf Sur Mer,Boudreau,Quebec,CAN,302,DMR
 3024680,VA3MXZ,Soley Oro Medonte,Soley,Ontario,CAN,302,DMR
 3024681,VE2ZKF,Tanguay Rivie Re-Du-Loup,Tanguay,Quebec,CAN,302,DMR
@@ -10841,6 +10846,15 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3024902,VE3EAD,Forero London,Forero,Ontario,CAN,302,DMR
 3024903,VE3LAZ,Andrzejewski Ottawa,Andrzejewski,Ontario,CAN,302,DMR
 3024904,VA7YWS,Savory Richmond,Savory,British Columbia,CAN,302,DMR
+3024905,VA3BPT,Theriault Chelmsford,Theriault,Ontario,CAN,302,DMR
+3024906,VE2WPY,Young Saint Hubert,Young,Quebec,CAN,302,DMR
+3024907,VA7CXM,Mutadi Victoria,Mutadi,British Columbia,CAN,302,DMR
+3024908,VE3OIP,Parker Burlington,Parker,Ontario,CAN,302,DMR
+3024909,VE6MLS,Shockey Grande Prairie,Shockey,Alberta,CAN,302,DMR
+3024910,VA2HAS,Silveira Chambly,Silveira,Quebec,CAN,302,DMR
+3024912,VE3OJT,Sutch Brantford,Sutch,Ontario,CAN,302,DMR
+3024913,VA7LGN,Elgin Surrey,Elgin,British Columbia,CAN,302,DMR
+3024914,VA3GY,Crawford Belwood,Crawford,Ontario,CAN,302,DMR
 3025001,VE5RS,Slind Saskatoon,Slind,Saskatchewan,CAN,302,DMR
 3025002,VE5DWR,Racicot Martensville,Racicot,Saskatchewan,CAN,302,DMR
 3025003,VE5XEF,Seaborn Saskatoon,Seaborn,Saskatchewan,CAN,302,DMR
