@@ -176,6 +176,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280175,HB9ERB,Toengi Hagerdorn,Toengi,Zug,CHE,228,DMR
 2280176,HB3XAU,Allemann Oberoenz,Allemann,Bern,CHE,228,DMR
 2280177,HB9HKM,Carli Bruzella,Carli,Ticino,CHE,228,DMR
+2280178,HB9HRK,Sangouard Gland,Sangouard,Vaud,CHE,228,DMR
+2280179,HB9HRL,Domjan Les Geneveys Sur Coffrane,Domjan,Neuchatel,CHE,228,DMR
+2280180,HB9FIN,Schertenleib Dietwil,Schertenleib,Aargau,CHE,228,DMR
+2280181,HB9HRI,Duding Romanel Sur Lausanne,Duding,Vaud,CHE,228,DMR
+2280182,HB9CWO,Boeni Leissigen,Boeni,Bern,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -1991,6 +1996,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320243,OE1RIG,Ringhofer Wien,Ringhofer,WIEN,AUT,232,DMR
 2320244,OE9AMJ,Metzler Dornbirn,Metzler,VBG,AUT,232,DMR
 2320245,OE3FBG,Greiner Felixdorf,Greiner,NOE,AUT,232,DMR
+2320246,OE3OEK,Kobermann Gloggnitz,Kobermann,NOE,AUT,232,DMR
 2321001,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321002,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321003,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
@@ -5240,7 +5246,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2621618,DL2NEP,Willig Erlangen,Willig,BY,DEU,262,DMR
 2621619,DK3IM,Gember Ladenburg,Gember,BW,DEU,262,DMR
 2621620,DL7ULZ,Walter Berlin,Walter,BE,DEU,262,DMR
-2621621,DO3WC,Ciesny Luebeck,Ciesny,SH,DEU,262,DMR
+2621621,DF3WC,Ciesny Luebeck,Ciesny,SH,DEU,262,DMR
 2621622,DJ0MAT,Tufte Duesseldorf,Tufte,NW,DEU,262,DMR
 2621623,DB5BX,Baumung Ibbenbueren,Baumung,NW,DEU,262,DMR
 2621624,DK4WM,Wiedei Ostbevern,Wiedei,NW,DEU,262,DMR
@@ -5880,6 +5886,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2622280,DK7XW,Schack Hamburg,Schack,HH,DEU,262,DMR
 2622281,DF4XX,Simon Barsbuettel,Simon,SH,DEU,262,DMR
 2622282,DG5HAD,Goluecke Grosshansdorf,Goluecke,SH,DEU,262,DMR
+2622283,DO6RU,Rutkowski Flensburg,Rutkowski,SH,DEU,262,DMR
+2622284,DO9NR,Rutkowski Flensburg,Rutkowski,SH,DEU,262,DMR
 2622285,DF8LA,Scherg Busdorf,Scherg,SH,DEU,262,DMR
 2622286,DF6LT,Dobert Kiel,Dobert,SH,DEU,262,DMR
 2622287,DO6RLH,Lewandowski Talkau,Lewandowski,SH,DEU,262,DMR
@@ -11101,7 +11109,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2627668,DL5SEX,Eichler Stuttgart,Eichler,BW,DEU,262,DMR
 2627669,DL4IAZ,Nattermann Pforzheim,Nattermann,BW,DEU,262,DMR
 2627670,DD7SY,Geiger Ludwigsburg,Geiger,BW,DEU,262,DMR
-2627671,DD7AB,Wittor Sickte,Wittor,NI,DEU,262,DMR
+2627671,DO2CR,Richter Friesenheim,Richter,BW,DEU,262,DMR
 2627672,DL3SCY,Schweikert Heidenheim,Schweikert,BW,DEU,262,DMR
 2627673,DH1GD,Orb Biberach,Orb,BW,DEU,262,DMR
 2627675,DG1SFJ,Huebl Schwieberdingen,Huebl,BW,DEU,262,DMR
@@ -13372,6 +13380,22 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629985,DK2PI,Spiegel Buehl,Spiegel,BW,DEU,262,DMR
 2629986,DM1MB,Boes Malsch,Boes,BW,DEU,262,DMR
 2629987,DO2RRM,Reiher Markneukirchen,Reiher,SN,DEU,262,DMR
+2629988,DL5HAC,Lengwenat Selmsdorf,Lengwenat,MV,DEU,262,DMR
+2629989,DD8ZE,Burkard Frankfurt,Burkard,HE,DEU,262,DMR
+2629990,DO6JAN,Schaefer Klein Kummerfeld,Schaefer,SH,DEU,262,DMR
+2629991,DF7XE,Reinholz Herne,Reinholz,NW,DEU,262,DMR
+2629992,DL6EBV,Luettich Ratingen,Luettich,NW,DEU,262,DMR
+2629993,DO1NMN,Neumann Abenberg,Neumann,BY,DEU,262,DMR
+2629994,DD7AB,Wittor Sickte,Wittor,NI,DEU,262,DMR
+2629995,DK6AV,Vidoni Schweinfurt,Vidoni,BY,DEU,262,DMR
+2629996,DD2PV,Hey Halle,Hey,NW,DEU,262,DMR
+2629997,DG4GAH,Kloss Burladingen,Kloss,BW,DEU,262,DMR
+2629998,DO1HOS,Strupp Elmshorn,Strupp,SH,DEU,262,DMR
+2629999,DO1LO,Oppermann Montabaur,Oppermann,RP,DEU,262,DMR
+2630000,DL4MTR,Truebenbach Aull,Truebenbach,RP,DEU,263,DMR
+2630001,DL4ADA,Czerniakiewicz Lohne,Czerniakiewicz,NI,DEU,263,DMR
+2630002,DK1MI,Clemens Bad Friedrichshall,Clemens,BW,DEU,263,DMR
+2630003,DO5LI,Herrmann Elsdorf,Herrmann,NW,DEU,263,DMR
 2633001,DG4AK,Wich Hann Muenden,Wich,NI,DEU,263,DMR
 2633002,DH8AAA,Bastian Vechelde,Bastian,NI,DEU,263,DMR
 2633003,DC6BV,Schucht Norden,Schucht,NI,DEU,263,DMR
