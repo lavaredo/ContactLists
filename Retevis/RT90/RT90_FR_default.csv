@@ -510,6 +510,7 @@
 2060510,ON3RK,Kinders Hamme,Oost-Vlaanderen,BEL,206
 2060511,ON3TBX, Villers Poterie,Hainaut,BEL,206
 2060512,ON3VIM,Douliez Peruwelz,Hainaut,BEL,206
+2060513,ON3MVR,Vandendriessche Roucourt,Hainaut,BEL,206
 2061001,ON8SVH,Hende Oudenaarde,Oost-Vlaanderen,BEL,206
 2061002,ON8SI,Pauw Oosterzele,Oost-Vlaanderen,BEL,206
 2061003,ON5LUC,Lourense Gent,Oost-Vlaanderen,BEL,206
@@ -2576,6 +2577,10 @@
 2080978,F4JCJ,Grandjean Annemasse,Auvergne-Rhone-Alpes,FRA,208
 2080979,F4WDL,Guibbaud Saint Jean D Illac,Nouvelle-Aquitaine,FRA,208
 2080980,F4JKE,Loussouarn Saint Pazanne,Pays De La Loire,FRA,208
+2080981,F4JKL,Cuille St Sulpice La Pointe,Occitanie,FRA,208
+2080982,F4JBR,Rochefort La Goutelle,Auvergne-Rhone-Alpes,FRA,208
+2080983,F5TVI,Gonot La Motte Saint-Jean,Bourgogne-Franche-Comte,FRA,208
+2080984,F4KNF,Club Rillieux-La-Pape,Auvergne-Rhone-Alpes,FRA,208
 2081001,F1UOT,Guerin Suresnes,Ile-De-France,FRA,208
 2081002,F4ACD,Hulot Poitiers,Vienne,FRA,208
 2081003,F1TDI,Trillaud Suresnes,Paris,FRA,208
@@ -4430,6 +4435,8 @@
 2280180,HB9FIN,Schertenleib Dietwil,Aargau,CHE,228
 2280181,HB9HRI,Duding Romanel Sur Lausanne,Vaud,CHE,228
 2280182,HB9CWO,Boeni Leissigen,Bern,CHE,228
+2280183,HB3XAW,Moni Kloten,Zurich,CHE,228
+2280184,HB9TGK,Schuler Rotkreuz,Zug,CHE,228
 2281001,HB3YNV, Saint-Cergue,Waadt,CHE,228
 2281002,HB3YNV, Saint-Cergue,Waadt,CHE,228
 2281003,HB3YNV, Saint-Cergue,Waadt,CHE,228
@@ -5569,10 +5576,10 @@
 2288009,HB9ZAZ,Rieser Zuerich,Zuerich und Thurgau,CHE,228
 2288010,HB9PJT,Sidler Affoltern am Albis,Zuerich und Thurgau,CHE,228
 2288011,HB9ZAZ,Rieser Zuerich,Zuerich und Thurgau,CHE,228
-2288012,HB3YZE, Kloten,Zuerich,CHE,228
+2288012,HB9HRQ,Michi Schweiz,,CHE,228
 2288013,HB9ZCY,Katz Zuerich,Zuerich und Thurgau,CHE,228
 2288014,HB3YEJ, Schleitheim,Schaffhausen,CHE,228
-2288015,HB3YZE, Kloten,Zuerich,CHE,228
+2288015,HB9HRQ,Michi Schweiz,,CHE,228
 2288016,HB9TTQ, Birmensdorf,Zuerich,CHE,228
 2288017,HB9WNT, Winterthur,Winterthur,CHE,228
 2288018,HB9WNT, Winterthur,Winterthur,CHE,228
@@ -6774,7 +6781,6 @@
 3020772,VE3POV,Popovich Burlington,On,CAN,302
 3020773,VA3GHI,Ghitescu Toronto,On,CAN,302
 3020774,VA3VU,Murphy Ayr,On,CAN,302
-3020775,VA6LRS,Sutton Edmonton,Ab,CAN,302
 3020776,VE3KEM,Jancik Norfolk,On,CAN,302
 3020777,VE3PUE,Herber Nepean,On,CAN,302
 3020778,VE3NUZ,Shirran Aylmer,On,CAN,302
@@ -6785,7 +6791,6 @@
 3020783,VE2PEL,Pelletier Quebec,Qc,CAN,302
 3020784,VA3OL,Rumball Coldwater,On,CAN,302
 3020785,VA2CHQ,Henri Levis,Qc,CAN,302
-3020786,VA6LRS,Sutton Edmonton,Ab,CAN,302
 3020787,VE2ARQ,Robitaille Quebec,Qc,CAN,302
 3020788,VE7GIE,Giesbrecht Chilliwack,Bc,CAN,302
 3020789,VA3CMM,Mah Severn,On,CAN,302
@@ -6897,7 +6902,7 @@
 3020900,VA2IAA,Pare Sherbrooke,Qc,CAN,302
 3020901,VE7MA,Metcalfe W Kelowna,Bc,CAN,302
 3020902,VE2KZ,Towner Near Montreal,Qc,CAN,302
-3020903,VE2YTY,Lemire Saintours,Qc,CAN,302
+3020903,VA2ZN,Lemire Saint-Ours,Quebec,CAN,302
 3020904,VA7AWL,Liao Vancouver,British Columbia,CAN,302
 3020905,VA3GJB,Beaulieu Curran,On,CAN,302
 3020906,VA3IPB,Hillier Innisfil,On,CAN,302
@@ -10422,7 +10427,7 @@
 3024457,VE4VEB,Braun Rosser,Manitoba,CAN,302
 3024458,VE7ESC,Chiu Vancouver,British Columbia,CAN,302
 3024459,VE3TEO,Vallee Cochrane,Ontario,CAN,302
-3024460,VE9LRS,Sutton Salmon River Road,New Brunswick,CAN,302
+3024460,VE9LS,Sutton Salmon River Road,New Brunswick,CAN,302
 3024461,VO2NC,Crane Happy Valley Goose Bay  Labrador,Newfoundland,CAN,302
 3024462,VE7NZO,Busto Vancouver,British Columbia,CAN,302
 3024463,VE3PJB,Karpala Chatham,Ontario,CAN,302
@@ -10892,6 +10897,14 @@
 3024928,VA7NIL,Sapara Burnaby,British Columbia,CAN,302
 3024929,VE2UDB,Boisvert Victoriaville,Quebec,CAN,302
 3024930,VE3CYX,Chauvin Ontario,Ontario,CAN,302
+3024931,VE2JER,Dussureault Mont Saint Gregoire,Quebec,CAN,302
+3024932,VE1JAX,Wyman South Ohio,Nova Scotia,CAN,302
+3024933,VE6MRB,Broersma Edmonton,Alberta,CAN,302
+3024934,VA3DWL,Ledyit London,Ontario,CAN,302
+3024935,VE2ORZ,Samson Que Bec,Quebec,CAN,302
+3024936,VE5DGH,Hahn Weyburn,Saskatchewan,CAN,302
+3024937,VE2VMT,Beaupre Saint Basile Le Grand,Quebec,CAN,302
+3024938,VE6RNE,Taylor Whitecourt,Alberta,CAN,302
 3025001,VE5RS,Slind Saskatoon,Saskatchewan,CAN,302
 3025002,VE5DWR,Racicot Martensville,Saskatchewan,CAN,302
 3025003,VE5XEF,Seaborn Saskatoon,Saskatchewan,CAN,302
