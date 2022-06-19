@@ -523,6 +523,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2060522,ON6AOR,ON6AOR Paul,Lichtaart,Antwerp,BEL,,Private Call,None
 ,2060524,ON9MJ,ON9MJ Michael,Essen  Antwerpen,Antwerp,BEL,,Private Call,None
 ,2060525,ON4MOD,ON4MOD Morgan,2 Rue Paquay,Liege,BEL,,Private Call,None
+,2060526,ON5AT,ON5AT Thierry,Messancy,Luxemburg,BEL,,Private Call,None
 ,2061001,ON8SVH,ON8SVH Stijn,Oudenaarde,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061002,ON8SI,ON8SI Simon,Oosterzele,Oost-Vlaanderen,BEL,,Private Call,None
 ,2061003,ON5LUC,ON5LUC Luc,Gent,Oost-Vlaanderen,BEL,,Private Call,None
@@ -2601,6 +2602,8 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2080990,F4IVY,F4IVY Philippe,Grasse,Provence-Alpes-Cote D Azur,FRA,,Private Call,None
 ,2080991,F4VTT,F4VTT Andy,Urrugne,Nouvelle-Aquitaine,FRA,,Private Call,None
 ,2080992,F4FVP,F4FVP Manuele,Suresnes  Paris,,FRA,,Private Call,None
+,2080993,F4JHV,F4JHV Fabrice,Couffe,Pays De La Loire,FRA,,Private Call,None
+,2080994,F4JMP,F4JMP Didier,Montigny Le Bretonneux,,FRA,,Private Call,None
 ,2081001,F1UOT,F1UOT Olivier,Suresnes,Ile-De-France,FRA,,Private Call,None
 ,2081002,F4ACD,F4ACD Romain,Poitiers,Vienne,FRA,,Private Call,None
 ,2081003,F1TDI,F1TDI Daniel,Suresnes,Paris,FRA,,Private Call,None
@@ -4439,7 +4442,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280164,HB9HCG,HB9HCG Pascal,Othmarsingen,Aargau,CHE,,Private Call,None
 ,2280165,HB9SVM,HB9SVM Dietrich,Benglen,Zurich,CHE,,Private Call,None
 ,2280166,HB9HNW,HB9HNW Marco,Reinach,Basel-Country,CHE,,Private Call,None
-,2280167,HB3XZW,HB3XZW Andre,Swiss,Aargau,CHE,,Private Call,None
+,2280167,HB9HRZ,HB9HRZ Andre,Swiss,Aargau,CHE,,Private Call,None
 ,2280168,HB9FXK,HB9FXK Walter,Ch 4566 Halten,Solothurn,CHE,,Private Call,None
 ,2280169,HB3XAK,HB3XAK Oliver,Widen,Aargau,CHE,,Private Call,None
 ,2280170,HB3XAI,HB3XAI Sebastien,Geneva,Geneva,CHE,,Private Call,None
@@ -4467,6 +4470,7 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,2280192,HB9GVD,HB9GVD Daniel,Dietikon,Zurich,CHE,,Private Call,None
 ,2280193,HB9FLC,HB9FLC Hans,Kriens Lu,Lucerne,CHE,,Private Call,None
 ,2280194,HB3XAG,HB3XAG Marzio,Arzo,Ticino,CHE,,Private Call,None
+,2280195,HB9HKZ,HB9HKZ Florian,Wauwil,Lucerne,CHE,,Private Call,None
 ,2281001,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281002,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
 ,2281003,HB3YNV,HB3YNV Cedric,Saint-Cergue,Waadt,CHE,,Private Call,None
@@ -9379,7 +9383,6 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3023372,VA3TJS,VA3TJS Timothy,Milverton,Ontario,CAN,,Private Call,None
 ,3023373,VA3SII,VA3SII Simon,Woodstock,Ontario,CAN,,Private Call,None
 ,3023374,VE3ELB,VE3ELB Vince,Toronto,Ontario,CAN,,Private Call,None
-,3023375,VA3XJL,VA3XJL John,Niagara On The Lake,Ontario,CAN,,Private Call,None
 ,3023376,VE3ZBT,VE3ZBT Greg,Erin,Ontario,CAN,,Private Call,None
 ,3023377,VE3TPZ,VE3TPZ James,Stratford,Ontario,CAN,,Private Call,None
 ,3023378,VE3PU,VE3PU Joe,Maple,Ontario,CAN,,Private Call,None
@@ -10967,6 +10970,12 @@ No,Radio ID,Callsign,Name,City,State,Country,Remarks,Call Type,Call Alert
 ,3024969,VE3CZO,VE3CZO Wayne,Nepean,Ontario,CAN,,Private Call,None
 ,3024970,VE7EQC,VE7EQC Allan,Dawson Creek,British Columbia,CAN,,Private Call,None
 ,3024971,VE2EOT,VE2EOT Andrew,Montreal,Quebec,CAN,,Private Call,None
+,3024972,VE3WXF,VE3WXF Ryan,Woodstock,Ontario,CAN,,Private Call,None
+,3024973,VE3SM,VE3SM Arthur,Orangeville,Ontario,CAN,,Private Call,None
+,3024974,VA3CZC,VA3CZC Charlene,Kemptville,Ontario,CAN,,Private Call,None
+,3024975,VE7GMX,VE7GMX Jeff,Salmon Arm,British Columbia,CAN,,Private Call,None
+,3024976,VA2MMU,VA2MMU Martin,Montreal,Quebec,CAN,,Private Call,None
+,3024977,VE6DGK,VE6DGK Donald,Edmonton,Alberta,CAN,,Private Call,None
 ,3025001,VE5RS,VE5RS Ron,Saskatoon,Saskatchewan,CAN,,Private Call,None
 ,3025002,VE5DWR,VE5DWR Devon,Martensville,Saskatchewan,CAN,,Private Call,None
 ,3025003,VE5XEF,VE5XEF Bob,Saskatoon,Saskatchewan,CAN,,Private Call,None

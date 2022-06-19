@@ -165,7 +165,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280164,HB9HCG,Bruhin Othmarsingen,Bruhin,Aargau,CHE,228,DMR
 2280165,HB9SVM,Hunkeler Benglen,Hunkeler,Zurich,CHE,228,DMR
 2280166,HB9HNW,Citton Reinach,Citton,Basel-Country,CHE,228,DMR
-2280167,HB3XZW,Berthoud Swiss,Berthoud,Aargau,CHE,228,DMR
+2280167,HB9HRZ,Berthoud Swiss,Berthoud,Aargau,CHE,228,DMR
 2280168,HB9FXK,Steiner Ch 4566 Halten,Steiner,Solothurn,CHE,228,DMR
 2280169,HB3XAK,Q Widen,Q,Aargau,CHE,228,DMR
 2280170,HB3XAI,Marty Geneva,Marty,Geneva,CHE,228,DMR
@@ -193,6 +193,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280192,HB9GVD,Harzenmoser Dietikon,Harzenmoser,Zurich,CHE,228,DMR
 2280193,HB9FLC,Gabriel Kriens Lu,Gabriel,Lucerne,CHE,228,DMR
 2280194,HB3XAG,Giussani Arzo,Giussani,Ticino,CHE,228,DMR
+2280195,HB9HKZ,Roth Wauwil,Roth,Lucerne,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -2031,6 +2032,17 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320266,OE3GJC,Gurnhofer Traiskirchen,Gurnhofer,NOE,AUT,232,DMR
 2320267,OE4JAR,Regner Horitschon,Regner,BGLD,AUT,232,DMR
 2320268,OE6WGD,Guertl Graz,Guertl,STMK,AUT,232,DMR
+2320269,OE4FUH,Friedel 7321 Raiding,Friedel,BGLD,AUT,232,DMR
+2320270,OE3UAP,Heel no_city,Heel,NOE,AUT,232,DMR
+2320271,OE3SXP,Puschacher Marbach An der Donau,Puschacher,NOE,AUT,232,DMR
+2320272,OE4CNP,Neubauer Moenchhof,Neubauer,BGLD,AUT,232,DMR
+2320273,OE3SAD,Haussperger Wiener Neustadt,Haussperger,NOE,AUT,232,DMR
+2320274,OE4FJM,Mannhal Lebenbrunn,Mannhal,BGLD,AUT,232,DMR
+2320275,OE3HBT,Baumgartner Walpersdorf,Baumgartner,NOE,AUT,232,DMR
+2320276,OE3KUA,Kummer Mayerhofen,Kummer,NOE,AUT,232,DMR
+2320277,OE4MYT,Mayer Jois,Mayer,BGLD,AUT,232,DMR
+2320278,OE6WPF,Preiss Seiersberg,Preiss,STMK,AUT,232,DMR
+2320279,OE3KRA,Krasnek Hoelles,Krasnek,NOE,AUT,232,DMR
 2321001,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321002,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321003,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
@@ -4103,7 +4115,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620378,DO7TP,Pfuetzenreuter Hamm,Pfuetzenreuter,NW,DEU,262,DMR
 2620379,DO1APM,Petrasch Harha,Petrasch,SN,DEU,262,DMR
 2620380,DG9OBG,Kilian Wolfenbuettel,Kilian,NI,DEU,262,DMR
-2620381,DL8HO,Hornivius no_city,Hornivius,,DEU,262,DMR
+2620381,DL6MW,Hirnivius Solms,Hirnivius,HE,DEU,262,DMR
 2620382,DG1LS,Grimm Kropp,Grimm,SH,DEU,262,DMR
 2620383,DO1WMM,Metternich Muenchen,Metternich,BY,DEU,262,DMR
 2620384,DO2PR,Wicklein Idar-Oberstein,Wicklein,RP,DEU,262,DMR
@@ -9452,6 +9464,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625938,DH1WO,Ober Dirmstein,Ober,RP,DEU,262,DMR
 2625939,DL7JST,Staeger Duesseldorf,Staeger,NW,DEU,262,DMR
 2625940,DB6EDR,Raeder Rastede,Raeder,NI,DEU,262,DMR
+2625941,DL4FOX,Fuchs Raubling,Fuchs,BY,DEU,262,DMR
 2625942,DL9MHL,Schmolke Edertal,Schmolke,HE,DEU,262,DMR
 2625943,DF2HM,Hellmer Hamburg,Hellmer,HH,DEU,262,DMR
 2625944,DO9PYZ,Lamsfuss Hennef (si),Lamsfuss,NW,DEU,262,DMR
@@ -13483,6 +13496,21 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2630071,DO1AY,Grey Ilmenau,Grey,TH,DEU,263,DMR
 2630072,DO4DJA,Janssen Goch,Janssen,NW,DEU,263,DMR
 2630073,DO4IS,Stiehm Padenstedt,Stiehm,SH,DEU,263,DMR
+2630074,DO4OA,Alpers Wittingen,Alpers,NI,DEU,263,DMR
+2630075,DG3IN,Saipt Weilerbach,Saipt,RP,DEU,263,DMR
+2630076,DK5ZC,Klatt Eschborn,Klatt,HE,DEU,263,DMR
+2630077,DL0FN,Friendlynet Hilden,Friendlynet,NW,DEU,263,DMR
+2630078,DL2SDI,Riecker Schorndorf,Riecker,BW,DEU,263,DMR
+2630079,DM5TM,Mandel Rednitzhembach,Mandel,BY,DEU,263,DMR
+2630080,DL1UNX,Pannella Fuerstenfeldbruck,Pannella,BY,DEU,263,DMR
+2630081,DO6FN,Niedermark Kirchen (si),Niedermark,RP,DEU,263,DMR
+2630082,DL7STE,Schlossmacher Koeln,Schlossmacher,NW,DEU,263,DMR
+2630083,DC8NW,Herkert Rothenburg,Herkert,BY,DEU,263,DMR
+2630084,DL3BM,Knauer Wiesmoor,Knauer,NI,DEU,263,DMR
+2630085,DO1MLO,Lonau Seitingen-Oberflacht,Lonau,BW,DEU,263,DMR
+2630086,DO4LSK,Kasimir Gremsmuehlen,Kasimir,SH,DEU,263,DMR
+2630087,DK3GZ,Ziesmer Hamburg,Ziesmer,HH,DEU,263,DMR
+2630088,DL5MFF,Kaspar Muenchen,Kaspar,BY,DEU,263,DMR
 2633001,DG4AK,Wich Hann Muenden,Wich,NI,DEU,263,DMR
 2633002,DH8AAA,Bastian Vechelde,Bastian,NI,DEU,263,DMR
 2633003,DC6BV,Schucht Norden,Schucht,NI,DEU,263,DMR

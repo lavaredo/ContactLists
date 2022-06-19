@@ -165,7 +165,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280164,HB9HCG,Pascal Bruhin,Pascal,Othmarsingen,Aargau,CHE
 2280165,HB9SVM,Dietrich Hunkeler,Dietrich,Benglen,Zurich,CHE
 2280166,HB9HNW,Marco Citton,Marco,Reinach,Basel-Country,CHE
-2280167,HB3XZW,Andre Berthoud,Andre,Swiss,Aargau,CHE
+2280167,HB9HRZ,Andre Berthoud,Andre,Swiss,Aargau,CHE
 2280168,HB9FXK,Walter Steiner,Walter,Ch 4566 Halten,Solothurn,CHE
 2280169,HB3XAK,Oliver Q,Oliver,Widen,Aargau,CHE
 2280170,HB3XAI,Sebastien Marty,Sebastien,Geneva,Geneva,CHE
@@ -193,6 +193,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280192,HB9GVD,Daniel Harzenmoser,Daniel,Dietikon,Zurich,CHE
 2280193,HB9FLC,Hans Gabriel,Hans,Kriens Lu,Lucerne,CHE
 2280194,HB3XAG,Marzio Giussani,Marzio,Arzo,Ticino,CHE
+2280195,HB9HKZ,Florian Roth,Florian,Wauwil,Lucerne,CHE
 2281001,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE
 2281002,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE
 2281003,HB3YNV,Cedric ,Cedric,Saint-Cergue,Waadt,CHE
@@ -2031,6 +2032,17 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320266,OE3GJC,Jakob Gurnhofer,Jakob,Traiskirchen,NOE,AUT
 2320267,OE4JAR,Johann Regner,Johann,Horitschon,BGLD,AUT
 2320268,OE6WGD,Wolfgang Guertl,Wolfgang,Graz,STMK,AUT
+2320269,OE4FUH,Martina Friedel,Martina,7321 Raiding,BGLD,AUT
+2320270,OE3UAP,Martin Heel,Martin,no_city,NOE,AUT
+2320271,OE3SXP,Samuel Puschacher,Samuel,Marbach An der Donau,NOE,AUT
+2320272,OE4CNP,Christian Neubauer,Christian,Moenchhof,BGLD,AUT
+2320273,OE3SAD,Daniel Haussperger,Daniel,Wiener Neustadt,NOE,AUT
+2320274,OE4FJM,Friedrich Mannhal,Friedrich,Lebenbrunn,BGLD,AUT
+2320275,OE3HBT,Herbert Baumgartner,Herbert,Walpersdorf,NOE,AUT
+2320276,OE3KUA,Anton Kummer,Anton,Mayerhofen,NOE,AUT
+2320277,OE4MYT,Thomas Mayer,Thomas,Jois,BGLD,AUT
+2320278,OE6WPF,Wolfgang Preiss,Wolfgang,Seiersberg,STMK,AUT
+2320279,OE3KRA,Thomas Krasnek,Thomas,Hoelles,NOE,AUT
 2321001,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
 2321002,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
 2321003,OE1KBC,Kurt Baumann,Kurt,Wien,WIEN,AUT
@@ -4103,7 +4115,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2620378,DO7TP,Thomas Pfuetzenreuter,Thomas,Hamm,NW,DEU
 2620379,DO1APM,Andreas Petrasch,Andreas,Harha,SN,DEU
 2620380,DG9OBG,Detlef Kilian,Detlef,Wolfenbuettel,NI,DEU
-2620381,DL8HO,Juergen Hornivius,Juergen,no_city,,DEU
+2620381,DL6MW,Heinz Hirnivius,Heinz,Solms,HE,DEU
 2620382,DG1LS,Soenke Grimm,Soenke,Kropp,SH,DEU
 2620383,DO1WMM,Wolfgang Metternich,Wolfgang,Muenchen,BY,DEU
 2620384,DO2PR,Norbert Wicklein,Norbert,Idar-Oberstein,RP,DEU
@@ -9452,6 +9464,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2625938,DH1WO,Wolfgang Ober,Wolfgang,Dirmstein,RP,DEU
 2625939,DL7JST,Joerg Staeger,Joerg,Duesseldorf,NW,DEU
 2625940,DB6EDR,Dirk Raeder,Dirk,Rastede,NI,DEU
+2625941,DL4FOX,Thomas Fuchs,Thomas,Raubling,BY,DEU
 2625942,DL9MHL,Matthias Schmolke,Matthias,Edertal,HE,DEU
 2625943,DF2HM,Manfred Hellmer,Manfred,Hamburg,HH,DEU
 2625944,DO9PYZ,Guido Lamsfuss,Guido,Hennef (si),NW,DEU
@@ -13483,6 +13496,21 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2630071,DO1AY,Andreas Grey,Andreas,Ilmenau,TH,DEU
 2630072,DO4DJA,Darian Janssen,Darian,Goch,NW,DEU
 2630073,DO4IS,Ingo Stiehm,Ingo,Padenstedt,SH,DEU
+2630074,DO4OA,Marc-Andre Alpers,Marc-Andre,Wittingen,NI,DEU
+2630075,DG3IN,Kurt Saipt,Kurt,Weilerbach,RP,DEU
+2630076,DK5ZC,Manfred Klatt,Manfred,Eschborn,HE,DEU
+2630077,DL0FN,Clubst Friendlynet,Clubst,Hilden,NW,DEU
+2630078,DL2SDI,Regine Riecker,Regine,Schorndorf,BW,DEU
+2630079,DM5TM,Timon Mandel,Timon,Rednitzhembach,BY,DEU
+2630080,DL1UNX,Attilio Pannella,Attilio,Fuerstenfeldbruck,BY,DEU
+2630081,DO6FN,Frank Niedermark,Frank,Kirchen (si),RP,DEU
+2630082,DL7STE,Stephan Schlossmacher,Stephan,Koeln,NW,DEU
+2630083,DC8NW,Wendelin Herkert,Wendelin,Rothenburg,BY,DEU
+2630084,DL3BM,Heinz Knauer,Heinz,Wiesmoor,NI,DEU
+2630085,DO1MLO,Michael Lonau,Michael,Seitingen-Oberflacht,BW,DEU
+2630086,DO4LSK,Uwe Kasimir,Uwe,Gremsmuehlen,SH,DEU
+2630087,DK3GZ,Guenter Ziesmer,Guenter,Hamburg,HH,DEU
+2630088,DL5MFF,Andreas Kaspar,Andreas,Muenchen,BY,DEU
 2633001,DG4AK,Dietmar Wich,Dietmar,Hann Muenden,NI,DEU
 2633002,DH8AAA,Oliver Bastian,Oliver,Vechelde,NI,DEU
 2633003,DC6BV,Reinhardt Schucht,Reinhardt,Norden,NI,DEU
