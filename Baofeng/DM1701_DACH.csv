@@ -217,6 +217,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280215,HB9MXO,Strassmann Ch   7492 Alvaneu Dorf,Strassmann,,CHE,228,DMR
 2280216,HB9BUN,Helfenstein Eglisau,Helfenstein,Zurich,CHE,228,DMR
 2280217,HB9HTB,Caforio Chiasso,Caforio,Ticino,CHE,228,DMR
+2280218,HB3XVA,Spichtig Hochdorf,Spichtig,Lucerne,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -2113,6 +2114,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320326,OE8RJB, no_city,,KTN,AUT,232,DMR
 2320327,OE1NEC,Nechvatal Wien,Nechvatal,WIEN,AUT,232,DMR
 2320328,OE3BLY,Koeppl Lichtenwoerth,Koeppl,NOE,AUT,232,DMR
+2320329,OE8TIK,Kanalz Villach,Kanalz,KTN,AUT,232,DMR
+2320330,OE8ARE,Rohmann no_city,Rohmann,KTN,AUT,232,DMR
+2320331,OE8BVF,Maurer Villach,Maurer,KTN,AUT,232,DMR
+2320332,OE7SSJ,Sentobe Innsbruck,Sentobe,TIROL,AUT,232,DMR
+2320333,OE9SHV,Stiastny Bregenz,Stiastny,VBG,AUT,232,DMR
 2321001,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321002,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321003,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
@@ -13145,7 +13151,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629659,DO6ULI,Gnaier Ulm,Gnaier,BW,DEU,262,DMR
 2629660,DD2SM,Veres Baltmannsweiler,Veres,BW,DEU,262,DMR
 2629661,DD7TF,Hanisch Offenburg,Hanisch,BW,DEU,262,DMR
-2629662,DO1OMP,Rappersberger Georgensgmuend,Rappersberger,BY,DEU,262,DMR
+2629662,DL1OMP,Rappersberger Georgensgmuend,Rappersberger,BY,DEU,262,DMR
 2629663,DO3RON,Kreileder Weitramsdorf,Kreileder,BY,DEU,262,DMR
 2629664,DG6DBQ,Horak Doerth,Horak,RP,DEU,262,DMR
 2629665,DK3MM,Marowsky Markt Indersdorf,Marowsky,BY,DEU,262,DMR
@@ -13439,7 +13445,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2629955,DL9HCJ,Jaenichen Ammersbek,Jaenichen,SH,DEU,262,DMR
 2629956,DL9RM,Gruendl Mitterteich,Gruendl,BY,DEU,262,DMR
 2629957,DO3MMC,Bauer Lauffen,Bauer,BW,DEU,262,DMR
-2629958,DO1FST,Schulze Korntal-Muenchingen,Schulze,BW,DEU,262,DMR
+2629958,DK2FS,Schulze Korntal Muenchingen,Schulze,BW,DEU,262,DMR
 2629959,DB5ID,Dambacher Karlsbad,Dambacher,BW,DEU,262,DMR
 2629960,DO3RCX, Haag,,BY,DEU,262,DMR
 2629961,DK9DA,Goeddemeier Krummhoern,Goeddemeier,NI,DEU,262,DMR
@@ -13716,6 +13722,24 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2630234,DO1MZ,Kleinhenz Klein-Winternheim,Kleinhenz,RP,DEU,263,DMR
 2630235,DO1DBL,Bradtmoeller Lingen,Bradtmoeller,NI,DEU,263,DMR
 2630236,DO3LMB,Mertner Selters,Mertner,HE,DEU,263,DMR
+2630237,DL4FMX,Matthiensen Osloss,Matthiensen,NI,DEU,263,DMR
+2630238,DB7CA,Woellner Landsberg am Lech,Woellner,BY,DEU,263,DMR
+2630239,DJ2DV,Beerwerth Warstein,Beerwerth,NW,DEU,263,DMR
+2630240,DF3DDY,Winrow Alfeld,Winrow,NI,DEU,263,DMR
+2630241,DB5JS,Schoenauer Bensheim,Schoenauer,HE,DEU,263,DMR
+2630242,DL2MDV,Roehling Kerpen,Roehling,NW,DEU,263,DMR
+2630243,DL1MCZ,Roehling Hergensweiler,Roehling,BY,DEU,263,DMR
+2630244,DO1FWA,Wagner Uetersen,Wagner,SH,DEU,263,DMR
+2630245,DO2ATZ,Wetzel Monheim,Wetzel,NW,DEU,263,DMR
+2630246,DO5LL,Hennig Remscheid,Hennig,NW,DEU,263,DMR
+2630247,DB6KA,Kirchner Pforzheim,Kirchner,BW,DEU,263,DMR
+2630248,DL2IAB,Kwee-Christoph Karlsruhe,Kwee-Christoph,BW,DEU,263,DMR
+2630249,DL2IAC,Christoph Karlsruhe,Christoph,BW,DEU,263,DMR
+2630250,DC8MR,Radoch Grevesmuehlen,Radoch,MV,DEU,263,DMR
+2630251,DO8MMO,Morawietz Coburg,Morawietz,BY,DEU,263,DMR
+2630252,DL4UD,Dierks Grasberg,Dierks,NI,DEU,263,DMR
+2630253,DL2BFH,Ruelke Witten,Ruelke,NW,DEU,263,DMR
+2630254,DO6PS,Scholl Frankfurt,Scholl,HE,DEU,263,DMR
 2633001,DG4AK,Wich Hann Muenden,Wich,NI,DEU,263,DMR
 2633002,DH8AAA,Bastian Vechelde,Bastian,NI,DEU,263,DMR
 2633003,DC6BV,Schucht Norden,Schucht,NI,DEU,263,DMR
@@ -14068,7 +14092,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2633377,DF9AX,Holzbrecher Wunstorf,Holzbrecher,NI,DEU,263,DMR
 2633378,DL1BJN,Bruns Emden,Bruns,NI,DEU,263,DMR
 2633379,DD5MK,Kuehnel Edemissen,Kuehnel,NI,DEU,263,DMR
-2633380,DO3MV,Vondran Wedemark,Vondran,NI,DEU,263,DMR
+2633380,DL7MV,Vondran Wedemark,Vondran,NI,DEU,263,DMR
 2633381,DG9BJP,Fenske Wilhelmshaven,Fenske,NI,DEU,263,DMR
 2633382,DO2CW,Dohle no_city,Dohle,,DEU,263,DMR
 2633384,DO3WDK,Wedekind no_city,Wedekind,,DEU,263,DMR
