@@ -544,6 +544,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060544,ON3PV,Verdoodt Tisselt,Verdoodt,Antwerp,BEL,206,DMR
 2060545,ON3LAV,Palanga Bonsecours,Palanga,Hainaut,BEL,206,DMR
 2060546,ON4RCO,Verstraete Oostende,Verstraete,West-Vlaanderen,BEL,206,DMR
+2060547,ON3BS,Barbe Oostende,Barbe,West-Vlaanderen,BEL,206,DMR
+2060548,ON7BH,Albert Felenne,Albert,Namur,BEL,206,DMR
 2061001,ON8SVH,Hende Oudenaarde,Hende,Oost-Vlaanderen,BEL,206,DMR
 2061002,ON8SI,Pauw Oosterzele,Pauw,Oost-Vlaanderen,BEL,206,DMR
 2061003,ON5LUC,Lourense Gent,Lourense,Oost-Vlaanderen,BEL,206,DMR
@@ -1148,7 +1150,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2064002,ON2PCO,Coonen Riemst,Coonen,Limburg,BEL,206,DMR
 2064003,ON8RAT,Hermans Lanaken,Hermans,Limburg,BEL,206,DMR
 2064004,ON2PCO,Coonen Riemst,Coonen,Limburg,BEL,206,DMR
-2064005,ON3APT,Vanbrabant Genk,Vanbrabant,Limburg,BEL,206,DMR
+2064005,ON2APT,Vanbrabant Hasselt,Vanbrabant,Limburg,BEL,206,DMR
 2064006,ON2HVK, Ham,,Limburg,BEL,206,DMR
 2064007,ON6MID,Drozdzyniak Genk,Drozdzyniak,Limburg,BEL,206,DMR
 2064008,ON4WIM,Poulmans Nieuwerkerken,Poulmans,Limburg,BEL,206,DMR
@@ -2871,6 +2873,11 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081241,F8HNC,Bouvier Tourlaville,Bouvier,,FRA,208,DMR
 2081242,F4JOP,Joe Longuyon,Joe,Grand Est,FRA,208,DMR
 2081243,F1DKC,Sommer Chevigny St Sauveur,Sommer,Bourgogne-Franche-Comte,FRA,208,DMR
+2081244,F4EIK,Colin 52170 Narcy,Colin,Grand Est,FRA,208,DMR
+2081245,F4CUB,Saclier Talant,Saclier,Bourgogne-Franche-Comte,FRA,208,DMR
+2081246,F1GLR,Starace Pe Lissanne,Starace,Provence-Alpes-Cote D Azur,FRA,208,DMR
+2081247,F4JLM,Tichit Neuveglise Sur Truyere,Tichit,Auvergne-Rhone-Alpes,FRA,208,DMR
+2081248,F1OOD,H Belfort,H,Bourgogne-Franche-Comte,FRA,208,DMR
 2081777,F4JBM, Saint-Cloud,,,FRA,208,DMR
 2082001,F4FUL,Teitler Sciez,Teitler,Rhone-Alpes,FRA,208,DMR
 2082002,F5VIN,Damerau Thoiry,Damerau,Rhone-Alpes,FRA,208,DMR
@@ -4556,6 +4563,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280216,HB9BUN,Helfenstein Eglisau,Helfenstein,Zurich,CHE,228,DMR
 2280217,HB9HTB,Caforio Chiasso,Caforio,Ticino,CHE,228,DMR
 2280218,HB3XVA,Spichtig Hochdorf,Spichtig,Lucerne,CHE,228,DMR
+2280219,HB9DQI,None None,None,Basel-Country,CHE,228,DMR
+2280220,HB9HST,Escher Ch 3185 Schmitten Fr,Escher,Fribourg,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -6115,7 +6124,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2289086,HB9TRO,Noll Schwarzenbach,Noll,Ostschweiz,CHE,228,DMR
 2289087,HB9CVE,Meyer Niederteufen,Meyer,Ostschweiz,CHE,228,DMR
 2289088,HB9PLK,Burkart Gerlisberg,Burkart,,CHE,228,DMR
-2289089,HB9ZAP,Schuetz Teufen,Schuetz,,CHE,228,DMR
 2289090,HB9EVD,Braunwalder Wilen,Braunwalder,,CHE,228,DMR
 2289091,HB9ZGZ,Schmid Muenchwilen,Schmid,,CHE,228,DMR
 2289092,HB9GYB,Kern Gossau,Kern,Sankt Gallen,CHE,228,DMR
@@ -11144,6 +11152,18 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025060,VA3KDC,Gibson Dutton,Gibson,Ontario,CAN,302,DMR
 3025061,VE3DZG,Gillingham Val Therese,Gillingham,Ontario,CAN,302,DMR
 3025062,VE7NOC,Mulder Vernon,Mulder,British Columbia,CAN,302,DMR
+3025063,VA3IDE,Ivtchenko Vaughan,Ivtchenko,Ontario,CAN,302,DMR
+3025064,VA7VOG,Dobson Gold River,Dobson,British Columbia,CAN,302,DMR
+3025065,VE3BEE,Patterson Niagara Falls,Patterson,Ontario,CAN,302,DMR
+3025066,VA2XEN,Boucher Quebec,Boucher,Quebec,CAN,302,DMR
+3025067,VA3IAN,Redden Waterdown,Redden,Ontario,CAN,302,DMR
+3025068,VA7YBW,Brennan Sidney,Brennan,British Columbia,CAN,302,DMR
+3025069,VE6CHE,Chesher no_city,Chesher,Alberta,CAN,302,DMR
+3025070,VE2FUI,Mathews Saint Gabriel De Brandon,Mathews,Quebec,CAN,302,DMR
+3025071,VE5EF,Fanthorpe Lloydminster,Fanthorpe,Saskatchewan,CAN,302,DMR
+3025072,VE4AVS,Franzin Winnipeg,Franzin,Manitoba,CAN,302,DMR
+3025073,VE6RSQ,Quigg Sherwood Park,Quigg,Alberta,CAN,302,DMR
+3025074,VA2KTT,Desroches Terrebonne,Desroches,Quebec,CAN,302,DMR
 3026001,VA6IP,Burr Edmonton,Burr,Alberta,CAN,302,DMR
 3026002,VE6GG,Atkinson Edmonton,Atkinson,Alberta,CAN,302,DMR
 3026003,VE6GG,Atkinson Edmonton,Atkinson,Alberta,CAN,302,DMR

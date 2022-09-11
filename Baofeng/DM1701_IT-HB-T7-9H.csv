@@ -5464,7 +5464,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2225480,IU5MPR,Cagnacci Lucca (LU),Cagnacci,Toscana,ITA,222,DMR
 2225481,IW5CPM,Luvisi Borgo Mozzano (LU),Luvisi,Toscana,ITA,222,DMR
 2225482,IU5NFQ, Abetone Cutigliano (PT),,Toscana,ITA,222,DMR
-2225483,IU5NFW,Maccio Palaia (PI),Maccio,Toscana,ITA,222,DMR
+2225483,IU5NFW, no_city,,no_region,ITA,222,DMR
 2225484,IZ5AQX,Barretta Portoazzurro (LI),Barretta,Toscana,ITA,222,DMR
 2225485,IU5NGG,Aquilini Livorno (LI),Aquilini,Toscana,ITA,222,DMR
 2225486,IK5ZQC,Pugliese Santa Maria A Monte (PI),Pugliese,Toscana,ITA,222,DMR
@@ -9914,6 +9914,16 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2229938,IZ1UGZ,Pramparo Premeno (VB),Pramparo,Piemonte,ITA,222,DMR
 2229939,IZ5WPY,Bonelli Buonconvento (SI),Bonelli,Toscana,ITA,222,DMR
 2229940,IU1HFH,Giraldo San Bernardino Verbano (VB),Giraldo,Piemonte,ITA,222,DMR
+2229941,IW7DTY,Patimo Gravina In Puglia (BA),Patimo,Puglia,ITA,222,DMR
+2229942,IZ5PQT,Carboni Pisa (PI),Carboni,Toscana,ITA,222,DMR
+2229943,IW8ROQ,Aramini Palmi (RC),Aramini,Calabria,ITA,222,DMR
+2229944,IU2QDC,Moscatelli Cantu (CO),Moscatelli,Lombardia,ITA,222,DMR
+2229945,IK2QIN,Magni Milano (MI),Magni,Lombardia,ITA,222,DMR
+2229946,IW4DTX,Villani Sant Alberto (RA),Villani,Emilia-Rom.,ITA,222,DMR
+2229947,IV3BSG,Lugano Pasian Di Prato (UD),Lugano,Friuli VG,ITA,222,DMR
+2229948,IU7PGW,Verderosa Foggia (FG),Verderosa,Puglia,ITA,222,DMR
+2229949,IK0JOE,Giacomarra Roma (RM),Giacomarra,Lazio,ITA,222,DMR
+2229950,IU3QNY,March Limana (BL),March,Veneto,ITA,222,DMR
 2280000,N0CALL, no_city,,Zuerich und Thurgau,CHE,228,DMR
 2280001,4U1ITU,Arc Geneva,Arc,,CHE,228,DMR
 2280002,HB3XWO,Becker Basel,Becker,,CHE,228,DMR
@@ -10133,6 +10143,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280216,HB9BUN,Helfenstein Eglisau,Helfenstein,Zurich,CHE,228,DMR
 2280217,HB9HTB,Caforio Chiasso,Caforio,Ticino,CHE,228,DMR
 2280218,HB3XVA,Spichtig Hochdorf,Spichtig,Lucerne,CHE,228,DMR
+2280219,HB9DQI,None None,None,Basel-Country,CHE,228,DMR
+2280220,HB9HST,Escher Ch 3185 Schmitten Fr,Escher,Fribourg,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -11692,7 +11704,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2289086,HB9TRO,Noll Schwarzenbach,Noll,Ostschweiz,CHE,228,DMR
 2289087,HB9CVE,Meyer Niederteufen,Meyer,Ostschweiz,CHE,228,DMR
 2289088,HB9PLK,Burkart Gerlisberg,Burkart,,CHE,228,DMR
-2289089,HB9ZAP,Schuetz Teufen,Schuetz,,CHE,228,DMR
 2289090,HB9EVD,Braunwalder Wilen,Braunwalder,,CHE,228,DMR
 2289091,HB9ZGZ,Schmid Muenchwilen,Schmid,,CHE,228,DMR
 2289092,HB9GYB,Kern Gossau,Kern,Sankt Gallen,CHE,228,DMR

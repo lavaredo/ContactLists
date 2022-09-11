@@ -543,6 +543,8 @@
 2060544,ON3PV Patrick  ,Patrick Verdoodt         Tisselt                 Antwerp                 BEL
 2060545,ON3LAV David   ,David Palanga            Bonsecours              Hainaut                 BEL
 2060546,ON4RCO Aime    ,Aime Verstraete          Oostende                West-Vlaanderen         BEL
+2060547,ON3BS Sophie   ,Sophie Barbe             Oostende                West-Vlaanderen         BEL
+2060548,ON7BH Alain    ,Alain Albert             Felenne                 Namur                   BEL
 2061001,ON8SVH Stijn   ,Stijn Hende              Oudenaarde              Oost-Vlaanderen         BEL
 2061002,ON8SI Simon    ,Simon Pauw               Oosterzele              Oost-Vlaanderen         BEL
 2061003,ON5LUC Luc     ,Luc Lourense             Gent                    Oost-Vlaanderen         BEL
@@ -1147,7 +1149,7 @@
 2064002,ON2PCO Paul    ,Paul Coonen              Riemst                  Limburg                 BEL
 2064003,ON8RAT Marco   ,Marco Hermans            Lanaken                 Limburg                 BEL
 2064004,ON2PCO Paul    ,Paul Coonen              Riemst                  Limburg                 BEL
-2064005,ON3APT Kris    ,Kris Vanbrabant          Genk                    Limburg                 BEL
+2064005,ON2APT Kris    ,Kris Vanbrabant          Hasselt                 Limburg                 BEL
 2064006,ON2HVK Dieter  ,Dieter                   Ham                     Limburg                 BEL
 2064007,ON6MID Michel  ,Michel Drozdzyniak       Genk                    Limburg                 BEL
 2064008,ON4WIM Wim     ,Wim Poulmans             Nieuwerkerken           Limburg                 BEL
@@ -2870,6 +2872,11 @@
 2081241,F8HNC Dominique,Dominique Bouvier        Tourlaville                                     FRA
 2081242,F4JOP Je Rome  ,Je Rome Joe              Longuyon                Grand Est               FRA
 2081243,F1DKC Georges  ,Georges Sommer           Chevigny St Sauveur     Bourgogne-Franche-Comte FRA
+2081244,F4EIK Laurent  ,Laurent Colin            52170 Narcy             Grand Est               FRA
+2081245,F4CUB Michel   ,Michel Saclier           Talant                  Bourgogne-Franche-Comte FRA
+2081246,F1GLR Robert   ,Robert Starace           Pe Lissanne             Provence-Alpes-Cote D A FRA
+2081247,F4JLM Fabien   ,Fabien Tichit            Neuveglise Sur Truyere  Auvergne-Rhone-Alpes    FRA
+2081248,F1OOD Yann     ,Yann H                   Belfort                 Bourgogne-Franche-Comte FRA
 2081777,F4JBM Francois ,Francois                 Saint-Cloud                                     FRA
 2082001,F4FUL Cyril    ,Cyril Teitler            Sciez                   Rhone-Alpes             FRA
 2082002,F5VIN Heiko    ,Heiko Damerau            Thoiry                  Rhone-Alpes             FRA
@@ -4555,6 +4562,8 @@
 2280216,HB9BUN Peter   ,Peter Helfenstein        Eglisau                 Zurich                  CHE
 2280217,HB9HTB Marco   ,Marco Caforio            Chiasso                 Ticino                  CHE
 2280218,HB3XVA Adrian  ,Adrian Spichtig          Hochdorf                Lucerne                 CHE
+2280219,HB9DQI Peter   ,Peter None               None                    Basel-Country           CHE
+2280220,HB9HST Stefan  ,Stefan Escher            Ch 3185 Schmitten Fr    Fribourg                CHE
 2281001,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281002,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281003,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
@@ -6114,7 +6123,6 @@
 2289086,HB9TRO Roland  ,Roland Noll              Schwarzenbach           Ostschweiz              CHE
 2289087,HB9CVE Andy    ,Andy Meyer               Niederteufen            Ostschweiz              CHE
 2289088,HB9PLK Ueli    ,Ueli Burkart             Gerlisberg                                      CHE
-2289089,HB9ZAP Edwin   ,Edwin Schuetz            Teufen                                          CHE
 2289090,HB9EVD Jack    ,Jack Braunwalder         Wilen                                           CHE
 2289091,HB9ZGZ Cyrill  ,Cyrill Schmid            Muenchwilen                                     CHE
 2289092,HB9GYB Patrick ,Patrick Kern             Gossau                  Sankt Gallen            CHE
@@ -11143,6 +11151,18 @@
 3025060,VA3KDC Phil    ,Phil Gibson              Dutton                  Ontario                 CAN
 3025061,VE3DZG David   ,David Gillingham         Val Therese             Ontario                 CAN
 3025062,VE7NOC Alexande,Alexander Mulder         Vernon                  British Columbia        CAN
+3025063,VA3IDE Dmitri  ,Dmitri Ivtchenko         Vaughan                 Ontario                 CAN
+3025064,VA7VOG Greg    ,Greg Dobson              Gold River              British Columbia        CAN
+3025065,VE3BEE Gordon  ,Gordon Patterson         Niagara Falls           Ontario                 CAN
+3025066,VA2XEN Paul    ,Paul Boucher             Quebec                  Quebec                  CAN
+3025067,VA3IAN Ian     ,Ian Redden               Waterdown               Ontario                 CAN
+3025068,VA7YBW Peter   ,Peter Brennan            Sidney                  British Columbia        CAN
+3025069,VE6CHE Hillary ,Hillary Chesher          no_city                 Alberta                 CAN
+3025070,VE2FUI Christop,Christopher Mathews      Saint Gabriel De Brando Quebec                  CAN
+3025071,VE5EF Edward   ,Edward Fanthorpe         Lloydminster            Saskatchewan            CAN
+3025072,VE4AVS William ,William Franzin          Winnipeg                Manitoba                CAN
+3025073,VE6RSQ Ryan    ,Ryan Quigg               Sherwood Park           Alberta                 CAN
+3025074,VA2KTT Eric    ,Eric Desroches           Terrebonne              Quebec                  CAN
 3026001,VA6IP Kiernan  ,Kiernan Burr             Edmonton                Alberta                 CAN
 3026002,VE6GG Kerry    ,Kerry Atkinson           Edmonton                Alberta                 CAN
 3026003,VE6GG Kerry    ,Kerry Atkinson           Edmonton                Alberta                 CAN
