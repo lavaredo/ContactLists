@@ -551,6 +551,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060551,ON7NW,Nuyts Be 3271 Zichem Vb,Nuyts,,BEL,206,DMR
 2060552,ON3PIW,Willot Verviers  Spa,Willot,Liege,BEL,206,DMR
 2060553,ON7NU,Elias Bruxelles  Laeken,Elias,Brussels,BEL,206,DMR
+2060554,ON3RIP,Carels Houtem,Carels,Vlaams Brabant,BEL,206,DMR
 2061001,ON8SVH,Hende Oudenaarde,Hende,Oost-Vlaanderen,BEL,206,DMR
 2061002,ON8SI,Pauw Oosterzele,Pauw,Oost-Vlaanderen,BEL,206,DMR
 2061003,ON5LUC,Lourense Gent,Lourense,Oost-Vlaanderen,BEL,206,DMR
@@ -2898,6 +2899,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081261,F4FSR,Borenz Montfaucon,Borenz,Occitanie,FRA,208,DMR
 2081262,F1RMS,Vergnault Buxerolles,Vergnault,Nouvelle-Aquitaine,FRA,208,DMR
 2081263,F1AIY,Laroche St Jean De Moirans,Laroche,Auvergne-Rhone-Alpes,FRA,208,DMR
+2081264,F4VVM,Walle Heillecourt,Walle,Grand Est,FRA,208,DMR
+2081265,F1VGE,Lopes Aulnay Sous Bois,Lopes,,FRA,208,DMR
+2081266,F5ROY,Renou Herbault,Renou,Centre-Val De Loire,FRA,208,DMR
+2081267,F6FMN,Borgne Langueux,Borgne,Bretagne,FRA,208,DMR
 2081777,F4JBM, Saint-Cloud,,,FRA,208,DMR
 2082001,F4FUL,Teitler Sciez,Teitler,Rhone-Alpes,FRA,208,DMR
 2082002,F5VIN,Damerau Thoiry,Damerau,Rhone-Alpes,FRA,208,DMR
@@ -4422,7 +4427,6 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280055,HB3XXL,Cretegny Lausanne,Cretegny,Vaud,CHE,228,DMR
 2280056,HB9HII,Wasescha Chur,Wasescha,Grigioni Grisons,CHE,228,DMR
 2280057,HB9ABS,Scheidegger Hombrechtikon,Scheidegger,Zurich,CHE,228,DMR
-2280058,HB9HOA,Wiget Gerlafingen,Wiget,Solothurn,CHE,228,DMR
 2280059,HB9HNS,Keller Steinerberg,Keller,Schwyz,CHE,228,DMR
 2280060,HB3XXM,Freudiger Solothurn,Freudiger,Solothurn,CHE,228,DMR
 2280061,HB9HJP,Wyss Ch 6263 Richenthal   Reiden,Wyss,Lucerne,CHE,228,DMR
@@ -4587,6 +4591,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280220,HB9HST,Escher Ch 3185 Schmitten Fr,Escher,Fribourg,CHE,228,DMR
 2280221,HB3YXZ,Kalberer Mels,Kalberer,St. Gallen,CHE,228,DMR
 2280222,HB9HRG,Fadda Tesserete,Fadda,Ticino,CHE,228,DMR
+2280223,HB9DMB,Rood 3144 Gasel,Rood,Bern,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -9080,7 +9085,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3022951,VE3YXY,Mcfadyen Perth,Mcfadyen,Ontario,CAN,302,DMR
 3022952,VA3BDZ,Dworzak Hamilton,Dworzak,Ontario,CAN,302,DMR
 3022953,VE7KNQ,Brown Victoria,Brown,British Columbia,CAN,302,DMR
-3022954,VE3OHS,Anderson Kingston,Anderson,Ontario,CAN,302,DMR
+3022954,VE3UWA,Anderson Kingston,Anderson,Ontario,CAN,302,DMR
 3022955,VE3BNS,Smith no_city,Smith,Ontario,CAN,302,DMR
 3022956,VE2WVV,Vezeau Chambly,Vezeau,Quebec,CAN,302,DMR
 3022957,VE7EVS,Van Schouwen Qualicum Beach,Van Schouwen,British Columbia,CAN,302,DMR
@@ -11033,7 +11038,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3024919,VE6AKN,Le Calgary,Le,Alberta,CAN,302,DMR
 3024920,VE3OOZ,Bois Espanola,Bois,Ontario,CAN,302,DMR
 3024921,VA2LLZ,Morris Longueuil,Morris,Quebec,CAN,302,DMR
-3024922,VA3BM,Maidment Orillia,Maidment,Ontario,CAN,302,DMR
+3024922,VE3BD,Maidment Orillia,Maidment,Ontario,CAN,302,DMR
 3024923,VA2CSI,Sauve Jonquiere,Sauve,Quebec,CAN,302,DMR
 3024924,VA3PRE,Elliot Milton,Elliot,Ontario,CAN,302,DMR
 3024925,VE7ZTW,Williams Parksville,Williams,British Columbia,CAN,302,DMR
@@ -11213,6 +11218,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025100,VE3HCD,Lorenz Ayton,Lorenz,Ontario,CAN,302,DMR
 3025101,VE3WLE,Russell Sarnia,Russell,Ontario,CAN,302,DMR
 3025102,VE3WYD,Potjewyd Brampton,Potjewyd,Ontario,CAN,302,DMR
+3025103,VE2IOT,The Roux Gatineau,The Roux,Quebec,CAN,302,DMR
+3025104,VA3JZB,Leung Ottawa,Leung,Ontario,CAN,302,DMR
+3025105,VE3MOW,Lansdale Mississauga,Lansdale,Ontario,CAN,302,DMR
+3025106,VE2WBF,Boisvert Trois Rivieres,Boisvert,Quebec,CAN,302,DMR
 3026001,VA6IP,Burr Edmonton,Burr,Alberta,CAN,302,DMR
 3026002,VE6GG,Atkinson Edmonton,Atkinson,Alberta,CAN,302,DMR
 3026003,VE6GG,Atkinson Edmonton,Atkinson,Alberta,CAN,302,DMR
