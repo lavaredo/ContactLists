@@ -1,4 +1,4 @@
-713300
+716919
 1,Local,,,,,
 2,Local/Cluster,,,,,
 8,Regional,,,,,
@@ -34,6 +34,7 @@
 242,Norway,,,,,
 244,Finland,,,,,
 246,Lithuania,,,,,
+247,Latvia,,,,,
 248,Estonia,,,,,
 250,Russia,,,,,
 255,Ukraine,,,,,
@@ -48,11 +49,13 @@
 276,Albanien,,,,,
 278,Malta,,,,,
 280,Cyprus,,,,,
+282,Georgia,,,,,
 283,Armenien,,,,,
 284,Bulgaria,,,,,
 286,Turkey,,,,,
 292,San Marino,,,,,
 293,Slovenia,,,,,
+295,Liechtenstein,,,,,
 297,Montenegro,,,,,
 302,Canada,,,,,
 310,TAC-310 USA DMRX Bridge,,,,,
@@ -71,11 +74,14 @@
 352,Grenada,,,,,
 358,Saint Lucia,,,,,
 362,Curacao,,,,,
+368,Cuba,,,,,
 370,Dominican Republic,,,,,
 372,Haiti,,,,,
 374,Trinidad / Tobago,,,,,
+400,Azerbaijan,,,,,
 401,Kazahstan,,,,,
 404,India,,,,,
+410,Pakistan,,,,,
 415,Lebanon,,,,,
 420,Saudi Arabia,,,,,
 422,Oman,,,,,
@@ -91,6 +97,7 @@
 470,Bangladesh,,,,,
 502,Malaysia National,,,,,
 505,Australia,,,,,
+510,Indonesia,,,,,
 515,Philippines,,,,,
 520,Thailand,,,,,
 525,Singapore,,,,,
@@ -99,6 +106,7 @@
 604,Morocco,,,,,
 655,South Africa,,,,,
 704,Guatemala,,,,,
+706,El Salvador,,,,,
 708,Honduras,,,,,
 710,Nicaragua,,,,,
 712,Costa Rica,,,,,
@@ -111,7 +119,11 @@
 734,Venezuela,,,,,
 740,Ecuador,,,,,
 748,Uruguay,,,,,
+888,888,,,,,
 899,Repeater Testing,,,,,
+901,WW Tac 1,,,,,
+902,WW Tac 2,,,,,
+903,WW Tac 3,,,,,
 907,JOTA,,,,,
 910,German,,,,,
 911,Francais,,,,,
@@ -130,6 +142,7 @@
 940,Arabic,,,,,
 955,WWYL,,,,,
 969,DMR-Caribbean,,,,,
+971,Basque,,,,,
 973,SOTA,,,,,
 2021,Area 1 - Central Greece and Athens,,,,,
 2022,Area 2 - Central and West Macedonia,,,,,
@@ -288,6 +301,7 @@
 2506,XRF250C Bridge,,,,,
 2555,Ukraine bridge DMR D-STAR YSF,,,,,
 2559,Emergency Ukraine,,,,,
+2599,Moldova Bridge,,,,,
 2600,Polonia TG,,,,,
 2601,Regional SP1,,,,,
 2602,Regional SP2,,,,,
@@ -327,6 +341,7 @@
 2729,AREN Logistics,,,,,
 2730,TG2730 AREN Log.,,,,,
 2731,XLX925 MultiLink.,,,,,
+2780,Malta EchoLink,,,,,
 2802,Nicosia,,,,,
 2803,Famagusta,,,,,
 2804,Larnaca,,,,,
@@ -340,6 +355,16 @@
 2849,Varna,,,,,
 2860,Turkey Istanbul,,,,,
 2861,Turkey 1.Region,,,,,
+2940,EmComm,,,,,
+2941,Skopje,,,,,
+2942,Tetovo,,,,,
+2943,Gostivar,,,,,
+2944,Kicevo,,,,,
+2945,Struga,,,,,
+2946,Ohrid,,,,,
+2947,Kumanovo,,,,,
+2948,Prilep,,,,,
+2949,Strumica,,,,,
 3020,Newfoundland & Labrador,,,,,
 3021,Nova Scotia,,,,,
 3022,Quebec,,,,,
@@ -414,8 +439,10 @@
 3176,Southwest,,,,,
 3177,Mountain,,,,,
 3180,Missouri Lakes,,,,,
+3181,POTA,,,,,
 3190,NorthCentral PA SouthernTier NY,,,,,
 3195,Chemung Storm Chasers,,,,,
+3196,ATN,,,,,
 3199,Hurricane Net,,,,,
 3300,PRadise Repeater,,,,,
 3304,Distrito Arecibo,,,,,
@@ -430,6 +457,8 @@
 3581,Castries,,,,,
 3582,VieuX Fort,,,,,
 3622,PJ2 Tech,,,,,
+3722,Department Ouest,,,,,
+3728,Department Sud-Est,,,,,
 3740,REACT,,,,,
 3741,Woodbrook,,,,,
 3742,Port of Spain,,,,,
@@ -678,6 +707,13 @@
 6034,GJ7LJJ,,,,,
 6041,Rabat,,,,,
 6471,La Réunion,,,,,
+6558,SARL Hamnet,,,,,
+7060,XLX526C,,,,,
+7061,Región 1,,,,,
+7062,Región 2,,,,,
+7063,Región 3,,,,,
+7064,Eventos Especiales,,,,,
+7065,Emergencias,,,,,
 7081,Honduras zone 1,,,,,
 7082,Honduras zone 2,,,,,
 7083,Honduras zone 3,,,,,
@@ -698,6 +734,8 @@
 7145,GREMPA,,,,,
 7146,UPRA,,,,,
 7147,HP PANAMA HUB,,,,,
+7148,RadioClubPanama,,,,,
+7162,TRUJILLO ZONA 2,,,,,
 7166,Peru Zona OA6,,,,,
 7221,AR AMBA,,,,,
 7227,Argentina LINK,,,,,
@@ -716,7 +754,10 @@
 7323,Columbia HK3 Zone,,,,,
 7325,Columbia HK5 Zone,,,,,
 7326,Columbia HK6 Zone,,,,,
+7400,Ecuador-HC3-Loja-DMR/YSF,,,,,
 7401,Ecuador HC3 Loja,,,,,
+7402,Ecuador DX Club,,,,,
+7487,Uruguay Link,,,,,
 8515,Dstar Italia XLX-77 Link,,,,,
 9071,JOTA Tac 1,,,,,
 9072,JOTA Tac 2,,,,,
@@ -766,12 +807,14 @@
 20423,Utrecht,,,,,
 20424,Rijnmond,,,,,
 20426,Drechtsteden,,,,,
+20427,NHNoord,,,,,
 20431,Limburg,,,,,
 20432,Noord Brabant,,,,,
 20433,Maasdriehoek,,,,,
 20441,Regio IJsselmond,,,,,
 20443,GLD Midden NLD,,,,,
 20492,Veteranendag,,,,,
+20493,RFDX,,,,,
 20494,YSF444,,,,,
 20601,Belgium North YSF Bridge,,,,,
 20602,Belgium South YSF Bridge,,,,,
@@ -785,8 +828,12 @@
 20813,Dept Bouches-du-Rhone,,,,,
 20820,Dept Corse,,,,,
 20821,Corsica,,,,,
+20825,Dépt Doubs,,,,,
+20828,Dépt Eure-et-Loir,,,,,
 20830,Dept Gard,,,,,
+20835,Dépt Ille et Vilaine,,,,,
 20837,Dept Indre-et-Loire,,,,,
+20840,Dépt Landes,,,,,
 20843,Dept Haute-Loire,,,,,
 20844,Dépt Loire-Atl,,,,,
 20845,Dept Loiret,,,,,
@@ -798,8 +845,10 @@
 20869,Lyon Rhone-Alpes,,,,,
 20872,Dept Sarthe,,,,,
 20877,Dept Seine-et-Marne,,,,,
+20881,Dépt Tarn,,,,,
 20883,Dept du Var,,,,,
 20887,Dept Haute-Vienne,,,,,
+20894,Dépt Val-De-Marne,,,,,
 20895,Dept Val D'Oise,,,,,
 21401,Provincial Araba,,,,,
 21402,Provincial Albacete,,,,,
@@ -862,6 +911,8 @@
 21469,TG de uso libre,,,,,
 21470,TG de uso libre,,,,,
 21471,TG de uso libre,,,,,
+21812,Banjaluka Region,,,,,
+21877,ZRHB Group,,,,,
 22201,Lazio,,,,,
 22202,Sardegna,,,,,
 22203,Umbria,,,,,
@@ -896,6 +947,7 @@
 22486,Gruppo Radioamatori G.P.G.�(Time Slot-1 Preferable),,,,,
 22601,Diaspora YO,,,,,
 22603,Gate to ROLINK,,,,,
+22691,YO Start,,,,,
 22801,UA 1,,,,,
 22802,UA 2,,,,,
 22803,UA 3,,,,,
@@ -918,6 +970,8 @@
 23490,East Anglia,,,,,
 23500,S.West,,,,,
 23510,S.East,,,,,
+23515,Guernsey,,,,,
+23516,Jersey,,,,,
 23520,N.West,,,,,
 23526,Hubnet UK,,,,,
 23527,UK Mil & Vet,,,,,
@@ -941,6 +995,7 @@
 23812,WiresX CQ-DENMARK,,,,,
 23824,BornHack,,,,,
 23888,OZ0FT Link,,,,,
+24020,Young Ladies SM,,,,,
 24080,SM XIL,,,,,
 24098,Robust Packet Network XLX147,,,,,
 24201,Chatrom 1,,,,,
@@ -963,6 +1018,7 @@
 24430,FI OH3 QSY,,,,,
 24431,Regional OH3 Tampere,,,,,
 24432,Regional OH3 Lahti,,,,,
+24433,FI OH3 K-H,,,,,
 24440,FI OH4 QSY,,,,,
 24450,FI OH5 QSY,,,,,
 24451,FI OH5 EKa,,,,,
@@ -970,6 +1026,7 @@
 24460,FI OH6 QSY,,,,,
 24461,Finland OH6 Jyväskylä region,,,,,
 24462,FI OH6 Pjm,,,,,
+24463,FI OH6 Öbo,,,,,
 24465,TG de uso libre,,,,,
 24470,FI OH7 QSY,,,,,
 24471,FI OH7 OSa,,,,,
@@ -980,6 +1037,7 @@
 24492,Finland Links2,,,,,
 24493,Finland Links3,,,,,
 24499,Finland All-Mode-Linking,,,,,
+24706,XLX636,,,,,
 24804,ES4 Narva Region,,,,,
 24810,Estonia-RUS / ham-dmr.ee,,,,,
 25011,Russian Tech,,,,,
@@ -1010,6 +1068,7 @@
 25525,Chernigivs`ka obl,,,,,
 25526,Chernivets`ka obl,,,,,
 25527,Sevastopol,,,,,
+25577,UA Azimuth,,,,,
 25599,Emergency Zakarpattia,,,,,
 25701,Belarus / Minsk,,,,,
 25999,MD Tech Group,,,,,
@@ -1065,11 +1124,13 @@
 26241,Rheinland,,,,,
 26242,Muensterland,,,,,
 26243,Ruhrgebiet,,,,,
+26244,Separee D/ME,,,,,
 26245,Rheinland-Sued,,,,,
 26246,Niederrhein,,,,,
 26247,DG Velbert,,,,,
 26249,IGFS IG Funk Siebengebirge,,,,,
 26250,Saarland,,,,,
+26253,Westpfalz,,,,,
 26255,Kaiserslautern,,,,,
 26256,Eifel-Hunsrueck,,,,,
 26257,Siegerland,,,,,
@@ -1127,6 +1188,7 @@
 26387,Cham,,,,,
 26388,Region Bayern Chiemgau,,,,,
 26390,Neumarkt,,,,,
+26421,C4FM DL-Hamburg,,,,,
 26429,DL-Nordwest,,,,,
 26444,Inselfreunde,,,,,
 26446,Multibridge OWL,,,,,
@@ -1167,6 +1229,8 @@
 28600,YSF DMR,,,,,
 28601,Turkey Adana,,,,,
 28606,Turkey Ankara,,,,,
+28607,Turkey Antalya,,,,,
+28609,Turkey Aydin,,,,,
 28614,Turkey Bolu,,,,,
 28616,Turkey Bursa,,,,,
 28617,Turkey Canakkale,,,,,
@@ -1178,9 +1242,33 @@
 28645,Turkey Manisa,,,,,
 28646,Turkey KMaras,,,,,
 28677,Turkey Yalova,,,,,
+29410,Bitola,,,,,
+29411,Gevgelija,,,,,
+29412,Kocani,,,,,
+29413,Veles,,,,,
+29414,Stip,,,,,
+29415,Kavadarci,,,,,
+29416,Debar,,,,,
+29417,Resen,,,,,
+29418,Negotino,,,,,
+29419,Krusevo,,,,,
+29420,Radovis,,,,,
+29421,Berovo,,,,,
+29422,Delcevo,,,,,
+29423,Vinica,,,,,
+29424,Kriva Palanka,,,,,
+29425,Demir Hisar,,,,,
+29495,Mavrovo National Park,,,,,
+29496,Sport Weapons Hunting,,,,,
+29497,Traffic NAV Borders,,,,,
+29498,Multilanguage,,,,,
+29499,TechZone,,,,,
 30232,Ontario Storm Spotting,,,,,
+30234,FlexRadio SIG,,,,,
+30235,SWARC,,,,,
 30271,Canada BC 1,,,,,
 30272,Canada BC 2,,,,,
+30273,BC Vancouver Island,,,,,
 31000,Parrot (Group Call),,,,,
 31001,Net Talkgroup 1,,,,,
 31002,Net Talkgroup 2,,,,,
@@ -1193,10 +1281,13 @@
 31016,NW Alabama,,,,,
 31017,Alabama East,,,,,
 31019,Alabama TAC,,,,,
+31020,Alaska TAC,,,,,
 31021,AK Contesting,,,,,
+31022,Alaska Skywarn,,,,,
 31023,East Central Alabama,,,,,
 31040,AZ EmComm,,,,,
 31041,Arizona TAC,,,,,
+31050,Arkansas Tac,,,,,
 31051,ARWX,,,,,
 31055,NC Arkansas,,,,,
 31058,NW Arkansas,,,,,
@@ -1344,6 +1435,7 @@
 31273,Northstar DMR,,,,,
 31274,AARG,,,,,
 31275,SW Minnesota,,,,,
+31276,Minnesota ARES,,,,,
 31280,Mississippi TAC,,,,,
 31281,XRF813 A,,,,,
 31285,NorthEast MS,,,,,
@@ -1370,6 +1462,7 @@
 31321,Nevada 1,,,,,
 31322,VOAD,,,,,
 31323,ENARS,,,,,
+31324,NV4,,,,,
 31325,HXO,,,,,
 31326,Burning Man,,,,,
 31327,Las Vegas,,,,,
@@ -1417,6 +1510,7 @@
 31408,Oklahoma WX,,,,,
 31410,Oregon TAC,,,,,
 31411,Central Oregon,,,,,
+31412,Western Oregon,,,,,
 31419,RepeaterBook,,,,,
 31420,PEMA ACS,,,,,
 31421,PA Tac,,,,,
@@ -1427,6 +1521,7 @@
 31427,Tri-County,,,,,
 31428,RF-IT,,,,,
 31429,Zednet,,,,,
+31431,New York TAC,,,,,
 31441,Rhode Island Chat,,,,,
 31444,Rhode Island Digital Link,,,,,
 31445,Quahog Repeater Network,,,,,
@@ -1461,6 +1556,7 @@
 31490,76ers,,,,,
 31491,Northern Utah,,,,,
 31492,Davis Utah,,,,,
+31493,Northeast Utah,,,,,
 31499,Utah TAC,,,,,
 31500,Vermont TAC,,,,,
 31510,VA Chat,,,,,
@@ -1596,8 +1692,10 @@
 37022,RDNet,,,,,
 37030,Skynet,,,,,
 37040,DMR DOMINICAN REPUBLIC,,,,,
+37218,Haiti Urgences EmComm,,,,,
 40407,Kerala,,,,,
 40430,New Delhi,,,,,
+40480,Bangalore,,,,,
 42201,Muscat,,,,,
 44155,shounanYSF,,,,,
 44300,GW1SYG,,,,,
@@ -1627,6 +1725,7 @@
 50599,YSF001|XLX389D|NXDN505,,,,,
 51518,DX1ARM,,,,,
 51525,SCAN I,,,,,
+51533,ARES PH,,,,,
 51546,SCAN I,,,,,
 51569,BADMG,,,,,
 52001,NBTC (HS0AB),,,,,
@@ -1690,6 +1789,9 @@
 98009,World Events,,,,,
 98010,Cafe Gratis WW,,,,,
 98011,FT8DMC,,,,,
+98012,LBGTQ,,,,,
+98013,Sked TG Europe,,,,,
+98014,RV-ers World Wide,,,,,
 98229,Sicily FREE,,,,,
 98638,WVNET,,,,,
 98977,OpenGD77,,,,,
@@ -1779,7 +1881,9 @@
 250116,Russia / Kazan,,,,,
 250163,Russia / Samara,,,,,
 250212,Russia / Joshkar-Ola (Mari El),,,,,
+250233,Russia / Moscow bus 233,,,,,
 250246,Russia / Ramenskoe,,,,,
+250250,Motorola users RF,,,,,
 250351,Russia / Chelyabinsk,,,,,
 250500,Russia / Rostov-on-Don,,,,,
 250600,Russia / Ivanovo,,,,,
@@ -1804,6 +1908,7 @@
 250620,Russia / Moscow / R2AJV,,,,,
 250621,Russia / Moscow,,,,,
 250622,Russia / Krasnoyarsk (1),,,,,
+250623,Russia / Selyatino,,,,,
 250624,Russia / Mozhaysk,,,,,
 250625,Russia / Krasnogorsk,,,,,
 250626,Russia / Narofominsk,,,,,
@@ -1842,10 +1947,13 @@
 250659,Russia / Ryazan,,,,,
 250660,Russia / local R2AWN,,,,,
 250661,Russia / Liza Alert Resque Team,,,,,
+250662,Russia / Hytera_ru,,,,,
 250663,Russia / Zelenograd (Moscow),,,,,
+250667,Russia / Smolensk,,,,,
 250707,Russia / Sevastopol,,,,,
 250775,Russia / Kaliningrad-2,,,,,
 250777,Russia / Kaliningrad,,,,,
+250800,WorldWideMobile,,,,,
 250812,Russia / Saint Petersburg,,,,,
 250813,Russia / SPBR7,,,,,
 250888,Russia / Shumerlya,,,,,
@@ -1869,7 +1977,11 @@
 262999,GPS,,,,,
 263112,HiOrg-Talk EmComm,,,,,
 263113,(Un)Wetter Netz,,,,,
+263301,Bahnfreunde,,,,,
 263333,Twitterrunde,,,,,
+263815,Funkerportal,,,,,
+263907,JOTA DL,,,,,
+264555,IG HamSpirit,,,,,
 268112,EmComm PT,,,,,
 268117,Emergencia 117,,,,,
 268901,Oporto group,,,,,
@@ -1912,6 +2024,7 @@
 310992,CDRA Connecticut,,,,,
 310997,Parrot,,,,,
 311037,BRARA SE-FL,,,,,
+311274,KSC Kennedy Space Center,,,,,
 311416,SACValley,,,,,
 311433,BAYAREA-DMR,,,,,
 311573,Flower City,,,,,
@@ -1920,15 +2033,18 @@
 311678,HSCAREN,,,,,
 311752,Central IL,,,,,
 311898,Genesee Valley,,,,,
+311899,Central IL SKYWARN,,,,,
 311953,VARG,,,,,
 311995,SW-LA,,,,,
 312130,IARPN,,,,,
 312186,SCARC,,,,,
+312556,Calnet,,,,,
 312647,W2GLD Local,,,,,
 312656,DARN (Kalamazoo),,,,,
 313323,GMARS,,,,,
 313324,GMARS 2,,,,,
 313327,LARK,,,,,
+313444,Elizabeth  Schools,,,,,
 313976,W8SDR Local,,,,,
 314215,PADMR Local,,,,,
 314242,SVARC,,,,,
@@ -1940,6 +2056,7 @@
 316274,KSC,,,,,
 330013,IslaComm DMR Rpts,,,,,
 330911,Emergencia,,,,,
+334911,EMCOMM Mexico,,,,,
 460666,CHINA SUIZHOU AR,,,,,
 505999,XLX626B&NZXLXYSF,,,,,
 530999,XLX626A&YSF,,,,,
@@ -1951,6 +2068,7 @@
 724952,YSF 722,,,,,
 730911,EMCOMM Chile,,,,,
 732911,HK EMMCOMM,,,,,
+734911,EMCOMM RNE Venezuela,,,,,
 950600,Russia / Ivanovo,,,,,
 950601,Russia / Tarko-Sale / RT9K,,,,,
 950602,Russia / Tarko-Sale / RT9K / Emergency,,,,,
@@ -1985,6 +2103,7 @@
 2049882,XRF088 B,,,,,
 2080332,France/DCS033C 16,,,,,
 2080673,France/XRF067C 17,,,,,
+2169112,Emergency Hungary,,,,,
 2709112,LX EMCOMM,,,,,
 5059742,XRF740 C,,,,,
 2220001,IK0YYY,Luca Ferrara,Roma (RM),Lazio,Luca,ITA
@@ -2990,7 +3109,7 @@
 2221003,IZ1SCR,Christian Gillia,Torino (TO),Piemonte,Christian,ITA
 2221004,IW1GHE,Massimo Sasso,Carmagnola (TO),Piemonte,Massimo,ITA
 2221005,IW1BOZ,Patrizio Crolla,Pogno (NO),Piemonte,Patrizio,ITA
-2221006,IX1ZFR,Christiano Bernard,Cervinia (AO),Valle D Aosta,Christiano,ITA
+2221006,IX1ZFR,Christiano Bernard,Cervinia (AO),Valle d'Aosta,Christiano,ITA
 2221007,IZ1VYT,Paolo Brugna,Novi Ligure (AL),Piemonte,Paolo,ITA
 2221008,IW1PPB,Andrea Olivero,Loano (SV),Liguria,Andrea,ITA
 2221009,IZ1PPX,Daniele Eleinad,Caltignaga (NO),Piemonte,Daniele,ITA
@@ -3009,7 +3128,7 @@
 2221022,IZ1ZPJ,Davide Paganoni,Villadossola (VB),Piemonte,Davide,ITA
 2221023,IZ1PPC,Marinella Rossetti,Domodossola (VB),Piemonte,Marinella,ITA
 2221024,IW1BZH,Matteo Succi,Domodossola (VB),Piemonte,Matteo,ITA
-2221025,IX1BPG,Piergiorgio Bernard,Cervinia (AO),Valle D Aosta,Piergiorgio,ITA
+2221025,IX1BPG,Piergiorgio Bernard,Cervinia (AO),Valle d'Aosta,Piergiorgio,ITA
 2221026,IZ1PPX,Daniele Eleinad,Caltignaga (NO),Piemonte,Daniele,ITA
 2221027,IZ1PNY,Carmelo Paglia,Manta (CN),Piemonte,Carmelo,ITA
 2221028,IZ1RIT,Pier Marigonda,Domodossola (VB),Piemonte,Pier,ITA
@@ -3019,24 +3138,24 @@
 2221032,IW1GAP,Andrea Perino,San Maurizio Canavese (TO),Piemonte,Andrea,ITA
 2221033,IW1FLA,Marco Colombino,Torino (TO),Piemonte,Marco,ITA
 2221034,IW1QCT,Alessandro Clazzer,Genova (GE),Liguria,Alessandro,ITA
-2221035,IX1CKN,Christian Diemoz,Aosta (AO),Valle D Aosta,Christian,ITA
+2221035,IX1CKN,Christian Diemoz,Aosta (AO),Valle d'Aosta,Christian,ITA
 2221036,IZ1RHE,Ivo Bailo,Cremolino (AL),Piemonte,Ivo,ITA
 2221037,IZ1HIQ,Alessandro Ferraro,Genova (GE),Liguria,Alessandro,ITA
-2221038,IX1VKK,Rinaldo Faggion,Sarre (AO),Valle D Aosta,Rinaldo,ITA
-2221039,IW1CAB,Luca Ghinazzi,Aosta (AO),Valle D Aosta,Luca,ITA
-2221040,IX1DIT,Sandro Clemente,Chatillon (AO),Valle D Aosta,Sandro,ITA
-2221041,IX1AMY,Vladimiro Gasperin,Aosta (AO),Valle D Aosta,Vladimiro,ITA
+2221038,IX1VKK,Rinaldo Faggion,Sarre (AO),Valle d'Aosta,Rinaldo,ITA
+2221039,IW1CAB,Luca Ghinazzi,Aosta (AO),Valle d'Aosta,Luca,ITA
+2221040,IX1DIT,Sandro Clemente,Chatillon (AO),Valle d'Aosta,Sandro,ITA
+2221041,IX1AMY,Vladimiro Gasperin,Aosta (AO),Valle d'Aosta,Vladimiro,ITA
 2221042,IK1JTD,Roberto Tosello,Asti (AT),Piemonte,Roberto,ITA
 2221043,IZ1EZN,Giorgio Mossino,Asti (AT),Piemonte,Giorgio,ITA
 2221044,IW1BEB,Agostino Ronco,Santena (TO),Piemonte,Agostino,ITA
-2221045,IX1VKK,Rinaldo Faggion,Sarre (AO),Valle D Aosta,Rinaldo,ITA
+2221045,IX1VKK,Rinaldo Faggion,Sarre (AO),Valle d'Aosta,Rinaldo,ITA
 2221046,IZ1UKG,Paolo Berruti,Castell Alfero (AT),Piemonte,Paolo,ITA
 2221047,IZ1MAU,Paolo Corino,Baldissero Torinese (TO),Piemonte,Paolo,ITA
 2221048,IZ1UKC,Rosanna Peretti,Asti (AT),Piemonte,Rosanna,ITA
 2221049,I1HKJ,Cesare Rolle,Valperga (TO),Piemonte,Cesare,ITA
-2221050,IW1CAB,Luca Ghinazzi,Aosta (AO),Valle D Aosta,Luca,ITA
+2221050,IW1CAB,Luca Ghinazzi,Aosta (AO),Valle d'Aosta,Luca,ITA
 2221051,IU1AVC,Dario Angelotti,Asti (AT),Piemonte,Dario,ITA
-2221052,IX1BJC,Mauro Domenichelli,Aosta (AO),Valle D Aosta,Mauro,ITA
+2221052,IX1BJC,Mauro Domenichelli,Aosta (AO),Valle d'Aosta,Mauro,ITA
 2221053,IW1DUH,Vittorio Marchisio,Chieri (TO),Piemonte,Vittorio,ITA
 2221054,IW1AHI,Claudio Zopegni,Asti (AT),Piemonte,Claudio,ITA
 2221055,IW1GA,Maurizio Mansone,Asti (AT),Piemonte,Maurizio,ITA
@@ -3046,7 +3165,7 @@
 2221059,I1TTK,Gianfranco Torta,Asti (AT),Piemonte,Gianfranco,ITA
 2221060,IZ1CQZ,Giovanni Viglione,Monta   D Alba (CN),Piemonte,Giovanni,ITA
 2221061,IZ1SCC,Sergio Olivieri,Pianezza (TO),Piemonte,Sergio,ITA
-2221062,IX1WYZ,Antonio Giovinazzo,Aosta (AO),Valle D Aosta,Antonio,ITA
+2221062,IX1WYZ,Antonio Giovinazzo,Aosta (AO),Valle d'Aosta,Antonio,ITA
 2221063,IZ1NQY,Enzo Ramella,Camburzano (BI),Piemonte,Enzo,ITA
 2221064,IU1ARN,Brida Marco,Castelnuovo Bormida (AL),Piemonte,Brida,ITA
 2221065,IU1AYD,Alessandro Merlo,Tortona (AL),Piemonte,Alessandro,ITA
@@ -3073,7 +3192,7 @@
 2221086,IU1BOP,Simone Rossi,Oglianico (TO),Piemonte,Simone,ITA
 2221087,IU1DWD,Claudio Bruda,Favria (TO),Piemonte,Claudio,ITA
 2221088,IZ1POA,Michele Melchiorri,Domodossola (VB),Piemonte,Michele,ITA
-2221089,IX1FYM,Renzo Belfrond,Courmayeur (AO),Valle D Aosta,Renzo,ITA
+2221089,IX1FYM,Renzo Belfrond,Courmayeur (AO),Valle d'Aosta,Renzo,ITA
 2221090,IZ1UID,Flavio Polledro,Giaveno (TO),Piemonte,Flavio,ITA
 2221091,IK1TNU,Renato Giorgetti,Domodossola (VB),Piemonte,Renato,ITA
 2221092,I1NEU,Teresio Mursone,Torino (TO),Piemonte,Teresio,ITA
@@ -3100,7 +3219,7 @@
 2221113,IW1QQV,Alessio Ravera,Genova (GE),Liguria,Alessio,ITA
 2221114,I1GFV,Giacomo Bocchi,Busalla (GE),Liguria,Giacomo,ITA
 2221115,IZ1VPJ,Emanuele Pero,Torino (TO),Piemonte,Emanuele,ITA
-2221116,IX1DSV,Francesco Fognier,Aosta (AO),Valle D Aosta,Francesco,ITA
+2221116,IX1DSV,Francesco Fognier,Aosta (AO),Valle d'Aosta,Francesco,ITA
 2221117,IW1RIM,Carlo Paganini,Castiglione Chiavarese (GE),Liguria,Carlo,ITA
 2221118,IW1PRT,Alberto Pistone,Genova (GE),Liguria,Alberto,ITA
 2221119,IZ1MLT,Luca Marchesano,Mignanego (GE),Liguria,Luca,ITA
@@ -3166,8 +3285,8 @@
 2221179,IW1BRR,Riccardo Vienny,Dormelletto (NO),Piemonte,Riccardo,ITA
 2221180,IZ1MAU,Paolo Corino,Baldissero Torinese (TO),Piemonte,Paolo,ITA
 2221181,IW1GJC,Claudio Genova,Borgomanero (NO),Piemonte,Claudio,ITA
-2221182,IX1VGS,Carlo Betro,Sarre (AO),Valle D Aosta,Carlo,ITA
-2221183,IX1CVG,Simona Pella,Sarre (AO),Valle D Aosta,Simona,ITA
+2221182,IX1VGS,Carlo Betro,Sarre (AO),Valle d'Aosta,Carlo,ITA
+2221183,IX1CVG,Simona Pella,Sarre (AO),Valle d'Aosta,Simona,ITA
 2221184,IK1IJJ,Vincenzo Cannuni,Torino (TO),Piemonte,Vincenzo,ITA
 2221185,IW1GPT,Cesare ,Invorio (NO),Piemonte,Cesare,ITA
 2221186,IK1THA,Moreno Tondini,Borgo Ticino (NO),Piemonte,Moreno,ITA
@@ -3188,7 +3307,7 @@
 2221201,IZ1FHG,Alessandro Zompetti,Rapallo (GE),Liguria,Alessandro,ITA
 2221202,IZ1LAF,Antonio Romano,Nichelino (TO),Piemonte,Antonio,ITA
 2221203,IK1HJQ,Marco Bissolotti,Sanremo (IM),Liguria,Marco,ITA
-2221204,IX1EJZ,Maurizio Barbero,Aosta (AO),Valle D Aosta,Maurizio,ITA
+2221204,IX1EJZ,Maurizio Barbero,Aosta (AO),Valle d'Aosta,Maurizio,ITA
 2221205,IK1OXG,Ugo Sampietro,Rapallo (GE),Liguria,Ugo,ITA
 2221206,IZ1VOG,Scarpa Roberto,Torino (TO),Piemonte,Scarpa,ITA
 2221207,IZ1UQM,Mirka Lanteri,Imperia (IM),Liguria,Mirka,ITA
@@ -3228,15 +3347,15 @@
 2221242,IW1BYG,Giovanni Ferrara,Acqui Terme (AL),Piemonte,Giovanni,ITA
 2221243,IK1XIA,Antonio Bertero,Castagnole Piemonte (TO),Piemonte,Antonio,ITA
 2221244,IW1FIF,Stefano Mussino,Avigliana (TO),Piemonte,Stefano,ITA
-2221245,IX1GGM,Sebastiano Crosio,Courmayeur (AO),Valle D Aosta,Sebastiano,ITA
+2221245,IX1GGM,Sebastiano Crosio,Courmayeur (AO),Valle d'Aosta,Sebastiano,ITA
 2221246,IU1DKC,Denis Maggiorotto,Chieri (TO),Piemonte,Denis,ITA
 2221247,IU1EBV,Claudio Maggiorotto,Villastellone (TO),Piemonte,Claudio,ITA
 2221248,IU1FRV,Ivan Patorno,Settimo Torinese (TO),Piemonte,Ivan,ITA
 2221249,IK1TVV,Dario Barbin,Valenza (AL),Piemonte,Dario,ITA
-2221250,IX1GDU,Nicola Bergomi,Courmayeur (AO),Valle D Aosta,Nicola,ITA
+2221250,IX1GDU,Nicola Bergomi,Courmayeur (AO),Valle d'Aosta,Nicola,ITA
 2221251,IU1HJL,Christian Negro,Balestrino (SV),Liguria,Christian,ITA
 2221252,IU1HIH,Simone Tringali,Chieri (TO),Piemonte,Simone,ITA
-2221253,IX1FZK,Giuseppe Carrozzino,Courmayeur (AO),Valle D Aosta,Giuseppe,ITA
+2221253,IX1FZK,Giuseppe Carrozzino,Courmayeur (AO),Valle d'Aosta,Giuseppe,ITA
 2221254,IZ1PTT,Diego Magnani,La Spezia (SP),Liguria,Diego,ITA
 2221255,IZ1NEM,Quolaschi Gianni,Moneglia (GE),Liguria,Quolaschi,ITA
 2221256,IW1GEU,Audric Leperdi,Venaria Reale (TO),Piemonte,Audric,ITA
@@ -3257,9 +3376,9 @@
 2221271,IZ1HBA,Vincenzo Vincenzo,Genova (GE),Liguria,Vincenzo,ITA
 2221272,IW1PUK,Paolo Masiello,Genova (GE),Liguria,Paolo,ITA
 2221273,IW1RHR,Roberto Traverso,Santa Margherita Ligure (GE),Liguria,Roberto,ITA
-2221274,IX1IZS,Luigi Benzi,Charvensod (AO),Valle D Aosta,Luigi,ITA
-2221275,IX1GGI,Stefano Meroni,Gressan (AO),Valle D Aosta,Stefano,ITA
-2221276,IX1CYE,Simone Reitano,Aosta (AO),Valle D Aosta,Simone,ITA
+2221274,IX1IZS,Luigi Benzi,Charvensod (AO),Valle d'Aosta,Luigi,ITA
+2221275,IX1GGI,Stefano Meroni,Gressan (AO),Valle d'Aosta,Stefano,ITA
+2221276,IX1CYE,Simone Reitano,Aosta (AO),Valle d'Aosta,Simone,ITA
 2221277,IZ1DSJ,Giacomo Querio,Pont Canavese (TO),Piemonte,Giacomo,ITA
 2221278,IZ1NHA,Paolo Blais,Sauze D Oulx (TO),Piemonte,Paolo,ITA
 2221279,IW1DNI,Adriano Zinali,Rivoli (TO),Piemonte,Adriano,ITA
@@ -3299,7 +3418,7 @@
 2221313,I1GFV,Giacomo Bocchi,Busalla (GE),Liguria,Giacomo,ITA
 2221314,IK1VDI,Giorgio Basso,Borgaro Torinese (TO),Piemonte,Giorgio,ITA
 2221315,IZ1DRY,Lorenzo Beccati,San Maurizio Canavese (TO),Piemonte,Lorenzo,ITA
-2221316,IX1AOU,Enrico Collomb,Aosta (AO),Valle D Aosta,Enrico,ITA
+2221316,IX1AOU,Enrico Collomb,Aosta (AO),Valle d'Aosta,Enrico,ITA
 2221317,IZ1CQY,Piero Valle,Rivoli (TO),Piemonte,Piero,ITA
 2221318,IZ1TMR,Loredano Leone,Avigliana (TO),Piemonte,Loredano,ITA
 2221319,I1KAQ,Marco Astesiano,Monastero Bormida (AT),Piemonte,Marco,ITA
@@ -3321,7 +3440,7 @@
 2221335,IU1DOR,Carlo Bolognesi,Felizzano (AL),Piemonte,Carlo,ITA
 2221336,IZ1PPS,Adriano Gerotto,Carmagnola (TO),Piemonte,Adriano,ITA
 2221337,IW1GHG,Marco ,Rivarolo Canavese (TO),Piemonte,Marco,ITA
-2221338,IX1LLZ,Roberto Marco,Brusson (AO),Valle D Aosta,Roberto,ITA
+2221338,IX1LLZ,Roberto Marco,Brusson (AO),Valle d'Aosta,Roberto,ITA
 2221339,IW1EZL,Franco Molino,Asti (AT),Piemonte,Franco,ITA
 2221340,IZ1ZFO,Daniele Tassara,Santa Margherita Ligure (GE),Liguria,Daniele,ITA
 2221341,IU1CQS,Andrea Criscuolo,Genova (GE),Liguria,Andrea,ITA
@@ -3347,7 +3466,7 @@
 2221361,IZ1GWN,Daniele Croce,Savona (SV),Liguria,Daniele,ITA
 2221362,IW1CMT,Gianluca Ferraris,Bioglio (BI),Piemonte,Gianluca,ITA
 2221363,IU1FKB,Roberto Costa,Gremiasco (AL),Piemonte,Roberto,ITA
-2221364,IX1VYM,Sergio Jotaz,Quart (AO),Valle D Aosta,Sergio,ITA
+2221364,IX1VYM,Sergio Jotaz,Quart (AO),Valle d'Aosta,Sergio,ITA
 2221365,IZ1YUJ,Pudler Loris,Torino (TO),Piemonte,Pudler,ITA
 2221366,IW1AWD,Salvatore Civera,Pino Torinese (TO),Piemonte,Salvatore,ITA
 2221367,IK1JJG,Barbara Piastra,Torino (TO),Piemonte,Barbara,ITA
@@ -3371,7 +3490,7 @@
 2221385,IZ1PWO,Fabrizio Tarraran,Chieri (TO),Piemonte,Fabrizio,ITA
 2221386,IZ1ZLI,Stefano Burlando,Prasco (AL),Piemonte,Stefano,ITA
 2221387,IW1DBK,Giorgio Morandi,Omegna (VB),Piemonte,Giorgio,ITA
-2221388,IX1LOA,Massimo Corvo,Pollein (AO),Valle D Aosta,Massimo,ITA
+2221388,IX1LOA,Massimo Corvo,Pollein (AO),Valle d'Aosta,Massimo,ITA
 2221389,IZ1EKC,Graziano Floccia,Albenga (SV),Liguria,Graziano,ITA
 2221390,IK1OOF,Oscar Caravello,Ssalvatore Monferrato (AL),Piemonte,Oscar,ITA
 2221391,IZ1NIX,Giacomo Pelganta,Trontano (VB),Piemonte,Giacomo,ITA
@@ -3433,7 +3552,7 @@
 2221447,IW1CIO,Domenico Maiolo,Castagnole Lanze (AT),Piemonte,Domenico,ITA
 2221448,IW1AFV,Valerio Albanese,Collegno (TO),Piemonte,Valerio,ITA
 2221449,IZ1HFA,Marco Marchese,Casale Monferrato (AL),Piemonte,Marco,ITA
-2221450,IW1FOO,Fabrizio Besenval,Saint Vincent (AO),Valle D Aosta,Fabrizio,ITA
+2221450,IW1FOO,Fabrizio Besenval,Saint Vincent (AO),Valle d'Aosta,Fabrizio,ITA
 2221451,IK1PJL,Andrea Bella,Torino (TO),Piemonte,Andrea,ITA
 2221452,IK1ZVK,Amedeo Lavagna,Pietra Ligure (SV),Liguria,Amedeo,ITA
 2221453,IW1ELM,Marco Francese,Perosa Argentina (TO),Piemonte,Marco,ITA
@@ -3564,7 +3683,7 @@
 2221578,IZ1JJA,Luciano Panero,Rezzo (IM),Liguria,Luciano,ITA
 2221579,IU1EQV,Piotr Zappala,Tortona (AL),Piemonte,Piotr,ITA
 2221580,IU1KGS,Carlo Garbarini,Genova (GE),Liguria,Carlo,ITA
-2221581,IU1INZ,Lorenzo Corgiat Mecio,Cirie (TO,Piemonte,Lorenzo,ITA
+2221581,IU1INZ,Lorenzo Corgiat Mecio,Cirie (TOE,Piemonte,Lorenzo,ITA
 2221582,IZ1REW,Fabio Marchetti,La Spezia (SP),Liguria,Fabio,ITA
 2221583,IW1GHE,Massimo Sasso,Carmagnola (TO),Piemonte,Massimo,ITA
 2221584,IZ1JZX,Gianfranco Stoppino,Cavatore (AL),Piemonte,Gianfranco,ITA
@@ -3765,7 +3884,7 @@
 2221779,IU1LWV,Angelo ,Baveno (VB),Piemonte,Angelo,ITA
 2221780,IZ1LGF,Pier Bosio,Torino (TO),Piemonte,Pier,ITA
 2221781,IU1LHW,Giovanni ,Genova (GE),Liguria,Giovanni,ITA
-2221782,IX1FNI,Alessandro Framarin,Courmayeur (AO),Valle D Aosta,Alessandro,ITA
+2221782,IX1FNI,Alessandro Framarin,Courmayeur (AO),Valle d'Aosta,Alessandro,ITA
 2221783,IU1LCD,Maurizio ,Torino (TO),Piemonte,Maurizio,ITA
 2221784,IK1MAJ,Bruno Mari,Pinerolo (TO),Piemonte,Bruno,ITA
 2221785,IW1GFW,Walter ,Rivarolo Canavese (TO),Piemonte,Walter,ITA
@@ -3892,7 +4011,7 @@
 2221907,IU0MVE,Antonio Mancuso,Anzio (RM),Lazio,Antonio,ITA
 2221908,IU0LGO,Luigi Ciaramella,Roma (RM),Lazio,Luigi,ITA
 2221909,IZ1JLG,Flavio Sturlese,Genova (GE),Liguria,Flavio,ITA
-2221910,IX1HOF,Salvatore Russo,Chatillon (AO),Valle D Aosta,Salvatore,ITA
+2221910,IX1HOF,Salvatore Russo,Chatillon (AO),Valle d'Aosta,Salvatore,ITA
 2221911,IS0CAP,Francesco Fadda,Sestu (CA),Sardegna,Francesco,ITA
 2221912,IW1CPW,Guido Berra,Torino (TO),Piemonte,Guido,ITA
 2221913,IU1DOF,Mario Barale,Borgo San Balmazzo (CN),Piemonte,Mario,ITA
@@ -3921,7 +4040,7 @@
 2221936,IW1AWV,Maurizio Porrini,Trecate (NO),Piemonte,Maurizio,ITA
 2221937,IK1VDN,Sergio Garelli,Cuneo (CN),Piemonte,Sergio,ITA
 2221938,IK1YEZ,Fabio Gobbi,Pomaro Monferrato (AL),Piemonte,Fabio,ITA
-2221939,IX1VFO,Giorgio Fraccaro,Montjovet (AO),Valle D Aosta,Giorgio,ITA
+2221939,IX1VFO,Giorgio Fraccaro,Montjovet (AO),Valle d'Aosta,Giorgio,ITA
 2221940,I1URL,Orlando Collino,Vignolo (CN),Piemonte,Orlando,ITA
 2221941,IZ1JJB,Roberto Olivieri,Albissola Marina (SV),Liguria,Roberto,ITA
 2221942,IW0BMC,Francesco Carta,Guidonia (RM),Lazio,Francesco,ITA
@@ -4658,7 +4777,7 @@
 2222674,IK2DOK,Walter Ceriani,Caronno Pertusella (VA),Lombardia,Walter,ITA
 2222675,I2CUD,Alberto Cardin,Varese (VA),Lombardia,Alberto,ITA
 2222676,IZ2YGG,Giuseppe Garibaldi,Solbiate Arno (VA),Lombardia,Giuseppe,ITA
-2222677,IN3IVV,Massimo ,Sella Giudicarie (TN),Trentino-Aa,Massimo,ITA
+2222677,IN3IVV,Massimo ,Sella Giudicarie (TN),Trentino AA,Massimo,ITA
 2222678,IW2KPM,Davide Grillo,Iseo (BS),Lombardia,Davide,ITA
 2222679,IZ2ZQZ,Marina Bissola,Solbiate Arno (VA),Lombardia,Marina,ITA
 2222680,IK2BIY,Francesco Franzini,Gardone Val Trompia (BS),Lombardia,Francesco,ITA
@@ -4668,7 +4787,7 @@
 2222684,IW2NGG,Nicola Gualteroni,Bergamo (BG),Lombardia,Nicola,ITA
 2222685,I2JWU,Luigi Brambilla,Travaco Siccomario (PV),Lombardia,Luigi,ITA
 2222686,IZ2HTI,Michele ,Como (CO),Lombardia,Michele,ITA
-2222687,IU2HCL,Ruma Ferdinando,Grantola (VA),Lombardia,Ruma,ITA
+2222687,IU2HCL,Ferdinando Ruma,Grantola (VA),Lombardia,Ferdinando,ITA
 2222688,IW2EMD,Donato Ninno,Muggio (MB),Lombardia,Donato,ITA
 2222689,IW2GQE,Pierfranco Boffelli,Milano (MI),Lombardia,Pierfranco,ITA
 2222690,IU2DWG,Graziano Calanna,Montello (BG),Lombardia,Graziano,ITA
@@ -4995,8 +5114,8 @@
 2223011,IZ3VBY,Christian ,Belluno (BL),Veneto,Christian,ITA
 2223012,IK3ITU,Davide Lorenzi,Castelnuovo Del Garda (VR),Veneto,Davide,ITA
 2223013,IW3INL,Fabrizio Menin,Rovigo (RO),Veneto,Fabrizio,ITA
-2223014,IW3BYL,Christian Lasci,Trento (TN),Trentino-Aa,Christian,ITA
-2223015,IN3ELZ,Manuel Daldoss,Trento (TN),Trentino-Aa,Manuel,ITA
+2223014,IW3BYL,Christian Lasci,Trento (TN),Trentino AA,Christian,ITA
+2223015,IN3ELZ,Manuel Daldoss,Trento (TN),Trentino AA,Manuel,ITA
 2223016,IZ3LTB,Daniele ,Mareno Di Piave (TV),Veneto,Daniele,ITA
 2223017,IW3GPO,Paolo Rosin,Venezia (VE),Veneto,Paolo,ITA
 2223018,IW3GEW,Gianluca Toso,Marghera (VE),Veneto,Gianluca,ITA
@@ -5006,85 +5125,85 @@
 2223022,I3LUG,Giancarlo Lugato,Salzano (VE),Veneto,Giancarlo,ITA
 2223023,IW3ROW,Mauro Olivieri,Trieste (TS),Friuli VG,Mauro,ITA
 2223024,IK3EDR,Elvi Lucchet,Belluno (BL),Veneto,Elvi,ITA
-2223025,IN3EQA,David ,Levico Terme (TN),Trentino-Aa,David,ITA
-2223026,IW3BTS,Paolo Bossi,Bolzano (BZ),Trentino-Aa,Paolo,ITA
-2223027,IN3EZA,Simon Niederkofler,Brunico (BZ),Trentino-Aa,Simon,ITA
+2223025,IN3EQA,David ,Levico Terme (TN),Trentino AA,David,ITA
+2223026,IW3BTS,Paolo Bossi,Bolzano (BZ),Trentino AA,Paolo,ITA
+2223027,IN3EZA,Simon Niederkofler,Brunico (BZ),Trentino AA,Simon,ITA
 2223028,IZ3GYS,Alessandro Martinelli,Musile Di Piave (VE),Veneto,Alessandro,ITA
 2223029,IZ3VBY,Christian ,Belluno (BL),Veneto,Christian,ITA
-2223030,IN3ZWF,Josef Feichter,Molini Di Tures (BZ),Trentino-Aa,Josef,ITA
-2223031,IW3BAY,Antonio Valentini,Trento (TN),Trentino-Aa,Antonio,ITA
+2223030,IN3ZWF,Josef Feichter,Molini Di Tures (BZ),Trentino AA,Josef,ITA
+2223031,IW3BAY,Antonio Valentini,Trento (TN),Trentino AA,Antonio,ITA
 2223032,IV3ZJU,Greco Antonio,Fontanafredda (PN),Friuli VG,Greco,ITA
-2223033,IN3EJX,Paolo Lasci,Trento (TN),Trentino-Aa,Paolo,ITA
+2223033,IN3EJX,Paolo Lasci,Trento (TN),Trentino AA,Paolo,ITA
 2223034,IK3HHV,Enrico Col,Pieve Di Cadore (BL),Veneto,Enrico,ITA
-2223035,IN3XFQ,Michele Longo,Varena (TN),Trentino-Aa,Michele,ITA
-2223036,IW3ABA,Georg Knoll,Campo Tures (BZ),Trentino-Aa,Georg,ITA
-2223037,IN3EBE,Matteo Zeni,Lavis (TN),Trentino-Aa,Matteo,ITA
-2223038,IN3EAY,Giuliano Cristoforetti,Cles (TN),Trentino-Aa,Giuliano,ITA
+2223035,IN3XFQ,Michele Longo,Varena (TN),Trentino AA,Michele,ITA
+2223036,IW3ABA,Georg Knoll,Campo Tures (BZ),Trentino AA,Georg,ITA
+2223037,IN3EBE,Matteo Zeni,Lavis (TN),Trentino AA,Matteo,ITA
+2223038,IN3EAY,Giuliano Cristoforetti,Cles (TN),Trentino AA,Giuliano,ITA
 2223039,IZ3YKO,Fabio Maccarrone,Mogliano Veneto (TV),Veneto,Fabio,ITA
-2223040,IW3BOK,Massimo Franch,Brez (TN),Trentino-Aa,Massimo,ITA
-2223041,IW3BUA,Giorgia Schipilliti,Bolzano (BZ),Trentino-Aa,Giorgia,ITA
-2223042,IN3GIO,Fabio Fini,Laives (BZ),Trentino-Aa,Fabio,ITA
-2223043,IN3EZB,Fabio Schipilliti,Bolzano (BZ),Trentino-Aa,Fabio,ITA
-2223044,IN3EXL,Christian Perini,Bolzano (BZ),Trentino-Aa,Christian,ITA
-2223045,IN3EZX,Luca Amadori,Bolzano (BZ),Trentino-Aa,Luca,ITA
+2223040,IW3BOK,Massimo Franch,Brez (TN),Trentino AA,Massimo,ITA
+2223041,IW3BUA,Giorgia Schipilliti,Bolzano (BZ),Trentino AA,Giorgia,ITA
+2223042,IN3GIO,Fabio Fini,Laives (BZ),Trentino AA,Fabio,ITA
+2223043,IN3EZB,Fabio Schipilliti,Bolzano (BZ),Trentino AA,Fabio,ITA
+2223044,IN3EXL,Christian Perini,Bolzano (BZ),Trentino AA,Christian,ITA
+2223045,IN3EZX,Luca Amadori,Bolzano (BZ),Trentino AA,Luca,ITA
 2223046,IW3IMB,Giorgio Barbato,Venezia (VE),Veneto,Giorgio,ITA
 2223047,IZ3LQO,Otello Carraro,Mogliano Veneto (TV),Veneto,Otello,ITA
 2223048,IZ3ZUJ,Nicola Andreella,Domegge Di Cadore (BL),Veneto,Nicola,ITA
-2223049,IN3EOL,Walter Dalser,Trento (TN),Trentino-Aa,Walter,ITA
-2223050,IN3EHS,Julian Lahner,Valdaora (BZ),Trentino-Aa,Julian,ITA
+2223049,IN3EOL,Walter Dalser,Trento (TN),Trentino AA,Walter,ITA
+2223050,IN3EHS,Julian Lahner,Valdaora (BZ),Trentino AA,Julian,ITA
 2223051,IW3FVI,Roberto Crivellaro,Martellago (VE),Veneto,Roberto,ITA
 2223052,IW3IFD,Davide Veronese,Adria (RO),Veneto,Davide,ITA
-2223053,IN3EFI,Eleonora Mattedi,Brez (TN),Trentino-Aa,Eleonora,ITA
+2223053,IN3EFI,Eleonora Mattedi,Brez (TN),Trentino AA,Eleonora,ITA
 2223054,IK3MUI,Francesco Dellosbel,La Valle Agordina (BL),Veneto,Francesco,ITA
 2223055,IW3IOC,Andrea Brancher,Trichiana (BL),Veneto,Andrea,ITA
 2223056,IW3ICV,Manuel Pastres,Mogliano Veneto (BL),Veneto,Manuel,ITA
 2223057,IZ3SMN,Angelo Mantini,Belluno (BL),Veneto,Angelo,ITA
-2223058,IW3BTS,Paolo Bossi,Bolzano (BZ),Trentino-Aa,Paolo,ITA
-2223059,IN3HOQ,Ezio Silvestri,Terzolas (TN),Trentino-Aa,Ezio,ITA
-2223060,IW3BYL,Ars-E Lasci,Trento (TN),Trentino-Aa,Ars-E,ITA
+2223058,IW3BTS,Paolo Bossi,Bolzano (BZ),Trentino AA,Paolo,ITA
+2223059,IN3HOQ,Ezio Silvestri,Terzolas (TN),Trentino AA,Ezio,ITA
+2223060,IW3BYL,Ars-E Lasci,Trento (TN),Trentino AA,Ars-E,ITA
 2223061,IK3DNT,Sommavilla Arturo,Belluno (BL),Veneto,Sommavilla,ITA
-2223062,IW3AHJ,Martin Mumelter,Renon (BZ),Trentino-Aa,Martin,ITA
+2223062,IW3AHJ,Martin Mumelter,Renon (BZ),Trentino AA,Martin,ITA
 2223063,IZ3QBN,Sergio Petrin,San Martino Di Lupari (PD),Veneto,Sergio,ITA
 2223064,IZ3MEZ,Francesco Canova,Padova (PD),Veneto,Francesco,ITA
 2223065,IZ3WYH,Ugo Polo,Sedico (BL),Veneto,Ugo,ITA
 2223066,IW3IAA,Cristian Sandri,Belluno (BL),Veneto,Cristian,ITA
-2223067,IN3EZX,Luca Amadori,Bolzano (BZ),Trentino-Aa,Luca,ITA
+2223067,IN3EZX,Luca Amadori,Bolzano (BZ),Trentino AA,Luca,ITA
 2223068,IU3EGO,Luca Metto,Pieve Di Cadore (BL),Veneto,Luca,ITA
-2223069,IN3FQD,Mattia Benedetti,Ronzo-Chienis (TN),Trentino-Aa,Mattia,ITA
-2223070,IN3ELX,Roberto Cagol,Trento (TN),Trentino-Aa,Roberto,ITA
-2223071,IN3ELW,Giulia Soncini,Trento (TN),Trentino-Aa,Giulia,ITA
-2223072,IN3IFX,Alessandro Manzin,Trento (TN),Trentino-Aa,Alessandro,ITA
-2223073,IQ3EZ,Pcre Associazion,Merano (BZ),Trentino-Aa,Pcre,ITA
-2223074,IN3ELZ,Manuel Daldoss,Trento (TN),Trentino-Aa,Manuel,ITA
-2223075,IW3BUA,Giorgia Schipilliti,Bolzano (BZ),Trentino-Aa,Giorgia,ITA
-2223076,IN3EJX,Paolo Lasci,Trento (TN),Trentino-Aa,Paolo,ITA
+2223069,IN3FQD,Mattia Benedetti,Ronzo-Chienis (TN),Trentino AA,Mattia,ITA
+2223070,IN3ELX,Roberto Cagol,Trento (TN),Trentino AA,Roberto,ITA
+2223071,IN3ELW,Giulia Soncini,Trento (TN),Trentino AA,Giulia,ITA
+2223072,IN3IFX,Alessandro Manzin,Trento (TN),Trentino AA,Alessandro,ITA
+2223073,IQ3EZ,Pcre Associazion,Merano (BZ),Trentino AA,Pcre,ITA
+2223074,IN3ELZ,Manuel Daldoss,Trento (TN),Trentino AA,Manuel,ITA
+2223075,IW3BUA,Giorgia Schipilliti,Bolzano (BZ),Trentino AA,Giorgia,ITA
+2223076,IN3EJX,Paolo Lasci,Trento (TN),Trentino AA,Paolo,ITA
 2223077,IW3QTF,Giorgio Marchesi,Trieste (TS),Friuli VG,Giorgio,ITA
 2223078,IV3CPO,Mauro ,Udine (UD),Friuli VG,Mauro,ITA
 2223079,IV3ALL,Gaetano Visco,Monfalcone (GO),Friuli VG,Gaetano,ITA
-2223080,IN3MCY,Diego Rigamonti,Trento (TN),Trentino-Aa,Diego,ITA
-2223081,IN3EIL,Giovanni Molinari,Strigno (TN),Trentino-Aa,Giovanni,ITA
+2223080,IN3MCY,Diego Rigamonti,Trento (TN),Trentino AA,Diego,ITA
+2223081,IN3EIL,Giovanni Molinari,Strigno (TN),Trentino AA,Giovanni,ITA
 2223082,IV3UNM,Massimiliano Dambrosio,Castions Di Strada (UD),Friuli VG,Massimiliano,ITA
-2223083,IN3XFQ,Michele Longo,Varena (TN),Trentino-Aa,Michele,ITA
+2223083,IN3XFQ,Michele Longo,Varena (TN),Trentino AA,Michele,ITA
 2223084,IU3ETL,Andrea Gasparini,Thiene (VI),Veneto,Andrea,ITA
 2223085,I3YBD,Maurizio Bazzoni,Verona (VR),Veneto,Maurizio,ITA
-2223086,IN3EQA,David Paolis,Levico Terme (TN),Trentino-Aa,David,ITA
-2223087,IW3BRH,Herbert Vieider,Collepietra (BZ),Trentino-Aa,Herbert,ITA
+2223086,IN3EQA,David Paolis,Levico Terme (TN),Trentino AA,David,ITA
+2223087,IW3BRH,Herbert Vieider,Collepietra (BZ),Trentino AA,Herbert,ITA
 2223088,IK3DNV,Fabio Salvetti,Monteforte D Alpone (VR),Veneto,Fabio,ITA
 2223089,IW3IHV,Valter Gabriele,Verona (VR),Veneto,Valter,ITA
 2223090,IW3IED,Giancarlo Vecchi,Marcon (VE),Veneto,Giancarlo,ITA
-2223091,IN3EHP,Martin Kustatscher,Ora (BZ),Trentino-Aa,Martin,ITA
-2223092,IN3ERW,Reinhart Marsoner,Cermes (BZ),Trentino-Aa,Reinhart,ITA
-2223093,IN3CBN,Daniel Postal,Trento (TN),Trentino-Aa,Daniel,ITA
-2223094,IW3BAY,Antonio Valentini,Trento (TN),Trentino-Aa,Antonio,ITA
-2223095,IN3FOG,Diego Dalfovo,Smargherita Di Ala (TN),Trentino-Aa,Diego,ITA
+2223091,IN3EHP,Martin Kustatscher,Ora (BZ),Trentino AA,Martin,ITA
+2223092,IN3ERW,Reinhart Marsoner,Cermes (BZ),Trentino AA,Reinhart,ITA
+2223093,IN3CBN,Daniel Postal,Trento (TN),Trentino AA,Daniel,ITA
+2223094,IW3BAY,Antonio Valentini,Trento (TN),Trentino AA,Antonio,ITA
+2223095,IN3FOG,Diego Dalfovo,Smargherita Di Ala (TN),Trentino AA,Diego,ITA
 2223096,IZ3SNO,Gianfranco Carrer,Mogliano Veneto (TV),Veneto,Gianfranco,ITA
-2223097,IN3FQD,Mattia Benedetti,Ronzo-Chienis (TN),Trentino-Aa,Mattia,ITA
-2223098,IN3CBN,Daniel Postal,Trento (TN),Trentino-Aa,Daniel,ITA
+2223097,IN3FQD,Mattia Benedetti,Ronzo-Chienis (TN),Trentino AA,Mattia,ITA
+2223098,IN3CBN,Daniel Postal,Trento (TN),Trentino AA,Daniel,ITA
 2223099,IV3BUC,Giuseppe Castiglione,Porcia (PN),Friuli VG,Giuseppe,ITA
-2223100,IQ3EZ,Era Taa,Merano (BZ),Trentino-Aa,Era,ITA
+2223100,IQ3EZ,Era Taa,Merano (BZ),Trentino AA,Era,ITA
 2223101,IZ3HVP,Claudio Oselladore,Mirano (VE),Veneto,Claudio,ITA
 2223102,IZ3XGH,Daniele Leso,San Giovanni Lupatoto (VR),Veneto,Daniele,ITA
-2223103,IN3USM,Simon Tomasi,Merano (BZ),Trentino-Aa,Simon,ITA
+2223103,IN3USM,Simon Tomasi,Merano (BZ),Trentino AA,Simon,ITA
 2223104,IZ3LBC,Gabriele Marini,Verona (VR),Veneto,Gabriele,ITA
 2223105,IU3BTQ,Manolo Landri,Spinea (VE),Veneto,Manolo,ITA
 2223106,I3ETI,Guglielmo Fera,Verona (VR),Veneto,Guglielmo,ITA
@@ -5095,7 +5214,7 @@
 2223111,IV3BAM,Giovanni Salvetti,Pordeno_city (PN),Friuli VG,Giovanni,ITA
 2223112,IZ3XGH,Daniele Leso,San Giovanni Lupatoto (VR),Veneto,Daniele,ITA
 2223113,IK3DNV,Fabio Salvetti,Monteforte D Alpone (VR),Veneto,Fabio,ITA
-2223114,IN3EOI,Antonio Pinter,Rovereto (TN),Trentino-Aa,Antonio,ITA
+2223114,IN3EOI,Antonio Pinter,Rovereto (TN),Trentino AA,Antonio,ITA
 2223115,IW3EOM,Marco Zeni,Garda (VR),Veneto,Marco,ITA
 2223116,I3MXW,Gianmichele Molesini,Verona (VR),Veneto,Gianmichele,ITA
 2223117,IK3ORE,Mario Cantieri,Verona (VR),Veneto,Mario,ITA
@@ -5105,7 +5224,7 @@
 2223121,IU3EGG,Michele Salan,Bovolone (VR),Veneto,Michele,ITA
 2223122,IV3FHS,Antonio Gullo,Latisana (UD),Friuli VG,Antonio,ITA
 2223123,IZ3LIJ,Luigi Beccaletto,Isola Rizza (VR),Veneto,Luigi,ITA
-2223124,IN3EJH,Stefan Werth,Cornaiano (BZ),Trentino-Aa,Stefan,ITA
+2223124,IN3EJH,Stefan Werth,Cornaiano (BZ),Trentino AA,Stefan,ITA
 2223125,IK3DNT,Arturo Sommavilla,Belluno (BL),Veneto,Arturo,ITA
 2223126,IK3CSU,Stefano Padoan,Treviso (TV),Veneto,Stefano,ITA
 2223127,IZ3OHR,Carlo Gatti,Verona (VR),Veneto,Carlo,ITA
@@ -5114,55 +5233,55 @@
 2223130,IZ3XJN,Silvano Maratola,Verona (VR),Veneto,Silvano,ITA
 2223131,IU3BTQ,Manolo Landri,Spinea (VE),Veneto,Manolo,ITA
 2223132,IZ3ZOI,Luca Cattel,Longarone (BL),Veneto,Luca,ITA
-2223133,IN3HOQ,Ezio Silvestri,Terzolas (TN),Trentino-Aa,Ezio,ITA
-2223134,IN3FQQ,Simon Kofler,Vilpiano (BZ),Trentino-Aa,Simon,ITA
-2223135,IW3AMQ,Thomas Delmonego,Bolzano (BZ),Trentino-Aa,Thomas,ITA
-2223136,IN3DOV,Kurt Zwerger,San Lorenzo Di Sebato (BZ),Trentino-Aa,Kurt,ITA
+2223133,IN3HOQ,Ezio Silvestri,Terzolas (TN),Trentino AA,Ezio,ITA
+2223134,IN3FQQ,Simon Kofler,Vilpiano (BZ),Trentino AA,Simon,ITA
+2223135,IW3AMQ,Thomas Delmonego,Bolzano (BZ),Trentino AA,Thomas,ITA
+2223136,IN3DOV,Kurt Zwerger,San Lorenzo Di Sebato (BZ),Trentino AA,Kurt,ITA
 2223137,IZ3VCR,Andrea Corra,Salizzole (VR),Veneto,Andrea,ITA
 2223138,I3QFC,Ernesto Sandri,Villafranca (VR),Veneto,Ernesto,ITA
-2223139,IN3HBF,Oskar Lanthaler,Merano Val Passina (BZ),Trentino-Aa,Oskar,ITA
+2223139,IN3HBF,Oskar Lanthaler,Merano Val Passina (BZ),Trentino AA,Oskar,ITA
 2223140,IZ3LBC,Gabriele Marini,Verona (VR),Veneto,Gabriele,ITA
 2223141,IW3INL,Fabrizio Menin,Rovigo (RO),Veneto,Fabrizio,ITA
 2223142,IW3ILT,Marino Eminente,Legnago (VR),Veneto,Marino,ITA
-2223143,IN3IZQ,Danilo Datres,Preghena Di Livo (TN),Trentino-Aa,Danilo,ITA
+2223143,IN3IZQ,Danilo Datres,Preghena Di Livo (TN),Trentino AA,Danilo,ITA
 2223144,IZ3WRL,Vittorio Todescini,Mozzecane (VR),Veneto,Vittorio,ITA
 2223145,IZ3VLA,Scarinci Francesco,Villafranca (VR),Veneto,Scarinci,ITA
 2223146,I3HDQ,Brida Piergiorgio,Verona (VR),Veneto,Brida,ITA
 2223147,IK3FXK,Gaetano Schiavon,Padova (PD),Veneto,Gaetano,ITA
 2223148,IZ3GAC,Stefano Lattanzio,Arzignano (VI),Veneto,Stefano,ITA
-2223149,IN3AQK,Paolo Mattiolo,Gargazzone (BZ),Trentino-Aa,Paolo,ITA
+2223149,IN3AQK,Paolo Mattiolo,Gargazzone (BZ),Trentino AA,Paolo,ITA
 2223150,IZ3KJH,Angelo Varotto,Limena (PD),Veneto,Angelo,ITA
-2223151,IN3EHS,Julian Lahner,Valdaora (BZ),Trentino-Aa,Julian,ITA
-2223152,IN3PBO,Bruno Steiner,Valdaora (BZ),Trentino-Aa,Bruno,ITA
-2223153,IW3AXJ,Juri Bauer,Laion (BZ),Trentino-Aa,Juri,ITA
+2223151,IN3EHS,Julian Lahner,Valdaora (BZ),Trentino AA,Julian,ITA
+2223152,IN3PBO,Bruno Steiner,Valdaora (BZ),Trentino AA,Bruno,ITA
+2223153,IW3AXJ,Juri Bauer,Laion (BZ),Trentino AA,Juri,ITA
 2223154,I3EJ,Renato Oppio,Verona (VR),Veneto,Renato,ITA
 2223155,IW3HXO,Athos Arzenton,Verona (VR),Veneto,Athos,ITA
-2223156,IN3UVS,Giuseppe Spazzali,Cavalese (TN),Trentino-Aa,Giuseppe,ITA
+2223156,IN3UVS,Giuseppe Spazzali,Cavalese (TN),Trentino AA,Giuseppe,ITA
 2223157,IW3SRH,Stefano Dorso,Trieste (TS),Friuli VG,Stefano,ITA
-2223158,IN3ESQ,Jiri Gasperi,Brunico (BZ),Trentino-Aa,Jiri,ITA
-2223159,IN3EGQ,Manfred Mairegger,Brunico (BZ),Trentino-Aa,Manfred,ITA
+2223158,IN3ESQ,Jiri Gasperi,Brunico (BZ),Trentino AA,Jiri,ITA
+2223159,IN3EGQ,Manfred Mairegger,Brunico (BZ),Trentino AA,Manfred,ITA
 2223160,IZ3QEG,Andrea Cason,Negrar (VR),Veneto,Andrea,ITA
 2223161,I3XUH,Sergio Marconi,Verona (VR),Veneto,Sergio,ITA
-2223162,IN3WLN,Hermann Gasser,Brunico (BZ),Trentino-Aa,Hermann,ITA
+2223162,IN3WLN,Hermann Gasser,Brunico (BZ),Trentino AA,Hermann,ITA
 2223163,IW3FHK,Giovanni Laorno,Lugagnano Di Sona (VR),Veneto,Giovanni,ITA
 2223164,IZ3ZUJ,Nicola Andreella,Domegge Di Cadore (BL),Veneto,Nicola,ITA
-2223165,IN3EFR,Ivo Frigo,Bolzano (BZ),Trentino-Aa,Ivo,ITA
+2223165,IN3EFR,Ivo Frigo,Bolzano (BZ),Trentino AA,Ivo,ITA
 2223166,IK3SVT,Antonio Romanin,Longarone (BL),Veneto,Antonio,ITA
 2223167,IZ3VIP,Francesco Turchetto,Venezia (VE),Veneto,Francesco,ITA
-2223168,IN3ITA,Alessandro Galtarossa,Terlano (BZ),Trentino-Aa,Alessandro,ITA
+2223168,IN3ITA,Alessandro Galtarossa,Terlano (BZ),Trentino AA,Alessandro,ITA
 2223169,IZ3NWD,Carcia Vittorio,Stra (VE),Veneto,Carcia,ITA
 2223170,IZ3ZOK,Carlo Drezza,Verona (VR),Veneto,Carlo,ITA
-2223171,IQ3ED,Ari Clubstation,Brunico (BZ),Trentino-Aa,Ari,ITA
+2223171,IQ3ED,Ari Clubstation,Brunico (BZ),Trentino AA,Ari,ITA
 2223172,IZ3QET,Danilo Tosatto,Noale (VE),Veneto,Danilo,ITA
-2223173,IN3ACV,Luca Valer,Mattarello (TN),Trentino-Aa,Luca,ITA
-2223174,IN3EXL,Christian Perini,Bolzano (BZ),Trentino-Aa,Christian,ITA
-2223175,IN3ROS,Josef Riegler,Chienes (BZ),Trentino-Aa,Josef,ITA
-2223177,IN3RIY,Paolo Recchia,Trento (TN),Trentino-Aa,Paolo,ITA
+2223173,IN3ACV,Luca Valer,Mattarello (TN),Trentino AA,Luca,ITA
+2223174,IN3EXL,Christian Perini,Bolzano (BZ),Trentino AA,Christian,ITA
+2223175,IN3ROS,Josef Riegler,Chienes (BZ),Trentino AA,Josef,ITA
+2223177,IN3RIY,Paolo Recchia,Trento (TN),Trentino AA,Paolo,ITA
 2223178,IU3DSG,Flavio Cottarelli,Pescantina (VR),Veneto,Flavio,ITA
-2223179,IN3DRS,Erich Kusstatscher,Bolzano (BZ),Trentino-Aa,Erich,ITA
+2223179,IN3DRS,Erich Kusstatscher,Bolzano (BZ),Trentino AA,Erich,ITA
 2223180,IZ3LIR,Livio Righetto,Vigonza (PD),Veneto,Livio,ITA
 2223181,IK3UMO,Gianpietro Policante,Sant Ambrogio Valpolicella (VR),Veneto,Gianpietro,ITA
-2223182,IN3ADF,Markus Schroeder,Velturno (BZ),Trentino-Aa,Markus,ITA
+2223182,IN3ADF,Markus Schroeder,Velturno (BZ),Trentino AA,Markus,ITA
 2223183,IU3EEJ,Tarcisio Vedovato,Arcole (VR),Veneto,Tarcisio,ITA
 2223184,IZ3ALU,Walter Girardi,Cortina D Ampezzo (BL),Veneto,Walter,ITA
 2223185,IV3EVJ,Paolo Pastor,Sdaniele Del Friuli (UD),Friuli VG,Paolo,ITA
@@ -5170,21 +5289,21 @@
 2223187,IU3EJM,Stefano Dresseno,Vicenza (VI),Veneto,Stefano,ITA
 2223188,IW3GXX,Elio De Mas,Domegge Di Cadore (BL),Veneto,Elio,ITA
 2223189,IU3EEE,Simone Filippi,Verona (VR),Veneto,Simone,ITA
-2223190,IN3ROL,Roman Slomp,Chienes (BZ),Trentino-Aa,Roman,ITA
+2223190,IN3ROL,Roman Slomp,Chienes (BZ),Trentino AA,Roman,ITA
 2223191,IZ3NWT,Tiziano Rosa,Belluno (BL),Veneto,Tiziano,ITA
 2223192,IW3GID,Alberto Bona,Longarone (BL),Veneto,Alberto,ITA
 2223193,IU3EEF,Cristiano Filippi,Verona (VR),Veneto,Cristiano,ITA
-2223194,IN3EZG,Florian Maurer,Cermes (BZ),Trentino-Aa,Florian,ITA
+2223194,IN3EZG,Florian Maurer,Cermes (BZ),Trentino AA,Florian,ITA
 2223195,IW3HLT,Gianni Milan,Domegge Di Cadore (BL),Veneto,Gianni,ITA
 2223196,IZ3PEM,Paolo Sandrini,Legnago (VR),Veneto,Paolo,ITA
 2223197,IW3GIO,Flavio Negrini,Caprino Veronese (VR),Veneto,Flavio,ITA
 2223198,IZ3CLG,Gianluca Gavagnin,Rosolina (RO),Veneto,Gianluca,ITA
 2223199,IK3ZYM,Osvaldo De Lorenzo,Pieve Di Cadore (BL),Veneto,Osvaldo,ITA
-2223200,IW3APL,Angelo Dapor,Rovereto (TN),Trentino-Aa,Angelo,ITA
+2223200,IW3APL,Angelo Dapor,Rovereto (TN),Trentino AA,Angelo,ITA
 2223201,IW3HWH,Rudi Vangelista,Stra (VE),Veneto,Rudi,ITA
 2223202,IW3FOI,Bruno Conton,Stra (VE),Veneto,Bruno,ITA
 2223203,IZ3GUZ,Lauro Osellame,Conegliano (TV),Veneto,Lauro,ITA
-2223204,IN3ECI,Andrea Cavattoni,Bolzano (BZ),Trentino-Aa,Andrea,ITA
+2223204,IN3ECI,Andrea Cavattoni,Bolzano (BZ),Trentino AA,Andrea,ITA
 2223205,IU3ADL,Franco Milan,Cordignano (TV),Veneto,Franco,ITA
 2223206,IZ3SLY,Matteo Cristani,Verona (VR),Veneto,Matteo,ITA
 2223207,IZ3VFH,Paolo Masnovo,Soave (VR),Veneto,Paolo,ITA
@@ -5195,15 +5314,15 @@
 2223212,IW3FXB,Alessio Tabachi,Pieve Di Cadore (BL),Veneto,Alessio,ITA
 2223213,I3JC,Alberto Cafaro,Verona (VR),Veneto,Alberto,ITA
 2223214,IW3RIV,Gianpaolo Mayer,Trieste (TS),Friuli VG,Gianpaolo,ITA
-2223215,IN3IZQ,Danilo Datres,Preghena Di Livo (TN),Trentino-Aa,Danilo,ITA
-2223216,IN3EIN,Michele Martinelli,Rumo (TN),Trentino-Aa,Michele,ITA
+2223215,IN3IZQ,Danilo Datres,Preghena Di Livo (TN),Trentino AA,Danilo,ITA
+2223216,IN3EIN,Michele Martinelli,Rumo (TN),Trentino AA,Michele,ITA
 2223217,IU3CUJ,Fabrizio Maccarini,Valeggio Sul Mincio (VR),Veneto,Fabrizio,ITA
 2223218,IU3FVW,Claudio Predomo,Verona (VR),Veneto,Claudio,ITA
-2223219,IN3FAH,Guido Rifesser,Bressano_info (BZ),Trentino-Aa,Guido,ITA
-2223220,IN3ADE,Roberto Marcolla,Bolzano (BZ),Trentino-Aa,Roberto,ITA
-2223221,IN3DPT,Guido Senoner,Santa Cristina (BZ),Trentino-Aa,Guido,ITA
+2223219,IN3FAH,Guido Rifesser,Bressano_info (BZ),Trentino AA,Guido,ITA
+2223220,IN3ADE,Roberto Marcolla,Bolzano (BZ),Trentino AA,Roberto,ITA
+2223221,IN3DPT,Guido Senoner,Santa Cristina (BZ),Trentino AA,Guido,ITA
 2223222,IK3ZVW,Claudio Bernardinello,Venezia (VE),Veneto,Claudio,ITA
-2223223,IW3AZ,Roberto Albano,Laives (BZ),Trentino-Aa,Roberto,ITA
+2223223,IW3AZ,Roberto Albano,Laives (BZ),Trentino AA,Roberto,ITA
 2223224,IK3WUZ,Diego Cavalli,Bassano Del Grappa (VI),Veneto,Diego,ITA
 2223225,IV3EWO,Stefano Fonda,Trieste (TS),Friuli VG,Stefano,ITA
 2223226,IW3EVS,Flavio Castioni,Verona (VR),Veneto,Flavio,ITA
@@ -5219,20 +5338,20 @@
 2223236,IW3FEE,Massimo Ruffoni,Verona (VR),Veneto,Massimo,ITA
 2223237,IZ3ZMC,Luigi Bertola,Lonigo (VI),Veneto,Luigi,ITA
 2223238,IU3GMR,Paolo Tomacelli,Belluno (BL),Veneto,Paolo,ITA
-2223239,IN3GIN,Harald Schwitzer,Tirol (BZ),Trentino-Aa,Harald,ITA
-2223240,IQ3NY,Dolomitesrc Drc,Brunico (BZ),Trentino-Aa,Dolomitesrc,ITA
+2223239,IN3GIN,Harald Schwitzer,Tirol (BZ),Trentino AA,Harald,ITA
+2223240,IQ3NY,Dolomitesrc Drc,Brunico (BZ),Trentino AA,Dolomitesrc,ITA
 2223241,IU3EHW,Alessio Padovan,Verona (VR),Veneto,Alessio,ITA
 2223242,IW3GXH,Nicola Barile,Montebelluna (TV),Veneto,Nicola,ITA
-2223243,IN3GHQ,Ettore Savino,Pergine Valsugana (TN),Trentino-Aa,Ettore,ITA
+2223243,IN3GHQ,Ettore Savino,Pergine Valsugana (TN),Trentino AA,Ettore,ITA
 2223244,IW3FLC,Raffaele Costa,Oriago Di Mira (VE),Veneto,Raffaele,ITA
-2223245,IN3EYM,Fabio Recchia,Pergine Valsugana (TN),Trentino-Aa,Fabio,ITA
-2223246,IW3AGO,Heinrich Pixner,Smartino In Passiria (BZ),Trentino-Aa,Heinrich,ITA
-2223247,IN3FOG,Diego Dalfovo,Smargherita Di Ala (TN),Trentino-Aa,Diego,ITA
-2223248,IN3EJA,Sergio Zagoner,Trento (TN),Trentino-Aa,Sergio,ITA
-2223249,IN3USF,Josef Pernthaler,Lana (BZ),Trentino-Aa,Josef,ITA
-2223250,IN3GMN,Daniele Cesario,Civezzano (TN),Trentino-Aa,Daniele,ITA
+2223245,IN3EYM,Fabio Recchia,Pergine Valsugana (TN),Trentino AA,Fabio,ITA
+2223246,IW3AGO,Heinrich Pixner,Smartino In Passiria (BZ),Trentino AA,Heinrich,ITA
+2223247,IN3FOG,Diego Dalfovo,Smargherita Di Ala (TN),Trentino AA,Diego,ITA
+2223248,IN3EJA,Sergio Zagoner,Trento (TN),Trentino AA,Sergio,ITA
+2223249,IN3USF,Josef Pernthaler,Lana (BZ),Trentino AA,Josef,ITA
+2223250,IN3GMN,Daniele Cesario,Civezzano (TN),Trentino AA,Daniele,ITA
 2223251,IZ3WWF,Mauro Groppa,San Tomaso Agordino (BL),Veneto,Mauro,ITA
-2223252,IN3PGD,Gerald Ceska,Merano (BZ),Trentino-Aa,Gerald,ITA
+2223252,IN3PGD,Gerald Ceska,Merano (BZ),Trentino AA,Gerald,ITA
 2223253,IU3EGH,Claudio Albrigo,Verona (VR),Veneto,Claudio,ITA
 2223254,IZ3LCJ,Mauro Tonello,Slucia Di Piave (TV),Veneto,Mauro,ITA
 2223255,IZ3NUH,Alessandro Milan,Padova (PD),Veneto,Alessandro,ITA
@@ -5240,21 +5359,21 @@
 2223257,IZ3ZMZ,Nicola Benfatti,Sgiovanni Lupatoto (VR),Veneto,Nicola,ITA
 2223258,IW3SNA,Mirco Cogliati,Maniago (PN),Friuli VG,Mirco,ITA
 2223259,IZ3NXD,Domenico Christ,Isola Della Scala (VR),Veneto,Domenico,ITA
-2223260,IN3YLC,Hubert Obergolser,Vipiteno (BZ),Trentino-Aa,Hubert,ITA
+2223260,IN3YLC,Hubert Obergolser,Vipiteno (BZ),Trentino AA,Hubert,ITA
 2223261,IU3FVJ,Cristian Fabris,Piove Di Sacco (PD),Veneto,Cristian,ITA
 2223262,IU3GMF,Giorgio Nicolao,Cortina D Ampezzo (BL),Veneto,Giorgio,ITA
 2223263,IU3BTF,Mario Cester,Venezia (VE),Veneto,Mario,ITA
 2223264,IW3IIW,Matteo Gregorio,Verona (VR),Veneto,Matteo,ITA
 2223265,IW3GBC,Luca Salvador,Belluno (BL),Veneto,Luca,ITA
-2223266,IN3KLQ,Giuliano Gilmozzi,Tesero (TN),Trentino-Aa,Giuliano,ITA
+2223266,IN3KLQ,Giuliano Gilmozzi,Tesero (TN),Trentino AA,Giuliano,ITA
 2223267,IV3DJE,Stefano Tormenti,Latisana (UD),Friuli VG,Stefano,ITA
 2223268,IW3HWT,Giuseppe Rossetto,Mussolente (VI),Veneto,Giuseppe,ITA
-2223269,IN3ZXD,Giovanni Marzari,Cles (TN),Trentino-Aa,Giovanni,ITA
+2223269,IN3ZXD,Giovanni Marzari,Cles (TN),Trentino AA,Giovanni,ITA
 2223270,IZ3VCH,Dino Calvio,Vedelago (TV),Veneto,Dino,ITA
-2223271,IN3GIN,Harald Schwitzer,Tirolo (BZ),Trentino-Aa,Harald,ITA
+2223271,IN3GIN,Harald Schwitzer,Tirolo (BZ),Trentino AA,Harald,ITA
 2223272,IZ3LGJ,Gianmichele Vettorello,Oriago Di Mira (VE),Veneto,Gianmichele,ITA
 2223273,IU3EGY,Andrea Bellini,Borgoricco (PD),Veneto,Andrea,ITA
-2223274,IN3FPY,Tiziano Petrilli,Rovereto (TN),Trentino-Aa,Tiziano,ITA
+2223274,IN3FPY,Tiziano Petrilli,Rovereto (TN),Trentino AA,Tiziano,ITA
 2223275,IZ3WTP,Mattia Mazzoleni,Marghera (VE),Veneto,Mattia,ITA
 2223276,IZ3WZQ,Roberto Dabala,Venezia (VE),Veneto,Roberto,ITA
 2223277,IZ3VEL,Franco Chemello,Velo Veronese (VR),Veneto,Franco,ITA
@@ -5262,19 +5381,19 @@
 2223279,IW3IET,Ballanti Francesco,Conco (VI),Veneto,Ballanti,ITA
 2223280,IK3GHR,Fortunato Bicego,San Vito Di Leguzzano (VI),Veneto,Fortunato,ITA
 2223281,IW3MYV,Marco Tumelero,Conco (VI),Veneto,Marco,ITA
-2223282,IN3FPJ,Ivan Bernard,Pozza Di Fassa (TN),Trentino-Aa,Ivan,ITA
-2223283,IN3FZO,Franco Franzan,Bolzano (BZ),Trentino-Aa,Franco,ITA
+2223282,IN3FPJ,Ivan Bernard,Pozza Di Fassa (TN),Trentino AA,Ivan,ITA
+2223283,IN3FZO,Franco Franzan,Bolzano (BZ),Trentino AA,Franco,ITA
 2223284,IK3DJB,Ettore Furlan,Abano Terme (PD),Veneto,Ettore,ITA
 2223285,IZ3XSM,Cristiano Scapin,Monselice (PD),Veneto,Cristiano,ITA
 2223286,IZ3SWJ,Giorgio Fulici,Villa Estense (PD),Veneto,Giorgio,ITA
 2223287,IU3EEQ,Riccardo Speranzon,Rubano (PD),Veneto,Riccardo,ITA
 2223288,IZ3ALE,Alessandro Ballarin,Venezia (VE),Veneto,Alessandro,ITA
-2223289,IN3AVB,Alberto Lazzarini,Bolzano (BZ),Trentino-Aa,Alberto,ITA
+2223289,IN3AVB,Alberto Lazzarini,Bolzano (BZ),Trentino AA,Alberto,ITA
 2223290,IZ3VEO,Mirko Vento,Caorle (VE),Veneto,Mirko,ITA
 2223291,IK3GIG,Fabio Provedel,Casier (TV),Veneto,Fabio,ITA
 2223292,IW3IPI,Ivan Fogli,Occhiobello (RO),Veneto,Ivan,ITA
-2223293,IN3FHP,Ivan Dallaserra,Pellizzano (TN),Trentino-Aa,Ivan,ITA
-2223294,IW3BVS,Stefano Borsotti,Castel Ivano (TN),Trentino-Aa,Stefano,ITA
+2223293,IN3FHP,Ivan Dallaserra,Pellizzano (TN),Trentino AA,Ivan,ITA
+2223294,IW3BVS,Stefano Borsotti,Castel Ivano (TN),Trentino AA,Stefano,ITA
 2223295,IZ3SVI,Adriano Ragazzo,Venezia (VE),Veneto,Adriano,ITA
 2223296,IZ3CAO,Armando Filippetto,Camposanpiero (PD),Veneto,Armando,ITA
 2223297,IV3FIF,Giuseppe Ladisa,Pordeno_city (PN),Friuli VG,Giuseppe,ITA
@@ -5282,13 +5401,13 @@
 2223299,IV3ISG,Roberto Gualerni,Tricesimo (UD),Friuli VG,Roberto,ITA
 2223300,IW3HKL,Paolo Dainese,Marghera (VE),Veneto,Paolo,ITA
 2223301,IZ3WWG,Claudio Gioso,Lendinara (RO),Veneto,Claudio,ITA
-2223302,IZ3XAN,Davide Tosato,Lusia (TN),Trentino-Aa,Davide,ITA
+2223302,IZ3XAN,Davide Tosato,Lusia (TN),Trentino AA,Davide,ITA
 2223303,IU3GOU,Clerio Brutti,Verona (VR),Veneto,Clerio,ITA
 2223304,IZ3HAT,Marco Sovilla,Belluno (BL),Veneto,Marco,ITA
-2223305,IN3GJH,Nicola Salsotto,Cavareno (TN),Trentino-Aa,Nicola,ITA
+2223305,IN3GJH,Nicola Salsotto,Cavareno (TN),Trentino AA,Nicola,ITA
 2223306,IZ3HER,Matteo Costantino,Casale Sul Sile (TV),Veneto,Matteo,ITA
 2223307,IZ3WWE,Giuseppe Bertinato,Arzignano (VI),Veneto,Giuseppe,ITA
-2223308,IW3AYH,Piermarco Fedrigotti,Tiarno Di Sotto (TN),Trentino-Aa,Piermarco,ITA
+2223308,IW3AYH,Piermarco Fedrigotti,Tiarno Di Sotto (TN),Trentino AA,Piermarco,ITA
 2223309,IW3FFB,Flaviano Novello,Sarcedo (VI),Veneto,Flaviano,ITA
 2223310,IW3GCB,Andrea Carrarra,Venezia (VE),Veneto,Andrea,ITA
 2223311,IU3CFU,Valter Bortolozzo,Marghera (VE),Veneto,Valter,ITA
@@ -5304,7 +5423,7 @@
 2223321,IU3GOI,Niccolo Valentini,Padova (PD),Veneto,Niccolo,ITA
 2223322,IW3GPO,Paolo Rosin,Venezia (VE),Veneto,Paolo,ITA
 2223323,IU3GMG,Michele Galantin,Mestrino (PD),Veneto,Michele,ITA
-2223324,IN3AVB,Alberto Lazzarini,Bolzano (BZ),Trentino-Aa,Alberto,ITA
+2223324,IN3AVB,Alberto Lazzarini,Bolzano (BZ),Trentino AA,Alberto,ITA
 2223325,IU3GMC,Alessio Galantin,Mirano (VE),Veneto,Alessio,ITA
 2223326,I3ZNI,Gino Zanandrea,Cassola (VI),Veneto,Gino,ITA
 2223327,IZ3WWF,Mauro Groppa,San Tomaso Agordino (BL),Veneto,Mauro,ITA
@@ -5312,10 +5431,10 @@
 2223329,IU3EGO,Luca Metto,Pieve Di Cadore (BL),Veneto,Luca,ITA
 2223330,IZ3ZLE,Antonio Sorgato,Saonara (PD),Veneto,Antonio,ITA
 2223331,IZ3KUY,Giuseppe Michilin,Preganziol (TV),Veneto,Giuseppe,ITA
-2223332,IN3TGS,Andrea Trebo,Bolzano (BZ),Trentino-Aa,Andrea,ITA
+2223332,IN3TGS,Andrea Trebo,Bolzano (BZ),Trentino AA,Andrea,ITA
 2223333,IK3ZBK,Pietro Pontarollo,Valstagna (VI),Veneto,Pietro,ITA
 2223334,IU3BRK,Alberto Zanutto,Polverara (PD),Veneto,Alberto,ITA
-2223335,IN3SQW,Giorgio Scalabrin,Bolzano (BZ),Trentino-Aa,Giorgio,ITA
+2223335,IN3SQW,Giorgio Scalabrin,Bolzano (BZ),Trentino AA,Giorgio,ITA
 2223336,IU3CAK,Alessandro Cavalli,San Nazario (VI),Veneto,Alessandro,ITA
 2223337,IZ3NVU,Guillermo Diaz,Tezze Sul Brenta (VI),Veneto,Guillermo,ITA
 2223338,IW3HIR,Alessandro Scroccaro,Padova (PD),Veneto,Alessandro,ITA
@@ -5324,7 +5443,7 @@
 2223341,IZ3VTH,Alessandro Murador,Favaro Veneto (VE),Veneto,Alessandro,ITA
 2223342,IW3FKI,Albino Marchioro,Piove Di Sacco (PD),Veneto,Albino,ITA
 2223343,IK3FXK,Gaetano Schiavon,Padova (PD),Veneto,Gaetano,ITA
-2223344,IN3GME,Moritz Amort,Bressano_info (BZ),Trentino-Aa,Moritz,ITA
+2223344,IN3GME,Moritz Amort,Bressano_info (BZ),Trentino AA,Moritz,ITA
 2223345,IK3PDD,Umberto Querenghi,Vicenza (VI),Veneto,Umberto,ITA
 2223346,IU3BUW,Paolo Zorzetto,Scorze (VE),Veneto,Paolo,ITA
 2223347,IK3FXC,Luciano Serafini,Pozzoleone (VI),Veneto,Luciano,ITA
@@ -5341,7 +5460,7 @@
 2223358,IZ3YJO,Donato Ceschin,Pieve Di Soligo (TV),Veneto,Donato,ITA
 2223359,IU3GJT,Duilio Campo,Voltago Agordino (BL),Veneto,Duilio,ITA
 2223360,IW3QID,Ugo Variola,Trieste (TS),Friuli VG,Ugo,ITA
-2223361,IN3EAW,Alessandro Sbarra,Aldeno (TN),Trentino-Aa,Alessandro,ITA
+2223361,IN3EAW,Alessandro Sbarra,Aldeno (TN),Trentino AA,Alessandro,ITA
 2223362,IW3HKY,Umberto Ballarin,Treviso (TV),Veneto,Umberto,ITA
 2223363,IW3HXV,Giulio Girardello,Vicenza (VI),Veneto,Giulio,ITA
 2223364,IW3IOG,Davide Gobetti,Arcole (VR),Veneto,Davide,ITA
@@ -5349,19 +5468,19 @@
 2223366,IW3RPW,Dario Gonnella,Trieste (TS),Friuli VG,Dario,ITA
 2223367,IK3OUB,Bruno Martinolli,Cortina D Ampezzo (BL),Veneto,Bruno,ITA
 2223368,IU3LYA,Riccardo ,Tezze Sul Brenta (VI),Veneto,Riccardo,ITA
-2223369,IN3LOY,Marco Piazzi,Tesero (TN),Trentino-Aa,Marco,ITA
+2223369,IN3LOY,Marco Piazzi,Tesero (TN),Trentino AA,Marco,ITA
 2223370,IU3HQB,Pietro Caregnato,Padova (PD),Veneto,Pietro,ITA
 2223371,IW3IPB,Teo Descalso,Venezia (VE),Veneto,Teo,ITA
 2223372,IK3QAO,Giovannino Michielotto,Padova (PD),Veneto,Giovannino,ITA
 2223373,IU3BXO,Alessandro Rossi,Orsago (TV),Veneto,Alessandro,ITA
-2223374,IN3UFW,Marco Paglionico,Volano (TN),Trentino-Aa,Marco,ITA
+2223374,IN3UFW,Marco Paglionico,Volano (TN),Trentino AA,Marco,ITA
 2223375,I3SGR,Giancarlo Salvadori,Treviso (TV),Veneto,Giancarlo,ITA
 2223376,I3VQE,Claudio Tiziani,Fonte Alto (TV),Veneto,Claudio,ITA
-2223377,IN3PPH,Sandro Sandri,Castel Ivano (TN),Trentino-Aa,Sandro,ITA
+2223377,IN3PPH,Sandro Sandri,Castel Ivano (TN),Trentino AA,Sandro,ITA
 2223378,IW3GNC,Daniele Mattiuzzo,Treviso (TV),Veneto,Daniele,ITA
 2223379,IV3DDN,Cimarosti Stefano,Monfalcone (GO),Friuli VG,Cimarosti,ITA
 2223380,IU3HTV,Stefano Col,Belluno (BL),Veneto,Stefano,ITA
-2223381,IN3FZO,Franco Franzan,Bolzano (BZ),Trentino-Aa,Franco,ITA
+2223381,IN3FZO,Franco Franzan,Bolzano (BZ),Trentino AA,Franco,ITA
 2223382,IU3BRC,Elvis Buratto,Saletto (PD),Veneto,Elvis,ITA
 2223383,IW3IMM,Danilo Fontanive,Cencenighe (BL),Veneto,Danilo,ITA
 2223384,IW3EJH,Pierluigi Maggiore,Rovigo (RO),Veneto,Pierluigi,ITA
@@ -5375,14 +5494,14 @@
 2223392,I3DYK,Ivan Martin,Montaner (TV),Veneto,Ivan,ITA
 2223393,IW3INS,Michele Muffato,Noventa (PD),Veneto,Michele,ITA
 2223394,IK3TCB,Carlo Boschin,Mira (VE),Veneto,Carlo,ITA
-2223395,IN3EVM,Cristiano Toffola,Mori (TN),Trentino-Aa,Cristiano,ITA
+2223395,IN3EVM,Cristiano Toffola,Mori (TN),Trentino AA,Cristiano,ITA
 2223396,IZ3SNN,Marco Genova,Pieve Di Cadore (BL),Veneto,Marco,ITA
 2223397,IW3IOO,Stefano Menegante,Mestre (VE),Veneto,Stefano,ITA
 2223398,IU3BTB,Marco Grando,Meduna Di Livenza (TV),Veneto,Marco,ITA
 2223399,IZ3VCQ,Francesco Allegri,Monteforte D Alpone (VR),Veneto,Francesco,ITA
 2223400,IV3GFS,Cristian Bufo,Trieste (TS),Friuli VG,Cristian,ITA
-2223401,IN3GLU,Maurizio Mazzalai,Riva Del Garda (TN),Trentino-Aa,Maurizio,ITA
-2223402,IN3GKI,Lorenzo ,Valle Di Fassa (TN),Trentino-Aa,Lorenzo,ITA
+2223401,IN3GLU,Maurizio Mazzalai,Riva Del Garda (TN),Trentino AA,Maurizio,ITA
+2223402,IN3GKI,Lorenzo ,Valle Di Fassa (TN),Trentino AA,Lorenzo,ITA
 2223403,IZ3BUG,Giorgio Bergamo,Tai Di Cadore (BL),Veneto,Giorgio,ITA
 2223404,IV3BBZ,Sergio Benvenuto,Monfalcone (GO),Friuli VG,Sergio,ITA
 2223405,IW3HDB,Dario Venezia,Oriago (VE),Veneto,Dario,ITA
@@ -5391,18 +5510,18 @@
 2223408,IW3HKW,Alberto Antoniazzi,Silea (TV),Veneto,Alberto,ITA
 2223409,IZ3XKU,Natale Padovani,Trichiana (BL),Veneto,Natale,ITA
 2223410,IU3GPF,Davide Arcozzi,Sommacampagna (VR),Veneto,Davide,ITA
-2223411,IN3PPH,Sandro Sandri,Castel Ivano (TN),Trentino-Aa,Sandro,ITA
+2223411,IN3PPH,Sandro Sandri,Castel Ivano (TN),Trentino AA,Sandro,ITA
 2223412,IU3GQI,Fabio Cassan,La Valle Agordina (BL),Veneto,Fabio,ITA
 2223413,IZ3ZUC,Antonello Meles,Stra (VE),Veneto,Antonello,ITA
 2223414,IV3CEM,Sergio Alzetta,Maniago (PN),Friuli VG,Sergio,ITA
 2223415,IU3EON,Luigi Gazzetta,Camponogara (VE),Veneto,Luigi,ITA
-2223416,IN3ITA,Alex Galtarossa,Terlano (BZ),Trentino-Aa,Alex,ITA
-2223417,IN3EFP,Manuel Demetz,Scristina Valgardena (BZ),Trentino-Aa,Manuel,ITA
-2223418,IN3ETA,Michele Valandro,Cimone (TN),Trentino-Aa,Michele,ITA
-2223419,IW3AZU,Enzo Russi,Rovereto (TN),Trentino-Aa,Enzo,ITA
+2223416,IN3ITA,Alex Galtarossa,Terlano (BZ),Trentino AA,Alex,ITA
+2223417,IN3EFP,Manuel Demetz,Scristina Valgardena (BZ),Trentino AA,Manuel,ITA
+2223418,IN3ETA,Michele Valandro,Cimone (TN),Trentino AA,Michele,ITA
+2223419,IW3AZU,Enzo Russi,Rovereto (TN),Trentino AA,Enzo,ITA
 2223420,IV3MIE,Fabiano Crisma,Duino (TS),Friuli VG,Fabiano,ITA
-2223421,IN3GHS,Cristian Agosti,Livo (TN),Trentino-Aa,Cristian,ITA
-2223422,IN3AXA,Stefano Pavcovich,Ora (BZ),Trentino-Aa,Stefano,ITA
+2223421,IN3GHS,Cristian Agosti,Livo (TN),Trentino AA,Cristian,ITA
+2223422,IN3AXA,Stefano Pavcovich,Ora (BZ),Trentino AA,Stefano,ITA
 2223423,IZ3QLR,Guglielmo Lucchetta,Scorze (VE),Veneto,Guglielmo,ITA
 2223424,IW3GGO,Claudio De Lucia,Verona (VR),Veneto,Claudio,ITA
 2223425,IV3VTJ,Secondo Zanchetta,Brugnera (PN),Friuli VG,Secondo,ITA
@@ -5423,20 +5542,20 @@
 2223440,IK3YPW,Marco Bonoldi,Forno Di Zoldo (BL),Veneto,Marco,ITA
 2223441,IZ3NWN,Patrizio Biasi,Sedico (BL),Veneto,Patrizio,ITA
 2223442,IZ3BSP,Andrea Benotto,Codogne (TV),Veneto,Andrea,ITA
-2223443,IN3ETH,Diego Spagnolli,Mori (TN),Trentino-Aa,Diego,ITA
+2223443,IN3ETH,Diego Spagnolli,Mori (TN),Trentino AA,Diego,ITA
 2223444,IW3IEE,Diego Zasso,La Valle Agordina (BL),Veneto,Diego,ITA
 2223445,IV3DSX,Nazzareno Dulcinati,Trieste (TS),Friuli VG,Nazzareno,ITA
-2223446,IN3IPL,Diego Andreotta,Bolzano (BZ),Trentino-Aa,Diego,ITA
+2223446,IN3IPL,Diego Andreotta,Bolzano (BZ),Trentino AA,Diego,ITA
 2223447,IZ3QXK,Omar Sirena,Alleghe (BL),Veneto,Omar,ITA
 2223448,IV3SRD,Roberto Silvestri,Udine (UD),Friuli VG,Roberto,ITA
 2223449,IW3GCR,Nicola Blasiis,Verona (VR),Veneto,Nicola,ITA
 2223450,IZ3ZQW,Andrea Moritsch,Belluno (BL),Veneto,Andrea,ITA
-2223451,IN3LQB,Paolo Egger,Rovereto (TN),Trentino-Aa,Paolo,ITA
-2223452,IN3GID,Santino Mastrojeni,Bolzano (BZ),Trentino-Aa,Santino,ITA
+2223451,IN3LQB,Paolo Egger,Rovereto (TN),Trentino AA,Paolo,ITA
+2223452,IN3GID,Santino Mastrojeni,Bolzano (BZ),Trentino AA,Santino,ITA
 2223453,IU3BTV,Cristian Ebegela,Scorze (VE),Veneto,Cristian,ITA
 2223454,IZ3SQY,Raffaele Conz,Villabruna Di Feltre (BL),Veneto,Raffaele,ITA
-2223455,IN3DQW,Giancarlo Iannelli,Trento (TN),Trentino-Aa,Giancarlo,ITA
-2223456,IN3EYI,Cristian Faraglia,Villa Lagarina (TN),Trentino-Aa,Cristian,ITA
+2223455,IN3DQW,Giancarlo Iannelli,Trento (TN),Trentino AA,Giancarlo,ITA
+2223456,IN3EYI,Cristian Faraglia,Villa Lagarina (TN),Trentino AA,Cristian,ITA
 2223457,IZ3QOI,Andrea Zanellato,Porto Tolle (RO),Veneto,Andrea,ITA
 2223458,IU3EEP,Marco Bonomo,Lavagno (VR),Veneto,Marco,ITA
 2223459,IV3AZX,Roberto Gelletti,Trieste (TS),Friuli VG,Roberto,ITA
@@ -5447,7 +5566,7 @@
 2223464,IU3IMQ,Claudio Tramarin,Venezia (VE),Veneto,Claudio,ITA
 2223465,IV3LNQ,Luigi Lenardon,Trieste (TS),Friuli VG,Luigi,ITA
 2223466,IW3ILX,Marco Micheletti,Rovigo (RO),Veneto,Marco,ITA
-2223467,IN3AUD,Riccardo Zanin,Bolzano (BZ),Trentino-Aa,Riccardo,ITA
+2223467,IN3AUD,Riccardo Zanin,Bolzano (BZ),Trentino AA,Riccardo,ITA
 2223468,IZ3ZUK,Giorgio Ceccon,Tombolo (PD),Veneto,Giorgio,ITA
 2223469,IK3GIG,Fabio Provedel,Casier (TV),Veneto,Fabio,ITA
 2223470,IK3SVW,Massimo Monti,Monigo (TV),Veneto,Massimo,ITA
@@ -5458,8 +5577,8 @@
 2223475,IV3AZV,Mauro Azzalini,Villesse (GO),Friuli VG,Mauro,ITA
 2223476,IZ3JYJ,Luca Zanotto,Veggiano (PD),Veneto,Luca,ITA
 2223477,IV3TPW,Roberto Giani,Trieste (TS),Friuli VG,Roberto,ITA
-2223478,IN3EQV,Paolo Simone,Trento (TN),Trentino-Aa,Paolo,ITA
-2223479,IN3ESY,Antonio Mattedi,Trento (TN),Trentino-Aa,Antonio,ITA
+2223478,IN3EQV,Paolo Simone,Trento (TN),Trentino AA,Paolo,ITA
+2223479,IN3ESY,Antonio Mattedi,Trento (TN),Trentino AA,Antonio,ITA
 2223480,IU3ETP,Luca Masetto,Padova (PD),Veneto,Luca,ITA
 2223481,IW3IDP,Riccardo Ruffato,Mogliano Veneto (TV),Veneto,Riccardo,ITA
 2223482,I3OPV,Paolo Cavallin,Treviso (TV),Veneto,Paolo,ITA
@@ -5471,7 +5590,7 @@
 2223488,IZ3LEY,Gerardo Paccagnella,Abano (PD),Veneto,Gerardo,ITA
 2223489,IZ3SQJ,Andrea Bottan,Motta Livenza (TV),Veneto,Andrea,ITA
 2223490,IZ3NXO,Marino Pavanati,Venezia (VE),Veneto,Marino,ITA
-2223491,IN3GKK,Andrea ,Bolzano (BZ),Trentino-Aa,Andrea,ITA
+2223491,IN3GKK,Andrea ,Bolzano (BZ),Trentino AA,Andrea,ITA
 2223492,IZ3TCG,Giovanni ,Venezia (VE),Veneto,Giovanni,ITA
 2223493,IZ3NWO,Alberto Mazzon,Zimella (VR),Veneto,Alberto,ITA
 2223494,IU3IRY,Paola Baldissera,Alleghe (BL),Veneto,Paola,ITA
@@ -5481,7 +5600,7 @@
 2223498,IZ3ZUS,Andrea Baldo,Mira (VE),Veneto,Andrea,ITA
 2223499,IZ3VDA,Donato Florentino,Vittorio Veneto (TV),Veneto,Donato,ITA
 2223500,IZ3VCN,Dino Dona,Rocca Pietore (BL),Veneto,Dino,ITA
-2223501,IN3GYF,Mauro Murer,Vigo Di Fassa (TN),Trentino-Aa,Mauro,ITA
+2223501,IN3GYF,Mauro Murer,Vigo Di Fassa (TN),Trentino AA,Mauro,ITA
 2223502,IZ3QCH,Alberto Zullato,Saletto (PD),Veneto,Alberto,ITA
 2223503,IU3IPY,Massimiliano ,Verona (VR),Veneto,Massimiliano,ITA
 2223504,IU3BQY,Renzo Marcat,Motta Di Livenza (TV),Veneto,Renzo,ITA
@@ -5490,7 +5609,7 @@
 2223507,IV3TPE,Costantino Costantini,Udine (UD),Friuli VG,Costantino,ITA
 2223508,IZ3LTB,Daniele Giacomazzi,Mareno Di Piave (TV),Veneto,Daniele,ITA
 2223509,IU3ITY,Leonardo ,Sovizzo (VI),Veneto,Leonardo,ITA
-2223510,IN3EDX,Paolo Franzoni,Carisolo (TN),Trentino-Aa,Paolo,ITA
+2223510,IN3EDX,Paolo Franzoni,Carisolo (TN),Trentino AA,Paolo,ITA
 2223511,IZ3WSP,Enzo Bon,Treviso (TV),Veneto,Enzo,ITA
 2223512,IW3FFM,Ettore Buzzoni,Padova (PD),Veneto,Ettore,ITA
 2223513,IZ3QFS,Antonio Fattor,Val Di Zoldo (BL),Veneto,Antonio,ITA
@@ -5529,9 +5648,9 @@
 2223546,IW3QNP,Dario Barile,Monfalcone (GO),Friuli VG,Dario,ITA
 2223547,IZ3PYL,Giorgio Toffaloni,Campalto (VE),Veneto,Giorgio,ITA
 2223548,IU3EHP,Giovanni Battafarano,Rotzo (VI),Veneto,Giovanni,ITA
-2223549,IN3GUK,Michele ,Sella Giudicarie (TN),Trentino-Aa,Michele,ITA
+2223549,IN3GUK,Michele ,Sella Giudicarie (TN),Trentino AA,Michele,ITA
 2223550,IW3FOY,Fabrizio Serena,Mogliano Veneto (TV),Veneto,Fabrizio,ITA
-2223551,IN3XWG,Francesco Dellagiacoma,Predazzo (TN),Trentino-Aa,Francesco,ITA
+2223551,IN3XWG,Francesco Dellagiacoma,Predazzo (TN),Trentino AA,Francesco,ITA
 2223552,IZ3WUW,Enrico Rocco,Venezia (VE),Veneto,Enrico,ITA
 2223553,IV3TGG,Ermellino Pol,Malnisio (PN),Friuli VG,Ermellino,ITA
 2223554,IN3FQH,Pierpaolo ,Staranzano (GO),Friuli VG,Pierpaolo,ITA
@@ -5557,7 +5676,7 @@
 2223574,IZ3CFY,Sauro Brusa,Selvazzano Dentro (PD),Veneto,Sauro,ITA
 2223575,IV3GFJ,Comune Monfalcone,Monfalcone (GO),Friuli VG,Comune,ITA
 2223576,IV3FVK,Andrea Moratto,Ronchi Dei Legionari (GO),Friuli VG,Andrea,ITA
-2223578,IN3JOZ,Claudio Nichelatti,Trento (TN),Trentino-Aa,Claudio,ITA
+2223578,IN3JOZ,Claudio Nichelatti,Trento (TN),Trentino AA,Claudio,ITA
 2223579,IQ3AZ,A.R.I. Grado,Grado (GO),Friuli VG,A.R.I.,ITA
 2223580,IZ3QWB,Daniele Visentin,Porcellengo (TV),Veneto,Daniele,ITA
 2223581,IU3AHD,Luca Ghiraldelli,Mestre (VE),Veneto,Luca,ITA
@@ -5571,7 +5690,7 @@
 2223589,IZ3KSM,Dario Franchin,Torri Di Quartesolo (VI),Veneto,Dario,ITA
 2223590,IV3CVN,Riccardo Centis,Villaorba Di Basiliano (UD),Friuli VG,Riccardo,ITA
 2223591,IV3FGB,Giorgio Petroni,Duino (TS),Friuli VG,Giorgio,ITA
-2223592,IN3RRX,Peter Mussner,Selva Di Val Gardena (BZ),Trentino-Aa,Peter,ITA
+2223592,IN3RRX,Peter Mussner,Selva Di Val Gardena (BZ),Trentino AA,Peter,ITA
 2223593,IZ3CYW,Maurizio Spanio,Chioggia (VE),Veneto,Maurizio,ITA
 2223594,IU3EGS,Gino Urban,Megliadino San Vitale (PD),Veneto,Gino,ITA
 2223595,IV3DSG,Gianluigi Viola,Pasian Di Prato (UD),Friuli VG,Gianluigi,ITA
@@ -5579,43 +5698,43 @@
 2223597,IZ3SNR,Maurizio Mestriner,Ponzano Veneto (TV),Veneto,Maurizio,ITA
 2223598,IV3BKW,Alfredo Mian,Ruda (UD),Friuli VG,Alfredo,ITA
 2223599,IW3GXG,Valerio Banzato,Padova (PD),Veneto,Valerio,ITA
-2223600,IW3ARN,Ugo Fanti,Rumo (TN),Trentino-Aa,Ugo,ITA
+2223600,IW3ARN,Ugo Fanti,Rumo (TN),Trentino AA,Ugo,ITA
 2223601,IV3IDP,Daniele Pesamosca,Chiusaforte (UD),Friuli VG,Daniele,ITA
 2223602,IK3EDT,Mariangelo Rossetto,Cavaso Del Tomba (TV),Veneto,Mariangelo,ITA
 2223603,IV3APE,Gabriele Edalucci,Gorizia (GO),Friuli VG,Gabriele,ITA
 2223604,IZ3GWJ,Crisna Pengo,Lendinara (RO),Veneto,Crisna,ITA
 2223605,IW3QVZ,Maurizio Marino,Trieste (TS),Friuli VG,Maurizio,ITA
 2223606,IZ3QFH,Omar Guidolin,Romano D Ezzelino (VI),Veneto,Omar,ITA
-2223607,IN3XSV,Stefano Marchesoni,Caldonazzo (TN),Trentino-Aa,Stefano,ITA
+2223607,IN3XSV,Stefano Marchesoni,Caldonazzo (TN),Trentino AA,Stefano,ITA
 2223608,IZ3FJM,Massimo Zanatta,Cassola (VI),Veneto,Massimo,ITA
 2223609,IZ3CNM,Sergio Giuffrida,Marcon (VE),Veneto,Sergio,ITA
 2223610,IZ3PXU,Massimo Rosso,Campalto (VE),Veneto,Massimo,ITA
-2223611,IN3FQL,Antonio Sperandio,Canal San Bovo (TN),Trentino-Aa,Antonio,ITA
+2223611,IN3FQL,Antonio Sperandio,Canal San Bovo (TN),Trentino AA,Antonio,ITA
 2223612,IZ3VDQ,Paolo Basso,Svito Di Leguzzano (VI),Veneto,Paolo,ITA
 2223613,IV3NTL,Michele Alzetta,Prata Di Pordeno_city (PN),Friuli VG,Michele,ITA
 2223614,IV3DCQ,Giancarlo Gm,Trieste (TS),Friuli VG,Giancarlo,ITA
-2223615,IN3CVK,Alexander K.Laimer,Lana (BZ),Trentino-Aa,Alexander,ITA
+2223615,IN3CVK,Alexander K.Laimer,Lana (BZ),Trentino AA,Alexander,ITA
 2223616,IW3IGF,Baratti Luca,Godega Di Sant Urbano (TV),Veneto,Baratti,ITA
-2223617,IW3BVT,Franco ,Castel Ivano (TN),Trentino-Aa,Franco,ITA
+2223617,IW3BVT,Franco ,Castel Ivano (TN),Trentino AA,Franco,ITA
 2223618,IZ3SQQ,Andrea Lambrocchi,Calmasino (VR),Veneto,Andrea,ITA
 2223619,IV3JDV,Roberto Pischianz,Trieste (TS),Friuli VG,Roberto,ITA
-2223620,IN3SJG,Fausto Ferrai,Roncegno Terme (TN),Trentino-Aa,Fausto,ITA
+2223620,IN3SJG,Fausto Ferrai,Roncegno Terme (TN),Trentino AA,Fausto,ITA
 2223621,IZ3QGV,Gianni ,San Pietro In Gu (PD),Veneto,Gianni,ITA
 2223622,IU3IQN,Stefano Marchese,Paese (TV),Veneto,Stefano,ITA
 2223623,IU3HRO,Elia ,Villorba (TV),Veneto,Elia,ITA
 2223624,IZ3WXG,Angelo Nadalin,Vigonza (PD),Veneto,Angelo,ITA
 2223625,IW3HNG,Matteo Benatti,Smaria Maddalena (RO),Veneto,Matteo,ITA
 2223626,IV3GKY,Fabrizio Cavatoni,Latisana (UD),Friuli VG,Fabrizio,ITA
-2223627,IN3MYW,Domenico Calabro,Carisolo (TN),Trentino-Aa,Domenico,ITA
-2223628,IN3FND,Denis Tonazzo,Slorenzo In Banale (TN),Trentino-Aa,Denis,ITA
-2223629,IN3HAW,Patrick Ferretti,Lavis (TN),Trentino-Aa,Patrick,ITA
+2223627,IN3MYW,Domenico Calabro,Carisolo (TN),Trentino AA,Domenico,ITA
+2223628,IN3FND,Denis Tonazzo,Slorenzo In Banale (TN),Trentino AA,Denis,ITA
+2223629,IN3HAW,Patrick Ferretti,Lavis (TN),Trentino AA,Patrick,ITA
 2223630,IV3PTU,Franco Valenti,Ronchi Dei Legionari (GO),Friuli VG,Franco,ITA
 2223631,IW3ICJ,Mattia Turetta,Mira (VE),Veneto,Mattia,ITA
 2223632,IW3RHL,Alberto Maizan,Trieste (TS),Friuli VG,Alberto,ITA
 2223633,IZ3XEF,Ivo Camerlengo,Verona (VR),Veneto,Ivo,ITA
 2223634,IV3YXW,Marco Turchetti,Corno Rosazzo (UD),Friuli VG,Marco,ITA
 2223635,IW3RQH,Marco Ceschia,Tavagnacco (UD),Friuli VG,Marco,ITA
-2223636,IN3BCB,Marco Defrancesco,Panchia (TN),Trentino-Aa,Marco,ITA
+2223636,IN3BCB,Marco Defrancesco,Panchia (TN),Trentino AA,Marco,ITA
 2223637,IZ3SMF,Andrea Forato,Asolo (TV),Veneto,Andrea,ITA
 2223638,IZ3TVL,Davide Napolitano,Bassano Del Grappa (VI),Veneto,Davide,ITA
 2223639,IW3GAF,Bondani Vittorio,Zelarino (VE),Veneto,Bondani,ITA
@@ -5629,16 +5748,16 @@
 2223647,IU3IKH,Nicola Giacon,Asiago (VI),Veneto,Nicola,ITA
 2223648,IW3HVZ,Giuseppe Mio,Canale D Agordo (BL),Veneto,Giuseppe,ITA
 2223649,IV3NDV,Maurizio Maligoj,Gorizia (GO),Friuli VG,Maurizio,ITA
-2223650,IN3NSJ,Enzo Paternolli,Villa Agnedo (TN),Trentino-Aa,Enzo,ITA
+2223650,IN3NSJ,Enzo Paternolli,Villa Agnedo (TN),Trentino AA,Enzo,ITA
 2223651,IK3XKO,Vincenzo ,Venezia (VE),Veneto,Vincenzo,ITA
 2223652,IZ3XKO,Vincenzo ,Venezia (VE),Veneto,Vincenzo,ITA
-2223653,IN3FSB,Pellegrin Matteo,Soraga (TN),Trentino-Aa,Pellegrin,ITA
-2223654,IN3GJH,Nicola Salsotto,Cavareno (TN),Trentino-Aa,Nicola,ITA
+2223653,IN3FSB,Pellegrin Matteo,Soraga (TN),Trentino AA,Pellegrin,ITA
+2223654,IN3GJH,Nicola Salsotto,Cavareno (TN),Trentino AA,Nicola,ITA
 2223655,I3PVE,Ermenegildo Pavan,Padova (PD),Veneto,Ermenegildo,ITA
 2223656,IV3DRZ,Mauro Violante,Trieste (TS),Friuli VG,Mauro,ITA
 2223657,IW3EVI,Roberto Barina,Mestre (VE),Veneto,Roberto,ITA
 2223658,IU3FDE,Lauro ,Ceneselli (RO),Veneto,Lauro,ITA
-2223659,IN3HDZ,Carlo Prez,Bolzano (BZ),Trentino-Aa,Carlo,ITA
+2223659,IN3HDZ,Carlo Prez,Bolzano (BZ),Trentino AA,Carlo,ITA
 2223660,IZ3QFF,Massimo Bonato,Roana (VI),Veneto,Massimo,ITA
 2223661,I3LLV,Vittorio Ballotto,Treviso (TV),Veneto,Vittorio,ITA
 2223662,IU3EHV,Giorgio ,Asiago (VI),Veneto,Giorgio,ITA
@@ -5646,7 +5765,7 @@
 2223664,IZ3KLB,Michele Casali,Gallio (VI),Veneto,Michele,ITA
 2223665,IZ3KLF,Silvano Cogo,Asiago (VI),Veneto,Silvano,ITA
 2223666,IZ3KRP,Ireneo Tura,Gallio (VI),Veneto,Ireneo,ITA
-2223667,IN3HCD,Moser Meinhard,San Candido (BZ),Trentino-Aa,Moser,ITA
+2223667,IN3HCD,Moser Meinhard,San Candido (BZ),Trentino AA,Moser,ITA
 2223668,IW3EXI,Ulderico Rigoni,Asiago (VI),Veneto,Ulderico,ITA
 2223669,IU3GOW,Emanuele Viviani,Verona (VR),Veneto,Emanuele,ITA
 2223670,IW3HOU,Guido Filippi,Martellago (VE),Veneto,Guido,ITA
@@ -5708,31 +5827,31 @@
 2223727,IZ3QJD,Alessandro Balestra,Tezze Sul Brenta (VI),Veneto,Alessandro,ITA
 2223728,IV3FVF,Gianfranco Pisanti,Pordeno_city (PN),Friuli VG,Gianfranco,ITA
 2223729,IZ3ZUI,Davide Nonnato,Rovigo (RO),Veneto,Davide,ITA
-2223730,IN3DNS,Roberto ,Ledro (TN),Trentino-Aa,Roberto,ITA
+2223730,IN3DNS,Roberto ,Ledro (TN),Trentino AA,Roberto,ITA
 2223731,IZ3WUC,Mauro Bortot,Belluno (BL),Veneto,Mauro,ITA
 2223732,IU3CKH,Luigi Lombardo,Bassano Del Grappa (VI),Veneto,Luigi,ITA
-2223733,IW3AYC,Andreas Nitz,Bressano_info (BZ),Trentino-Aa,Andreas,ITA
+2223733,IW3AYC,Andreas Nitz,Bressano_info (BZ),Trentino AA,Andreas,ITA
 2223734,IU3EIZ,Enrico Marchetti,Abano (PD),Veneto,Enrico,ITA
 2223735,IZ3KVD,Giorgio Laconi,Villorba (TV),Veneto,Giorgio,ITA
 2223736,IV3CLJ,Gianluca ,Sacile (PN),Friuli VG,Gianluca,ITA
-2223737,IN3EIV,Francesco T,Bolzano (BZ),Trentino-Aa,Francesco,ITA
+2223737,IN3EIV,Francesco T,Bolzano (BZ),Trentino AA,Francesco,ITA
 2223738,IK3LLY,Stefano Faggian,Venezia Lido (VE),Veneto,Stefano,ITA
 2223739,IU3IMS,Andrea ,Montegrotto Terme (PD),Veneto,Andrea,ITA
 2223740,IZ3NVK,Fabio Contarini,Este (PD),Veneto,Fabio,ITA
 2223741,IV3GWW,Enrico Peressini,Buttrio (UD),Friuli VG,Enrico,ITA
 2223742,IV3XSJ,Fausto Mattellone,Pavia Di Udine (UD),Friuli VG,Fausto,ITA
 2223743,IU3KHY,Francesco ,San Giovanni Lupatoto (VR),Veneto,Francesco,ITA
-2223744,IN3BUG,Simone ,Trento (TN),Trentino-Aa,Simone,ITA
+2223744,IN3BUG,Simone ,Trento (TN),Trentino AA,Simone,ITA
 2223745,IK3STG,Manuel Pasquato,Vigonza (PD),Veneto,Manuel,ITA
 2223746,IU3KGB,Nicola ,Ponte Nelle Alpi (BL),Veneto,Nicola,ITA
 2223747,IU8KGA,Enrico ,Ponte Nelle Alpi (BL),Veneto,Enrico,ITA
-2223748,IW3AIA,Erich Theiner,Tirolo (BZ),Trentino-Aa,Erich,ITA
+2223748,IW3AIA,Erich Theiner,Tirolo (BZ),Trentino AA,Erich,ITA
 2223749,IW3HDS,Alessandro Belli,Marghera (VE),Veneto,Alessandro,ITA
 2223750,IU3KGO,Massimo ,Cordignano (TV),Veneto,Massimo,ITA
 2223751,IV3FNX,Massimiliano Russian,Trieste (TS),Friuli VG,Massimiliano,ITA
-2223752,IN3HIE,Erich Theiner,Bolzano (BZ),Trentino-Aa,Erich,ITA
+2223752,IN3HIE,Erich Theiner,Bolzano (BZ),Trentino AA,Erich,ITA
 2223753,IK3XTS,Daniele Costan,Snicolo  Di Comelico (BL),Veneto,Daniele,ITA
-2223754,IW3BOV,Diego Lombardi,Levico Terme (TN),Trentino-Aa,Diego,ITA
+2223754,IW3BOV,Diego Lombardi,Levico Terme (TN),Trentino AA,Diego,ITA
 2223755,IZ3NUV,Andrea Gianesini,Padova (PD),Veneto,Andrea,ITA
 2223756,IU3KGN,Stefania Zordan,Noventa Vicentina (VI),Veneto,Stefania,ITA
 2223757,IU3KHJ,Simone Meggiato,Mira (VE),Veneto,Simone,ITA
@@ -5743,7 +5862,7 @@
 2223762,IV3MTS,Patrizio Stocco,Tarcento (UD),Friuli VG,Patrizio,ITA
 2223763,IU3JXJ,Alberto ,Vicenza (VI),Veneto,Alberto,ITA
 2223764,IV3KHC,Sergio Cattinelli,Trieste (TS),Friuli VG,Sergio,ITA
-2223765,IN3HAK,Massimo ,Trento (TN),Trentino-Aa,Massimo,ITA
+2223765,IN3HAK,Massimo ,Trento (TN),Trentino AA,Massimo,ITA
 2223766,IU3GKL,Alessandro ,Treviso (TV),Veneto,Alessandro,ITA
 2223767,IV3DSF,Giocomo ,Sedegliano (UD),Friuli VG,Giocomo,ITA
 2223768,IZ3QFK,Massimo Garbin,Valdagno (VI),Veneto,Massimo,ITA
@@ -5753,7 +5872,7 @@
 2223772,IU3INQ,Claudio ,Padova (PD),Veneto,Claudio,ITA
 2223773,IZ3KTX,Alessandro ,Vicentina (VI),Veneto,Alessandro,ITA
 2223774,IW3SQP,Enrico Bernardinis,Udine (UD),Friuli VG,Enrico,ITA
-2223775,IN3HJN,Luca Broll,Ortisei (BZ),Trentino-Aa,Luca,ITA
+2223775,IN3HJN,Luca Broll,Ortisei (BZ),Trentino AA,Luca,ITA
 2223776,IU3KHW,Michele ,Pastrengo (VR),Veneto,Michele,ITA
 2223777,IK3LLY,Stefano Faggian,Venezia Lido (VE),Veneto,Stefano,ITA
 2223778,IZ3VFL,Terenzio Bedin,Arcugnano (VI),Veneto,Terenzio,ITA
@@ -5762,10 +5881,10 @@
 2223781,IZ3SLS,Nicola Barina,Spinea (VE),Veneto,Nicola,ITA
 2223782,IK3FHU,Massimo Cervaro,Piove Di Sacco (PD),Veneto,Massimo,ITA
 2223783,IK3ITV,Andrea Reggio,Venezia (VE),Veneto,Andrea,ITA
-2223784,IN3IEX,Giorgio Fontana,Trento (TN),Trentino-Aa,Giorgio,ITA
+2223784,IN3IEX,Giorgio Fontana,Trento (TN),Trentino AA,Giorgio,ITA
 2223785,IV3EHH,Pietro Cogo,Azzano Decimo (PN),Friuli VG,Pietro,ITA
 2223786,IV3DMI,Luca Rigo,Polcenigo (PN),Friuli VG,Luca,ITA
-2223787,IN3HNH,Wilfried Gamper,Algundo (BZ),Trentino-Aa,Wilfried,ITA
+2223787,IN3HNH,Wilfried Gamper,Algundo (BZ),Trentino AA,Wilfried,ITA
 2223788,IZ3QEZ,Oliver Chemello,Romano D Ezzelino (VI),Veneto,Oliver,ITA
 2223789,IU3KPF,Alessandro Partesotti,Castello Di Godego (TV),Veneto,Alessandro,ITA
 2223790,IW3GIK,Carlo Martinelli,Masi (PD),Veneto,Carlo,ITA
@@ -5774,9 +5893,9 @@
 2223794,IV3NLP,Alessandro Stefani,Trieste (TS),Friuli VG,Alessandro,ITA
 2223795,I3MBB,Michele Baccin,Cassola (VI),Veneto,Michele,ITA
 2223796,IZ3CTU,Graziano Salvadori,Musile Di Piave (VE),Veneto,Graziano,ITA
-2223797,IN3VHB,Fabrizio Benuzzi,Stumiaga (TN),Trentino-Aa,Fabrizio,ITA
+2223797,IN3VHB,Fabrizio Benuzzi,Stumiaga (TN),Trentino AA,Fabrizio,ITA
 2223798,IZ3SHW,Massimo ,Zermeghedo (VI),Veneto,Massimo,ITA
-2223799,IN3YRC,Salvatore Lucci,Trento (TN),Trentino-Aa,Salvatore,ITA
+2223799,IN3YRC,Salvatore Lucci,Trento (TN),Trentino AA,Salvatore,ITA
 2223800,IZ3VDT,Luca Marchese,Calalzo Di Cadore (BL),Veneto,Luca,ITA
 2223801,IV3DTZ,Damiano ,Frisanco (PN),Friuli VG,Damiano,ITA
 2223802,IV3HIK,Giorgio Bianchettin,Pordeno_city (PN),Friuli VG,Giorgio,ITA
@@ -5786,8 +5905,8 @@
 2223806,IV3HJB,Michele Asaro,Roveredo In Piano (PN),Friuli VG,Michele,ITA
 2223807,IK3FPR,Stefano Desidera,Treviso (TV),Veneto,Stefano,ITA
 2223808,IZ5TJC,Peter None,Carrara (MS),Toscana,Peter,ITA
-2223809,IN3MBS,Marco Minati,Ospedaletto (TN),Trentino-Aa,Marco,ITA
-2223810,IN3ETB,Corrado Maturi,Pinzolo (TN),Trentino-Aa,Corrado,ITA
+2223809,IN3MBS,Marco Minati,Ospedaletto (TN),Trentino AA,Marco,ITA
+2223810,IN3ETB,Corrado Maturi,Pinzolo (TN),Trentino AA,Corrado,ITA
 2223811,IW3QTB,Stefano Manfredi,Socchieve (UD),Friuli VG,Stefano,ITA
 2223812,IU3IPY,Massimiliano Scarinzi,Verona (VR),Veneto,Massimiliano,ITA
 2223813,IW3RJT,Giuseppe Domenico,Casarsa Della Delizia (PN),Friuli VG,Giuseppe,ITA
@@ -5795,24 +5914,24 @@
 2223815,IZ3BUS,Gianfranco Pizzaia,Onigo Di Pederobba (TV),Veneto,Gianfranco,ITA
 2223816,IW3SGN,Giobatta Mongiat,Casarsa Della Delizia (PN),Friuli VG,Giobatta,ITA
 2223817,IW3GMU,Enzo Franceschi,Mestre (VE),Veneto,Enzo,ITA
-2223818,IW3BTW,Georg Perugini,Perca (BZ),Trentino-Aa,Georg,ITA
+2223818,IW3BTW,Georg Perugini,Perca (BZ),Trentino AA,Georg,ITA
 2223819,IU3IOK,Alberto ,Preganziol (TV),Veneto,Alberto,ITA
 2223820,IU3KHI,Simone Bianchi,Musile Di Piave (VE),Veneto,Simone,ITA
 2223821,IU3JMD,Giovanni Arrigo,Cerea (VR),Veneto,Giovanni,ITA
 2223822,IZ3EAW,Giulio Marcato,Padova (PD),Veneto,Giulio,ITA
-2223823,IN3HKB,David Ceska,Forst (BZ),Trentino-Aa,David,ITA
+2223823,IN3HKB,David Ceska,Forst (BZ),Trentino AA,David,ITA
 2223824,IZ3KMT,Vasco Deon,Sernaglia Della Battaglia (TV),Veneto,Vasco,ITA
 2223825,IU3HGP,Andrea Mares,Portogruaro (VE),Veneto,Andrea,ITA
-2223826,IN3ERL,Alessandro Pilla,Bolzano (BZ),Trentino-Aa,Alessandro,ITA
+2223826,IN3ERL,Alessandro Pilla,Bolzano (BZ),Trentino AA,Alessandro,ITA
 2223827,IK3EAO,Giuseppe Salviato,Chirignago (VE),Veneto,Giuseppe,ITA
 2223828,IW3RMR,Alessandro Nicli,Tavagnacco (UD),Friuli VG,Alessandro,ITA
 2223829,IV3IFN,Gabriele Rissetto,Gorizia (GO),Friuli VG,Gabriele,ITA
-2223830,IN3REZ,Renzo Grassi,Trento (TN),Trentino-Aa,Renzo,ITA
+2223830,IN3REZ,Renzo Grassi,Trento (TN),Trentino AA,Renzo,ITA
 2223831,IV3GCN,Mario Schiava,Monfalcone (GO),Friuli VG,Mario,ITA
 2223832,IU3ISL,Michele Perlini,Verona (VR),Veneto,Michele,ITA
 2223833,IV3BSF,Massimo Visintin,Medea (GO),Friuli VG,Massimo,ITA
 2223834,IV3MPI,Edi Pellegrin,Savogna (UD),Friuli VG,Edi,ITA
-2223835,IN3EBM,Ilijtsch ,Ortisei (BZ),Trentino-Aa,Ilijtsch,ITA
+2223835,IN3EBM,Ilijtsch ,Ortisei (BZ),Trentino AA,Ilijtsch,ITA
 2223836,IK3UVC,Antonio Ceschel,Treviso (TV),Veneto,Antonio,ITA
 2223837,IW3ICN,Enrico Pozzobon,Camposampiero (PD),Veneto,Enrico,ITA
 2223838,IK3VUZ,Basilio Calligaro,Lozzo Di Cadore (BL),Veneto,Basilio,ITA
@@ -5830,29 +5949,29 @@
 2223850,IK2NCF,Felice Bersani,Monza (MI),Lombardia,Felice,ITA
 2223851,IU3GQH,Marco Codalonga,Colle Santa Lucia (BL),Veneto,Marco,ITA
 2223852,IU3GLZ,Giovanni Roitero,Vicenza (VI),Veneto,Giovanni,ITA
-2223853,IW3BSO,Stefan Oggl,Silandro (BZ),Trentino-Aa,Stefan,ITA
+2223853,IW3BSO,Stefan Oggl,Silandro (BZ),Trentino AA,Stefan,ITA
 2223854,IW3BSW,Martin Federspiel,Resia (UD),Friuli VG,Martin,ITA
 2223855,IZ3YMG,Alberto ,Chioggia (VE),Veneto,Alberto,ITA
 2223856,IK2LSS,Paolo ,Milano (MI),Lombardia,Paolo,ITA
 2223857,IW3SOM,Luca Lipovscek,Gradisca D Isonzo (GO),Friuli VG,Luca,ITA
-2223858,IN3EKY,Klaus ,Scanucieri (BZ),Trentino-Aa,Klaus,ITA
-2223859,IW3ABT,Andreas Ambros,Tubre (BZ),Trentino-Aa,Andreas,ITA
+2223858,IN3EKY,Klaus ,Scanucieri (BZ),Trentino AA,Klaus,ITA
+2223859,IW3ABT,Andreas Ambros,Tubre (BZ),Trentino AA,Andreas,ITA
 2223860,IU3KHW,Michele B,Pastrengo (VR),Veneto,Michele,ITA
-2223861,IN3LTL,Karl Ungericht,Naturns (BZ),Trentino-Aa,Karl,ITA
+2223861,IN3LTL,Karl Ungericht,Naturns (BZ),Trentino AA,Karl,ITA
 2223862,IU2KUB,Andrea Martinelli,Passirano (BS),Lombardia,Andrea,ITA
-2223863,IN3RPE,Reinhard Tscholl,Laces (BZ),Trentino-Aa,Reinhard,ITA
+2223863,IN3RPE,Reinhard Tscholl,Laces (BZ),Trentino AA,Reinhard,ITA
 2223864,IU3BSY,Polanzan Federico,Abano Terme (PD),Veneto,Polanzan,ITA
 2223865,IZ2VPF,Daniel ,Tirano (SO),Lombardia,Daniel,ITA
 2223866,IU3HVW,Marco Marella,Gruaro (VE),Veneto,Marco,ITA
-2223867,IW3BRC,Tobias Ebner,Merano (BZ),Trentino-Aa,Tobias,ITA
+2223867,IW3BRC,Tobias Ebner,Merano (BZ),Trentino AA,Tobias,ITA
 2223868,IZ2LUR,Mirko Biava,Alzano Lombardo (BG),Lombardia,Mirko,ITA
 2223869,IW3HUF,Dario Corro,Campolongo Maggiore (VE),Veneto,Dario,ITA
 2223870,IW2LSO,Simone Sozze,Corana (PV),Lombardia,Simone,ITA
-2223871,IN3GHP,Santo Gaeta,Ledro (TN),Trentino-Aa,Santo,ITA
-2223872,IW3ABG,Gebhard Thaler,Sluderno (BZ),Trentino-Aa,Gebhard,ITA
-2223873,IN3XOZ,Reinhold Ebner,Malles (BZ),Trentino-Aa,Reinhold,ITA
+2223871,IN3GHP,Santo Gaeta,Ledro (TN),Trentino AA,Santo,ITA
+2223872,IW3ABG,Gebhard Thaler,Sluderno (BZ),Trentino AA,Gebhard,ITA
+2223873,IN3XOZ,Reinhold Ebner,Malles (BZ),Trentino AA,Reinhold,ITA
 2223874,IK2TIF,Fabio Sartori,Sesto Calende (VA),Lombardia,Fabio,ITA
-2223875,IN3GJX,Florian Gassebner,Schlanders (BZ),Trentino-Aa,Florian,ITA
+2223875,IN3GJX,Florian Gassebner,Schlanders (BZ),Trentino AA,Florian,ITA
 2223876,IZ3ARV,Marco Maierotti,Perarolo Di Cadore (BL),Veneto,Marco,ITA
 2223877,IV3FPX,Boris Sfiligoj,Gorizia (GO),Friuli VG,Boris,ITA
 2223878,IZ2URO,Dario Papoff,Pavia (PV),Lombardia,Dario,ITA
@@ -5877,7 +5996,7 @@
 2223898,I2KBD,Alberto Zagni,Milano (MI),Lombardia,Alberto,ITA
 2223899,IZ3VCV,Paride ,Bassano Del Grappa (VI),Veneto,Paride,ITA
 2223900,IW2JJS,Giorgio Zanoni,Brescia (BS),Lombardia,Giorgio,ITA
-2223901,IW3BXH,Andreas ,Silandro (BZ),Trentino-Aa,Andreas,ITA
+2223901,IW3BXH,Andreas ,Silandro (BZ),Trentino AA,Andreas,ITA
 2223902,IU3KJS,Michele Dellagiacoma,Noventa Vicentina (VI),Veneto,Michele,ITA
 2223903,IK2IZG,Enrico Pecis,Biassono (MI),Lombardia,Enrico,ITA
 2223904,IV3HVP,Luca Cechet,Fiumicello (UD),Friuli VG,Luca,ITA
@@ -5898,7 +6017,7 @@
 2223919,IV3GRL,Tramontin ,Udine (UD),Friuli VG,Tramontin,ITA
 2223920,IW3IGD,Vito Sannasardo,San Michele Al Tagliamento (VE),Veneto,Vito,ITA
 2223921,IV3ZMZ,Giorgio Negro,Tricesimo (UD),Friuli VG,Giorgio,ITA
-2223922,IN3UKJ,Friedric Visentheiner,Bolzano (BZ),Trentino-Aa,Friedric,ITA
+2223922,IN3UKJ,Friedric Visentheiner,Bolzano (BZ),Trentino AA,Friedric,ITA
 2223923,IU3GKJ,Riccardo Bolognesi,Riese Pio X (TV),Veneto,Riccardo,ITA
 2223924,IU3GOS,Luciano Marcon,Castelfranco Veneto (TV),Veneto,Luciano,ITA
 2223925,IU3IOU,Giorgio Luca,Crocetta Del Montello (TV),Veneto,Giorgio,ITA
@@ -5931,12 +6050,12 @@
 2223952,IU2FCV,Diego Esposito,Beregazzo Con Figliaro (CO),Lombardia,Diego,ITA
 2223953,IW3IJJ,Francesco Motta,Montebelluna (TV),Veneto,Francesco,ITA
 2223954,IK2SGP,Alessandro Beneggi,Novedrate (CO),Lombardia,Alessandro,ITA
-2223955,IW3BWH,Simon Ebnicher,Bolzano (BZ),Trentino-Aa,Simon,ITA
+2223955,IW3BWH,Simon Ebnicher,Bolzano (BZ),Trentino AA,Simon,ITA
 2223956,IK3NWU,Franco Bertaia,Rosolina (RO),Veneto,Franco,ITA
 2223957,IZ2ZPL,Claudio Vigano,Seregno (MI),Lombardia,Claudio,ITA
 2223958,IU3ILR,Maurizio Cancian,Portogruaro (VE),Veneto,Maurizio,ITA
 2223959,IZ2UUK,Giuliano Sonzogni,San Pellegrino Terme (BG),Lombardia,Giuliano,ITA
-2223960,IN3FQE,Freddisan ,Bolzano (BZ),Trentino-Aa,Freddisan,ITA
+2223960,IN3FQE,Freddisan ,Bolzano (BZ),Trentino AA,Freddisan,ITA
 2223961,IW2GAQ,Alessandro Pasini,Crema (CR),Lombardia,Alessandro,ITA
 2223962,IZ2BKN,Ezio Bedin,Casciago (VA),Lombardia,Ezio,ITA
 2223963,IU3EGN,Federico Tosato,Bovolone (VR),Veneto,Federico,ITA
@@ -5954,24 +6073,24 @@
 2223975,IW2IZF,Aldo Daniele,Tradate (VA),Lombardia,Aldo,ITA
 2223976,I2JDQ,Maurizio Marcovati,Milano (MI),Lombardia,Maurizio,ITA
 2223977,IZ3HLW,Giorgio Marangoni,Vicenza (VI),Veneto,Giorgio,ITA
-2223978,IW3AFH,Ernest Ferrigato,Bressano_info (BZ),Trentino-Aa,Ernest,ITA
+2223978,IW3AFH,Ernest Ferrigato,Bressano_info (BZ),Trentino AA,Ernest,ITA
 2223979,IU2GGN,Stefano Provilli,Pavia (PV),Lombardia,Stefano,ITA
 2223980,IZ3SQX,Nicola Bibelia,Feltre (BL),Veneto,Nicola,ITA
 2223981,IV3RIK,Stefano Lerussi,Udine (UD),Friuli VG,Stefano,ITA
 2223982,IU3HUK,Stefano ,Casier (TV),Veneto,Stefano,ITA
 2223983,I2GVK,Giordano Bernasconi,Tradate (VA),Lombardia,Giordano,ITA
-2223984,IN3MWE,Elmer Weiss,Bolzano (BZ),Trentino-Aa,Elmer,ITA
+2223984,IN3MWE,Elmer Weiss,Bolzano (BZ),Trentino AA,Elmer,ITA
 2223985,IZ2BMK,Tommaso Bianchi,Morazzone (VA),Lombardia,Tommaso,ITA
 2223986,IW2FPE,Pasquale Modugno,Nova Milanese (MI),Lombardia,Pasquale,ITA
 2223987,IV3HQP,Nicola Cantarutti,Remanzacco (UD),Friuli VG,Nicola,ITA
-2223988,IN3ECS,Gabriel Rungger,Badia (BZ),Trentino-Aa,Gabriel,ITA
+2223988,IN3ECS,Gabriel Rungger,Badia (BZ),Trentino AA,Gabriel,ITA
 2223989,IU2LFP,Alberto ,Varese (VA),Lombardia,Alberto,ITA
 2223990,IV3AOX,Cristian ,Vajont (PN),Friuli VG,Cristian,ITA
-2223991,IN3ESP,Karl ,Bruneck (BZ),Trentino-Aa,Karl,ITA
+2223991,IN3ESP,Karl ,Bruneck (BZ),Trentino AA,Karl,ITA
 2223992,IU2GLC,Giorgio ,Ferno (VA),Lombardia,Giorgio,ITA
-2223993,IN3AQH,Walter Jocher,Bruneck (BZ),Trentino-Aa,Walter,ITA
+2223993,IN3AQH,Walter Jocher,Bruneck (BZ),Trentino AA,Walter,ITA
 2223994,IU2BXX,Davide Rodini,Truccazzano (MI),Lombardia,Davide,ITA
-2223995,IN3AMG,Johann Franz,Schenna (BZ),Trentino-Aa,Johann,ITA
+2223995,IN3AMG,Johann Franz,Schenna (BZ),Trentino AA,Johann,ITA
 2223996,IV3VSL,Marco Stella,Porcia (PN),Friuli VG,Marco,ITA
 2223997,IK2EGQ,Giovanni Battista,Vigevano (PV),Lombardia,Giovanni,ITA
 2223998,IV3HVP,Luca Cechet,Fiumicello (UD),Friuli VG,Luca,ITA
@@ -6115,7 +6234,7 @@
 2224137,IZ4BKK,Andrea Braga,Piacenza (PC),Emilia-Rom.,Andrea,ITA
 2224138,IZ4DPS,Franco Montanari,Piacenza (PC),Emilia-Rom.,Franco,ITA
 2224139,IU4DKB,Alessandro Cocco,Noceto (PR),Emilia-Rom.,Alessandro,ITA
-2224140,IN3EMI,Bruno Giongo,Trento (TN),Trentino-Aa,Bruno,ITA
+2224140,IN3EMI,Bruno Giongo,Trento (TN),Trentino AA,Bruno,ITA
 2224141,IW4EGH,Marco Michinelli,Toscanella Di Dozza (BO),Emilia-Rom.,Marco,ITA
 2224142,IW4DGS,Massimo Manzecchi,Forli (FC),Emilia-Rom.,Massimo,ITA
 2224143,IZ4RWP,Giancarlo Ferrari,Bazzano (BO),Emilia-Rom.,Giancarlo,ITA
@@ -6327,7 +6446,7 @@
 2224350,IW4BMA,Alessandro Bondavalli,Reggio Emilia (RE),Emilia-Rom.,Alessandro,ITA
 2224351,IK4UOA,Andrea Cavazzoni,Parma (PR),Emilia-Rom.,Andrea,ITA
 2224352,I4OWX,Maurizio Bondi,Bologna (BO),Emilia-Rom.,Maurizio,ITA
-2224354,IZ4GWE,Michele Minguzzi,Mezzano (TN),Trentino-Aa,Michele,ITA
+2224354,IZ4GWE,Michele Minguzzi,Mezzano (TN),Trentino AA,Michele,ITA
 2224356,IK4SXH,Marco Racovelli,Porto Fuori (RA),Emilia-Rom.,Marco,ITA
 2224357,IW4EOR,Silvio Zauli,Ravenna (RA),Emilia-Rom.,Silvio,ITA
 2224358,IU4ASJ,Paolo ,Campiano Di Ravenna (RA),Emilia-Rom.,Paolo,ITA
@@ -6416,12 +6535,12 @@
 2224441,I3GXC,Claudio Gobbo,Maserada Sul Piave (TV),Veneto,Claudio,ITA
 2224442,IU3IAH,Iti Grappa,Bassano Del Grappa (VI),Veneto,Iti,ITA
 2224443,IV3GOW,Ervino Gombac,Basovizza (TS),Friuli VG,Ervino,ITA
-2224444,IN3GYZ,Hubert ,St Lorenzen (BZ),Trentino-Aa,Hubert,ITA
+2224444,IN3GYZ,Hubert ,St Lorenzen (BZ),Trentino AA,Hubert,ITA
 2224445,IZ2GNT,Domenico Belmonte,Arese (MI),Lombardia,Domenico,ITA
 2224446,IU2KIN,Nizzo ,Vignate (MI),Lombardia,Nizzo,ITA
 2224447,IZ2UVO,Andrea ,Bareggio (MI),Lombardia,Andrea,ITA
 2224448,IU2KZI,Luigi ,Milano (MI),Lombardia,Luigi,ITA
-2224449,IN3FOA,Daniel ,Schenna (BZ),Trentino-Aa,Daniel,ITA
+2224449,IN3FOA,Daniel ,Schenna (BZ),Trentino AA,Daniel,ITA
 2224450,IZ2TEV,Andrea Tova,Golasecca (VA),Lombardia,Andrea,ITA
 2224451,IW2JIE,Danilo Clerici,Seveso (MI),Lombardia,Danilo,ITA
 2224452,IW2KGW,Antonio Montemezzani,Sant Angelo Lodigiano (LO),Lombardia,Antonio,ITA
@@ -6433,7 +6552,7 @@
 2224458,IW2KVC,Marco ,Monza (MI),Lombardia,Marco,ITA
 2224459,I2MIP,Mariano Piaia,Arcisate (VA),Lombardia,Mariano,ITA
 2224460,IW2HNN,Valerio Visconti,Milano (MI),Lombardia,Valerio,ITA
-2224461,IW3AIB,Alexsius Maran,Caldaro (BZ),Trentino-Aa,Alexsius,ITA
+2224461,IW3AIB,Alexsius Maran,Caldaro (BZ),Trentino AA,Alexsius,ITA
 2224462,IW4EIB,Andrea Contini,Salsomaggiore (PR),Emilia-Rom.,Andrea,ITA
 2224463,IU4DIN,Antonio Caterino,Campagnola Emilia (RE),Emilia-Rom.,Antonio,ITA
 2224464,IU2LNM,Andrea Berto,Milano (MI),Lombardia,Andrea,ITA
@@ -6466,10 +6585,10 @@
 2224491,IV3HIJ,Davide Zamparo,Pordeno_city (PN),Friuli VG,Davide,ITA
 2224492,IK4UOS,Claudio Gavioli,Bomporto (MO),Emilia-Rom.,Claudio,ITA
 2224493,IW2GIY,Giuseppe Pavesi,Concorezzo (MI),Lombardia,Giuseppe,ITA
-2224494,IN3HTY,Juergen ,Eppan (BZ),Trentino-Aa,Juergen,ITA
+2224494,IN3HTY,Juergen ,Eppan (BZ),Trentino AA,Juergen,ITA
 2224495,IU2ARQ,Sergio Raschi,Milano (MI),Lombardia,Sergio,ITA
 2224496,IW2KWX,Alessandro Bigoni,Orsenigo (CO),Lombardia,Alessandro,ITA
-2224497,IN3EHE,Francesco ,Trento (TN),Trentino-Aa,Francesco,ITA
+2224497,IN3EHE,Francesco ,Trento (TN),Trentino AA,Francesco,ITA
 2224498,IQ3CW,Sezione Ari,Bassano Del Grappa (VI),Veneto,Sezione,ITA
 2224499,IZ3DVP,Giulio Coletti,Vodo Cadore (BL),Veneto,Giulio,ITA
 2224500,I2HIZ,Oscar Girardello,Castiglione Olona (VA),Lombardia,Oscar,ITA
@@ -6510,7 +6629,7 @@
 2224536,IU3LXX,Francesco Caberlon,Vicenza (VI),Veneto,Francesco,ITA
 2224537,IV3FMG,Giovanni Hani,Treppo Grande (UD),Friuli VG,Giovanni,ITA
 2224538,IW4DNS,Michele Ghinelli,Parma (PR),Emilia-Rom.,Michele,ITA
-2224539,IN3ACO,Luigi Somma,Ravina (TN),Trentino-Aa,Luigi,ITA
+2224539,IN3ACO,Luigi Somma,Ravina (TN),Trentino AA,Luigi,ITA
 2224540,IV3TGU,Tullio Olenich,Trieste (TS),Friuli VG,Tullio,ITA
 2224541,IU3LZN,Alessio ,Verona (VR),Veneto,Alessio,ITA
 2224542,IU3HGA,Aleksandar Jankovic,Campiglia Dei Berici (VI),Veneto,Aleksandar,ITA
@@ -6525,7 +6644,7 @@
 2224551,IZ4FEI,Mario ,Cesenatico (FC),Emilia-Rom.,Mario,ITA
 2224552,IU4FJK,Marco Barbieri,Modena (MO),Emilia-Rom.,Marco,ITA
 2224553,IU3MBB,Simone Babetto,Montegrotto Terme (PD),Veneto,Simone,ITA
-2224554,IW3BVV,Pietro Manca,Cles (TN),Trentino-Aa,Pietro,ITA
+2224554,IW3BVV,Pietro Manca,Cles (TN),Trentino AA,Pietro,ITA
 2224555,IU1PNJ,Paolo Sandri,Milano (MI),Lombardia,Paolo,ITA
 2224556,IV3SVS,Maurizio Castellani,San Daniele Del Friuli (UD),Friuli VG,Maurizio,ITA
 2224557,IU4LEG,Fabio Trasforini,Lagosanto (FE),Emilia-Rom.,Fabio,ITA
@@ -6552,17 +6671,17 @@
 2224578,IU2LXU,Gian Luca,Concorezzo (MI),Lombardia,Gian,ITA
 2224579,IW3SSD,Andrea Fruch,Rigolato (UD),Friuli VG,Andrea,ITA
 2224580,IU3LPS,Massimiliano ,Villafranca Padovana (PD),Veneto,Massimiliano,ITA
-2224581,IN3EQU,Gregore ,Appiano Strada Vino (BZ),Trentino-Aa,Gregore,ITA
+2224581,IN3EQU,Gregore ,Appiano Strada Vino (BZ),Trentino AA,Gregore,ITA
 2224582,IZ4TOL,Alessandro Loreyo,Savignano Sul Panaro (MO),Emilia-Rom.,Alessandro,ITA
 2224583,IK2ZDV,Felice Canclini,Valdisotto (SO),Lombardia,Felice,ITA
 2224584,IU2LXO,Gennaro ,Marcaria (MN),Lombardia,Gennaro,ITA
 2224585,IW4EME,Marco Nannie,Ferrara (FE),Emilia-Rom.,Marco,ITA
 2224586,IV3CVE,Davide Gerhard,Casarsa Della Delizia (PN),Friuli VG,Davide,ITA
 2224587,IU2KUZ,Kenzo ,Rivolta D Adda (CR),Lombardia,Kenzo,ITA
-2224588,IN3HKZ,Hannes Mair,Laives (BZ),Trentino-Aa,Hannes,ITA
+2224588,IN3HKZ,Hannes Mair,Laives (BZ),Trentino AA,Hannes,ITA
 2224589,IV3HQC,Matteo Cussigh,Savorgnano Del Torre (UD),Friuli VG,Matteo,ITA
 2224590,IU2MAH,Carlo Dossi,Casatenovo (LC),Lombardia,Carlo,ITA
-2224591,IN3HUT,Oskar Weissteiner,Weitental (BZ),Trentino-Aa,Oskar,ITA
+2224591,IN3HUT,Oskar Weissteiner,Weitental (BZ),Trentino AA,Oskar,ITA
 2224592,IU2LUH,Giuliano Chiodi,Brescia (BS),Lombardia,Giuliano,ITA
 2224593,IZ3WUV,Mauro Fersuoch,Tiser (BL),Veneto,Mauro,ITA
 2224594,IW3SSD,Andrea Fruch,Rigolato (UD),Friuli VG,Andrea,ITA
@@ -6583,10 +6702,10 @@
 2224609,IZ6OVE,Nicola Bianco,Padova (PD),Veneto,Nicola,ITA
 2224610,IU3MHL,Andrea ,Rosa (VI),Veneto,Andrea,ITA
 2224611,IU2LXJ,Giuseppe ,Segrate (MI),Lombardia,Giuseppe,ITA
-2224612,IN3HUS,Achim Veuhoff,San Paolo Di Appiano (BZ),Trentino-Aa,Achim,ITA
+2224612,IN3HUS,Achim Veuhoff,San Paolo Di Appiano (BZ),Trentino AA,Achim,ITA
 2224613,IU3IQA,Gianluca Dell Bona,Vinigo (BL),Veneto,Gianluca,ITA
 2224614,IW2LDI,Gianni Badain,Turbigo (MI),Lombardia,Gianni,ITA
-2224615,IN3HVA,Manuel Milesi,Bruneck (BZ),Trentino-Aa,Manuel,ITA
+2224615,IN3HVA,Manuel Milesi,Bruneck (BZ),Trentino AA,Manuel,ITA
 2224616,IK2YVK,Angelo ,Sondrio (SO),Lombardia,Angelo,ITA
 2224617,IW2HMT,Francesco Trio,Pioltello (MI),Lombardia,Francesco,ITA
 2224618,IZ3PFE,Paolo Lombardo,Gallio (VI),Veneto,Paolo,ITA
@@ -6633,7 +6752,7 @@
 2224659,IU2KCV,Bill ,Bollate (MI),Lombardia,Bill,ITA
 2224660,IZ2GMF,Angelo Frattini,Germignaga (VA),Lombardia,Angelo,ITA
 2224661,IW3HTJ,Norberto Albieri,Rovigo (RO),Veneto,Norberto,ITA
-2224662,IW3BXO,Markus ,Villabassa (BZ),Trentino-Aa,Markus,ITA
+2224662,IW3BXO,Markus ,Villabassa (BZ),Trentino AA,Markus,ITA
 2224663,IZ3DRO,Giancarlo Bergamin,Venezia (VE),Veneto,Giancarlo,ITA
 2224664,IU3MDI,Luca Milanetto,Padova (PD),Veneto,Luca,ITA
 2224665,IZ4NTC,Mario ,Bomporto (MO),Emilia-Rom.,Mario,ITA
@@ -6718,7 +6837,7 @@
 2224745,IU2MLY,Euro ,Milano (MI),Lombardia,Euro,ITA
 2224746,IU3MRX,Mattia ,Piazzola Sul Brenta (PD),Veneto,Mattia,ITA
 2224747,IK4RTS,Pasquale Galluccio,Faenza (RA),Emilia-Rom.,Pasquale,ITA
-2224748,IK4JQP,Giuliano Pizzirani,Vignola (TN),Trentino-Aa,Giuliano,ITA
+2224748,IK4JQP,Giuliano Pizzirani,Vignola (TN),Trentino AA,Giuliano,ITA
 2224749,IU4MSC,Claudio ,Medolla (MO),Emilia-Rom.,Claudio,ITA
 2224750,IV3IEA,Vinicio Petris,Moggio Udinese (UD),Friuli VG,Vinicio,ITA
 2224751,IU3KKD,Christian ,Loria (TV),Veneto,Christian,ITA
@@ -6728,7 +6847,7 @@
 2224755,IU4MVR,Florin Tarpian,Piacenza (PC),Emilia-Rom.,Florin,ITA
 2224756,IU4MTI,Stefano ,Riccione (RN),Emilia-Rom.,Stefano,ITA
 2224757,IZ4VTA,Rossana Valle,Grizzana Morandi (BO),Emilia-Rom.,Rossana,ITA
-2224758,IN3LFL,Luciano Bresadola,Bolzano (BZ),Trentino-Aa,Luciano,ITA
+2224758,IN3LFL,Luciano Bresadola,Bolzano (BZ),Trentino AA,Luciano,ITA
 2224759,IU3MUO,Andrea ,Mira (VE),Veneto,Andrea,ITA
 2224760,IW2LSY,Corrado Venturini,Piateda (SO),Lombardia,Corrado,ITA
 2224761,IU2MIR,no_name ,Clusone (BG),Lombardia,no_name,ITA
@@ -6753,20 +6872,20 @@
 2224780,IU3MEY,Emiliano Motteran,Gazzo Veronese (VR),Veneto,Emiliano,ITA
 2224781,IV3ATH,Livius ,Trieste (TS),Friuli VG,Livius,ITA
 2224782,IU2GBH,Marcello Ercoli,Milano (MI),Lombardia,Marcello,ITA
-2224783,IN3GYS,Michele Grill,Arco (TN),Trentino-Aa,Michele,ITA
+2224783,IN3GYS,Michele Grill,Arco (TN),Trentino AA,Michele,ITA
 2224784,IZ2ZMN,Remo Pozzi,Tirano (SO),Lombardia,Remo,ITA
 2224785,IV3IBE,Adri ,Pordeno_city (PN),Friuli VG,Adri,ITA
 2224786,IU4MVL,Giorgio Spaggiari,Reggio Emilia (RE),Emilia-Rom.,Giorgio,ITA
 2224787,IV3IBH,Claude Monbaron,Pordeno_city (PN),Friuli VG,Claude,ITA
 2224788,IK2HNG,Andrea D Amore,Stezzano (BG),Lombardia,Andrea,ITA
 2224789,IZ2QQI,Taddeo ,Morbegno (SO),Lombardia,Taddeo,ITA
-2224790,IN3HIV,Helmuth Gasser,Merano (BZ),Trentino-Aa,Helmuth,ITA
+2224790,IN3HIV,Helmuth Gasser,Merano (BZ),Trentino AA,Helmuth,ITA
 2224791,IQ2BJ,A.R.I. Varese,Varese (VA),Lombardia,A.R.I.,ITA
 2224792,IZ2PFV,Boldrini Stefano,Botticino Sera (BS),Lombardia,Boldrini,ITA
 2224793,IU4MUV,Riccardo Franchini,Forli (FC),Emilia-Rom.,Riccardo,ITA
 2224794,IW2CKM,Marco Massoni,Milano (MI),Lombardia,Marco,ITA
 2224795,IZ3QFI,Mario ,Bassano Del Grappa (VI),Veneto,Mario,ITA
-2224796,IN3IDQ,Matteo ,Predazzo (TN),Trentino-Aa,Matteo,ITA
+2224796,IN3IDQ,Matteo ,Predazzo (TN),Trentino AA,Matteo,ITA
 2224797,IZ3DBB,Davide Danesin,Carbonera (TV),Veneto,Davide,ITA
 2224798,IZ2ZRT,Moreno Pizzolato,Leggiuno (VA),Lombardia,Moreno,ITA
 2224799,IZ2QDC,Gianpaolo ,Varese (VA),Lombardia,Gianpaolo,ITA
@@ -6777,7 +6896,7 @@
 2224804,IZ3ZOF,Giuseppe Bevilacqua,Treviso (TV),Veneto,Giuseppe,ITA
 2224805,IW4DXL,Gianni Spada,Savignano Sul Rubicone (FC),Emilia-Rom.,Gianni,ITA
 2224806,IW2HNA,Enrico Bruzzolo,Pozzuolo Martesana (MI),Lombardia,Enrico,ITA
-2224807,IN3XAT,Zeni Aurelio,Tesero (TN),Trentino-Aa,Zeni,ITA
+2224807,IN3XAT,Zeni Aurelio,Tesero (TN),Trentino AA,Zeni,ITA
 2224808,IW2DFH,Stefano Longhini,Pavia (PV),Lombardia,Stefano,ITA
 2224809,IU4MSI,Massimo Gavioli,Copparo (FE),Emilia-Rom.,Massimo,ITA
 2224810,IZ2ADA,Marcello Tullini,Grassobbio (BG),Lombardia,Marcello,ITA
@@ -6811,7 +6930,7 @@
 2224839,IZ3QJF,Giovanni Miniutti,Lendinara (RO),Veneto,Giovanni,ITA
 2224840,IZ2KOW,Giovanni Confalonieri,Arluno (MI),Lombardia,Giovanni,ITA
 2224841,IZ2MYB,Guido Zambonin,Cinisello Balsamo (MI),Lombardia,Guido,ITA
-2224842,IN3HBB,Lorenzo Debertolis,Transacqua (TN),Trentino-Aa,Lorenzo,ITA
+2224842,IN3HBB,Lorenzo Debertolis,Transacqua (TN),Trentino AA,Lorenzo,ITA
 2224843,IZ2MAJ,Rino ,Sannazzaro De  Burgondi (PV),Lombardia,Rino,ITA
 2224844,IK2XEG,Antonello Salerno,Monza (MI),Lombardia,Antonello,ITA
 2224845,IU3BCB,Federico Cesarotto,Vicenza (VI),Veneto,Federico,ITA
@@ -6841,7 +6960,7 @@
 2224869,IU3NET,Bepi Barosco,Lendinara (RO),Veneto,Bepi,ITA
 2224870,IW2IPM,Ivan Bonazzoli,Arluno (MI),Lombardia,Ivan,ITA
 2224871,IZ2IUT,Gaetano Pollara,Paullo (MI),Lombardia,Gaetano,ITA
-2224872,IN3HYF,Matteo Degasperi,Magre (BZ),Trentino-Aa,Matteo,ITA
+2224872,IN3HYF,Matteo Degasperi,Magre (BZ),Trentino AA,Matteo,ITA
 2224873,IZ2LXE,Carlo Chiarappa,Tradate (VA),Lombardia,Carlo,ITA
 2224874,IK2LFH,Stefano Raina,Milano (MI),Lombardia,Stefano,ITA
 2224875,IZ4SJI,Arno Baroni,Porto Garibaldi (FE),Emilia-Rom.,Arno,ITA
@@ -6909,7 +7028,7 @@
 2224937,IV3HIW,Cesco ,Polcenigo (PN),Friuli VG,Cesco,ITA
 2224938,IU4HND,Simone Garagnani,Calderara Di Reno (BO),Emilia-Rom.,Simone,ITA
 2224939,IU2DPM,Marco Sartini,Ponte Lambro (CO),Lombardia,Marco,ITA
-2224940,IW3BKX,Michele Cetto,Levico Terme (TN),Trentino-Aa,Michele,ITA
+2224940,IW3BKX,Michele Cetto,Levico Terme (TN),Trentino AA,Michele,ITA
 2224941,IU2NEZ,Franco ,Basiano (MI),Lombardia,Franco,ITA
 2224942,IW2LTW,Emanuele Chiodo,Monvalle (VA),Lombardia,Emanuele,ITA
 2224943,IZ3WWO,Massimo ,Lendinara (RO),Veneto,Massimo,ITA
@@ -6929,7 +7048,7 @@
 2224957,IW1FWO,Marco Monti,Rovasenda (VC),Piemonte,Marco,ITA
 2224958,IU1FZY,Augusto ,Torino (TO),Piemonte,Augusto,ITA
 2224959,IU2JXK,Matteo Nobile,Lesmo (MB),Lombardia,Matteo,ITA
-2224960,IX1DTY,Renato Mafrica,Gignod (AO),Valle D Aosta,Renato,ITA
+2224960,IX1DTY,Renato Mafrica,Gignod (AO),Valle d'Aosta,Renato,ITA
 2224961,IK0SMD,Raffaele Fanni,Civitavecchia (RM),Lazio,Raffaele,ITA
 2224962,IW2BTZ,Alberto ,Gavirate (VA),Lombardia,Alberto,ITA
 2224963,IW3GKO,Stefano Grandesso,Mestre (VE),Veneto,Stefano,ITA
@@ -6938,7 +7057,7 @@
 2224966,IW2KGL,Massimo ,Pavia (PV),Lombardia,Massimo,ITA
 2224967,IZ4TOS,Mauro Gini,Massa Lombarda (RA),Emilia-Rom.,Mauro,ITA
 2224968,IZ1GDY,Roberto Martini,Alpignano (TO),Piemonte,Roberto,ITA
-2224969,IN3HCH,Michele Eccel,Cloz (TN),Trentino-Aa,Michele,ITA
+2224969,IN3HCH,Michele Eccel,Cloz (TN),Trentino AA,Michele,ITA
 2224970,IW0DZB,Rosa ,Roma (RM),Lazio,Rosa,ITA
 2224971,IV3III,Giovanni Barzan,Prata Di Pordeno_city (PN),Friuli VG,Giovanni,ITA
 2224972,IW4AUH,Franco Zironi,Rolo (RE),Emilia-Rom.,Franco,ITA
@@ -7452,7 +7571,7 @@
 2225480,IU5MPR,Fausto Cagnacci,Lucca (LU),Toscana,Fausto,ITA
 2225481,IW5CPM,Marco Luvisi,Borgo Mozzano (LU),Toscana,Marco,ITA
 2225482,IU5NFQ,Erwin ,Abetone Cutigliano (PT),Toscana,Erwin,ITA
-2225483,IU5NFW,no_name ,no_city,no_region,no_name,ITA
+2225483,IU5NFW,Emanuele ,no_city,Toscana,Emanuele,ITA
 2225484,IZ5AQX,Andrea Barretta,Portoazzurro (LI),Toscana,Andrea,ITA
 2225485,IU5NGG,Luciano Aquilini,Livorno (LI),Toscana,Luciano,ITA
 2225486,IK5ZQC,Francesco Pugliese,Santa Maria A Monte (PI),Toscana,Francesco,ITA
@@ -7526,7 +7645,7 @@
 2225554,IK1IXG,Roberto Oddone,Genova (GE),Liguria,Roberto,ITA
 2225555,IW5CGM,Giuseppe Misuri,Viciomaggio (AR),Toscana,Giuseppe,ITA
 2225556,IZ4QJG,Gianni ,Sorbolo Mezzani (PR),Emilia-Rom.,Gianni,ITA
-2225557,IN3IJJ,Armin Hofer,Gais (BZ),Trentino-Aa,Armin,ITA
+2225557,IN3IJJ,Armin Hofer,Gais (BZ),Trentino AA,Armin,ITA
 2225558,IZ7DCU,Pasquale Carlomagno,Foggia (FG),Puglia,Pasquale,ITA
 2225559,IZ2SMR,Alfio Zerbo,Morengo (BG),Lombardia,Alfio,ITA
 2225560,IZ5VVO,Andrea Baldeschi,Viareggio (LU),Toscana,Andrea,ITA
@@ -7650,7 +7769,7 @@
 2225678,IU3MCP,Giovanni Faccin,Saonara (PD),Veneto,Giovanni,ITA
 2225679,IU0MUZ,Francesco Genovese,Roma (RM),Lazio,Francesco,ITA
 2225680,IW2NZY,Giuseppe Casati,Cantello (VA),Lombardia,Giuseppe,ITA
-2225681,IW3BBI,Robert Pfeifhofer,Soprabolzano (BZ),Trentino-Aa,Robert,ITA
+2225681,IW3BBI,Robert Pfeifhofer,Soprabolzano (BZ),Trentino AA,Robert,ITA
 2225682,IW2DCH,Lorenzo Biagini,Milano (MI),Lombardia,Lorenzo,ITA
 2225683,IZ1WKH,Enrico Biagini,Arona (NO),Piemonte,Enrico,ITA
 2225684,IW3IAB,Andrea Coloru,Saonara (PD),Veneto,Andrea,ITA
@@ -7688,7 +7807,7 @@
 2225716,IT9GAL,Rino Dioguardi,Palermo (PA),Sicilia,Rino,ITA
 2225717,IV3CNX,Stefano Pascotto,Maniago (PN),Friuli VG,Stefano,ITA
 2225718,IW0DVK,Giovanni ,Roma (RM),Lazio,Giovanni,ITA
-2225719,IN3EFO,Claudio Boso,Castel Ivano (TN),Trentino-Aa,Claudio,ITA
+2225719,IN3EFO,Claudio Boso,Castel Ivano (TN),Trentino AA,Claudio,ITA
 2225720,IZ8SWY,Salvatore Buono,Napoli (NA),Campania,Salvatore,ITA
 2225721,IU2GPJ,Massimiliano Cecon,Busto Arsizio (VA),Lombardia,Massimiliano,ITA
 2225722,IZ0TYF,Claudio Di Massimo,Marino (RM),Lazio,Claudio,ITA
@@ -7791,8 +7910,8 @@
 2225819,IU5NYO,Luca Paolicchi,Lucca (LU),Toscana,Luca,ITA
 2225820,IZ3SUU,Gianpaolo Storani,Rovigo (RO),Veneto,Gianpaolo,ITA
 2225821,IU3NUQ,Fabio Pietrobelli,Chiampo (VI),Veneto,Fabio,ITA
-2225822,IN3TGN,Gregor Enz,Ortisei (BZ),Trentino-Aa,Gregor,ITA
-2225823,IN3IJZ,Rita ,Vahrn (BZ),Trentino-Aa,Rita,ITA
+2225822,IN3TGN,Gregor Enz,Ortisei (BZ),Trentino AA,Gregor,ITA
+2225823,IN3IJZ,Rita ,Vahrn (BZ),Trentino AA,Rita,ITA
 2225824,IZ4GOL,Luigi Carnevale,Ferrara (FE),Emilia-Rom.,Luigi,ITA
 2225825,IZ3FJW,Alessandro Chiarioni,Teglio Veneto (VE),Veneto,Alessandro,ITA
 2225826,IW2DMP,Giacomo Spadacini,Bienno (BS),Lombardia,Giacomo,ITA
@@ -7845,7 +7964,7 @@
 2225873,IT9YBG,Giuseppe Grasso,Messina (ME),Sicilia,Giuseppe,ITA
 2225874,IU8LIM,Pugliese Giuseppe,Simeri Crichi (CZ),Calabria,Pugliese,ITA
 2225875,IW6BPB,Remo Mogliani,Montelupone (MC),Marche,Remo,ITA
-2225876,IN3YCV,Gabriele Defant,Martignano (TN),Trentino-Aa,Gabriele,ITA
+2225876,IN3YCV,Gabriele Defant,Martignano (TN),Trentino AA,Gabriele,ITA
 2225877,IK1MYV,Edoantonio Viano,Caraglio (CN),Piemonte,Edoantonio,ITA
 2225878,IW1BAS,Pierluigi Busatta,Alessandria (AL),Piemonte,Pierluigi,ITA
 2225879,IT9CUD,Renato Cusimano,Partinico (PA),Sicilia,Renato,ITA
@@ -7903,7 +8022,7 @@
 2225931,IU2NRF,Massimo Esposito,Gorno (BG),Lombardia,Massimo,ITA
 2225932,IZ5YEJ,Antonio Sasso,Santa Maria A Monte (PI),Toscana,Antonio,ITA
 2225933,IZ2TEU,Daniele Poli,Gardone Val Trompia (BS),Lombardia,Daniele,ITA
-2225934,IN3IVV,Massimo Poli,Sella Giudicarie (TN),Trentino-Aa,Massimo,ITA
+2225934,IN3IVV,Massimo Poli,Sella Giudicarie (TN),Trentino AA,Massimo,ITA
 2225935,IW0EQG,Sandro De Francesco,Roma (RM),Lazio,Sandro,ITA
 2225936,IU2GJI,Leonardo Scarcella,Rescaldina (MI),Lombardia,Leonardo,ITA
 2225937,IW2FHH,Marco Guerrato,Segrate (MI),Lombardia,Marco,ITA
@@ -7962,7 +8081,7 @@
 2225990,IU8JMS,Cristian Pugliese,Marina Di Gioiosa Jonica (RC),Calabria,Cristian,ITA
 2225991,IZ3NYM,Mattia Ranzato,Sottomarina (VE),Veneto,Mattia,ITA
 2225992,IZ7NSF,Claudio De Nuzzo,San Severo (FG),Puglia,Claudio,ITA
-2225993,IN3ETH,Diego Spagnolli,Mori (TN),Trentino-Aa,Diego,ITA
+2225993,IN3ETH,Diego Spagnolli,Mori (TN),Trentino AA,Diego,ITA
 2225994,IZ0CVY,Maurizio Belloni,Civita Castellana (VT),Lazio,Maurizio,ITA
 2225995,IU1MDT,Davide Zaccaro,Beinasco (TO),Piemonte,Davide,ITA
 2225996,IW0AVV,Giuseppe Iaconis,Anagni (FR),Lazio,Giuseppe,ITA
@@ -8382,7 +8501,7 @@
 2226411,IT9QAU,Ferdinando Salerno,Tremestieri Etneo (CT),Sicilia,Ferdinando,ITA
 2226412,IT9CLX,Mirko Castorina,Carlentini (SR),Sicilia,Mirko,ITA
 2226413,IZ2FMV,Silvano Castoldi,Lonate Pozzolo (VA),Lombardia,Silvano,ITA
-2226414,IW3BVG,Eugenio Gallelli,Bolzano (BZ),Trentino-Aa,Eugenio,ITA
+2226414,IW3BVG,Eugenio Gallelli,Bolzano (BZ),Trentino AA,Eugenio,ITA
 2226415,IT9DJI,Giuseppe Spadaro,Caltagirone (CT),Sicilia,Giuseppe,ITA
 2226416,IT9VCE,Alfio Scirto,Randazzo (CT),Sicilia,Alfio,ITA
 2226417,IT9JDH,Marcello Coco,Catania (CT),Sicilia,Marcello,ITA
@@ -8394,7 +8513,7 @@
 2226423,IU3JNS,Matteo ,Ceggia (VE),Veneto,Matteo,ITA
 2226424,IK3LLZ,Luigi ,Villafranca (VR),Veneto,Luigi,ITA
 2226425,IU1MPF,Issey Sandei,Genova (GE),Liguria,Issey,ITA
-2226426,IN3CES,Bruno ,Trento (TN),Trentino-Aa,Bruno,ITA
+2226426,IN3CES,Bruno ,Trento (TN),Trentino AA,Bruno,ITA
 2226427,IW7DZS,D Oronzo Vincenzo,Cassano Delle Murge (BA),Puglia,D Oronzo,ITA
 2226428,IV3NDR,Rosario Urzi,Trieste (TS),Friuli VG,Rosario,ITA
 2226429,IW0EWI,Alessandro Di Ponio,Roma (RM),Lazio,Alessandro,ITA
@@ -8414,7 +8533,7 @@
 2226443,IK4JSL,Maria Pia Cognoli,Imola (BO),Emilia-Rom.,Maria Pia,ITA
 2226444,IZ0NOE,Ivan Iuliucci,Sant Angelo Romano (RM),Lazio,Ivan,ITA
 2226445,IZ8EQI,Stanislao Serrano,Reggio Calabria (RC),Calabria,Stanislao,ITA
-2226446,IU2NIN,Timm Schneider,Padenghe S/g (BS),Lombardia,Timm,ITA
+2226446,IU2NIN,Timm Schneider,Padenghe S/G (BS),Lombardia,Timm,ITA
 2226447,IZ6WTB,Paolo Copparoni,Castelbellino (AN),Marche,Paolo,ITA
 2226448,IT9HXY,Fabio Cantarella,Catania (CT),Sicilia,Fabio,ITA
 2226449,I8JIA,Aldo Iannuzzi,Salerno (SA),Campania,Aldo,ITA
@@ -8465,7 +8584,7 @@
 2226494,IZ8TBK,Ernesto Magliano,Cava De  Tirreni (SA),Campania,Ernesto,ITA
 2226495,IZ2EAT,Adriano Basile,Casorate Sempione (VA),Lombardia,Adriano,ITA
 2226496,IU8MVP,Salvatore Senatore,Orta Di Atella (CE),Campania,Salvatore,ITA
-2226497,IN3WLN,Hermann Gasser,Brunico (BZ),Trentino-Aa,Hermann,ITA
+2226497,IN3WLN,Hermann Gasser,Brunico (BZ),Trentino AA,Hermann,ITA
 2226498,IK6NTY,Sandro Magrini,Fano (PS),Marche,Sandro,ITA
 2226499,IT9IJN,Maurizio Cuce,Messina (ME),Sicilia,Maurizio,ITA
 2226500,IK8NUP,Roberto Rossi,Salerno (SA),Campania,Roberto,ITA
@@ -8501,12 +8620,12 @@
 2226530,IZ0THC,Raffaele Salvatori,Perugia (PG),Umbria,Raffaele,ITA
 2226531,IW8QAY,Gregorio ,Lamezia Terme (CZ),Calabria,Gregorio,ITA
 2226532,IU1IMC,Carlo Pezzati,Pino Torinese (TO),Piemonte,Carlo,ITA
-2226533,IN3HHH,Aldo ,Bolzano (BZ),Trentino-Aa,Aldo,ITA
+2226533,IN3HHH,Aldo ,Bolzano (BZ),Trentino AA,Aldo,ITA
 2226534,IK8UIF,Alberto Stoppelli,Salerno (SA),Campania,Alberto,ITA
 2226535,IK4YHJ,Paolo Conca,Castelvetro Piacentino (PC),Emilia-Rom.,Paolo,ITA
 2226536,IU2EWU,Andrea ,Varese (VA),Lombardia,Andrea,ITA
 2226537,IU3KIE,Antonino Spagnolo,Verona (VR),Veneto,Antonino,ITA
-2226538,IN3THM,Giorgio Dicicco,Sopramonte (TN),Trentino-Aa,Giorgio,ITA
+2226538,IN3THM,Giorgio Dicicco,Sopramonte (TN),Trentino AA,Giorgio,ITA
 2226539,IU2NRU,Giovanni Cor,Cava Manara (PV),Lombardia,Giovanni,ITA
 2226540,IK2OLD,Luca Fulghieri,Casorezzo (MI),Lombardia,Luca,ITA
 2226541,IT9HZC,Gregorio Nicolosi,Trecastagni (CT),Sicilia,Gregorio,ITA
@@ -8525,11 +8644,11 @@
 2226554,IZ1WZJ,Luca Perosino,Avigliana (TO),Piemonte,Luca,ITA
 2226555,IK2TQB,Pasquale Piscopo,Cinisello Balsamo (MI),Lombardia,Pasquale,ITA
 2226556,IQ2MM,Sezione Ari Mantova,Mantova (MN),Lombardia,Sezione,ITA
-2226557,IN3EMV,Marco Dissegna,Ora (BZ),Trentino-Aa,Marco,ITA
+2226557,IN3EMV,Marco Dissegna,Ora (BZ),Trentino AA,Marco,ITA
 2226558,IU8GYH,Marcello Sammarcellino,Napoli (NA),Campania,Marcello,ITA
 2226559,IU8GYI,Raffaele Sammarcellino,Napoli (NA),Campania,Raffaele,ITA
 2226560,IU4LAU,Stefano Zannoni,San Cesario Sul Panaro (MO),Emilia-Rom.,Stefano,ITA
-2226561,IX1APT,Giuseppe Rotundo,Saint Vincent (AO),Valle D Aosta,Giuseppe,ITA
+2226561,IX1APT,Giuseppe Rotundo,Saint Vincent (AO),Valle d'Aosta,Giuseppe,ITA
 2226562,IW2DCY,Antonio Burigana,Novate Milanese (MI),Lombardia,Antonio,ITA
 2226563,IU1MTZ,Luca Sallen,Cantalupa (TO),Piemonte,Luca,ITA
 2226564,IU2NTG,Giampy ,Solto Collina (BG),Lombardia,Giampy,ITA
@@ -8540,7 +8659,7 @@
 2226569,IW1CYL,Fabrizio Crepaldi,Collegno (TO),Piemonte,Fabrizio,ITA
 2226570,IQ3PN,Ari Sezione Pordenone,Pordenone (PN),Friuli VG,Ari,ITA
 2226571,IW3FQT,Luca Giuriato,Rovigo (RO),Veneto,Luca,ITA
-2226572,IQ3VN,Radio Club Valsugana,Borgo Valsugana (TN),Trentino-Aa,Radio Club,ITA
+2226572,IQ3VN,Radio Club Valsugana,Borgo Valsugana (TN),Trentino AA,Radio Club,ITA
 2226573,IT9IPQ,Paolo Impallomeni,Messina (ME),Sicilia,Paolo,ITA
 2226574,IT9OBK,Carmelo Impallomeni,Messina (ME),Sicilia,Carmelo,ITA
 2226575,IT9BOM,Antonino ,Bronte (CT),Sicilia,Antonino,ITA
@@ -8598,7 +8717,7 @@
 2226627,IQ3QW,Era Padova,Limena (PD),Veneto,Era,ITA
 2226628,IU0NYC,Raffaele D Aniello,Roma (RM),Lazio,Raffaele,ITA
 2226629,IU4BJQ,Mamo Succi,Copparo (FE),Emilia-Rom.,Mamo,ITA
-2226630,IX1DSY,Fabrizio Bovard,Valgrisenche (AO),Valle D Aosta,Fabrizio,ITA
+2226630,IX1DSY,Fabrizio Bovard,Valgrisenche (AO),Valle d'Aosta,Fabrizio,ITA
 2226631,IT9HJH,Diego Di Bartolo,Furci Siculo (ME),Sicilia,Diego,ITA
 2226632,IK1XPK,Claudio Bianco,Asti (AT),Piemonte,Claudio,ITA
 2226633,IU2OFF,Riccardo Lazzarini,Milano (MI),Lombardia,Riccardo,ITA
@@ -8614,9 +8733,9 @@
 2226643,IT9BDW,Giuseppe Dimajo,Palermo (PA),Sicilia,Giuseppe,ITA
 2226644,IZ2NZT,Marco Andrani,Arconate (MI),Lombardia,Marco,ITA
 2226645,IZ7XCN,Cataldo Latini,Taranto (TA),Puglia,Cataldo,ITA
-2226646,IN3IJM,Laura ,Algund (BZ),Trentino-Aa,Laura,ITA
-2226647,IW3AGU,Norbert Kuen,Lagundo (BZ),Trentino-Aa,Norbert,ITA
-2226648,IW3AMB,Claudia Ploner,Lagundo (BZ),Trentino-Aa,Claudia,ITA
+2226646,IN3IJM,Laura ,Algund (BZ),Trentino AA,Laura,ITA
+2226647,IW3AGU,Norbert Kuen,Lagundo (BZ),Trentino AA,Norbert,ITA
+2226648,IW3AMB,Claudia Ploner,Lagundo (BZ),Trentino AA,Claudia,ITA
 2226649,I4UJB,Giancarlo Spinelli,Cesena (FC),Emilia-Rom.,Giancarlo,ITA
 2226650,IU3OFO,Giovanni Rigodanzo,Arcugnano (VI),Veneto,Giovanni,ITA
 2226651,IU3GNQ,Giancarlo Breda,Selva Di Progno (VR),Veneto,Giancarlo,ITA
@@ -8642,7 +8761,7 @@
 2226671,IK6STP,Pietro Scarponi,Pescasseroli (AQ),Abruzzo,Pietro,ITA
 2226672,IW7DNZ,Angelo ,Conversano (BA),Puglia,Angelo,ITA
 2226673,IU8OGE,Diego Tango,Napoli (NA),Campania,Diego,ITA
-2226674,IN3HKF,Claudio Carraro,Albiano (TN),Trentino-Aa,Claudio,ITA
+2226674,IN3HKF,Claudio Carraro,Albiano (TN),Trentino AA,Claudio,ITA
 2226675,IZ2ZQP,Romano Gallo,Bergamo (BG),Lombardia,Romano,ITA
 2226676,IZ1MMV,Pietro Bello,Torino (TO),Piemonte,Pietro,ITA
 2226677,IU3MOD,Giuseppe Gulli,Conegliano (TV),Veneto,Giuseppe,ITA
@@ -8705,7 +8824,7 @@
 2226734,IK2MXM,Gigi Sapo,Vedano Olona (VA),Lombardia,Gigi,ITA
 2226735,IZ2SNS,Rinaldi Leopoldo,Legnano (MI),Lombardia,Rinaldi,ITA
 2226736,I2BGH,Alessandro Rovighi,Milano (MI),Lombardia,Alessandro,ITA
-2226737,IN3ACZ,Siegfried Dejaco,Brunico (BZ),Trentino-Aa,Siegfried,ITA
+2226737,IN3ACZ,Siegfried Dejaco,Brunico (BZ),Trentino AA,Siegfried,ITA
 2226738,IW2NNQ,Maurizio Gianfortuna,Cesano Maderno (MI),Lombardia,Maurizio,ITA
 2226739,IZ1UJJ,Pietro Penone,Verbania (VB),Piemonte,Pietro,ITA
 2226740,IU3NOM,Roberto Degrassi,Padova (PD),Veneto,Roberto,ITA
@@ -8807,14 +8926,14 @@
 2226836,IU1ODQ,Christian Arcella,Castelferro (AL),Piemonte,Christian,ITA
 2226837,IW8FER,Gerardo Perone,Lapio (AV),Campania,Gerardo,ITA
 2226838,IZ8XOH,Marco ,Potenza (PZ),Basilicata,Marco,ITA
-2226839,IN3EQR,Martin Faraglia,Trento (TN),Trentino-Aa,Martin,ITA
+2226839,IN3EQR,Martin Faraglia,Trento (TN),Trentino AA,Martin,ITA
 2226840,I0NUM,Antonio Baldassarra,Sora (FR),Lazio,Antonio,ITA
 2226841,IK6IHJ,Lorenzo Gentile,Citta  Sant Angelo (PE),Abruzzo,Lorenzo,ITA
 2226842,IU4IQR,Leo ,Ferrara (FE),Emilia-Rom.,Leo,ITA
 2226843,IW0GWD,Luca ,Roma (RM),Lazio,Luca,ITA
 2226844,IK4POG,Alfredo Ravazzini,Castellarano (RE),Emilia-Rom.,Alfredo,ITA
 2226845,IW6CQF,Sergio Verzolini,Ostra Vetere (AN),Marche,Sergio,ITA
-2226846,IN3ELS,Giovanni Casetti,Trento (TN),Trentino-Aa,Giovanni,ITA
+2226846,IN3ELS,Giovanni Casetti,Trento (TN),Trentino AA,Giovanni,ITA
 2226847,IU1NIH,Paolo Busecchian,Castelletto Merli (AL),Piemonte,Paolo,ITA
 2226848,IU3NMN,Sergio Scanu,Marano Vicentino (VI),Veneto,Sergio,ITA
 2226849,IU7LRP,Andrea Stefanizzi,Cutrofiano (LE),Puglia,Andrea,ITA
@@ -8874,13 +8993,12 @@
 2226903,IU3OCW,Nicola Pelissero,Venezia (VE),Veneto,Nicola,ITA
 2226904,IW2BXA,Luciano Sacchi,Pieve Emanuele (MI),Lombardia,Luciano,ITA
 2226905,IU3AYH,Gabriele ,Lendinara (RO),Veneto,Gabriele,ITA
-2226906,IN3GOJ,Christian Steinmair,Welsberg (BZ),Trentino-Aa,Christian,ITA
+2226906,IN3GOJ,Christian Steinmair,Welsberg (BZ),Trentino AA,Christian,ITA
 2226907,IK5ZAK,Tommaso Guidi,Capannoli (PI),Toscana,Tommaso,ITA
 2226908,IK2MPW,Alessandro Circosta,Caronno Pertusella (VA),Lombardia,Alessandro,ITA
 2226909,IK8VRO,Pasquale Lavino,Roccarainola (NA),Campania,Pasquale,ITA
 2226910,IK7UKJ,Ruggiero Stella,Barletta (BT),Puglia,Ruggiero,ITA
 2226911,IU7IWT,Vincenzo Scarongella,Ruvo Di Puglia (BA),Puglia,Vincenzo,ITA
-2226912,IU5CZS,Andrea Tiezzi,Chiusi Citta (SI),Toscana,Andrea,ITA
 2226913,IK8YOQ,Massimo Mancusi,Pompei (NA),Campania,Massimo,ITA
 2226914,IU8OMJ,Bruno Pica,Trecase (NA),Campania,Bruno,ITA
 2226915,IK8OHC,Michele De Simone,Casoria (NA),Campania,Michele,ITA
@@ -8934,7 +9052,7 @@
 2226963,IU2KOZ,Salvatore Vella,Trezzano Rosa (MI),Lombardia,Salvatore,ITA
 2226964,I4BZW,Mauro Bianconi,Pizzano Monterenzio (BO),Emilia-Rom.,Mauro,ITA
 2226965,IZ2MBN,Marco Codazzi,Cornaredo (MI),Lombardia,Marco,ITA
-2226966,IX1GPE,Elio Sponton,Saint Pierre (AO),Valle D Aosta,Elio,ITA
+2226966,IX1GPE,Elio Sponton,Saint Pierre (AO),Valle d'Aosta,Elio,ITA
 2226967,IK7VXC,Michele Custodero,Brindisi (BR),Puglia,Michele,ITA
 2226968,IZ8IQC,Vincenzo Lombardo,Marina Di Gioiosa Jonica (RC),Calabria,Vincenzo,ITA
 2226969,IZ8GCH,Rosario Gallicola,Lago Patria (NA),Campania,Rosario,ITA
@@ -8948,7 +9066,7 @@
 2226977,IW6ATU,Guido Giorgini,Montemarciano (AN),Marche,Guido,ITA
 2226978,IW6NDO,Alberto Pansa,Cepagatti (PE),Abruzzo,Alberto,ITA
 2226979,IZ8HKQ,Pietro Lombardi,Pozzilli (IS),Molise,Pietro,ITA
-2226980,IN3HIR,Andrea Vulpio,Trento (TN),Trentino-Aa,Andrea,ITA
+2226980,IN3HIR,Andrea Vulpio,Trento (TN),Trentino AA,Andrea,ITA
 2226981,IU4OOB,Loris Caragnano,Caorso (PC),Emilia-Rom.,Loris,ITA
 2226982,IZ1KVQ,Francesco Giordano,Genova (GE),Liguria,Francesco,ITA
 2226983,IU1OPQ,Diego Portesani,Fossano (CN),Piemonte,Diego,ITA
@@ -9562,13 +9680,13 @@
 2227594,IK4FFS,Giuseppe Donadio,Maranello (MO),Emilia-Rom.,Giuseppe,ITA
 2227595,IK8GJZ,Francesco Molaro,Castellammare Stabia (NA),Campania,Francesco,ITA
 2227596,IT9XIG,Pietro Bono,Campobello Di Mazara (TP),Sicilia,Pietro,ITA
-2227597,IU2OQT,Vitaliano Trecca,no_city,Lombardia,Vitaliano,ITA
+2227597,IU2OQT,Vitaliano Trecca,Galliate Lombardo (VA),Lombardia,Vitaliano,ITA
 2227598,IU5OHH,Carlo Ordini,Grosseto (GR),Toscana,Carlo,ITA
 2227599,IU7NXT,Nicola Lonigro,Bari (BA),Puglia,Nicola,ITA
 2227600,IU4OKB,Valerio Giampietro,San Giovanni In Persiceto (BO),Emilia-Rom.,Valerio,ITA
 2227601,IZ8EYR,Antonino Pellicano,San Lorenzo (RC),Calabria,Antonino,ITA
 2227602,IZ1KFY,Massimiliano Siciliano,Asti (AT),Piemonte,Massimiliano,ITA
-2227603,IW3AAD,Arrigo Tiengo,Villazzano (TN),Trentino-Aa,Arrigo,ITA
+2227603,IW3AAD,Arrigo Tiengo,Villazzano (TN),Trentino AA,Arrigo,ITA
 2227604,IT9AGE,Marcello Pezzino,Catania (CT),Sicilia,Marcello,ITA
 2227605,IU2NKE,Diego Martino,Milano (MI),Lombardia,Diego,ITA
 2227606,IU8IAJ,Luca De Rosa,no_city,Campania,Luca,ITA
@@ -9583,15 +9701,15 @@
 2227615,IW6CUY,Fiorino Luciani,San Severino Marche (MC),Marche,Fiorino,ITA
 2227616,IZ3CGE,Nadia Fuser,Montebelluna (TV),Veneto,Nadia,ITA
 2227617,IH9GSM,Vittorio Puleo,Pantelleria (TP),Sicilia,Vittorio,ITA
-2227618,IW3BVA,Alberto Bianco,Scurelle (TN),Trentino-Aa,Alberto,ITA
+2227618,IW3BVA,Alberto Bianco,Scurelle (TN),Trentino AA,Alberto,ITA
 2227619,IU2NAI,Mario Porta,Villa Guardia (CO),Lombardia,Mario,ITA
 2227620,IZ2ODI,Giambattista Gozzini,Fino Del Monte (BG),Lombardia,Giambattista,ITA
 2227621,IZ0COJ,Salvatore Messana,Roma (RM),Lazio,Salvatore,ITA
 2227622,IW9HMA,Nicola Santoro,Palermo (PA),Sicilia,Nicola,ITA
 2227623,IU3OUP,Mario Dafiero,Giavera Del Montello (TV),Veneto,Mario,ITA
-2227624,IN3ISU,Giovanni Marsiglia,Salorno (BZ),Trentino-Aa,Giovanni,ITA
+2227624,IN3ISU,Giovanni Marsiglia,Salorno (BZ),Trentino AA,Giovanni,ITA
 2227625,IZ8IYV,Francesco Romeo,Reggio Calabria (RC),Calabria,Francesco,ITA
-2227626,IN3WZS,Pio Nicolodi,Lavis (TN),Trentino-Aa,Pio,ITA
+2227626,IN3WZS,Pio Nicolodi,Lavis (TN),Trentino AA,Pio,ITA
 2227627,IU3NIU,Matteo De Martin,Borgo Valbelluna (BL),Veneto,Matteo,ITA
 2227628,IS0AGS,Giacomo Cirina,Assemini (CA),Sardegna,Giacomo,ITA
 2227629,IU3KGR,Federico Padovani,Arzignano (VI),Veneto,Federico,ITA
@@ -9720,7 +9838,7 @@
 2227752,IT9ZIR,Sebastiano Pulvirenti,Catania (CT),Sicilia,Sebastiano,ITA
 2227753,IK8RIK,Pasquale Tassone,Pallagorio (KR),Calabria,Pasquale,ITA
 2227754,IZ0BEB,Roberto Romano,Roma (RM),Lazio,Roberto,ITA
-2227755,IN3ADJ,Alexander Hofer,Molini Di Tures (BZ),Trentino-Aa,Alexander,ITA
+2227755,IN3ADJ,Alexander Hofer,Molini Di Tures (BZ),Trentino AA,Alexander,ITA
 2227756,IU5OYO,Pasquale Contursi,Empoli (FI),Toscana,Pasquale,ITA
 2227757,IU2OOJ,Antonio Pacella,Cinisello Balsamo (MI),Lombardia,Antonio,ITA
 2227758,IU8PCY,Michele ,Termoli (CB),Molise,Michele,ITA
@@ -9802,7 +9920,7 @@
 2227834,IU1FGC,Giancarlo Fede,Genova (GE),Liguria,Giancarlo,ITA
 2227835,IS0HNV,Marco Sistu,Monti (SS),Sardegna,Marco,ITA
 2227836,I0LRA,Carminio La Rocca,Latina (LT),Lazio,Carminio,ITA
-2227837,IN3IVL,Martin Lang,Lajen (BZ),Trentino-Aa,Martin,ITA
+2227837,IN3IVL,Martin Lang,Lajen (BZ),Trentino AA,Martin,ITA
 2227838,IZ3JZL,Ubaldo Malachin,Solesino (PD),Veneto,Ubaldo,ITA
 2227839,IZ7NSE,Antonio Mutasci,Bari (BA),Puglia,Antonio,ITA
 2227840,IZ3VCD,Mario Covizzi,Giacciano Con Baruchella (RO),Veneto,Mario,ITA
@@ -9849,7 +9967,7 @@
 2227881,IU1PDH,Matteo Cardano,Cremolino (AL),Piemonte,Matteo,ITA
 2227882,IK8IRK,Carlo Tripodi,Polistena (RC),Calabria,Carlo,ITA
 2227883,IU2OXE,Vittorio Polizzi,Mantova (MN),Lombardia,Vittorio,ITA
-2227884,IN3PDI,Gianpaolo Salmi,Stenico (TN),Trentino-Aa,Gianpaolo,ITA
+2227884,IN3PDI,Gianpaolo Salmi,Stenico (TN),Trentino AA,Gianpaolo,ITA
 2227885,IK2SVO,Luciano Gottardi,Grumello Del Monte (BG),Lombardia,Luciano,ITA
 2227886,I2BJS,Renato Bovati,Monza (MB),Lombardia,Renato,ITA
 2227887,IC8EPV,Michele Mancusi,Ischia (NA),Campania,Michele,ITA
@@ -9928,15 +10046,15 @@
 2227960,IZ0EBG,Ezio Faro,Roma (RM),Lazio,Ezio,ITA
 2227961,IW9EIM,Salvatore Crimi,Palermo (PA),Sicilia,Salvatore,ITA
 2227962,IM0HIQ,Angelo Semino,La Maddalena (SS),Sardegna,Angelo,ITA
-2227963,IN3ETI,Francesco Baldi,Scurelle (TN),Trentino-Aa,Francesco,ITA
+2227963,IN3ETI,Francesco Baldi,Scurelle (TN),Trentino AA,Francesco,ITA
 2227964,IT9ILF,Santi Iurato,Pedara (CT),Sicilia,Santi,ITA
 2227965,IU7OYG,Pietro Ippolito,Castellana Grotte (BA),Puglia,Pietro,ITA
-2227966,IN3DGK,Roland Pernthaler,Cermes (BZ),Trentino-Aa,Roland,ITA
+2227966,IN3DGK,Roland Pernthaler,Cermes (BZ),Trentino AA,Roland,ITA
 2227967,IU2PKB,Giorgio Birindelli,Vimercate (MI),Lombardia,Giorgio,ITA
 2227968,IW4DBX,Mauro Franceschelli,Alfonsine (RA),Emilia-Rom.,Mauro,ITA
 2227969,IU1PLM,Alessio Vecchiato,Pecetto Di Valenza (AL),Piemonte,Alessio,ITA
 2227970,IW3QPY,Piero Sartori,Trieste (TS),Friuli VG,Piero,ITA
-2227971,IN3HRR,Tobias Mayr,Cornaiano (BZ),Trentino-Aa,Tobias,ITA
+2227971,IN3HRR,Tobias Mayr,Cornaiano (BZ),Trentino AA,Tobias,ITA
 2227972,IT9IVU,Daniele Italiano,Belmonte Mezzagno (PA),Sicilia,Daniele,ITA
 2227973,IZ3VIV,Fausto Ferretti,Verona (VR),Veneto,Fausto,ITA
 2227974,IS0DZC,Mirko Sanna,Cagliari (CA),Sardegna,Mirko,ITA
@@ -10751,7 +10869,7 @@
 2228783,IW3RKZ,Adriano Tofful,Mossa (GO),Friuli VG,Adriano,ITA
 2228784,IT9XXS,Giovanni Mazzola,Palermo (PA),Sicilia,Giovanni,ITA
 2228785,IU5PMV,Marco Donati,Rosignano Marittimo (LI),Toscana,Marco,ITA
-2228786,IN3EZK,Gianluca Spoladore,Bolzano (BZ),Trentino-Aa,Gianluca,ITA
+2228786,IN3EZK,Gianluca Spoladore,Bolzano (BZ),Trentino AA,Gianluca,ITA
 2228787,IZ3TCE,Michele Carnielli,Spinea (VE),Veneto,Michele,ITA
 2228788,IU0IAM,Valentino Fusco,Roma (RM),Lazio,Valentino,ITA
 2228789,IW8FDK,Marco Piano,Tufino (NA),Campania,Marco,ITA
@@ -10805,7 +10923,7 @@
 2228838,IK0IRE,Francesco Cilea,Anzio (RM),Lazio,Francesco,ITA
 2228839,IV3HJD,Nicola Viol,Zoppola (PN),Friuli VG,Nicola,ITA
 2228840,IU3PAL,Lanfranco Marin,Rovigo (RO),Veneto,Lanfranco,ITA
-2228841,IU5PIK,Lorenzo Venturi,no_city,Toscana,Lorenzo,ITA
+2228841,IU5PIK,Lorenzo Venturi,Firenze (FI),Toscana,Lorenzo,ITA
 2228842,IU1GQK,Gabriele Gualco,Voltaggio (AL),Piemonte,Gabriele,ITA
 2228843,IU7IFN,Aldo Alfiero,Latiano (BR),Puglia,Aldo,ITA
 2228844,IT9BQQ,Francesco Cocina,Catania (CT),Sicilia,Francesco,ITA
@@ -10849,7 +10967,7 @@
 2228883,IU4MUB,Graziano Sola,Anzola Dell Emilia (BO),Emilia-Rom.,Graziano,ITA
 2228884,IT9IOF,Pietro Cinquemani,Palermo (PA),Sicilia,Pietro,ITA
 2228885,IZ5XYM,Marco Meini,Capannoli (PI),Toscana,Marco,ITA
-2228886,IW3BMW,Bosco Paolo,Levico Terme (TN),Trentino-Aa,Bosco,ITA
+2228886,IW3BMW,Bosco Paolo,Levico Terme (TN),Trentino AA,Bosco,ITA
 2228887,IV3INV,Guido Durli,Udine (UD),Friuli VG,Guido,ITA
 2228888,IU8POD,Costantino Molinaro,Benevento (BN),Campania,Costantino,ITA
 2228889,IU1PPN,Claudio Mioci,San Germano Chisone (TO),Piemonte,Claudio,ITA
@@ -10865,7 +10983,7 @@
 2228899,IT9APJ,Michele Bono,Trapani (TP),Sicilia,Michele,ITA
 2228900,IZ0YEG,Antonino Gagliardi,Roma (RM),Lazio,Antonino,ITA
 2228901,IU1LFA,Marco Marocco,Chivasso (TO),Piemonte,Marco,ITA
-2228902,IN3FSN,Enzo Gardener,Carano (TN),Trentino-Aa,Enzo,ITA
+2228902,IN3FSN,Enzo Gardener,Carano (TN),Trentino AA,Enzo,ITA
 2228903,IU6LKI,Giammaria Ciucci,Macerata (MC),Marche,Giammaria,ITA
 2228904,IZ3KSS,Loris Capovilla,Nervesa Della Battaglia (TV),Veneto,Loris,ITA
 2228905,IZ6HEZ,Antonio Bartoli,Serravalle Di Chienti (MC),Marche,Antonio,ITA
@@ -10946,12 +11064,12 @@
 2228980,IU8PCP,Luigi Lorenzano,Crotone (KR),Calabria,Luigi,ITA
 2228981,IZ5GST,Steve Tolari,Montecatini Terme (PT),Toscana,Steve,ITA
 2228982,IK2ULP,Salvatore Gentile,Milano (MI),Lombardia,Salvatore,ITA
-2228983,IW8DUS,Costanzo Muccio,no_city,,Costanzo,ITA
+2228983,IW8DUS,Costanzo Muccio,no_city,Campania,Costanzo,ITA
 2228984,IU4HNA,Fabrizio Muro,Rimini (RN),Emilia-Rom.,Fabrizio,ITA
 2228985,IZ8LIN,Graziano Polito,Altavilla Silentina (SA),Campania,Graziano,ITA
 2228986,IV3IJP,Leonardo Tedeschi,Corno Di Rosazzo (UD),Friuli VG,Leonardo,ITA
 2228987,IW0QQZ,Flavio Boccacci,Ladispoli (RM),Lazio,Flavio,ITA
-2228988,IN3VXH,Luca Babini,Riva Del Garda (TN),Trentino-Aa,Luca,ITA
+2228988,IN3VXH,Luca Babini,Riva Del Garda (TN),Trentino AA,Luca,ITA
 2228989,IU2NQW,Luigi Giugno,Milano (MI),Lombardia,Luigi,ITA
 2228990,IV3EFV,Gaetano Oltratini,Pordenone (PN),Friuli VG,Gaetano,ITA
 2228991,IK2LHP,Angelo Ferri,Treviglio (BG),Lombardia,Angelo,ITA
@@ -11460,13 +11578,13 @@
 2229494,IU4PSZ,Giovanni Bertozzi,Riolo Terme (RA),Emilia-Rom.,Giovanni,ITA
 2229495,IU4PUJ,Simone Frollo,Riolo Terme (RA),Emilia-Rom.,Simone,ITA
 2229496,IK1YEK,Vincenzo Firpo,Finale Ligure (SV),Liguria,Vincenzo,ITA
-2229497,IU3KJZ,Ergi Mone,no_city,Veneto,Ergi,ITA
+2229497,IU3KJZ,Ergi Mone,Brenzone Sul Garda (VR),Veneto,Ergi,ITA
 2229498,IU4PTG,Marco Cmp,Modena (MO),Emilia-Rom.,Marco,ITA
 2229499,IU5PUE,Paolo Tognaccini,Montevarchi (AR),Toscana,Paolo,ITA
 2229500,IK0UGC,Gabriele Albano,Fonte Nuova (RM),Lazio,Gabriele,ITA
 2229501,I4ZDX,Francesco Cellini,Ludo (RA),Emilia-Rom.,Francesco,ITA
 2229502,IT9AEQ,Giuseppe Lio,Canicatti (AG),Sicilia,Giuseppe,ITA
-2229503,IN3ADG,Ignazio Mameli,Campo Tures (BZ),Trentino-Aa,Ignazio,ITA
+2229503,IN3ADG,Ignazio Mameli,Campo Tures (BZ),Trentino AA,Ignazio,ITA
 2229504,IU8ODB,Pierluigi Fedele,Baia E Latina (CE),Campania,Pierluigi,ITA
 2229505,IU4PSV,Roberto Levratti,Modena (MO),Emilia-Rom.,Roberto,ITA
 2229506,IZ0TTE,Antonio Cerminara,Viterbo (VT),Lazio,Antonio,ITA
@@ -11508,7 +11626,7 @@
 2229542,IS0IYX,Gian Orru,Cagliari (CA),Sardegna,Gian,ITA
 2229543,IV3DET,Alessandro Belloni,Tavagnacco (UD),Friuli VG,Alessandro,ITA
 2229544,I4WYE,Stefano Bellei,Modena (MO),Emilia-Rom.,Stefano,ITA
-2229545,IN3FOB,Fabio Addante,Bolzano (BZ),Trentino-Aa,Fabio,ITA
+2229545,IN3FOB,Fabio Addante,Bolzano (BZ),Trentino AA,Fabio,ITA
 2229546,IW2CYE,Sergio Garavaglia,Novate Mezzola (SO),Lombardia,Sergio,ITA
 2229547,IU0PHO,Flavio Benedetti,Orvieto (TR),Umbria,Flavio,ITA
 2229548,IZ1VZF,Antonio Verardo,Genova (GE),Liguria,Antonio,ITA
@@ -11528,7 +11646,7 @@
 2229562,IW0UWE,Nicola Armenise,Tortoli (NU),Sardegna,Nicola,ITA
 2229563,IS0FFJ,Ferrante Donato,Sestu (CA),Sardegna,Ferrante,ITA
 2229564,IT9JGX,Francesco Rimi,Alcamo (TP),Sicilia,Francesco,ITA
-2229565,IN3IVC,Thomas Dallapiazza,Bolzano (BZ),Trentino-Aa,Thomas,ITA
+2229565,IN3IVC,Thomas Dallapiazza,Bolzano (BZ),Trentino AA,Thomas,ITA
 2229566,IS0EWY,Johnny Mameli,Loceri (NU),Sardegna,Johnny,ITA
 2229567,IZ4WBA,Davide Pratelli,Rimini (RN),Emilia-Rom.,Davide,ITA
 2229568,IK4VPZ,Diego Diego,Piacenza (PC),Emilia-Rom.,Diego,ITA
@@ -11570,7 +11688,7 @@
 2229604,IS0HDP,Mariano Manis,Iglesias (SU),Sardegna,Mariano,ITA
 2229605,IZ7YXV,Francesco Cuomo,Andria (BT),Puglia,Francesco,ITA
 2229606,IU7PTK,Domenico Damascelli,Bitonto (BA),Puglia,Domenico,ITA
-2229607,IN3IZL,Marcel Schwarz,Silandro (BZ),Trentino-Aa,Marcel,ITA
+2229607,IN3IZL,Marcel Schwarz,Silandro (BZ),Trentino AA,Marcel,ITA
 2229608,IW1RHS,Umberto Bruni,Recco (GE),Liguria,Umberto,ITA
 2229609,IW1CBG,Alfredo Pavarino,Garessio (CN),Piemonte,Alfredo,ITA
 2229610,IU0PYJ,Carlo Viola,Roma (RM),Lazio,Carlo,ITA
@@ -11711,7 +11829,7 @@
 2229746,IV3JAW,Stefano Ronzani,San Giorgio Della Richinvelda (PN),Friuli VG,Stefano,ITA
 2229747,IV3OEP,De Mauro,Montereale Valcellina (PN),Friuli VG,De,ITA
 2229748,IU1HHG,Riccardo Long,San Germano Chisone (TO),Piemonte,Riccardo,ITA
-2229749,IN3HKZ,Hannes Mair,Laives (BZ),Trentino-Alto Adige,Hannes,ITA
+2229749,IN3HKZ,Hannes Mair,Laives (BZ),Trentino AA,Hannes,ITA
 2229750,IU3QJC,Diego Seveglievich,Vicenza (VI),Veneto,Diego,ITA
 2229751,IU8OLV,Angelo Raimo,Sarno (SA),Campania,Angelo,ITA
 2229752,IT9JDW,Gioele Pace,Raffadali (AG),Sicilia,Gioele,ITA
@@ -11793,7 +11911,7 @@
 2229828,IV3FPV,Paolo Machin,Osoppo (UD),Friuli VG,Paolo,ITA
 2229829,IV3GAB,Carlo Vicario,Remanzacco (UD),Friuli VG,Carlo,ITA
 2229830,IK3OYX,Daniele Zattin,Este (PD),Veneto,Daniele,ITA
-2229831,IN3IZO,Emanuele Giuliani,Laives (BZ),Trentino-Alto Adige,Emanuele,ITA
+2229831,IN3IZO,Emanuele Giuliani,Laives (BZ),Trentino AA,Emanuele,ITA
 2229832,IV3JTG,Mauro Bertelli,Staranzano (GO),Friuli VG,Mauro,ITA
 2229833,IT9EWB,Salvatore Restuccia,Giampilieri (ME),Sicilia,Salvatore,ITA
 2229834,IU3QFC,Marcello Selmo,Recoaro Terme (VI),Veneto,Marcello,ITA
@@ -11839,6 +11957,7 @@
 2229874,IT9ESF,Nicita Carmelo,Roccalumera (ME),Sicilia,Nicita,ITA
 2229875,IU7ENE,Domenico Cesare,Torremaggiore (FG),Puglia,Domenico,ITA
 2229876,IV3FGT,Casagrande Arnaldo,Pasiano (PN),Friuli VG,Casagrande,ITA
+2229877,IU2OQU,Davi Daniele,Beregazzo Con Figliaro (CO),Lombardia,Davi,ITA
 2229878,IZ2JTW,Vittorio Sanese,Gravedona (CO),Lombardia,Vittorio,ITA
 2229879,IU6PWH,Luca Faienza,Atessa (CH),Abruzzo,Luca,ITA
 2229880,IW2OAM,Alex Caserini,Settimo Milanese (MI),Lombardia,Alex,ITA
@@ -11852,7 +11971,7 @@
 2229888,IU1DCC,Franco Simonetti,Cerrione (BI),Piemonte,Franco,ITA
 2229889,IU1BNT,Veltri Pasquale,Mondovi (CN),Piemonte,Veltri,ITA
 2229890,IU0CSG,Remigio Russo,Latina (LT),Lazio,Remigio,ITA
-2229891,IQ3QC,Mountain Club,Merano (BZ),Trentino-Alto Adige,Mountain,ITA
+2229891,IQ3QC,Mountain Club,Merano (BZ),Trentino AA,Mountain,ITA
 2229892,IU3QFA,Matteo Truzzi,Castelnuovo Del Garda (VR),Veneto,Matteo,ITA
 2229893,IZ2ESJ,Oscar Mologni,Bergamo (BG),Lombardia,Oscar,ITA
 2229894,IW1GBV,Matteo Ruggieri,None (TO),Piemonte,Matteo,ITA
@@ -11916,11 +12035,11 @@
 2229952,IK0ESM,Silvio Miele,Cervaro (FR),Lazio,Silvio,ITA
 2229953,IZ5XHW,Roberto Gracci,Cascina (PI),Toscana,Roberto,ITA
 2229954,IU8OYQ,Pietro Conte,Maddaloni (CE),Campania,Pietro,ITA
-2229955,IQ7IA,Era Salento,Brindisi (BR),Puglia,Era,ITA
+2229955,IQ7IA,E.R.A. Salento,Brindisi (BR),Puglia,E.R.A.,ITA
 2229956,IU0HSF,Roberto Massenzi,Civita Castellana (VT),Lazio,Roberto,ITA
 2229957,IW8FDX,Giovanni Improta,Napoli (NA),Campania,Giovanni,ITA
-2229958,IK7LNC,Antonio Cucurachi,Monteroni (LE),Puglia,Antonio,ITA
-2229959,IU5MQQ,Rudi Bertaccini,Prato (FI),Toscana,Rudi,ITA
+2229958,IK7LNC,Antonio Cucurachi,Moenteroeni (LE),Puglia,Antonio,ITA
+2229959,IU5MQQ,Rudi Bertaccini,Pratoe (FI),Toescana,Rudi,ITA
 2229960,IU0MWA,Fabrizio Caneponi,Alviano Scalo (TR),Umbria,Fabrizio,ITA
 2229961,IK2MKR,Massimo Begliomini,Inzago (MI),Lombardia,Massimo,ITA
 2229962,IU0ODY,Raffaele Adamo,Santi Cosma E Damiano (LT),Lazio,Raffaele,ITA
@@ -11938,3 +12057,14 @@
 2229974,IU4QPP,Nicola Zagatti,Ferrara (FE),Emilia-Rom.,Nicola,ITA
 2229975,IZ1EVF,Piccinini Piero,Spinetta Marengo (AL),Piemonte,Piccinini,ITA
 2229976,IT9EUZ,Angelo Nolfo,Enna (EN),Sicilia,Angelo,ITA
+2229977,IN3JAB,Alessandro Tonina,Trento (TN),Trentino AA,Alessandro,ITA
+2229978,IU2NSX,Daniele Maffenini,Lurago Marinone (CO),Lombardia,Daniele,ITA
+2229979,IZ0JHW,Pietro Pistorio,Roma (RM),Lazio,Pietro,ITA
+2229980,IU0OAD,Bruno Peticone,Roma (RM),Lazio,Bruno,ITA
+2229981,IU2QBT,Angelo Portaluppi,no_city,Lombardia,Angelo,ITA
+2229982,IU4QQD,Alessandro Guazzaloca,Cento (FE),Emilia-Rom.,Alessandro,ITA
+2229983,IW0ANL,Antonio Gregorio,Roma (RM),Lazio,Antonio,ITA
+2229984,IK8DNM,Alessandro Imparato,Gragnano (NA),Campania,Alessandro,ITA
+2229985,IZ0YXB,Paolo Ippoliti,Roma (RM),Lazio,Paolo,ITA
+2229986,IZ7SIR,Pietro Giandomenico,Castellaneta (TA),Puglia,Pietro,ITA
+2229987,IV3JBE,Edoardo Violante,Duino Aurisina (TS),Friuli VG,Edoardo,ITA
