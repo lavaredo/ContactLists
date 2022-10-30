@@ -490,7 +490,7 @@
 2060490,ON3VHE Eric    ,Eric Vanherp             no_city                 Wal. Brabant            BEL
 2060491,ON7AE Mario    ,Mario Blancke            Landegem                Oost-Vlaanderen         BEL
 2060492,ON5EDM Erik    ,Erik Meersman            Snellegem               West-Vlaanderen         BEL
-2060493,ON3CLA Francis ,Francis Clausse          Charleroi               Hainaut                 BEL
+2060493,ON3FC Francis  ,Francis Clausse          Charleroi               Hainaut                 BEL
 2060494,ON1BKU Andre   ,Andre Vanwaeyenberghe    Gent                    Oost-Vlaanderen         BEL
 2060495,ON7FH Herman   ,Herman Frederickx        Rillaar                 Vlaams Brabant          BEL
 2060496,ON7ZC Desmaele ,Desmaele Pierre          6140 Fontaine L  Eveque Hainaut                 BEL
@@ -552,6 +552,8 @@
 2060553,ON7NU Daniel   ,Daniel Elias             Bruxelles  Laeken       Brussels                BEL
 2060554,ON3RIP Stijn   ,Stijn Carels             Houtem                  Vlaams Brabant          BEL
 2060555,ON4IA Luc      ,Luc Kerkhofs             3670 Meeuwen            Limburg                 BEL
+2060556,ON6QR Fred     ,Fred Cooremans           B 1850 Grimbergen       Vlaams Brabant          BEL
+2060557,ON3DVP Sergei  ,Sergei Gontcharenko      Roeselare                                       BEL
 2061001,ON8SVH Stijn   ,Stijn Hende              Oudenaarde              Oost-Vlaanderen         BEL
 2061002,ON8SI Simon    ,Simon Pauw               Oosterzele              Oost-Vlaanderen         BEL
 2061003,ON5LUC Luc     ,Luc Lourense             Gent                    Oost-Vlaanderen         BEL
@@ -2907,6 +2909,10 @@
 2081269,F5VDM Garry    ,Garry Walker             Apremont  Vendee        Pays De La Loire        FRA
 2081270,F0DLW Jean-Bern,Jean-Bernard Cantournet  Nice                    Provence-Alpes-Cote D A FRA
 2081271,F4ELZ Laurent  ,Laurent Fernandez        Guingamp                Bretagne                FRA
+2081272,F4JQV Marc     ,Marc Parda               Martigues               Provence-Alpes-Cote D A FRA
+2081273,F0DXC no_name  ,no_name                  no_city                                         FRA
+2081274,F4JKS David    ,David Dave               Toulouse                Occitanie               FRA
+2081275,F4JQP Alexandre,Alexandre Chazal         Villeurbanne            Auvergne-Rhone-Alpes    FRA
 2081777,F4JBM Francois ,Francois                 Saint-Cloud                                     FRA
 2082001,F4FUL Cyril    ,Cyril Teitler            Sciez                   Rhone-Alpes             FRA
 2082002,F5VIN Heiko    ,Heiko Damerau            Thoiry                  Rhone-Alpes             FRA
@@ -4596,6 +4602,7 @@
 2280221,HB3YXZ Dani    ,Dani Kalberer            Mels                    St. Gallen              CHE
 2280222,HB9HRG Cosimo  ,Cosimo Fadda             Tesserete               Ticino                  CHE
 2280223,HB9DMB Simon   ,Simon Rood               3144 Gasel              Bern                    CHE
+2280224,HB9ESD Daniel  ,Daniel Boog              Ebikon  Ch   6030       Lucerne                 CHE
 2281001,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281002,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
 2281003,HB3YNV Cedric  ,Cedric                   Saint-Cergue            Waadt                   CHE
@@ -11236,6 +11243,14 @@
 3025114,VE2DNV Denis   ,Denis Verrier            Saint Etienne Des Gres  Quebec                  CAN
 3025115,VA6PZA Jeremy  ,Jeremy Plante            Calgary                 Alberta                 CAN
 3025116,VE3XKU Paul    ,Paul Schildroth          Port Elgin              Ontario                 CAN
+3025117,VE3EQL Amin    ,Amin Gilani              Toronto                 Ontario                 CAN
+3025118,VA3PRR Jeff    ,Jeff Knops               London                  Ontario                 CAN
+3025119,VE3XIO James   ,James Kobler             Oil Springs             Ontario                 CAN
+3025120,VA3ZHF Guy     ,Guy Grosjean             Sudbury                 Ontario                 CAN
+3025121,VA3KAF Kelly   ,Kelly Flynn              Guelph                  Ontario                 CAN
+3025122,VE3BYP Graham  ,Graham Bauman            Newton                  Ontario                 CAN
+3025123,VA7LGC Luis    ,Luis Giraldo             Vancouver               British Columbia        CAN
+3025124,VA2RBB Robin   ,Robin Boudreault         Laval                   Quebec                  CAN
 3026001,VA6IP Kiernan  ,Kiernan Burr             Edmonton                Alberta                 CAN
 3026002,VE6GG Kerry    ,Kerry Atkinson           Edmonton                Alberta                 CAN
 3026003,VE6GG Kerry    ,Kerry Atkinson           Edmonton                Alberta                 CAN

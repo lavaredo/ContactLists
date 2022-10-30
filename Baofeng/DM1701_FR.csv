@@ -491,7 +491,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060490,ON3VHE,Vanherp no_city,Vanherp,Wal. Brabant,BEL,206,DMR
 2060491,ON7AE,Blancke Landegem,Blancke,Oost-Vlaanderen,BEL,206,DMR
 2060492,ON5EDM,Meersman Snellegem,Meersman,West-Vlaanderen,BEL,206,DMR
-2060493,ON3CLA,Clausse Charleroi,Clausse,Hainaut,BEL,206,DMR
+2060493,ON3FC,Clausse Charleroi,Clausse,Hainaut,BEL,206,DMR
 2060494,ON1BKU,Vanwaeyenberghe Gent,Vanwaeyenberghe,Oost-Vlaanderen,BEL,206,DMR
 2060495,ON7FH,Frederickx Rillaar,Frederickx,Vlaams Brabant,BEL,206,DMR
 2060496,ON7ZC,Pierre 6140 Fontaine L  Eveque  Nr Charleroi,Pierre,Hainaut,BEL,206,DMR
@@ -553,6 +553,8 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2060553,ON7NU,Elias Bruxelles  Laeken,Elias,Brussels,BEL,206,DMR
 2060554,ON3RIP,Carels Houtem,Carels,Vlaams Brabant,BEL,206,DMR
 2060555,ON4IA,Kerkhofs 3670 Meeuwen,Kerkhofs,Limburg,BEL,206,DMR
+2060556,ON6QR,Cooremans B 1850 Grimbergen,Cooremans,Vlaams Brabant,BEL,206,DMR
+2060557,ON3DVP,Gontcharenko Roeselare,Gontcharenko,,BEL,206,DMR
 2061001,ON8SVH,Hende Oudenaarde,Hende,Oost-Vlaanderen,BEL,206,DMR
 2061002,ON8SI,Pauw Oosterzele,Pauw,Oost-Vlaanderen,BEL,206,DMR
 2061003,ON5LUC,Lourense Gent,Lourense,Oost-Vlaanderen,BEL,206,DMR
@@ -2908,6 +2910,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2081269,F5VDM,Walker Apremont  Vendee,Walker,Pays De La Loire,FRA,208,DMR
 2081270,F0DLW,Cantournet Nice,Cantournet,Provence-Alpes-Cote D Azur,FRA,208,DMR
 2081271,F4ELZ,Fernandez Guingamp,Fernandez,Bretagne,FRA,208,DMR
+2081272,F4JQV,Parda Martigues,Parda,Provence-Alpes-Cote D Azur,FRA,208,DMR
+2081273,F0DXC, no_city,,,FRA,208,DMR
+2081274,F4JKS,Dave Toulouse,Dave,Occitanie,FRA,208,DMR
+2081275,F4JQP,Chazal Villeurbanne,Chazal,Auvergne-Rhone-Alpes,FRA,208,DMR
 2081777,F4JBM, Saint-Cloud,,,FRA,208,DMR
 2082001,F4FUL,Teitler Sciez,Teitler,Rhone-Alpes,FRA,208,DMR
 2082002,F5VIN,Damerau Thoiry,Damerau,Rhone-Alpes,FRA,208,DMR
@@ -4597,6 +4603,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280221,HB3YXZ,Kalberer Mels,Kalberer,St. Gallen,CHE,228,DMR
 2280222,HB9HRG,Fadda Tesserete,Fadda,Ticino,CHE,228,DMR
 2280223,HB9DMB,Rood 3144 Gasel,Rood,Bern,CHE,228,DMR
+2280224,HB9ESD,Boog Ebikon  Ch   6030,Boog,Lucerne,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -11237,6 +11244,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 3025114,VE2DNV,Verrier Saint Etienne Des Gres,Verrier,Quebec,CAN,302,DMR
 3025115,VA6PZA,Plante Calgary,Plante,Alberta,CAN,302,DMR
 3025116,VE3XKU,Schildroth Port Elgin,Schildroth,Ontario,CAN,302,DMR
+3025117,VE3EQL,Gilani Toronto,Gilani,Ontario,CAN,302,DMR
+3025118,VA3PRR,Knops London,Knops,Ontario,CAN,302,DMR
+3025119,VE3XIO,Kobler Oil Springs,Kobler,Ontario,CAN,302,DMR
+3025120,VA3ZHF,Grosjean Sudbury,Grosjean,Ontario,CAN,302,DMR
+3025121,VA3KAF,Flynn Guelph,Flynn,Ontario,CAN,302,DMR
+3025122,VE3BYP,Bauman Newton,Bauman,Ontario,CAN,302,DMR
+3025123,VA7LGC,Giraldo Vancouver,Giraldo,British Columbia,CAN,302,DMR
+3025124,VA2RBB,Boudreault Laval,Boudreault,Quebec,CAN,302,DMR
 3026001,VA6IP,Burr Edmonton,Burr,Alberta,CAN,302,DMR
 3026002,VE6GG,Atkinson Edmonton,Atkinson,Alberta,CAN,302,DMR
 3026003,VE6GG,Atkinson Edmonton,Atkinson,Alberta,CAN,302,DMR

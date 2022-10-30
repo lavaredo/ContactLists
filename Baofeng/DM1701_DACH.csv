@@ -222,6 +222,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280221,HB3YXZ,Kalberer Mels,Kalberer,St. Gallen,CHE,228,DMR
 2280222,HB9HRG,Fadda Tesserete,Fadda,Ticino,CHE,228,DMR
 2280223,HB9DMB,Rood 3144 Gasel,Rood,Bern,CHE,228,DMR
+2280224,HB9ESD,Boog Ebikon  Ch   6030,Boog,Lucerne,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -2144,6 +2145,14 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2320353,OE9NAT,Malin Satteins,Malin,VBG,AUT,232,DMR
 2320354,OE5CFH,Fuggersberger Geinberg,Fuggersberger,OOE,AUT,232,DMR
 2320355,OE8TIR,Reyers Koetschach-Mauthen,Reyers,KTN,AUT,232,DMR
+2320356,OE3MHN,Hellein Sankt Poelten,Hellein,NOE,AUT,232,DMR
+2320357,OE3YLE,Hellein Sankt Poelten,Hellein,NOE,AUT,232,DMR
+2320358,OE7WMZ,Winkler Elbigenalp,Winkler,TIROL,AUT,232,DMR
+2320359,OE2ROO,Hoell Sankt Veit im Pongau,Hoell,SBG,AUT,232,DMR
+2320360,OE1KON,Kozek Wien,Kozek,WIEN,AUT,232,DMR
+2320361,OE3GOT,Schuster Breitenfurt,Schuster,NOE,AUT,232,DMR
+2320362,OE3TMR,Schuster-Zulechner Breitenfurt,Schuster-Zulechner,NOE,AUT,232,DMR
+2320363,OE3FJS,Scharnitz Furth An der Triesting,Scharnitz,NOE,AUT,232,DMR
 2321001,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321002,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
 2321003,OE1KBC,Baumann Wien,Baumann,WIEN,AUT,232,DMR
@@ -13632,7 +13641,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2630120,DG3KAE,Donner Bonn,Donner,NW,DEU,263,DMR
 2630121,DO9JOC,Franke Freudenberg,Franke,NW,DEU,263,DMR
 2630122,DO8JKH,Klauer Ebensfeld,Klauer,BY,DEU,263,DMR
-2630123,DG0LFL, Dessau-Rosslau,,ST,DEU,263,DMR
+2630123,DG0LFL,Lindemann Dessau-Rosslau,Lindemann,ST,DEU,263,DMR
 2630124,DO2BOS,Schmitt Leichlingen,Schmitt,NW,DEU,263,DMR
 2630125,DF9RC,Christl Steinfeld,Christl,BY,DEU,263,DMR
 2630126,DO1MML,Lindeburg Aurich,Lindeburg,NI,DEU,263,DMR
@@ -13909,6 +13918,40 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2630398,DO1PH,Hartwich Berlin,Hartwich,BE,DEU,263,DMR
 2630399,DO9JP,Puder Stuttgart,Puder,BW,DEU,263,DMR
 2630400,DL1ADW,Medick Bayreuth,Medick,BY,DEU,263,DMR
+2630401,DL1MAG,Gruenewald Neuhemsbach,Gruenewald,RP,DEU,263,DMR
+2630402,DL1YUS,Schaefer Luedenscheid,Schaefer,NW,DEU,263,DMR
+2630403,DO2AK,Krueger Berlin,Krueger,BE,DEU,263,DMR
+2630404,DL9MPE,Eschbach Oldenburg,Eschbach,NI,DEU,263,DMR
+2630405,DO7SFT,Foerster Duesseldorf,Foerster,NW,DEU,263,DMR
+2630406,DM1MG,Gardill Bamberg,Gardill,BY,DEU,263,DMR
+2630407,DL6JN,Johannsen Schleswig,Johannsen,SH,DEU,263,DMR
+2630408,DL4GAK,Krocker Boehl-Iggelheim,Krocker,RP,DEU,263,DMR
+2630409,DO1KEF,Albrecht Lohmar,Albrecht,NW,DEU,263,DMR
+2630410,DL1ABF,Gadow Langenhagen,Gadow,NI,DEU,263,DMR
+2630411,DB5ZF,Teske Oberursel,Teske,HE,DEU,263,DMR
+2630412,DO1QL,Muench Quedlinburg,Muench,ST,DEU,263,DMR
+2630413,DO1PRM,Mai Marzling,Mai,BY,DEU,263,DMR
+2630414,DB3MR,Radoch Grevesmuehlen,Radoch,MV,DEU,263,DMR
+2630415,DO2AHW,Wehr Goettingen,Wehr,NI,DEU,263,DMR
+2630416,DM3JT,Jatzkowski Nienburg,Jatzkowski,NI,DEU,263,DMR
+2630417,DO3MAC,Ackermann Ennepetal,Ackermann,NW,DEU,263,DMR
+2630418,DG9SCW,Zimmermann Herbrechtingen,Zimmermann,BW,DEU,263,DMR
+2630419,DK7AC,Potyka Braunschweig,Potyka,NI,DEU,263,DMR
+2630420,DM2DLG,Falk Bad Doberan,Falk,MV,DEU,263,DMR
+2630421,DM4KW,Wrzalik Hemsbach,Wrzalik,BW,DEU,263,DMR
+2630422,DO3MSW,Walden Sinzig St Westum,Walden,RP,DEU,263,DMR
+2630423,DF1ASH,Hey Potsdam,Hey,BB,DEU,263,DMR
+2630424,DL1ISS,Stadler Bautzen,Stadler,SN,DEU,263,DMR
+2630425,DO8JMT,Toegel Massbach,Toegel,BY,DEU,263,DMR
+2630426,DG3FA,Abel Frankfurt,Abel,HE,DEU,263,DMR
+2630427,DC7LN,Kunz Berlin,Kunz,BE,DEU,263,DMR
+2630428,DG4NEU,Braun Aschaffenburg,Braun,BY,DEU,263,DMR
+2630429,DL7VTW,Winkelbauer Wustrau-Altfriesack,Winkelbauer,BB,DEU,263,DMR
+2630430,DK2AD,Dong Moerfelden-Walldorf,Dong,HE,DEU,263,DMR
+2630431,DO1FAS,Ferber Gunzenhausen,Ferber,BY,DEU,263,DMR
+2630432,DO6LC,Choinowski Muelheim,Choinowski,NW,DEU,263,DMR
+2630433,DK0SM,H35 Hannover,H35,NI,DEU,263,DMR
+2630434,DO1SWO,Schlabschi Esslingen,Schlabschi,BW,DEU,263,DMR
 2633001,DG4AK,Wich Hann. Muenden,Wich,NI,DEU,263,DMR
 2633002,DH8AAA,Bastian Vechelde,Bastian,NI,DEU,263,DMR
 2633003,DC6BV,Schucht Norden,Schucht,NI,DEU,263,DMR
