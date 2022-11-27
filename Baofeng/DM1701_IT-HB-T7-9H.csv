@@ -8702,7 +8702,7 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2228725,IU8JYE, Riardo (CE),,Campania,ITA,222,DMR
 2228726,IU8LMN,Prisco Somma Vesuviana (NA),Prisco,Campania,ITA,222,DMR
 2228727,IW8EZV,Vespe Pompei (NA),Vespe,Campania,ITA,222,DMR
-2228728,IU8NGO, Castel Volturno (CE),,Campania,ITA,222,DMR
+2228728,IU8NGO,Ferrillo Castel Volturno (CE),Ferrillo,Campania,ITA,222,DMR
 2228729,IU8LPU,Scudellaro Sant Arpino (CE),Scudellaro,Campania,ITA,222,DMR
 2228730,IZ8XJI, San Nicola La Strada (CE),,Campania,ITA,222,DMR
 2228731,IU8JSP,Mazzon Sarno (SA),Mazzon,Campania,ITA,222,DMR
@@ -10004,12 +10004,27 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2230030,IZ4ZAL,Antonacci Monticelli D Ongina (PC),Antonacci,Emilia-Rom.,ITA,223,DMR
 2230031,IU2MZK,Sanarica Caselle Landi (LO),Sanarica,Lombardia,ITA,223,DMR
 2230032,IK1XIC,Sciatti Torino (TO),Sciatti,Piemonte,ITA,223,DMR
-2230033,IU7RAL,D Ippolito Taranto (RA),D Ippolito,Emilia-Rom.,ITA,223,DMR
+2230033,IU7RAL,D Ippolito Taranto (TA),D Ippolito,Puglia,ITA,223,DMR
 2230034,IU4QQE,Gozzi Santarcangelo Di Romagna (RN),Gozzi,Emilia-Rom.,ITA,223,DMR
 2230035,IR8UDK,Frontera Lamezia Terme (CZ),Frontera,Calabria,ITA,223,DMR
 2230036,IW2CXJ,Orsenigo Como (CO),Orsenigo,Lombardia,ITA,223,DMR
 2230037,IZ1TNG,Brusco Alba (CN),Brusco,Piemonte,ITA,223,DMR
 2230038,IW8FBR,Pacelli Guardia Sanframondi (BN),Pacelli,Campania,ITA,223,DMR
+2230039,IV3IKL,Calabro San Giovanni Al Natisone (UD),Calabro,Friuli VG,ITA,223,DMR
+2230040,IU0INR,Sabatini Trevignano Romano (RM),Sabatini,Lazio,ITA,223,DMR
+2230041,IT9EVM,Giobbe Castelvetrano (TP),Giobbe,Sicilia,ITA,223,DMR
+2230042,IT9XDU,Lino Ribera (AG),Lino,Sicilia,ITA,223,DMR
+2230043,IK1QFT,Valori Moncalieri (TO),Valori,Piemonte,ITA,223,DMR
+2230044,IW0HOS,Sangiorgi Terracina (LT),Sangiorgi,Lazio,ITA,223,DMR
+2230045,IZ4WKO,Olivetti Santa Sofia (FC),Olivetti,Emilia-Rom.,ITA,223,DMR
+2230046,I2OFF,Foti Milano (MI),Foti,Lombardia,ITA,223,DMR
+2230047,IZ5PHM,Galeno Empoli (FI),Galeno,Toscana,ITA,223,DMR
+2230048,IW0EAR,Moretti Roma (RM),Moretti,Lazio,ITA,223,DMR
+2230049,IS0ANT,Carboni Muros (SS),Carboni,Sardegna,ITA,223,DMR
+2230050,IS0BPX,Castronovo Alghero (SS),Castronovo,Sardegna,ITA,223,DMR
+2230051,IK0JKA,Tuderti Cisterna Di Latina (LT),Tuderti,Lazio,ITA,223,DMR
+2230052,IW3IHD,Baldanello Casier (TV),Baldanello,Veneto,ITA,223,DMR
+2230053,IZ4IVK,Monari Bologna (BO),Monari,Emilia-Rom.,ITA,223,DMR
 2280000,N0CALL, no_city,,Zuerich und Thurgau,CHE,228,DMR
 2280001,4U1ITU,Arc Geneva,Arc,No_regio,CHE,228,DMR
 2280002,HB3XWO,Becker Basel,Becker,No_regio,CHE,228,DMR
@@ -10237,6 +10252,10 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2280225,HB3XBY,Oberli Kreuzlingen,Oberli,Thurgau,CHE,228,DMR
 2280226,HB9LFU,Maeder Spreitenbach,Maeder,Aargau,CHE,228,DMR
 2280227,HB9CFJ,Julius Seedorf,Julius,Bern,CHE,228,DMR
+2280228,HB9HTX,Link Zurich,Link,Zurich,CHE,228,DMR
+2280229,HB3XAO,Savoy Suscevaz,Savoy,,CHE,228,DMR
+2280230,HB3XBZ,Kaufmann Zuerich,Kaufmann,Zurich,CHE,228,DMR
+2280231,HB9HTV,Laett Bremgarten,Laett,Aargau,CHE,228,DMR
 2281001,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281002,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
 2281003,HB3YNV, Saint-Cergue,,Waadt,CHE,228,DMR
@@ -11894,3 +11913,5 @@ Radio ID,Callsign,Name,Nickname,City,State,Country,Remarks
 2920022,T77MM,Montanari 47895 Republic Of San Marino,Montanari,No_regio,SMR,292,DMR
 2920023,T77LA,Leopoldi Acquaviva,Leopoldi,All Regions,SMR,292,DMR
 2920024,T77PF,Falcioni San Marino,Falcioni,All Regions,SMR,292,DMR
+2920025,T77AZ,Canosa San Marino,Canosa,All Regions,SMR,292,DMR
+2920026,T72MS,Sandri San Marino,Sandri,All Regions,SMR,292,DMR

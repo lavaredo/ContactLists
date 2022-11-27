@@ -2,7 +2,6 @@ Call Type,Contacts Alias,City,Province,Country,Call ID
 Private Call,VE3THW Wayne Edward,Toronto,Ontario,CAN,1023001
 Private Call,VA3ECM Mathieu Goulet,Ottawa Hull,Ontario,CAN,1023002
 Private Call,VE3QC Guy Charron,Gloucester,Ontario,CAN,1023003
-Private Call,VA3UZ Allan Harvey,Sparta,Ontario,CAN,1023006
 Private Call,VA3BOC Hans Bockholt,Cornwall,Ontario,CAN,1023007
 Private Call,VE3JMR Mark Robinson,Niagara Falls,Ontario,CAN,1023008
 Private Call,VA3AMO Rolando Parto,Scarborough,Ontario,CAN,1023009
@@ -701,6 +700,7 @@ Private Call,ON6QR Fred Cooremans,B 1850 Grimbergen,Vlaams Brabant,BEL,2060556
 Private Call,ON3DVP Sergei Gontcharenko,Roeselare,,BEL,2060557
 Private Call,ON5VL Uba-Lge Lge,Seraing,Liege,BEL,2060558
 Private Call,ON3PAT Patrick Moonen,Oud Turnhout,Antwerp,BEL,2060559
+Private Call,ON1PLC Karol Przespolewski,Antwerp,Antwerp,BEL,2060560
 Private Call,ON8SVH Stijn Hende,Oudenaarde,Oost-Vlaanderen,BEL,2061001
 Private Call,ON8SI Simon Pauw,Oosterzele,Oost-Vlaanderen,BEL,2061002
 Private Call,ON5LUC Luc Lourense,Gent,Oost-Vlaanderen,BEL,2061003
@@ -2755,6 +2755,7 @@ Private Call,F4VVH Luis Camarasa,Rosenau,Grand Est,FRA,2080967
 Private Call,F0CZB Cedric Serre,La Saulce,Provence-Alpes-Cote D Azur,FRA,2080968
 Private Call,F4ILJ Jona Joachim,Bois-Colombes,No_regio,FRA,2080969
 Private Call,F4JGG Jean Muck,France,Grand Est,FRA,2080970
+Private Call,F4JFO Yannick Goyon,Saint Alyre E S Montagnes,Auvergne-Rhone-Alpes,FRA,2080971
 Private Call,F4KMK Radio Velay,Saint Etienne Lardeyrol,Auvergne-Rhone-Alpes,FRA,2080972
 Private Call,F4JGV Yves Fougere,Bordeaux,Nouvelle-Aquitaine,FRA,2080973
 Private Call,F4JBB Hugues Gybely,Balaruc Le Vieux,Occitanie,FRA,2080974
@@ -3066,6 +3067,12 @@ Private Call,F4VVO Bernhard Isemann,Paris,,FRA,2081279
 Private Call,F4GVN Christophe Migeon,Saint-Germain-En-Laye,,FRA,2081280
 Private Call,F1PHC Jean Martin,Baigts De Bearn,Nouvelle-Aquitaine,FRA,2081281
 Private Call,F4JQU Fabrice V,Simard,Bourgogne-Franche-Comte,FRA,2081282
+Private Call,F4JQR Paul Salis,St Marcel Les Vce,Auvergne-Rhone-Alpes,FRA,2081283
+Private Call,F4JRW Cyril Bon,Anglet,Nouvelle-Aquitaine,FRA,2081284
+Private Call,F4JRD Remi Lescure,Le Palais,Bretagne,FRA,2081285
+Private Call,F4JRU Mickael Barbosa,Sautron,Pays De La Loire,FRA,2081286
+Private Call,F4JRM Adrien Breton,Sainte Luce Sur Loire,Pays De La Loire,FRA,2081287
+Private Call,F4JQW Vincent Hallaert,Saint-Georges-Les-Baillargeaux,Nouvelle-Aquitaine,FRA,2081288
 Private Call,F4JBM Francois ,Saint-Cloud,,FRA,2081777
 Private Call,F4FUL Cyril Teitler,Sciez,Rhone-Alpes,FRA,2082001
 Private Call,F5VIN Heiko Damerau,Thoiry,Rhone-Alpes,FRA,2082002
@@ -4759,6 +4766,10 @@ Private Call,HB9ESD Daniel Boog,Ebikon  Ch   6030,Lucerne,CHE,2280224
 Private Call,HB3XBY Simon Oberli,Kreuzlingen,Thurgau,CHE,2280225
 Private Call,HB9LFU Roger Maeder,Spreitenbach,Aargau,CHE,2280226
 Private Call,HB9CFJ Giulio Julius,Seedorf,Bern,CHE,2280227
+Private Call,HB9HTX Norman Link,Zurich,Zurich,CHE,2280228
+Private Call,HB3XAO Jean Savoy,Suscevaz,,CHE,2280229
+Private Call,HB3XBZ Hendrikus Kaufmann,Zuerich,Zurich,CHE,2280230
+Private Call,HB9HTV Valentin Laett,Bremgarten,Aargau,CHE,2280231
 Private Call,HB3YNV Cedric ,Saint-Cergue,Waadt,CHE,2281001
 Private Call,HB3YNV Cedric ,Saint-Cergue,Waadt,CHE,2281002
 Private Call,HB3YNV Cedric ,Saint-Cergue,Waadt,CHE,2281003
@@ -8480,7 +8491,7 @@ Private Call,VA2RDK Robert Smith,Sept-Iles,Quebec,CAN,3022168
 Private Call,VE2YMM Yves Martin,Montreal,Quebec,CAN,3022169
 Private Call,VA2KOS Daniel Dintino,Mirabel,Quebec,CAN,3022170
 Private Call,VE2HOM Pascal Lafond,Saint-Ambroise-De-Ki,Quebec,CAN,3022171
-Private Call,VE2KJ Erick Rivest,Saint-Constant,Quebec,CAN,3022172
+Private Call,VE2HM Erick Rivest,Saint-Constant,Quebec,CAN,3022172
 Private Call,VA2ASP Pascal Asselin,St-Hyacinthe,Quebec,CAN,3022173
 Private Call,VE2SL Guy Bedard,Otterburn Park,Quebec,CAN,3022174
 Private Call,VE2CED Jean Gervais,Brossard,Quebec,CAN,3022175
@@ -8528,7 +8539,7 @@ Private Call,VA2SUP Daniel Goodale,Beaconsfield,Quebec,CAN,3022216
 Private Call,VE2UQ Alain Campbell,Monreal,Quebec,CAN,3022217
 Private Call,VE2BQA Martin Arsenault,Rimouski,Quebec,CAN,3022218
 Private Call,VA2BQ Martin Arsenault,Rimouski,Quebec,CAN,3022219
-Private Call,VE2KJ Erick Rivest,Saint Constant,Quebec,CAN,3022220
+Private Call,VE2HM Erick Rivest,Saint-Constant,Quebec,CAN,3022220
 Private Call,VA2USB Michel Gailloux,Sorel Tracy,Quebec,CAN,3022221
 Private Call,VA2JN Jean Drolet,St Colomban,Quebec,CAN,3022222
 Private Call,VA2HU Krzysztof Kochanek,Lasalle,Quebec,CAN,3022223
@@ -11424,6 +11435,12 @@ Private Call,VE2MLV Mario Cabana,Bromont,Quebec,CAN,3025138
 Private Call,VA3OSV Oscar Vicente,Leamington,Ontario,CAN,3025139
 Private Call,VE6GSD Douglas Perrault,Calgary,Alberta,CAN,3025140
 Private Call,VA2AMU Albert Mougeot,Gatineau,Quebec,CAN,3025141
+Private Call,VE7RJC Robert Coleman,New Westminster,British Columbia,CAN,3025142
+Private Call,VE7DSD Earling Leer,Dawson Creek,British Columbia,CAN,3025143
+Private Call,VE3TFZ Lee Goldberg,Sarnia,Ontario,CAN,3025144
+Private Call,VA3DCQ Christopher Power,Sarnia,Ontario,CAN,3025145
+Private Call,VA3RRP Rene Paquin,Elmira,Ontario,CAN,3025146
+Private Call,VE3DBA Marc Russell,London,Ontario,CAN,3025147
 Private Call,VA6IP Kiernan Burr,Edmonton,Alberta,CAN,3026001
 Private Call,VE6GG Kerry Atkinson,Edmonton,Alberta,CAN,3026002
 Private Call,VE6GG Kerry Atkinson,Edmonton,Alberta,CAN,3026003

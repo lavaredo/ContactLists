@@ -1,7 +1,6 @@
 1023001,VE3THW,Edward Toronto,Ontario,CAN,102
 1023002,VA3ECM,Goulet Ottawa Hull,Ontario,CAN,102
 1023003,VE3QC,Charron Gloucester,Ontario,CAN,102
-1023006,VA3UZ,Harvey Sparta,Ontario,CAN,102
 1023007,VA3BOC,Bockholt Cornwall,Ontario,CAN,102
 1023008,VE3JMR,Robinson Niagara Falls,Ontario,CAN,102
 1023009,VA3AMO,Parto Scarborough,Ontario,CAN,102
@@ -700,6 +699,7 @@
 2060557,ON3DVP,Gontcharenko Roeselare,,BEL,206
 2060558,ON5VL,Lge Seraing,Liege,BEL,206
 2060559,ON3PAT,Moonen Oud Turnhout,Antwerp,BEL,206
+2060560,ON1PLC,Przespolewski Antwerp,Antwerp,BEL,206
 2061001,ON8SVH,Hende Oudenaarde,Oost-Vlaanderen,BEL,206
 2061002,ON8SI,Pauw Oosterzele,Oost-Vlaanderen,BEL,206
 2061003,ON5LUC,Lourense Gent,Oost-Vlaanderen,BEL,206
@@ -2754,6 +2754,7 @@
 2080968,F0CZB,Serre La Saulce,Provence-Alpes-Cote D Azur,FRA,208
 2080969,F4ILJ,Joachim Bois-Colombes,No_regio,FRA,208
 2080970,F4JGG,Muck France,Grand Est,FRA,208
+2080971,F4JFO,Goyon Saint Alyre E S Montagnes,Auvergne-Rhone-Alpes,FRA,208
 2080972,F4KMK,Velay Saint Etienne Lardeyrol,Auvergne-Rhone-Alpes,FRA,208
 2080973,F4JGV,Fougere Bordeaux,Nouvelle-Aquitaine,FRA,208
 2080974,F4JBB,Gybely Balaruc Le Vieux,Occitanie,FRA,208
@@ -3065,6 +3066,12 @@
 2081280,F4GVN,Migeon Saint-Germain-En-Laye,,FRA,208
 2081281,F1PHC,Martin Baigts De Bearn,Nouvelle-Aquitaine,FRA,208
 2081282,F4JQU,V Simard,Bourgogne-Franche-Comte,FRA,208
+2081283,F4JQR,Salis St Marcel Les Vce,Auvergne-Rhone-Alpes,FRA,208
+2081284,F4JRW,Bon Anglet,Nouvelle-Aquitaine,FRA,208
+2081285,F4JRD,Lescure Le Palais,Bretagne,FRA,208
+2081286,F4JRU,Barbosa Sautron,Pays De La Loire,FRA,208
+2081287,F4JRM,Breton Sainte Luce Sur Loire,Pays De La Loire,FRA,208
+2081288,F4JQW,Hallaert Saint-Georges-Les-Baillargeaux,Nouvelle-Aquitaine,FRA,208
 2081777,F4JBM, Saint-Cloud,,FRA,208
 2082001,F4FUL,Teitler Sciez,Rhone-Alpes,FRA,208
 2082002,F5VIN,Damerau Thoiry,Rhone-Alpes,FRA,208
@@ -4758,6 +4765,10 @@
 2280225,HB3XBY,Oberli Kreuzlingen,Thurgau,CHE,228
 2280226,HB9LFU,Maeder Spreitenbach,Aargau,CHE,228
 2280227,HB9CFJ,Julius Seedorf,Bern,CHE,228
+2280228,HB9HTX,Link Zurich,Zurich,CHE,228
+2280229,HB3XAO,Savoy Suscevaz,,CHE,228
+2280230,HB3XBZ,Kaufmann Zuerich,Zurich,CHE,228
+2280231,HB9HTV,Laett Bremgarten,Aargau,CHE,228
 2281001,HB3YNV, Saint-Cergue,Waadt,CHE,228
 2281002,HB3YNV, Saint-Cergue,Waadt,CHE,228
 2281003,HB3YNV, Saint-Cergue,Waadt,CHE,228
@@ -8479,7 +8490,7 @@
 3022169,VE2YMM,Martin Montreal,Quebec,CAN,302
 3022170,VA2KOS,Dintino Mirabel,Quebec,CAN,302
 3022171,VE2HOM,Lafond Saint-Ambroise-De-Ki,Quebec,CAN,302
-3022172,VE2KJ,Rivest Saint-Constant,Quebec,CAN,302
+3022172,VE2HM,Rivest Saint-Constant,Quebec,CAN,302
 3022173,VA2ASP,Asselin St-Hyacinthe,Quebec,CAN,302
 3022174,VE2SL,Bedard Otterburn Park,Quebec,CAN,302
 3022175,VE2CED,Gervais Brossard,Quebec,CAN,302
@@ -8527,7 +8538,7 @@
 3022217,VE2UQ,Campbell Monreal,Quebec,CAN,302
 3022218,VE2BQA,Arsenault Rimouski,Quebec,CAN,302
 3022219,VA2BQ,Arsenault Rimouski,Quebec,CAN,302
-3022220,VE2KJ,Rivest Saint Constant,Quebec,CAN,302
+3022220,VE2HM,Rivest Saint-Constant,Quebec,CAN,302
 3022221,VA2USB,Gailloux Sorel Tracy,Quebec,CAN,302
 3022222,VA2JN,Drolet St Colomban,Quebec,CAN,302
 3022223,VA2HU,Kochanek Lasalle,Quebec,CAN,302
@@ -11423,6 +11434,12 @@
 3025139,VA3OSV,Vicente Leamington,Ontario,CAN,302
 3025140,VE6GSD,Perrault Calgary,Alberta,CAN,302
 3025141,VA2AMU,Mougeot Gatineau,Quebec,CAN,302
+3025142,VE7RJC,Coleman New Westminster,British Columbia,CAN,302
+3025143,VE7DSD,Leer Dawson Creek,British Columbia,CAN,302
+3025144,VE3TFZ,Goldberg Sarnia,Ontario,CAN,302
+3025145,VA3DCQ,Power Sarnia,Ontario,CAN,302
+3025146,VA3RRP,Paquin Elmira,Ontario,CAN,302
+3025147,VE3DBA,Russell London,Ontario,CAN,302
 3026001,VA6IP,Burr Edmonton,Alberta,CAN,302
 3026002,VE6GG,Atkinson Edmonton,Alberta,CAN,302
 3026003,VE6GG,Atkinson Edmonton,Alberta,CAN,302
